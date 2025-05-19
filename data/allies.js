@@ -1,0 +1,74 @@
+[
+  {
+    "name": "zeepurah",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-zeepurah-front.png",
+    "xws": "zeepurah",
+    "cardno": "A-012",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "zeepurah",
+    "points": 1,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-zeepurah-back.png",
+    "xws": "zeepurah",
+    "cardno": "A-012",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "kelo",
+    "points": 2,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-kelo-front.png",
+    "xws": "kelo",
+    "cardno": "A-013",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "saras",
+    "points": 3,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-saras-back.png",
+    "xws": "saras",
+    "cardno": "A-013",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "ozendyn",
+    "points": 4,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-ozendyn-front-1.png",
+    "xws": "ozendyn",
+    "cardno": "A-014",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "ozendyn",
+    "points": 5,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-ozendyn-back-1.png",
+    "xws": "ozendyn",
+    "cardno": "A-014",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "ozendyn",
+    "points": 6,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-ozendyn-front-2.png",
+    "xws": "ozendyn",
+    "cardno": "A-015",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "ozendyn",
+    "points": 7,
+    "expansion": "Rove",
+    "image": "classes/rove/core/rv-ozendyn-back-2.png",
+    "xws": "ozendyn",
+    "cardno": "A-015",
+    "allies-xws": "allies"
+  }
+]
