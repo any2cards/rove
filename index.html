@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>RCV Card Viewer - Test Page</title>
+		<meta charset="utf-8">
+		<!--
+		<script src="https://code.jquery.com/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		-->
+		<script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+		<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/font-awesome.min.css" -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<style>
+			.cdcRed {
+				color:red;
+			}
+			.accordion {
+				padding-left: 40px;
+			}
+			h1 .fa, h2 .fa, h3 .fa, h4 .fa {
+				font-size: 10px;
+			}
+			.textzone {
+				//to be used for custom display of the text;
+				padding-left: 40px;
+			}
+			.title {
+				top: 0;
+				left: 0;
+				position: fixed;
+				font-size: 10px;
+				padding: 5px;
+				margin: 5px 0 0 5px;
+				border-radius: 5px;
+				text-align: center;
+				border: 1px solid #9999ff;
+				background-color: #dddddd;
+			}
+			.table-padded td {
+				padding: 0px 20px 0px 30px;
+			}
+			.td-bu {
+				font-weight: bold;
+				Text-decoration: underline;
+			}
+		</style>
+
+		<script>
+			// at statup hide all
+			function Initialize(){
+				var $accordionIO = $('.accordion h1, h2, h3, h4');
+				$accordionIO.next('div').hide();
+
+				$(".accordion h1, h2, h3, h4").click(function() {
+					//catch icon to switch from + to - and the opposite
+					var Icon = $(this).children().first();
+
+					//catch zone do expand collapse
+					var Linkedtextzone = $(this).next();
+
+					if (Icon.hasClass('fa-plus')) {
+						//switch icon from + to -
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+						//expand text Zone
+						Linkedtextzone.slideDown();
+					}
+					else {
+						//switch icon from - to +
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+						//collapse text Zone
+						Linkedtextzone.slideUp();
+					}
+				})
+				$(".title").click(function() {
+					var Icon = $(this).children().first();
+					var $Alltextzones = $('.accordion h1, h2, h3, h4');
+					if (Icon.hasClass('fa-minus')) {
+						//switch all icons from + to -
+						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+
+						//expand all
+						$Alltextzones.next('div').slideDown();
+					}
+					else {
+						//switch all icons from - to +
+						$('.fa-minus').removeClass('fa-minus').addClass('fa-plus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+
+						//collapse all
+						$Alltextzones.next('div').slideUp();
+					}
+				})
+			}
+		</script>
+	</head>
+
+	<body onload="Initialize()">
+		<div class="title">
+			<i class="fa fa-minus"></i>
+			<br />
+			to All
+		</div>
+
+        <h1 align="center"> Rove Card Viewer - Test Page</h1>
+        <h1 align="center"> (Supports Rove Base Game & Xulc Expansion)</h1>
+        <h1 align="center" class="cdcRed"> 		Community Driven Content: Entire Sections or Individual Entries Appear in RED Text </h1>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Part 1: Completely Spoiler Free </h1>
+			<div class="textzone">
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Allies </h1>
+					<div class="textzone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Core </h2>
+							<div class="textzone">
+								<table class="table-padded">
+									<tr><td>Kelo | A-013</td><td>Ozendyn | A-014 | A-015</td><td>Saras | A-013</td><td>Zeepurah | A-012</td></tr>
+								</table>
+							</div>
+							<h2><i class="fa fa-plus"></i> Xulc </h2>
+							<div class="textzone">
+								<table class="table-padded">
+									<tr><td>Hra | A-024</td></tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Part 2: Everything Spoiled </h1>
+			<div class="textzone">
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Allies </h1>
+					<div class="textzone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Core </h2>
+							<div class="textzone">
+								<table class="table-padded">
+									<tr><td>Kelo | A-013</td><td>Ozendyn | A-014 | A-015</td><td>Saras | A-013</td><td>Zeepurah | A-012</td></tr>
+								</table>
+							</div>
+							<h2><i class="fa fa-plus"></i> Xulc </h2>
+							<div class="textzone">
+								<table class="table-padded">
+									<tr><td>Hra | A-024</td></tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Bottom Page Bug Fixer </h1>
+			<div class="textzone">
+				<ul>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+				</ul>
+			</div>
+		</div>
+
+	</body>
+</html>
