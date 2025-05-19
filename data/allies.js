@@ -70,5 +70,23 @@
     "xws": "ozendyn",
     "cardno": "A-015",
     "allies-xws": "allies"
+  },
+  {
+    "name": "hra",
+    "points": 8,
+    "expansion": "Rove",
+    "image": "classes/rove/xulc/rv-hra-front.png",
+    "xws": "hra",
+    "cardno": "A-024",
+    "allies-xws": "allies"
+  },
+  {
+    "name": "hra",
+    "points": 9,
+    "expansion": "Rove",
+    "image": "classes/rove/xulc/rv-hra-back.png",
+    "xws": "hra",
+    "cardno": "A-024",
+    "allies-xws": "allies"
   }
 ]
