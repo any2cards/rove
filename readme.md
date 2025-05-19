@@ -14,8 +14,11 @@ This repository contains data and images for the following games and components:
 - Rove
 
 **Assets:**
+- allies
 - art
 - classes
+- items
+- profile-boards
 
 There are three top-level directories; `data` , `images` , and `xwc`.
 
