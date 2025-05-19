@@ -1,0 +1,48 @@
+{
+	"manifest_version": 3,
+	"name": "Rove Asset Viewer",
+	"description": "Display Rove Game Assets",
+	"version": "0.1.0",
+	"web_accessible_resources": [
+		{
+			"resources": [ "icon-32.png" ],
+			"matches": [ "<all_urls>" ]
+		}
+	],
+	"content_scripts": [{
+		"matches": [
+			"*://localhost/rove/*",
+			"*://*.boardgamegeek.com/*",
+			"*://any2cards.github.io/rove/*"
+		],
+		"js": [
+			"content.js"
+		],
+		"css": [
+			"content.css"
+		],
+		"run_at": "document_idle"
+	}],
+	"permissions": [
+		"storage"
+	],
+	"host_permissions": [
+		"http://localhost/rove/*",
+		"https://raw.githubusercontent.com/*"
+	],
+	"background": {
+		"service_worker": "background.js"
+	},
+	"icons": {
+		"32": "icon-32.png"
+	},
+	"action": {
+		"default_title": "Rove Asset Viewer Options",
+		"default_popup": "popup.html",
+		"default_icon": {
+			"32": "icon-32.png",
+			"48": "icon-48.png",
+			"128": "icon-128.png"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<p>Select Games / Expansions / Assets:</p>
+		<div class="top">
+			<div>
+				<details id="rv-details">
+					<summary><input type="checkbox" id="rv" value="rv">
+						<label for="rv">Rove</label><br>
+					</summary>
+					<div class="indent">
+						<details id="ag-details">
+							<summary><input type="checkbox" id="ag" value="ag">
+								<label for="ag">Addax Games Official Content</label><br>
+							</summary>
+							<div class="indent">
+								<details id="co-details">
+									<summary><input type="checkbox" id="co" value="co">
+										<label for="co">Core</label><br>
+									</summary>
+									<div class="indent">
+										<input type="checkbox" id="co-allies" value="co-allies">
+										<label for="co-allies">Allies</label><br>
+									</div>
+								</details>
+							</div>
+						</details>
+					</div>
+				</details>
+			</div>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>
