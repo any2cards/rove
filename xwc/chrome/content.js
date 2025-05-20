@@ -8,8 +8,8 @@ var expansion_conversion = {
 
 var expansion_card_type = {}
 
-// const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/rove/master';
-const repoBaseUrl = 'http://localhost/rove';
+const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/rove/master';
+// const repoBaseUrl = 'http://localhost/rove';
 const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
 
