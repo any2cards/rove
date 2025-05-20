@@ -114,7 +114,7 @@ const inputChange = async (evt) => {
 			}
 			topInput.checked = true;
 			target = topInput;
-			if (topInput.id == "rv") {
+			if (topInput.id == "ag") {
 				break;
 			}
 		}

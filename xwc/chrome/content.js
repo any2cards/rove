@@ -8,8 +8,8 @@ var expansion_conversion = {
 
 var expansion_card_type = {}
 
-const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/rove/master';
-// const repoBaseUrl = 'http://localhost/rove';
+// const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/rove/master';
+const repoBaseUrl = 'http://localhost/rove';
 const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
 
@@ -166,10 +166,11 @@ function loadFromStorage() {
 	// Establish a default value for the extension in case storage is empty and/or this is the first time it is used
 	// These values are in the Checkbox ID order for popup.html
 	var extdefault = {
-		"rv": true,
 		"ag": true,
-		"co": true,
-		"co-allies": true
+		"rv": true,
+		"rv-allies": true,
+		"rv-classes": true,
+		"rv-profile-boards": true
 	}
 
 	chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {
@@ -442,7 +443,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 
 function mutationGetData(mutations) {
 	// Update just the elements that were added, and their children, except the
-	// ones added by WAV.
+	// ones added by RAV.
 	mutations
 		.filter((m) => m.type === "childList")
 		.flatMap((m) => Array.from(m.addedNodes.values()))
