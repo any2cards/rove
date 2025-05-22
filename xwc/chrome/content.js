@@ -1,5 +1,7 @@
 var files = [
 	'allies.js',
+	'classes.js',
+	'profile-boards.js',
 ];
 
 var expansion_conversion = {
