@@ -3616,19 +3616,19 @@
     "cardno": "s-168"
   },
   {
-    "name": "sudden debtate",
+    "name": "sudden debate",
     "points": 452,
     "expansion": "Rove",
-    "image": "classes/rove/core/sophist/rv-sudden-debtate.png",
-    "xws": "suddendebtate",
+    "image": "classes/rove/core/sophist/rv-sudden-debate.png",
+    "xws": "suddendebate",
     "cardno": "s-174"
   },
   {
     "name": "s-174",
     "points": 453,
     "expansion": "Rove",
-    "image": "classes/rove/core/sophist/rv-sudden-debtate.png",
-    "xws": "suddendebtate",
+    "image": "classes/rove/core/sophist/rv-sudden-debate.png",
+    "xws": "suddendebate",
     "cardno": "s-174"
   },
   {
@@ -6880,19 +6880,19 @@
     "cardno": "s-332"
   },
   {
-    "name": "skrieking hail",
+    "name": "shrieking hail",
     "points": 860,
     "expansion": "Rove",
-    "image": "classes/rove/xulc/vesper-sharpshot/rv-skrieking-hail.png",
-    "xws": "skriekinghail",
+    "image": "classes/rove/xulc/vesper-sharpshot/rv-shrieking-hail.png",
+    "xws": "shriekinghail",
     "cardno": "s-344"
   },
   {
     "name": "s-344",
     "points": 861,
     "expansion": "Rove",
-    "image": "classes/rove/xulc/vesper-sharpshot/rv-skrieking-hail.png",
-    "xws": "skriekinghail",
+    "image": "classes/rove/xulc/vesper-sharpshot/rv-shrieking-hail.png",
+    "xws": "shriekinghail",
     "cardno": "s-344"
   },
   {
@@ -7120,19 +7120,19 @@
     "cardno": "s-280"
   },
   {
-    "name": "slipstream furry",
+    "name": "slipstream flurry",
     "points": 890,
     "expansion": "Rove",
-    "image": "classes/rove/xulc/wellspring-ewer/rv-slipstream-furry.png",
-    "xws": "slipstreamfurry",
+    "image": "classes/rove/xulc/wellspring-ewer/rv-slipstream-flurry.png",
+    "xws": "slipstreamflurry",
     "cardno": "s-285"
   },
   {
     "name": "s-285",
     "points": 891,
     "expansion": "Rove",
-    "image": "classes/rove/xulc/wellspring-ewer/rv-slipstream-furry.png",
-    "xws": "slipstreamfurry",
+    "image": "classes/rove/xulc/wellspring-ewer/rv-slipstream-flurry.png",
+    "xws": "slipstreamflurry",
     "cardno": "s-285"
   },
   {
