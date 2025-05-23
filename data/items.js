@@ -1695,7 +1695,6 @@
     "xws": "quilledboots",
     "cardno": "i-120"
   },
-]
   {
     "name": "broken vessel shard",
     "points": 212,
