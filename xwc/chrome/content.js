@@ -1,6 +1,7 @@
 var files = [
 	'allies.js',
 	'classes.js',
+	'items.js',
 	'profile-boards.js',
 ];
 
@@ -171,6 +172,7 @@ function loadFromStorage() {
 		"rv": true,
 		"rv-allies": true,
 		"rv-classes": true,
+		"rv-items": true,
 		"rv-profile-boards": true
 	}
 
