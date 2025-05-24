@@ -1829,15 +1829,15 @@
     "expansion": "Rove",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-back.png",
     "xws": "glyphautonomosvertexback",
-    "cardno": "a-221"
+    "cardno": "i-221"
   },
   {
-    "name": "a-221",
+    "name": "i-221",
     "points": 229,
     "expansion": "Rove",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-back.png",
     "xws": "glyphautonomosvertexback",
-    "cardno": "a-221"
+    "cardno": "i-221"
   },
   {
     "name": "glyph-autonomos: vertex front",
@@ -1845,15 +1845,15 @@
     "expansion": "Rove",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-front.png",
     "xws": "glyphautonomosvertexfront",
-    "cardno": "a-221"
+    "cardno": "i-221"
   },
   {
-    "name": "a-221",
+    "name": "i-221",
     "points": 231,
     "expansion": "Rove",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-front.png",
     "xws": "glyphautonomosvertexfront",
-    "cardno": "a-221"
+    "cardno": "i-221"
   },
   {
     "name": "merchant level 2 consumables back",
