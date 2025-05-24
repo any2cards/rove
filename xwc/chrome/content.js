@@ -1,4 +1,5 @@
 var files = [
+	'abilities.js',
 	'allies.js',
 	'classes.js',
 	'items.js',
@@ -170,6 +171,7 @@ function loadFromStorage() {
 	var extdefault = {
 		"ag": true,
 		"rv": true,
+		"rv-abilities": true,
 		"rv-allies": true,
 		"rv-classes": true,
 		"rv-items": true,
