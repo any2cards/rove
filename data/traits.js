@@ -8,8 +8,24 @@
     "cardno": "c-###"
   },
   {
-    "name": "plasma approximation",
+    "name": "particle beam",
     "points": 1,
+    "expansion": "Rove",
+    "image": "traits/rove/core/aster/rv-particle-beam.png",
+    "xws": "particlebeam",
+    "cardno": "c-112"
+  },
+  {
+    "name": "c-112",
+    "points": 2,
+    "expansion": "Rove",
+    "image": "traits/rove/core/aster/rv-particle-beam.png",
+    "xws": "particlebeam",
+    "cardno": "c-112"
+  },
+  {
+    "name": "plasma approximation",
+    "points": 3,
     "expansion": "Rove",
     "image": "traits/rove/core/aster/rv-plasma-approximation.png",
     "xws": "plasmaapproximation",
@@ -17,27 +33,11 @@
   },
   {
     "name": "c-111",
-    "points": 2,
+    "points": 4,
     "expansion": "Rove",
     "image": "traits/rove/core/aster/rv-plasma-approximation.png",
     "xws": "plasmaapproximation",
     "cardno": "c-111"
-  },
-  {
-    "name": "solar particle beam",
-    "points": 3,
-    "expansion": "Rove",
-    "image": "traits/rove/core/aster/rv-solar-particle-beam.png",
-    "xws": "solarparticlebeam",
-    "cardno": "c-112"
-  },
-  {
-    "name": "c-112",
-    "points": 4,
-    "expansion": "Rove",
-    "image": "traits/rove/core/aster/rv-solar-particle-beam.png",
-    "xws": "solarparticlebeam",
-    "cardno": "c-112"
   },
   {
     "name": "stellar forging",
