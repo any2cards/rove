@@ -473,90 +473,15 @@
   },
   {
     "name": "c-127",
-  {
-    "name": " "p",
     "points": 59,
     "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "point",
-    "xws": ""p",
-    "cardno": "": 0,"
-  },
-  {
-    "name": "": 0,",
-    "points": 60,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "point",
-    "xws": ""p",
-    "cardno": "": 0,"
-  },
-  {
-    "name": " "expansion",
-    "points": 61,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "expansion": "",
-    "xws": ""expansion",
-    "cardno": "ove","
-  },
-  {
-    "name": "ove",",
-    "points": 62,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "expansion": "",
-    "xws": ""expansion",
-    "cardno": "ove","
-  },
-  {
-    "name": " "image": "traits/rove/core/toll bearer/rv seize the m",
-    "points": 63,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "image": "traits/rove/core/toll-bearer/rv-seize-the-means",
-    "xws": ""image":"traits/rove/core/tollbearer/rvseizethem",
-    "cardno": "png","
-  },
-  {
-    "name": "png",",
-    "points": 64,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "image": "traits/rove/core/toll-bearer/rv-seize-the-means",
-    "xws": ""image":"traits/rove/core/tollbearer/rvseizethem",
-    "cardno": "png","
-  },
-  {
-    "name": " "xws": "seize",
-    "points": 65,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "xws": "seizethem",
-    "xws": ""xws":"seize",
-    "cardno": "ans","
-  },
-  {
-    "name": "ans",",
-    "points": 66,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "xws": "seizethem",
-    "xws": ""xws":"seize",
-    "cardno": "ans","
-  },
-  {
-    "name": " "cardno",
-    "points": 67,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "cardno": "",
-    "xws": ""cardno",
-    "cardno": "-127""
-  },
-  {
-    "name": "-127"",
-    "points": 68,
-    "expansion": "Rove",
-    "image": "traits/rove/core/umbral-howl/rv- "cardno": "",
-    "xws": ""cardno",
-    "cardno": "-127""
-  },
+    "image": "traits/rove/core/toll-bearer/rv-seize-the-means.png",
+    "xws": "seizethemeans",
+    "cardno": "c-127"
   },
   {
     "name": "strategic resources",
-    "points": 69,
+    "points": 60,
     "expansion": "Rove",
     "image": "traits/rove/core/toll-bearer/rv-strategic-resources.png",
     "xws": "strategicresources",
@@ -564,7 +489,7 @@
   },
   {
     "name": "c-125",
-    "points": 70,
+    "points": 61,
     "expansion": "Rove",
     "image": "traits/rove/core/toll-bearer/rv-strategic-resources.png",
     "xws": "strategicresources",
@@ -572,7 +497,7 @@
   },
   {
     "name": "toll bearer trait back",
-    "points": 71,
+    "points": 62,
     "expansion": "Rove",
     "image": "traits/rove/core/toll-bearer/rv-toll-bearer-trait-back.png",
     "xws": "tollbearertraitback",
@@ -580,7 +505,7 @@
   },
   {
     "name": "draw from death",
-    "points": 72,
+    "points": 63,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-draw-from-death.png",
     "xws": "drawfromdeath",
@@ -588,7 +513,7 @@
   },
   {
     "name": "c-115",
-    "points": 73,
+    "points": 64,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-draw-from-death.png",
     "xws": "drawfromdeath",
@@ -596,7 +521,7 @@
   },
   {
     "name": "frenzied feeding",
-    "points": 74,
+    "points": 65,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-frenzied-feeding.png",
     "xws": "frenziedfeeding",
@@ -604,7 +529,7 @@
   },
   {
     "name": "c-114",
-    "points": 75,
+    "points": 66,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-frenzied-feeding.png",
     "xws": "frenziedfeeding",
@@ -612,7 +537,7 @@
   },
   {
     "name": "scent of blood",
-    "points": 76,
+    "points": 67,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-scent-of-blood.png",
     "xws": "scentofblood",
@@ -620,7 +545,7 @@
   },
   {
     "name": "c-113",
-    "points": 77,
+    "points": 68,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-scent-of-blood.png",
     "xws": "scentofblood",
@@ -628,7 +553,7 @@
   },
   {
     "name": "umbral howl trait back",
-    "points": 78,
+    "points": 69,
     "expansion": "Rove",
     "image": "traits/rove/core/umbral-howl/rv-umbral-howl-trait-back.png",
     "xws": "umbralhowltraitback",
@@ -636,7 +561,7 @@
   },
   {
     "name": "carry the one",
-    "points": 79,
+    "points": 70,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-carry-the-one.png",
     "xws": "carrytheone",
@@ -644,7 +569,7 @@
   },
   {
     "name": "c-149",
-    "points": 80,
+    "points": 71,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-carry-the-one.png",
     "xws": "carrytheone",
@@ -652,7 +577,7 @@
   },
   {
     "name": "essentialist trait back",
-    "points": 81,
+    "points": 72,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-essentialist-trait-back.png",
     "xws": "essentialisttraitback",
@@ -660,7 +585,7 @@
   },
   {
     "name": "substitution",
-    "points": 82,
+    "points": 73,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-substitution.png",
     "xws": "substitution",
@@ -668,7 +593,7 @@
   },
   {
     "name": "c-150",
-    "points": 83,
+    "points": 74,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-substitution.png",
     "xws": "substitution",
@@ -676,7 +601,7 @@
   },
   {
     "name": "wild card",
-    "points": 84,
+    "points": 75,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-wild-card.png",
     "xws": "wildcard",
@@ -684,7 +609,7 @@
   },
   {
     "name": "c-151",
-    "points": 85,
+    "points": 76,
     "expansion": "Rove",
     "image": "traits/rove/xulc/essentialist/rv-wild-card.png",
     "xws": "wildcard",
@@ -692,7 +617,7 @@
   },
   {
     "name": "fierce ransomer trait back",
-    "points": 86,
+    "points": 77,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-fierce-ransomer-trait-back.png",
     "xws": "fierceransomertraitback",
@@ -700,7 +625,7 @@
   },
   {
     "name": "fire sale",
-    "points": 87,
+    "points": 78,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-fire-sale.png",
     "xws": "firesale",
@@ -708,7 +633,7 @@
   },
   {
     "name": "c-157",
-    "points": 88,
+    "points": 79,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-fire-sale.png",
     "xws": "firesale",
@@ -716,7 +641,7 @@
   },
   {
     "name": "full complement",
-    "points": 89,
+    "points": 80,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-full-complement.png",
     "xws": "fullcomplement",
@@ -724,7 +649,7 @@
   },
   {
     "name": "c-155",
-    "points": 90,
+    "points": 81,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-full-complement.png",
     "xws": "fullcomplement",
@@ -732,7 +657,7 @@
   },
   {
     "name": "nothing wasted",
-    "points": 91,
+    "points": 82,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-nothing-wasted.png",
     "xws": "nothingwasted",
@@ -740,7 +665,7 @@
   },
   {
     "name": "c-156",
-    "points": 92,
+    "points": 83,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fierce-ransomer/rv-nothing-wasted.png",
     "xws": "nothingwasted",
@@ -748,7 +673,7 @@
   },
   {
     "name": "firebird's rally",
-    "points": 93,
+    "points": 84,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-firebirds-rally.png",
     "xws": "firebirdsrally",
@@ -756,7 +681,7 @@
   },
   {
     "name": "c-133",
-    "points": 94,
+    "points": 85,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-firebirds-rally.png",
     "xws": "firebirdsrally",
@@ -764,7 +689,7 @@
   },
   {
     "name": "fountain caller trait back",
-    "points": 95,
+    "points": 86,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-fountain-caller-trait-back.png",
     "xws": "fountaincallertraitback",
@@ -772,7 +697,7 @@
   },
   {
     "name": "sum of our parts",
-    "points": 96,
+    "points": 87,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-sum-of-our-parts.png",
     "xws": "sumofourparts",
@@ -780,7 +705,7 @@
   },
   {
     "name": "c-131",
-    "points": 97,
+    "points": 88,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-sum-of-our-parts.png",
     "xws": "sumofourparts",
@@ -788,7 +713,7 @@
   },
   {
     "name": "winged embrace",
-    "points": 98,
+    "points": 89,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-winged-embrace.png",
     "xws": "wingedembrace",
@@ -796,7 +721,7 @@
   },
   {
     "name": "c-132",
-    "points": 99,
+    "points": 90,
     "expansion": "Rove",
     "image": "traits/rove/xulc/fountain-caller/rv-winged-embrace.png",
     "xws": "wingedembrace",
@@ -804,7 +729,7 @@
   },
   {
     "name": "catabolic boosting",
-    "points": 100,
+    "points": 91,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-catabolic-boosting.png",
     "xws": "catabolicboosting",
@@ -812,7 +737,7 @@
   },
   {
     "name": "c-168",
-    "points": 101,
+    "points": 92,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-catabolic-boosting.png",
     "xws": "catabolicboosting",
@@ -820,7 +745,7 @@
   },
   {
     "name": "entoman carapace",
-    "points": 102,
+    "points": 93,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-entoman-carapace.png",
     "xws": "entomancarapace",
@@ -828,7 +753,7 @@
   },
   {
     "name": "c-165",
-    "points": 103,
+    "points": 94,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-entoman-carapace.png",
     "xws": "entomancarapace",
@@ -836,7 +761,7 @@
   },
   {
     "name": "explosive emissions",
-    "points": 104,
+    "points": 95,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-explosive-emissions.png",
     "xws": "explosiveemissions",
@@ -844,7 +769,7 @@
   },
   {
     "name": "c-161",
-    "points": 105,
+    "points": 96,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-explosive-emissions.png",
     "xws": "explosiveemissions",
@@ -852,7 +777,7 @@
   },
   {
     "name": "hyper flexibility",
-    "points": 106,
+    "points": 97,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-hyper-flexibility.png",
     "xws": "hyperflexibility",
@@ -860,7 +785,7 @@
   },
   {
     "name": "c-167",
-    "points": 107,
+    "points": 98,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-hyper-flexibility.png",
     "xws": "hyperflexibility",
@@ -868,7 +793,7 @@
   },
   {
     "name": "infected trait back",
-    "points": 108,
+    "points": 99,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-infected-trait-back.png",
     "xws": "infectedtraitback",
@@ -876,7 +801,7 @@
   },
   {
     "name": "metabolic balancing",
-    "points": 109,
+    "points": 100,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-metabolic-balancing.png",
     "xws": "metabolicbalancing",
@@ -884,7 +809,7 @@
   },
   {
     "name": "c-163",
-    "points": 110,
+    "points": 101,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-metabolic-balancing.png",
     "xws": "metabolicbalancing",
@@ -892,7 +817,7 @@
   },
   {
     "name": "silvan appendages",
-    "points": 111,
+    "points": 102,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-silvan-appendages.png",
     "xws": "silvanappendages",
@@ -900,7 +825,7 @@
   },
   {
     "name": "c-164",
-    "points": 112,
+    "points": 103,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-silvan-appendages.png",
     "xws": "silvanappendages",
@@ -908,7 +833,7 @@
   },
   {
     "name": "theran instinct",
-    "points": 113,
+    "points": 104,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-theran-instinct.png",
     "xws": "theraninstinct",
@@ -916,7 +841,7 @@
   },
   {
     "name": "c-162",
-    "points": 114,
+    "points": 105,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-theran-instinct.png",
     "xws": "theraninstinct",
@@ -924,7 +849,7 @@
   },
   {
     "name": "wing membranes",
-    "points": 115,
+    "points": 106,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-wing-membranes.png",
     "xws": "wingmembranes",
@@ -932,7 +857,7 @@
   },
   {
     "name": "c-166",
-    "points": 116,
+    "points": 107,
     "expansion": "Rove",
     "image": "traits/rove/xulc/infected/rv-wing-membranes.png",
     "xws": "wingmembranes",
@@ -940,7 +865,7 @@
   },
   {
     "name": "kataphatist trait back",
-    "points": 117,
+    "points": 108,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-kataphatist-trait-back.png",
     "xws": "kataphatisttraitback",
@@ -948,7 +873,7 @@
   },
   {
     "name": "partial derivative",
-    "points": 118,
+    "points": 109,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-partial-derivative.png",
     "xws": "partialderivative",
@@ -956,7 +881,7 @@
   },
   {
     "name": "c-152",
-    "points": 119,
+    "points": 110,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-partial-derivative.png",
     "xws": "partialderivative",
@@ -964,7 +889,7 @@
   },
   {
     "name": "polynomial expression",
-    "points": 120,
+    "points": 111,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-polynomial-expression.png",
     "xws": "polynomialexpression",
@@ -972,7 +897,7 @@
   },
   {
     "name": "c-153",
-    "points": 121,
+    "points": 112,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-polynomial-expression.png",
     "xws": "polynomialexpression",
@@ -980,7 +905,7 @@
   },
   {
     "name": "undefined variable",
-    "points": 122,
+    "points": 113,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-undefined-variable.png",
     "xws": "undefinedvariable",
@@ -988,7 +913,7 @@
   },
   {
     "name": "c-154",
-    "points": 123,
+    "points": 114,
     "expansion": "Rove",
     "image": "traits/rove/xulc/kataphatist/rv-undefined-variable.png",
     "xws": "undefinedvariable",
@@ -996,7 +921,7 @@
   },
   {
     "name": "gripping despair",
-    "points": 124,
+    "points": 115,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-gripping-despair.png",
     "xws": "grippingdespair",
@@ -1004,7 +929,7 @@
   },
   {
     "name": "c-145",
-    "points": 125,
+    "points": 116,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-gripping-despair.png",
     "xws": "grippingdespair",
@@ -1012,7 +937,7 @@
   },
   {
     "name": "keening bolt trait back",
-    "points": 126,
+    "points": 117,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-keening-bolt-trait-back.png",
     "xws": "keeningbolttraitback",
@@ -1020,7 +945,7 @@
   },
   {
     "name": "lost hope",
-    "points": 127,
+    "points": 118,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-lost-hope.png",
     "xws": "losthope",
@@ -1028,7 +953,7 @@
   },
   {
     "name": "c-143",
-    "points": 128,
+    "points": 119,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-lost-hope.png",
     "xws": "losthope",
@@ -1036,7 +961,7 @@
   },
   {
     "name": "sap will",
-    "points": 129,
+    "points": 120,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-sap-will.png",
     "xws": "sapwill",
@@ -1044,7 +969,7 @@
   },
   {
     "name": "c-144",
-    "points": 130,
+    "points": 121,
     "expansion": "Rove",
     "image": "traits/rove/xulc/keening-bolt/rv-sap-will.png",
     "xws": "sapwill",
@@ -1052,7 +977,7 @@
   },
   {
     "name": "aeroelastic",
-    "points": 131,
+    "points": 122,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-aeroelastic.png",
     "xws": "aeroelastic",
@@ -1060,7 +985,7 @@
   },
   {
     "name": "c-137",
-    "points": 132,
+    "points": 123,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-aeroelastic.png",
     "xws": "aeroelastic",
@@ -1068,7 +993,7 @@
   },
   {
     "name": "electrostatic",
-    "points": 133,
+    "points": 124,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-electrostatic.png",
     "xws": "electrostatic",
@@ -1076,7 +1001,7 @@
   },
   {
     "name": "c-138",
-    "points": 134,
+    "points": 125,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-electrostatic.png",
     "xws": "electrostatic",
@@ -1084,7 +1009,7 @@
   },
   {
     "name": "mistral trait back",
-    "points": 135,
+    "points": 126,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-mistral-trait-back.png",
     "xws": "mistraltraitback",
@@ -1092,7 +1017,7 @@
   },
   {
     "name": "tropistic",
-    "points": 136,
+    "points": 127,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-tropistic.png",
     "xws": "tropistic",
@@ -1100,7 +1025,7 @@
   },
   {
     "name": "c-139",
-    "points": 137,
+    "points": 128,
     "expansion": "Rove",
     "image": "traits/rove/xulc/mistral/rv-tropistic.png",
     "xws": "tropistic",
@@ -1108,7 +1033,7 @@
   },
   {
     "name": "atmospheric conditioning",
-    "points": 138,
+    "points": 129,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-atmospheric-conditioning.png",
     "xws": "atmosphericconditioning",
@@ -1116,7 +1041,7 @@
   },
   {
     "name": "c-140",
-    "points": 139,
+    "points": 130,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-atmospheric-conditioning.png",
     "xws": "atmosphericconditioning",
@@ -1124,7 +1049,7 @@
   },
   {
     "name": "eye of the storm",
-    "points": 140,
+    "points": 131,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-eye-of-the-storm.png",
     "xws": "eyeofthestorm",
@@ -1132,7 +1057,7 @@
   },
   {
     "name": "c-141",
-    "points": 141,
+    "points": 132,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-eye-of-the-storm.png",
     "xws": "eyeofthestorm",
@@ -1140,7 +1065,7 @@
   },
   {
     "name": "shockwave propagation",
-    "points": 142,
+    "points": 133,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-shockwave-propagation.png",
     "xws": "shockwavepropagation",
@@ -1148,7 +1073,7 @@
   },
   {
     "name": "c-142",
-    "points": 143,
+    "points": 134,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-shockwave-propagation.png",
     "xws": "shockwavepropagation",
@@ -1156,7 +1081,7 @@
   },
   {
     "name": "tempest trait back",
-    "points": 144,
+    "points": 135,
     "expansion": "Rove",
     "image": "traits/rove/xulc/tempest/rv-tempest-trait-back.png",
     "xws": "tempesttraitback",
@@ -1164,7 +1089,7 @@
   },
   {
     "name": "hungering cold:",
-    "points": 145,
+    "points": 136,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-hungering-cold.png",
     "xws": "hungeringcold",
@@ -1172,7 +1097,7 @@
   },
   {
     "name": "c-148",
-    "points": 146,
+    "points": 137,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-hungering-cold.png",
     "xws": "hungeringcold",
@@ -1180,7 +1105,7 @@
   },
   {
     "name": "hunter's instinct",
-    "points": 147,
+    "points": 138,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-hunters-instinct.png",
     "xws": "huntersinstinct",
@@ -1188,7 +1113,7 @@
   },
   {
     "name": "c-147",
-    "points": 148,
+    "points": 139,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-hunters-instinct.png",
     "xws": "huntersinstinct",
@@ -1196,7 +1121,7 @@
   },
   {
     "name": "meltwater spring",
-    "points": 149,
+    "points": 140,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-meltwater-spring.png",
     "xws": "meltwaterspring",
@@ -1204,7 +1129,7 @@
   },
   {
     "name": "c-146",
-    "points": 150,
+    "points": 141,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-meltwater-spring.png",
     "xws": "meltwaterspring",
@@ -1212,7 +1137,7 @@
   },
   {
     "name": "vesper sharpshot trait back",
-    "points": 151,
+    "points": 142,
     "expansion": "Rove",
     "image": "traits/rove/xulc/vesper-sharpshot/rv-vesper-sharpshot-trait-back.png",
     "xws": "vespersharpshottraitback",
@@ -1220,7 +1145,7 @@
   },
   {
     "name": "positive affirmation",
-    "points": 152,
+    "points": 143,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-positive-affirmation.png",
     "xws": "positiveaffirmation",
@@ -1228,7 +1153,7 @@
   },
   {
     "name": "c-134",
-    "points": 153,
+    "points": 144,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-positive-affirmation.png",
     "xws": "positiveaffirmation",
@@ -1236,7 +1161,7 @@
   },
   {
     "name": "scalding shower",
-    "points": 154,
+    "points": 145,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-scalding-shower.png",
     "xws": "scaldingshower",
@@ -1244,7 +1169,7 @@
   },
   {
     "name": "c-136",
-    "points": 155,
+    "points": 146,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-scalding-shower.png",
     "xws": "scaldingshower",
@@ -1252,7 +1177,7 @@
   },
   {
     "name": "soothing shower",
-    "points": 156,
+    "points": 147,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-soothing-shower.png",
     "xws": "soothingshower",
@@ -1260,7 +1185,7 @@
   },
   {
     "name": "c-135",
-    "points": 157,
+    "points": 148,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-soothing-shower.png",
     "xws": "soothingshower",
@@ -1268,7 +1193,7 @@
   },
   {
     "name": "wellspring ewer trait back",
-    "points": 158,
+    "points": 149,
     "expansion": "Rove",
     "image": "traits/rove/xulc/wellspring-ewer/rv-wellspring-ewer-trait-back.png",
     "xws": "wellspringewertraitback",
@@ -1276,7 +1201,7 @@
   },
   {
     "name": "exoskeletal development",
-    "points": 159,
+    "points": 150,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-exoskeletal-development.png",
     "xws": "exoskeletaldevelopment",
@@ -1284,7 +1209,7 @@
   },
   {
     "name": "c-159",
-    "points": 160,
+    "points": 151,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-exoskeletal-development.png",
     "xws": "exoskeletaldevelopment",
@@ -1292,7 +1217,7 @@
   },
   {
     "name": "fine print",
-    "points": 161,
+    "points": 152,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-fine-print.png",
     "xws": "fineprint",
@@ -1300,7 +1225,7 @@
   },
   {
     "name": "c-160",
-    "points": 162,
+    "points": 153,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-fine-print.png",
     "xws": "fineprint",
@@ -1308,7 +1233,7 @@
   },
   {
     "name": "shrewd negotiator",
-    "points": 163,
+    "points": 154,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-shrewd-negotiator.png",
     "xws": "shrewdnegotiator",
@@ -1316,7 +1241,7 @@
   },
   {
     "name": "c-158",
-    "points": 164,
+    "points": 155,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-shrewd-negotiator.png",
     "xws": "shrewdnegotiator",
@@ -1324,7 +1249,7 @@
   },
   {
     "name": "zero sum trait back",
-    "points": 165,
+    "points": 156,
     "expansion": "Rove",
     "image": "traits/rove/xulc/zero-sum/rv-zero-sum-trait-back.png",
     "xws": "zerosumtraitback",
