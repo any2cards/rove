@@ -167,4 +167,116 @@
     "xws": "pathosrhetoric",
     "cardno": "c-119"
   },
+  {
+    "name": "helion trait back",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-helion-trait-back.png",
+    "xws": "heliontraitback",
+    "cardno": "c-###"
+  },
+  {
+    "name": "pyretic",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-pyretic.png",
+    "xws": "pyretic",
+    "cardno": "c-107"
+  },
+  {
+    "name": "c-107",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-pyretic.png",
+    "xws": "pyretic",
+    "cardno": "c-107"
+  },
+  {
+    "name": "thermostatic",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-thermostatic.png",
+    "xws": "thermostatic",
+    "cardno": "c-108"
+  },
+  {
+    "name": "c-108",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-thermostatic.png",
+    "xws": "thermostatic",
+    "cardno": "c-108"
+  },
+  {
+    "name": "tropistic",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-tropistic.png",
+    "xws": "tropistic",
+    "cardno": "c-109"
+  },
+  {
+    "name": "c-109",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/helion/rv-tropistic.png",
+    "xws": "tropistic",
+    "cardno": "c-109"
+  },
+  {
+    "name": "directed taxation",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-directed-taxation.png",
+    "xws": "directedtaxation",
+    "cardno": "c-128"
+  },
+  {
+    "name": "c-128",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-directed-taxation.png",
+    "xws": "directedtaxation",
+    "cardno": "c-128"
+  },
+  {
+    "name": "exoskeletal development",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-exoskeletal-development.png",
+    "xws": "exoskeletaldevelopment",
+    "cardno": "c-129"
+  },
+  {
+    "name": "c-129",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-exoskeletal-development.png",
+    "xws": "exoskeletaldevelopment",
+    "cardno": "c-129"
+  },
+  {
+    "name": "invisible hand trait back",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-invisible-hand-trait-back.png",
+    "xws": "invisiblehandtraitback",
+    "cardno": "c-###"
+  },
+  {
+    "name": "skimming sleight",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-skimming-sleight.png",
+    "xws": "skimmingsleight",
+    "cardno": "c-130"
+  },
+  {
+    "name": "c-130",
+    "points": 0,
+    "expansion": "Rove",
+    "image": "traits/rove/core/invisible-hand/rv-skimming-sleight.png",
+    "xws": "skimmingsleight",
+    "cardno": "c-130"
+  },
 ]
