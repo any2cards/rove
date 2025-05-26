@@ -19,6 +19,7 @@ This repository contains data and images for the following games and components:
 - classes
 - items
 - profile-boards
+- traits
 
 There are three top-level directories; `data` , `images` , and `xwc`.
 
