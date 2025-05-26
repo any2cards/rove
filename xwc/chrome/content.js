@@ -4,6 +4,7 @@ var files = [
 	'classes.js',
 	'items.js',
 	'profile-boards.js',
+	'traits.js',
 ];
 
 var expansion_conversion = {
@@ -176,6 +177,7 @@ function loadFromStorage() {
 		"rv-classes": true,
 		"rv-items": true,
 		"rv-profile-boards": true
+		"rv-traits": true
 	}
 
 	chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {
