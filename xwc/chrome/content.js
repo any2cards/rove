@@ -176,7 +176,7 @@ function loadFromStorage() {
 		"rv-allies": true,
 		"rv-classes": true,
 		"rv-items": true,
-		"rv-profile-boards": true
+		"rv-profile-boards": true,
 		"rv-traits": true
 	}
 
