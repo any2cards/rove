@@ -103,7 +103,7 @@
     "expansion": "Rove",
     "image": "art/pictures/rove/poster/rv-poster-true-scale.png",
     "xws": "postertruescale"
-  }
+  },
   {
     "name": "aster standee",
     "points": 15,
