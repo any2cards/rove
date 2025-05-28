@@ -14,6 +14,7 @@ This repository contains data and images for the following games and components:
 - Rove
 
 **Assets:**
+- abilities
 - allies
 - art
 - classes
