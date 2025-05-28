@@ -567,46 +567,46 @@
     "xws": "wellspringewerradiantardorokstandee"
   },
   {
-    "name": "wellspring ewer sunburst zolokati 1 standee",
+    "name": "wellspring ewer sunburst zokolati 1 standee",
     "points": 81,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zolokati-1-standee-back.png",
-    "xws": "wellspringewersunburstzolokati1standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-1-standee-back.png",
+    "xws": "wellspringewersunburstzokolati1standee"
   },
   {
-    "name": "wellspring ewer sunburst zolokati 1 standee",
+    "name": "wellspring ewer sunburst zokolati 1 standee",
     "points": 82,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zolokati-1-standee-front.png",
-    "xws": "wellspringewersunburstzolokati1standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-1-standee-front.png",
+    "xws": "wellspringewersunburstzokolati1standee"
   },
   {
-    "name": "wellspring ewer sunburst zolokati 2 standee",
+    "name": "wellspring ewer sunburst zokolati 2 standee",
     "points": 83,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zolokati-2-standee-back.png",
-    "xws": "wellspringewersunburstzolokati2standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-2-standee-back.png",
+    "xws": "wellspringewersunburstzokolati2standee"
   },
   {
-    "name": "wellspring ewer sunburst zolokati 2 standee",
+    "name": "wellspring ewer sunburst zokolati 2 standee",
     "points": 84,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zolokati-2-standee-front.png",
-    "xws": "wellspringewersunburstzolokati2standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-2-standee-front.png",
+    "xws": "wellspringewersunburstzokolati2standee"
   },
   {
-    "name": "wellspring ewer sunburst zolokati 3 standee",
+    "name": "wellspring ewer sunburst zokolati 3 standee",
     "points": 85,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zolokati-3-standee-back.png",
-    "xws": "wellspringewersunburstzolokati3standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-3-standee-back.png",
+    "xws": "wellspringewersunburstzokolati3standee"
   },
   {
-    "name": "wellspring ewer sunburst zolokati 3 standee",
+    "name": "wellspring ewer sunburst zokolati 3 standee",
     "points": 86,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zolokati-3-standee-front.png",
-    "xws": "wellspringewersunburstzolokati3standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-3-standee-front.png",
+    "xws": "wellspringewersunburstzokolati3standee"
   },
   {
     "name": "aster aura",
