@@ -1153,5 +1153,166 @@
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-zero-sum-miasma.png",
     "xws": "zerosummiasma"
+  },
+  {
+    "name": "aura",
+    "points": 165,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/ether-tiles/rv-aura.png",
+    "xws": "aura"
+  },
+  {
+    "name": "everbloom",
+    "points": 166,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/ether-tiles/rv-everbloom.png",
+    "xws": "everbloom"
+  },
+  {
+    "name": "miasma",
+    "points": 167,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/ether-tiles/rv-miasma.png",
+    "xws": "miasma"
+  },
+  {
+    "name": "snapfrost",
+    "points": 168,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/ether-tiles/rv-snapfrost.png",
+    "xws": "snapfrost"
+  },
+  {
+    "name": "wildfire",
+    "points": 169,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/ether-tiles/rv-wildfire.png",
+    "xws": "wildfire"
+  },
+  {
+    "name": "windscreen",
+    "points": 170,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/ether-tiles/rv-windscreen.png",
+    "xws": "windscreen"
+  },
+  {
+    "name": "10 damage",
+    "points": 171,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-10-damage.png",
+    "xws": "10damage"
+  },
+  {
+    "name": "1 damage",
+    "points": 172,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-1-damage.png",
+    "xws": "1damage"
+  },
+  {
+    "name": "3 damage",
+    "points": 173,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-3-damage.png",
+    "xws": "3damage"
+  },
+  {
+    "name": "5 damage",
+    "points": 174,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-5-damage.png",
+    "xws": "5damage"
+  },
+  {
+    "name": "adversary abilikty",
+    "points": 175,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-adversary-abilikty.png",
+    "xws": "adversaryabilikty"
+  },
+  {
+    "name": "defense",
+    "points": 176,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-defense.png",
+    "xws": "defense"
+  },
+  {
+    "name": "hoard",
+    "points": 177,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-hoard.png",
+    "xws": "hoard"
+  },
+  {
+    "name": "large base adapter",
+    "points": 178,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-large-base-adapter.png",
+    "xws": "largebaseadapter"
+  },
+  {
+    "name": "monstrous growth",
+    "points": 179,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-monstrous-growth.png",
+    "xws": "monstrousgrowth"
+  },
+  {
+    "name": "naktari hive",
+    "points": 180,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-naktari-hive.png",
+    "xws": "naktarihive"
+  },
+  {
+    "name": "reaction",
+    "points": 181,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-reaction.png",
+    "xws": "reaction"
+  },
+  {
+    "name": "treasure chest",
+    "points": 182,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/other-tiles/rv-treasure-chest.png",
+    "xws": "treasurechest"
+  },
+  {
+    "name": "adversary",
+    "points": 183,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/trap-tiles/rv-adversary.png",
+    "xws": "adversary"
+  },
+  {
+    "name": "bursting bell",
+    "points": 184,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/trap-tiles/rv-bursting-bell.png",
+    "xws": "burstingbell"
+  },
+  {
+    "name": "crumbling column",
+    "points": 185,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/trap-tiles/rv-crumbling-column.png",
+    "xws": "crumblingcolumn"
+  },
+  {
+    "name": "hatchery",
+    "points": 186,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/trap-tiles/rv-hatchery.png",
+    "xws": "hatchery"
+  },
+  {
+    "name": "magic",
+    "points": 187,
+    "expansion": "Rove",
+    "image": "art/tokens/rove/game/trap-tiles/rv-magic.png",
+    "xws": "magic"
   }
 ]
