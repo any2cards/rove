@@ -1260,11 +1260,11 @@
     "xws": "monstrousgrowth"
   },
   {
-    "name": "naktari hive",
+    "name": "nektari hive",
     "points": 180,
     "expansion": "Rove",
-    "image": "art/tokens/rove/game/other-tiles/rv-naktari-hive.png",
-    "xws": "naktarihive"
+    "image": "art/tokens/rove/game/other-tiles/rv-nektari-hive.png",
+    "xws": "nektarihive"
   },
   {
     "name": "reaction",
