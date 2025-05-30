@@ -567,750 +567,722 @@
     "xws": "wellspringewerradiantardorokstandee"
   },
   {
-    "name": "wellspring ewer sunburst zokolati 1 standee",
+    "name": "wellspring ewer sunburst zokolati standee",
     "points": 81,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-1-standee-back.png",
-    "xws": "wellspringewersunburstzokolati1standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-standee-back.png",
+    "xws": "wellspringewersunburstzokolatistandee"
   },
   {
-    "name": "wellspring ewer sunburst zokolati 1 standee",
+    "name": "wellspring ewer sunburst zokolati standee",
     "points": 82,
     "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-1-standee-front.png",
-    "xws": "wellspringewersunburstzokolati1standee"
-  },
-  {
-    "name": "wellspring ewer sunburst zokolati 2 standee",
-    "points": 83,
-    "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-2-standee-back.png",
-    "xws": "wellspringewersunburstzokolati2standee"
-  },
-  {
-    "name": "wellspring ewer sunburst zokolati 2 standee",
-    "points": 84,
-    "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-2-standee-front.png",
-    "xws": "wellspringewersunburstzokolati2standee"
-  },
-  {
-    "name": "wellspring ewer sunburst zokolati 3 standee",
-    "points": 85,
-    "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-3-standee-back.png",
-    "xws": "wellspringewersunburstzokolati3standee"
-  },
-  {
-    "name": "wellspring ewer sunburst zokolati 3 standee",
-    "points": 86,
-    "expansion": "Rove",
-    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-3-standee-front.png",
-    "xws": "wellspringewersunburstzokolati3standee"
+    "image": "art/standees/rove/summons/xulc/rv-wellspring-ewer-sunburst-zokolati-standee-front.png",
+    "xws": "wellspringewersunburstzokolatistandee"
   },
   {
     "name": "aster aura",
-    "points": 87,
+    "points": 83,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-aster-aura.png",
     "xws": "asteraura"
   },
   {
     "name": "aster miasma",
-    "points": 88,
+    "points": 84,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-aster-miasma.png",
     "xws": "astermiasma"
   },
   {
     "name": "canyon temper aura",
-    "points": 89,
+    "points": 85,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-canyon-temper-aura.png",
     "xws": "canyontemperaura"
   },
   {
     "name": "canyon temper miasma",
-    "points": 90,
+    "points": 86,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-canyon-temper-miasma.png",
     "xws": "canyontempermiasma"
   },
   {
     "name": "conceptualist aura",
-    "points": 91,
+    "points": 87,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-conceptualist-aura.png",
     "xws": "conceptualistaura"
   },
   {
     "name": "conceptualist luminescent quartic",
-    "points": 92,
+    "points": 88,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-conceptualist-luminescent-quartic-back.png",
     "xws": "conceptualistluminescentquartic"
   },
   {
     "name": "conceptualist luminescent quartic",
-    "points": 93,
+    "points": 89,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-conceptualist-luminescent-quartic-front.png",
     "xws": "conceptualistluminescentquartic"
   },
   {
     "name": "conceptualist radiant spinaerios",
-    "points": 94,
+    "points": 90,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-conceptualist-radiant-spinaerios-back.png",
     "xws": "conceptualistradiantspinaerios"
   },
   {
     "name": "conceptualist radiant spinaerios",
-    "points": 95,
+    "points": 91,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-conceptualist-radiant-spinaerios-front.png",
     "xws": "conceptualistradiantspinaerios"
   },
   {
     "name": "dune dancer aura",
-    "points": 96,
+    "points": 92,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-dune-dancer-aura.png",
     "xws": "dunedanceraura"
   },
   {
     "name": "dune dancer miasma",
-    "points": 97,
+    "points": 93,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-dune-dancer-miasma.png",
     "xws": "dunedancermiasma"
   },
   {
     "name": "flash aura",
-    "points": 98,
+    "points": 94,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-flash-aura.png",
     "xws": "flashaura"
   },
   {
     "name": "flash miasma",
-    "points": 99,
+    "points": 95,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-flash-miasma.png",
     "xws": "flashmiasma"
   },
   {
     "name": "flash trap",
-    "points": 100,
+    "points": 96,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-flash-trap.png",
     "xws": "flashtrap"
   },
   {
     "name": "helion aura",
-    "points": 101,
+    "points": 97,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-helion-aura.png",
     "xws": "helionaura"
   },
   {
     "name": "helion miasma",
-    "points": 102,
+    "points": 98,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-helion-miasma.png",
     "xws": "helionmiasma"
   },
   {
     "name": "helion raging inferno",
-    "points": 103,
+    "points": 99,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-helion-raging-inferno.png",
     "xws": "helionraginginferno"
   },
   {
     "name": "invisible hand miasma",
-    "points": 104,
+    "points": 100,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-invisible-hand-miasma.png",
     "xws": "invisiblehandmiasma"
   },
   {
     "name": "maximist alluring thureoll",
-    "points": 105,
+    "points": 101,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-maximist-alluring-thureoll-back.png",
     "xws": "maximistalluringthureoll"
   },
   {
     "name": "maximist alluring thureoll",
-    "points": 106,
+    "points": 102,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-maximist-alluring-thureoll-front.png",
     "xws": "maximistalluringthureoll"
   },
   {
     "name": "maximist aura",
-    "points": 107,
+    "points": 103,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-maximist-aura.png",
     "xws": "maximistaura"
   },
   {
     "name": "maximist luminescent quartic",
-    "points": 108,
+    "points": 104,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-maximist-luminescent-quartic-back.png",
     "xws": "maximistluminescentquartic"
   },
   {
     "name": "maximist luminescent quartic",
-    "points": 109,
+    "points": 105,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-maximist-luminescent-quartic-front.png",
     "xws": "maximistluminescentquartic"
   },
   {
     "name": "nocturne hoarfrost aura",
-    "points": 110,
+    "points": 106,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-nocturne-hoarfrost-aura.png",
     "xws": "nocturnehoarfrostaura"
   },
   {
     "name": "nocturne hoarfrost blood",
-    "points": 111,
+    "points": 107,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-nocturne-hoarfrost-blood.png",
     "xws": "nocturnehoarfrostblood"
   },
   {
     "name": "nocturne hoarfrost miasma",
-    "points": 112,
+    "points": 108,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-nocturne-hoarfrost-miasma.png",
     "xws": "nocturnehoarfrostmiasma"
   },
   {
     "name": "ridge striker aura",
-    "points": 113,
+    "points": 109,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-ridge-striker-aura.png",
     "xws": "ridgestrikeraura"
   },
   {
     "name": "ridge striker miasma",
-    "points": 114,
+    "points": 110,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-ridge-striker-miasma.png",
     "xws": "ridgestrikermiasma"
   },
   {
     "name": "shadow piercer aura",
-    "points": 115,
+    "points": 111,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-shadow-piercer-aura.png",
     "xws": "shadowpierceraura"
   },
   {
     "name": "shadow piercer miasma",
-    "points": 116,
+    "points": 112,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-shadow-piercer-miasma.png",
     "xws": "shadowpiercermiasma"
   },
   {
     "name": "sophist alluring armoroll",
-    "points": 117,
+    "points": 113,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-alluring-armoroll-back.png",
     "xws": "sophistalluringarmoroll"
   },
   {
     "name": "sophist alluring armoroll",
-    "points": 118,
+    "points": 114,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-alluring-armoroll-front.png",
     "xws": "sophistalluringarmoroll"
   },
   {
     "name": "sophist aura",
-    "points": 119,
+    "points": 115,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-aura.png",
     "xws": "sophistaura"
   },
   {
     "name": "sophist luminescent hyperbola",
-    "points": 120,
+    "points": 116,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-luminescent-hyperbola-back.png",
     "xws": "sophistluminescenthyperbola"
   },
   {
     "name": "sophist luminescent hyperbola",
-    "points": 121,
+    "points": 117,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-luminescent-hyperbola-front.png",
     "xws": "sophistluminescenthyperbola"
   },
   {
     "name": "sophist radiant aerios",
-    "points": 122,
+    "points": 118,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-radiant-aerios-back.png",
     "xws": "sophistradiantaerios"
   },
   {
     "name": "sophist radiant aerios",
-    "points": 123,
+    "points": 119,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-sophist-radiant-aerios-front.png",
     "xws": "sophistradiantaerios"
   },
   {
     "name": "toll bearer fortify",
-    "points": 124,
+    "points": 120,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-toll-bearer-fortify.png",
     "xws": "tollbearerfortify"
   },
   {
     "name": "toll bearer miasma",
-    "points": 125,
+    "points": 121,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-toll-bearer-miasma.png",
     "xws": "tollbearermiasma"
   },
   {
     "name": "true scale miasma",
-    "points": 126,
+    "points": 122,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-true-scale-miasma.png",
     "xws": "truescalemiasma"
   },
   {
     "name": "umbral howl aura",
-    "points": 127,
+    "points": 123,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-umbral-howl-aura.png",
     "xws": "umbralhowlaura"
   },
   {
     "name": "umbral howl blood lust",
-    "points": 128,
+    "points": 124,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-umbral-howl-blood-lust-back.png",
     "xws": "umbralhowlbloodlust"
   },
   {
     "name": "umbral howl blood lust",
-    "points": 129,
+    "points": 125,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-umbral-howl-blood-lust-front.png",
     "xws": "umbralhowlbloodlust"
   },
   {
     "name": "umbral howl miasma",
-    "points": 130,
+    "points": 126,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/core/rv-umbral-howl-miasma.png",
     "xws": "umbralhowlmiasma"
   },
   {
     "name": "essentialist aura",
-    "points": 131,
+    "points": 127,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-aura.png",
     "xws": "essentialistaura"
   },
   {
     "name": "essentialist flip",
-    "points": 132,
+    "points": 128,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-flip-back.png",
     "xws": "essentialistflip"
   },
   {
     "name": "essentialist flip",
-    "points": 133,
+    "points": 129,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-flip-front.png",
     "xws": "essentialistflip"
   },
   {
     "name": "essentialist luminescent hyperbola",
-    "points": 134,
+    "points": 130,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-luminescent-hyperbola-back.png",
     "xws": "essentialistluminescenthyperbola"
   },
   {
     "name": "essentialist luminescent hyperbola",
-    "points": 135,
+    "points": 131,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-luminescent-hyperbola-front.png",
     "xws": "essentialistluminescenthyperbola"
   },
   {
     "name": "essentialist prestidigitation",
-    "points": 136,
+    "points": 132,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-prestidigitation-back.png",
     "xws": "essentialistprestidigitation"
   },
   {
     "name": "essentialist prestidigitation",
-    "points": 137,
+    "points": 133,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-essentialist-prestidigitation-front.png",
     "xws": "essentialistprestidigitation"
   },
   {
     "name": "fierce ransomer miasma",
-    "points": 138,
+    "points": 134,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-fierce-ransomer-miasma.png",
     "xws": "fierceransomermiasma"
   },
   {
     "name": "fountain caller aura",
-    "points": 139,
+    "points": 135,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-fountain-caller-aura.png",
     "xws": "fountaincalleraura"
   },
   {
     "name": "fountain caller miasma",
-    "points": 140,
+    "points": 136,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-fountain-caller-miasma.png",
     "xws": "fountaincallermiasma"
   },
   {
     "name": "kataphatist aura",
-    "points": 141,
+    "points": 137,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-aura.png",
     "xws": "kataphatistaura"
   },
   {
     "name": "kataphatist devine incomprehensibility",
-    "points": 142,
+    "points": 138,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-devine-incomprehensibility-back.png",
     "xws": "kataphatistdevineincomprehensibility"
   },
   {
     "name": "kataphatist devine incomprehensibility",
-    "points": 143,
+    "points": 139,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-devine-incomprehensibility-front.png",
     "xws": "kataphatistdevineincomprehensibility"
   },
   {
     "name": "kataphatist flip",
-    "points": 144,
+    "points": 140,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-flip-back.png",
     "xws": "kataphatistflip"
   },
   {
     "name": "kataphatist flip",
-    "points": 145,
+    "points": 141,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-flip-front.png",
     "xws": "kataphatistflip"
   },
   {
     "name": "kataphatist luminescent hyperbola",
-    "points": 146,
+    "points": 142,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-luminescent-hyperbola-back.png",
     "xws": "kataphatistluminescenthyperbola"
   },
   {
     "name": "kataphatist luminescent hyperbola",
-    "points": 147,
+    "points": 143,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-luminescent-hyperbola-front.png",
     "xws": "kataphatistluminescenthyperbola"
   },
   {
     "name": "kataphatist numinous synchronicity",
-    "points": 148,
+    "points": 144,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-numinous-synchronicity-back.png",
     "xws": "kataphatistnuminoussynchronicity"
   },
   {
     "name": "kataphatist numinous synchronicity",
-    "points": 149,
+    "points": 145,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-kataphatist-numinous-synchronicity-front.png",
     "xws": "kataphatistnuminoussynchronicity"
   },
   {
     "name": "keening bolt aura",
-    "points": 150,
+    "points": 146,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-keening-bolt-aura.png",
     "xws": "keeningboltaura"
   },
   {
     "name": "keening bolt frozen soul",
-    "points": 151,
+    "points": 147,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-keening-bolt-frozen-soul.png",
     "xws": "keeningboltfrozensoul"
   },
   {
     "name": "keening bolt miasma",
-    "points": 152,
+    "points": 148,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-keening-bolt-miasma.png",
     "xws": "keeningboltmiasma"
   },
   {
     "name": "mistral aura",
-    "points": 153,
+    "points": 149,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-mistral-aura.png",
     "xws": "mistralaura"
   },
   {
     "name": "mistral miasma",
-    "points": 154,
+    "points": 150,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-mistral-miasma.png",
     "xws": "mistralmiasma"
   },
   {
     "name": "mistral trap",
-    "points": 155,
+    "points": 151,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-mistral-trap.png",
     "xws": "mistraltrap"
   },
   {
     "name": "tempest aura",
-    "points": 156,
+    "points": 152,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-tempest-aura.png",
     "xws": "tempestaura"
   },
   {
     "name": "tempest miasma",
-    "points": 157,
+    "points": 153,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-tempest-miasma.png",
     "xws": "tempestmiasma"
   },
   {
     "name": "tempest trap",
-    "points": 158,
+    "points": 154,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-tempest-trap.png",
     "xws": "tempesttrap"
   },
   {
     "name": "vesper sharpshot aura",
-    "points": 159,
+    "points": 155,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-vesper-sharpshot-aura.png",
     "xws": "vespersharpshotaura"
   },
   {
     "name": "vesper sharpshot frozen soul",
-    "points": 160,
+    "points": 156,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-vesper-sharpshot-frozen-soul.png",
     "xws": "vespersharpshotfrozensoul"
   },
   {
     "name": "vesper sharpshot miasma",
-    "points": 161,
+    "points": 157,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-vesper-sharpshot-miasma.png",
     "xws": "vespersharpshotmiasma"
   },
   {
     "name": "wellspring ewer aura",
-    "points": 162,
+    "points": 158,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-wellspring-ewer-aura.png",
     "xws": "wellspringeweraura"
   },
   {
     "name": "wellspring ewer miasma",
-    "points": 163,
+    "points": 159,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-wellspring-ewer-miasma.png",
     "xws": "wellspringewermiasma"
   },
   {
     "name": "zero sum miasma",
-    "points": 164,
+    "points": 160,
     "expansion": "Rove",
     "image": "art/tokens/rove/classes/xulc/rv-zero-sum-miasma.png",
     "xws": "zerosummiasma"
   },
   {
     "name": "aura",
-    "points": 165,
+    "points": 161,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/ether-tiles/rv-aura.png",
     "xws": "aura"
   },
   {
     "name": "everbloom",
-    "points": 166,
+    "points": 162,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/ether-tiles/rv-everbloom.png",
     "xws": "everbloom"
   },
   {
     "name": "miasma",
-    "points": 167,
+    "points": 163,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/ether-tiles/rv-miasma.png",
     "xws": "miasma"
   },
   {
     "name": "snapfrost",
-    "points": 168,
+    "points": 164,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/ether-tiles/rv-snapfrost.png",
     "xws": "snapfrost"
   },
   {
     "name": "wildfire",
-    "points": 169,
+    "points": 165,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/ether-tiles/rv-wildfire.png",
     "xws": "wildfire"
   },
   {
     "name": "windscreen",
-    "points": 170,
+    "points": 166,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/ether-tiles/rv-windscreen.png",
     "xws": "windscreen"
   },
   {
     "name": "10 damage",
-    "points": 171,
+    "points": 167,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-10-damage.png",
     "xws": "10damage"
   },
   {
     "name": "1 damage",
-    "points": 172,
+    "points": 168,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-1-damage.png",
     "xws": "1damage"
   },
   {
     "name": "3 damage",
-    "points": 173,
+    "points": 169,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-3-damage.png",
     "xws": "3damage"
   },
   {
     "name": "5 damage",
-    "points": 174,
+    "points": 170,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-5-damage.png",
     "xws": "5damage"
   },
   {
     "name": "adversary abilikty",
-    "points": 175,
+    "points": 171,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-adversary-abilikty.png",
     "xws": "adversaryabilikty"
   },
   {
     "name": "defense",
-    "points": 176,
+    "points": 172,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-defense.png",
     "xws": "defense"
   },
   {
     "name": "hoard",
-    "points": 177,
+    "points": 173,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-hoard.png",
     "xws": "hoard"
   },
   {
     "name": "large base adapter",
-    "points": 178,
+    "points": 174,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-large-base-adapter.png",
     "xws": "largebaseadapter"
   },
   {
     "name": "monstrous growth",
-    "points": 179,
+    "points": 175,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-monstrous-growth.png",
     "xws": "monstrousgrowth"
   },
   {
     "name": "nektari hive",
-    "points": 180,
+    "points": 176,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-nektari-hive.png",
     "xws": "nektarihive"
   },
   {
     "name": "reaction",
-    "points": 181,
+    "points": 177,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-reaction.png",
     "xws": "reaction"
   },
   {
     "name": "treasure chest",
-    "points": 182,
+    "points": 178,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/other-tiles/rv-treasure-chest.png",
     "xws": "treasurechest"
   },
   {
     "name": "adversary",
-    "points": 183,
+    "points": 179,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/trap-tiles/rv-adversary.png",
     "xws": "adversary"
   },
   {
     "name": "bursting bell",
-    "points": 184,
+    "points": 180,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/trap-tiles/rv-bursting-bell.png",
     "xws": "burstingbell"
   },
   {
     "name": "crumbling column",
-    "points": 185,
+    "points": 181,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/trap-tiles/rv-crumbling-column.png",
     "xws": "crumblingcolumn"
   },
   {
     "name": "hatchery",
-    "points": 186,
+    "points": 182,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/trap-tiles/rv-hatchery.png",
     "xws": "hatchery"
   },
   {
     "name": "magic",
-    "points": 187,
+    "points": 183,
     "expansion": "Rove",
     "image": "art/tokens/rove/game/trap-tiles/rv-magic.png",
     "xws": "magic"
