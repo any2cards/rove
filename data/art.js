@@ -1477,14 +1477,14 @@
     "xws": "colony"
   },
   {
-    "name": "prime xulc",
+    "name": "prime xulc brood matron",
     "points": 211,
     "expansion": "Rove",
     "image": "art/standees/rove/adversaries/xulc/rv-prime-xulc-standee-back.png",
     "xws": "primexulc"
   },
   {
-    "name": "prime xulc",
+    "name": "prime xulc brood matron",
     "points": 212,
     "expansion": "Rove",
     "image": "art/standees/rove/adversaries/xulc/rv-prime-xulc-standee-front.png",
