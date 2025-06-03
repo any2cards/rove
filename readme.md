@@ -71,6 +71,7 @@ See the [Releases tab](https://github.com/any2cards/rove/releases) in Github.
 
 - William Habush (any2cards@yahoo.com)
 
+- GitHub User: nearocodes (nearocodes@gmail.com)
 ---
 
 Rove: Rove and all related properties, images and text are owned by Addax Games.
