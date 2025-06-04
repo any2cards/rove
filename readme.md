@@ -17,6 +17,7 @@ This repository contains data and images for the following games and components:
 - abilities
 - allies
 - art
+- books
 - classes
 - items
 - profile-boards
