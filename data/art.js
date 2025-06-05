@@ -2961,11 +2961,11 @@
     "xws": "5damage"
   },
   {
-    "name": "adversary abilikty",
+    "name": "adversary ability",
     "points": 423,
     "expansion": "Rove",
-    "image": "art/tokens/rove/game/other-tiles/rv-adversary-abilikty.png",
-    "xws": "adversaryabilikty"
+    "image": "art/tokens/rove/game/other-tiles/rv-adversary-ability.png",
+    "xws": "adversaryability"
   },
   {
     "name": "defense",
