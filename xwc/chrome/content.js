@@ -9,7 +9,9 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"rv": "Rove",
+	"co": "Core",
+	"xu": "Xulc",
+	"gm": "Game",
 };
 
 var expansion_card_type = {}
@@ -174,13 +176,30 @@ function loadFromStorage() {
 	var extdefault = {
 		"ag": true,
 		"rv": true,
-		"rv-abilities": true,
-		"rv-allies": true,
-		"rv-art": true,
-		"rv-classes": true,
-		"rv-items": true,
-		"rv-profile-boards": true,
-		"rv-traits": true
+		"co": true,
+		"co-base": true,
+		"co-prime": true,
+		"co-apex": true,
+		"co-abilities": true,
+		"co-allies": true,
+		"co-art": true,
+		"co-classes": true,
+		"co-items": true,
+		"co-profile-boards": true,
+		"co-traits": true,
+		"xu": true,
+		"xu-base": true,
+		"xu-prime": true,
+		"xu-apex": true,
+		"xu-abilities": true,
+		"xu-allies": true,
+		"xu-art": true,
+		"xu-classes": true,
+		"xu-items": true,
+		"xu-profile-boards": true,
+		"xu-traits": true,
+		"gm": true,
+		"gm-art": true
 	}
 
 	chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {
