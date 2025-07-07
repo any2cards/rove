@@ -1,5 +1,7 @@
 var expansion_conversion = {
-	"rv": "Rove",
+	"co": "Core",
+	"xu": "Xulc",
+	"gm": "Game",
 };
 
 const getExpFromInputId = (input_id) => {
