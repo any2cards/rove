@@ -41,8 +41,8 @@ rv-bazhar-standee-back.png,                                 core,       standees
 rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar caller,                                 x-###,   1
 rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar caller,                                 x-###,   1
 rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar charger,                                x-###,   1
-rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar charger,                                x-###,   1
-rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar creator,                                x-###,   1
+rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar charger,                                x-###,   1
+rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar creator,                                x-###,   1
 rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar creator,                                x-###,   1
 rv-briarbull-standee-front.png,                             core,       standees,    adversaries,   briarbull,                                     x-###,   1
 rv-briarbull-standee-back.png,                              core,       standees,    adversaries,   briarbull,                                     x-###,   1
@@ -328,8 +328,8 @@ rv-ridge-striker-adamant-ardorok-standee-front.png,         core,       standees
 rv-ridge-striker-adamant-ardorok-standee-back.png,          core,       standees,    summons,       ridge striker adamant ardorok standee,         x-###,   1
 rv-fountain-caller-growing-typhon-standee-front.png,        xulc,       standees,    summons,       fountain caller growing typhon standee,        x-###,   1
 rv-fountain-caller-growing-typhon-standee-back.png,         xulc,       standees,    summons,       fountain caller growing typhon standee,        x-###,   1
-rv-fountain-caller-resplendant-ardorok-standee-front.png,   xulc,       standees,    summons,       fountain caller resplendant arkorok standee,   x-###,   1
-rv-fountain-caller-resplendant-ardorok-standee-back.png,    xulc,       standees,    summons,       fountain caller resplendant arkorok standee,   x-###,   1
+rv-fountain-caller-resplendant-ardorok-standee-front.png,   xulc,       standees,    summons,       fountain caller resplendant ardorok standee,   x-###,   1
+rv-fountain-caller-resplendant-ardorok-standee-back.png,    xulc,       standees,    summons,       fountain caller resplendant ardorok standee,   x-###,   1
 rv-wellspring-ewer-radiant-ardorok-standee-front.png,       xulc,       standees,    summons,       wellspring ewer radiant ardorok standee,       x-###,   1
 rv-wellspring-ewer-radiant-ardorok-standee-back.png,        xulc,       standees,    summons,       wellspring ewer radiant ardorok standee,       x-###,   1
 rv-wellspring-ewer-sunburst-zokolati-standee-front.png,     xulc,       standees,    summons,       wellspring ewer sunburst zokolati standee,     x-###,   1
@@ -352,8 +352,8 @@ rv-helion-aura.png,                                         core,       tokens, 
 rv-helion-miasma.png,                                       core,       tokens,      classes,       helion miasma,                                 x-###,   1
 rv-helion-raging-inferno.png,                               core,       tokens,      classes,       helion raging inferno,                         x-###,   1
 rv-invisible-hand-miasma.png,                               core,       tokens,      classes,       invisible hand miasma,                         x-###,   1
-rv-maximist-alluring-thureoll-back.png,                     core,       tokens,      classes,       mistral alluring thureoll,                     x-###,   1
-rv-maximist-alluring-thureoll-front.png,                    core,       tokens,      classes,       mistral alluring thureoll,                     x-###,   1
+rv-maximist-alluring-thureoll-back.png,                     core,       tokens,      classes,       maximist alluring thureoll,                    x-###,   1
+rv-maximist-alluring-thureoll-front.png,                    core,       tokens,      classes,       maximist alluring thureoll,                    x-###,   1
 rv-maximist-aura.png,                                       core,       tokens,      classes,       maximist aura,                                 x-###,   1
 rv-maximist-luminescent-quartic-back.png,                   core,       tokens,      classes,       maximist luminescent quartic,                  x-###,   1
 rv-maximist-luminescent-quartic-front.png,                  core,       tokens,      classes,       maximist luminescent quartic,                  x-###,   1

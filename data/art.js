@@ -2632,7 +2632,7 @@
     "cardno": "x-###"
   },
   {
-    "name": "fountain caller resplendant arkorok standee",
+    "name": "fountain caller resplendant ardorok standee",
     "points": 329,
     "expansion": "xulc",
     "image": "art/rove/xulc/standees/summons/rv-fountain-caller-resplendant-ardorok-standee-front.png",
@@ -2640,7 +2640,7 @@
     "cardno": "x-###"
   },
   {
-    "name": "fountain caller resplendant arkorok standee",
+    "name": "fountain caller resplendant ardorok standee",
     "points": 330,
     "expansion": "xulc",
     "image": "art/rove/xulc/standees/summons/rv-fountain-caller-resplendant-ardorok-standee-back.png",
@@ -2824,19 +2824,19 @@
     "cardno": "x-###"
   },
   {
-    "name": "mistral alluring thureoll",
+    "name": "maximist alluring thureoll",
     "points": 353,
     "expansion": "core",
     "image": "art/rove/core/tokens/classes/rv-maximist-alluring-thureoll-back.png",
-    "xws": "mistralalluringthureoll",
+    "xws": "maximistalluringthureoll",
     "cardno": "x-###"
   },
   {
-    "name": "mistral alluring thureoll",
+    "name": "maximist alluring thureoll",
     "points": 354,
     "expansion": "core",
     "image": "art/rove/core/tokens/classes/rv-maximist-alluring-thureoll-front.png",
-    "xws": "mistralalluringthureoll",
+    "xws": "maximistalluringthureoll",
     "cardno": "x-###"
   },
   {
