@@ -1,0 +1,437 @@
+# File Name                                                 Expansion   Class Type   Class Name     Card Name                                      Card #   Printflag
+rv-desktop-river-market.png,                                game,       pictures,    desktop,       desktop river market,                          x-###,   1
+rv-desktop-silky-village.png,                               game,       pictures,    desktop,       desktop silky village,                         x-###,   1
+rv-desktop-starling-sanctum.png,                            game,       pictures,    desktop,       desktop starling sanctum,                      x-###,   1
+rv-game-box-cover.png,                                      game,       pictures,    game,          game box cover,                                x-###,   1
+rv-game-taharik-battle.png,                                 game,       pictures,    game,          game taharik battle,                           x-###,   1
+rv-mobile-dune-dancer.png,                                  game,       pictures,    mobile,        mobile dune dancer,                            x-###,   1
+rv-mobile-flash.png,                                        game,       pictures,    mobile,        mobile flash,                                  x-###,   1
+rv-mobile-shadow-piercer.png,                               game,       pictures,    mobile,        mobile shadow piercer,                         x-###,   1
+rv-mobile-sophist.png,                                      game,       pictures,    mobile,        mobile sophist,                                x-###,   1
+rv-mobile-true-scale.png,                                   game,       pictures,    mobile,        mobile true scale,                             x-###,   1
+rv-poster-dune-dancer.png,                                  game,       pictures,    poster,        poster dune dancer,                            x-###,   1
+rv-poster-flash.png,                                        game,       pictures,    poster,        poster flash,                                  x-###,   1
+rv-poster-shadow-piercer.png,                               game,       pictures,    poster,        poster shadow piercer,                         x-###,   1
+rv-poster-sophist.png,                                      game,       pictures,    poster,        poster sophist,                                x-###,   1
+rv-poster-true-scale.png,                                   game,       pictures,    poster,        poster true scale,                             x-###,   1
+rv-ahma-standee-front.png,                                  core,       standees,    adversaries,   ahma,                                          x-###,   1
+rv-ahma-standee-back.png,                                   core,       standees,    adversaries,   ahma,                                          x-###,   1
+rv-ahma-standee-front.png,                                  core,       standees,    adversaries,   ahma corrupter,                                x-###,   1
+rv-ahma-standee-back.png,                                   core,       standees,    adversaries,   ahma corrupter,                                x-###,   1
+rv-ahma-standee-front.png,                                  core,       standees,    adversaries,   ahma desperate,                                x-###,   1
+rv-ahma-standee-back.png,                                   core,       standees,    adversaries,   ahma desperate,                                x-###,   1
+rv-ahma-standee-front.png,                                  core,       standees,    adversaries,   ahma enraged,                                  x-###,   1
+rv-ahma-standee-back.png,                                   core,       standees,    adversaries,   ahma enraged,                                  x-###,   1
+rv-ahma-standee-front.png,                                  core,       standees,    adversaries,   ahma wretched,                                 x-###,   1
+rv-ahma-standee-back.png,                                   core,       standees,    adversaries,   ahma wretched,                                 x-###,   1
+rv-andiron-standee-front.png,                               core,       standees,    adversaries,   andiron,                                       x-###,   1
+rv-andiron-standee-back.png,                                core,       standees,    adversaries,   andiron,                                       x-###,   1
+rv-ashemak-standee-front.png,                               core,       standees,    adversaries,   ashemak,                                       x-###,   1
+rv-ashemak-standee-back.png,                                core,       standees,    adversaries,   ashemak,                                       x-###,   1
+rv-ashemak-standee-front.png,                               core,       standees,    adversaries,   faltering ashemak,                             x-###,   1
+rv-ashemak-standee-back.png,                                core,       standees,    adversaries,   faltering ashemak,                             x-###,   1
+rv-azoth-standee-front.png,                                 core,       standees,    adversaries,   azoth,                                         x-###,   1
+rv-azoth-standee-back.png,                                  core,       standees,    adversaries,   azoth,                                         x-###,   1
+rv-azoth-standee-front.png,                                 core,       standees,    adversaries,   hyperborea,                                    x-###,   1
+rv-azoth-standee-back.png,                                  core,       standees,    adversaries,   hyperborea,                                    x-###,   1
+rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar,                                        x-###,   1
+rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar,                                        x-###,   1
+rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar absolute,                               x-###,   1
+rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar absolute,                               x-###,   1
+rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar caller,                                 x-###,   1
+rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar caller,                                 x-###,   1
+rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar charger,                                x-###,   1
+rv-bazhar-standee-front.png,                                core,       standees,    adversaries,   bazhar charger,                                x-###,   1
+rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar creator,                                x-###,   1
+rv-bazhar-standee-back.png,                                 core,       standees,    adversaries,   bazhar creator,                                x-###,   1
+rv-briarbull-standee-front.png,                             core,       standees,    adversaries,   briarbull,                                     x-###,   1
+rv-briarbull-standee-back.png,                              core,       standees,    adversaries,   briarbull,                                     x-###,   1
+rv-briarbull-standee-front.png,                             core,       standees,    adversaries,   zipahudi the briarbull,                        x-###,   1
+rv-briarbull-standee-back.png,                              core,       standees,    adversaries,   zipahudi the briarbull,                        x-###,   1
+rv-briarwog-standee-front.png,                              core,       standees,    adversaries,   briarwog,                                      x-###,   1
+rv-briarwog-standee-back.png,                               core,       standees,    adversaries,   briarwog,                                      x-###,   1
+rv-broken-vessel-standee-front.png,                         core,       standees,    adversaries,   broken vessel,                                 x-###,   1
+rv-broken-vessel-standee-back.png,                          core,       standees,    adversaries,   broken vessel,                                 x-###,   1
+rv-broken-vessel-standee-front.png,                         core,       standees,    adversaries,   corrupted form,                                x-###,   1
+rv-broken-vessel-standee-back.png,                          core,       standees,    adversaries,   corrupted form,                                x-###,   1
+rv-bulwauros-standee-front.png,                             core,       standees,    adversaries,   bulwauros,                                     x-###,   1
+rv-bulwauros-standee-back.png,                              core,       standees,    adversaries,   bulwauros,                                     x-###,   1
+rv-bulwauros-standee-front.png,                             core,       standees,    adversaries,   bulwauros husk,                                x-###,   1
+rv-bulwauros-standee-back.png,                              core,       standees,    adversaries,   bulwauros husk,                                x-###,   1
+rv-crown-standee-front.png,                                 core,       standees,    adversaries,   crown,                                         x-###,   1
+rv-crown-standee-back.png,                                  core,       standees,    adversaries,   crown,                                         x-###,   1
+rv-crown-standee-front.png,                                 core,       standees,    adversaries,   fading crown,                                  x-###,   1
+rv-crown-standee-back.png,                                  core,       standees,    adversaries,   fading crown,                                  x-###,   1
+rv-crown-standee-front.png,                                 core,       standees,    adversaries,   uzem's anxiety,                                x-###,   1
+rv-crown-standee-back.png,                                  core,       standees,    adversaries,   uzem's anxiety,                                x-###,   1
+rv-crown-standee-front.png,                                 core,       standees,    adversaries,   uzem's endurance,                              x-###,   1
+rv-crown-standee-back.png,                                  core,       standees,    adversaries,   uzem's endurance,                              x-###,   1
+rv-crown-standee-front.png,                                 core,       standees,    adversaries,   uzem's fervor,                                 x-###,   1
+rv-crown-standee-back.png,                                  core,       standees,    adversaries,   uzem's fervor,                                 x-###,   1
+rv-crown-standee-front.png,                                 core,       standees,    adversaries,   uzem's woe,                                    x-###,   1
+rv-crown-standee-back.png,                                  core,       standees,    adversaries,   uzem's woe,                                    x-###,   1
+rv-dekaha-standee-front.png,                                core,       standees,    adversaries,   dekaha,                                        x-###,   1
+rv-dekaha-standee-back.png,                                 core,       standees,    adversaries,   dekaha,                                        x-###,   1
+rv-dekaha-standee-front.png,                                core,       standees,    adversaries,   withering dekaha,                              x-###,   1
+rv-dekaha-standee-back.png,                                 core,       standees,    adversaries,   withering dekaha,                              x-###,   1
+rv-dyad-standee-front.png,                                  core,       standees,    adversaries,   dyad,                                          x-###,   1
+rv-dyad-standee-back.png,                                   core,       standees,    adversaries,   dyad,                                          x-###,   1
+rv-dyad-standee-front.png,                                  core,       standees,    adversaries,   dyad hatchling,                                x-###,   1
+rv-dyad-standee-back.png,                                   core,       standees,    adversaries,   dyad hatchling,                                x-###,   1
+rv-dyad-standee-front.png,                                  core,       standees,    adversaries,   listless dyad,                                 x-###,   1
+rv-dyad-standee-back.png,                                   core,       standees,    adversaries,   listless dyad,                                 x-###,   1
+rv-eclipse-mounted-standee-front.png,                       core,       standees,    adversaries,   eclipse mounted,                               x-###,   1
+rv-eclipse-mounted-standee-back.png,                        core,       standees,    adversaries,   eclipse mounted,                               x-###,   1
+rv-eclipse-standee-front.png,                               core,       standees,    adversaries,   eclipse,                                       x-###,   1
+rv-eclipse-standee-back.png,                                core,       standees,    adversaries,   eclipse,                                       x-###,   1
+rv-eclipse-standee-front.png,                               core,       standees,    adversaries,   eclipse ether ascended,                        x-###,   1
+rv-eclipse-standee-back.png,                                core,       standees,    adversaries,   eclipse ether ascended,                        x-###,   1
+rv-fell-cradle-standee-front.png,                           core,       standees,    adversaries,   fell cradle,                                   x-###,   1
+rv-fell-cradle-standee-back.png,                            core,       standees,    adversaries,   fell cradle,                                   x-###,   1
+rv-fell-cradle-standee-front.png,                           core,       standees,    adversaries,   broken reflection,                             x-###,   1
+rv-fell-cradle-standee-back.png,                            core,       standees,    adversaries,   broken reflection,                             x-###,   1
+rv-femii-standee-front.png,                                 core,       standees,    adversaries,   femii,                                         x-###,   1
+rv-femii-standee-back.png,                                  core,       standees,    adversaries,   femii,                                         x-###,   1
+rv-femii-standee-front.png,                                 core,       standees,    adversaries,   femii sovereign,                               x-###,   1
+rv-femii-standee-back.png,                                  core,       standees,    adversaries,   femii sovereign,                               x-###,   1
+rv-galeaper-queen-standee-front.png,                        core,       standees,    adversaries,   galeaper queen,                                x-###,   1
+rv-galeaper-queen-standee-back.png,                         core,       standees,    adversaries,   galeaper queen,                                x-###,   1
+rv-galeaper-standee-front.png,                              core,       standees,    adversaries,   galeaper,                                      x-###,   1
+rv-galeaper-standee-back.png,                               core,       standees,    adversaries,   galeaper,                                      x-###,   1
+rv-galeaper-standee-front.png,                              core,       standees,    adversaries,   galeling,                                      x-###,   1
+rv-galeaper-standee-back.png,                               core,       standees,    adversaries,   galeling,                                      x-###,   1
+rv-grovetender-standee-front.png,                           core,       standees,    adversaries,   grovetender,                                   x-###,   1
+rv-grovetender-standee-back.png,                            core,       standees,    adversaries,   grovetender,                                   x-###,   1
+rv-grovetender-standee-front.png,                           core,       standees,    adversaries,   hokmala,                                       x-###,   1
+rv-grovetender-standee-back.png,                            core,       standees,    adversaries,   hokmala,                                       x-###,   1
+rv-gruv-standee-front.png,                                  core,       standees,    adversaries,   gruv,                                          x-###,   1
+rv-gruv-standee-back.png,                                   core,       standees,    adversaries,   gruv,                                          x-###,   1
+rv-gruv-standee-front.png,                                  core,       standees,    adversaries,   fracturing gruv,                               x-###,   1
+rv-gruv-standee-back.png,                                   core,       standees,    adversaries,   fracturing gruv,                               x-###,   1
+rv-harrow-standee-front.png,                                core,       standees,    adversaries,   harrow,                                        x-###,   1
+rv-harrow-standee-back.png,                                 core,       standees,    adversaries,   harrow,                                        x-###,   1
+rv-harrow-standee-front.png,                                core,       standees,    adversaries,   final cut,                                     x-###,   1
+rv-harrow-standee-back.png,                                 core,       standees,    adversaries,   final cut,                                     x-###,   1
+rv-harrow-standee-front.png,                                core,       standees,    adversaries,   heavy hand,                                    x-###,   1
+rv-harrow-standee-back.png,                                 core,       standees,    adversaries,   heavy hand,                                    x-###,   1
+rv-haunt-standee-front.png,                                 core,       standees,    adversaries,   haunt,                                         x-###,   1
+rv-haunt-standee-back.png,                                  core,       standees,    adversaries,   haunt,                                         x-###,   1
+rv-hydra-standee-front.png,                                 core,       standees,    adversaries,   hydra,                                         x-###,   1
+rv-hydra-standee-back.png,                                  core,       standees,    adversaries,   hydra,                                         x-###,   1
+rv-kaleido-standee-front.png,                               core,       standees,    adversaries,   kaleido,                                       x-###,   1
+rv-kaleido-standee-back.png,                                core,       standees,    adversaries,   kaleido,                                       x-###,   1
+rv-kaleido-tentacle-standee-front.png,                      core,       standees,    adversaries,   kaleido tentacle,                              x-###,   1
+rv-kaleido-tentacle-standee-back.png,                       core,       standees,    adversaries,   Kaleido tentacle,                              x-###,   1
+rv-kaleido-tentacle-standee-front.png,                      core,       standees,    adversaries,   tentacle,                                      x-###,   1
+rv-kaleido-tentacle-standee-back.png,                       core,       standees,    adversaries,   tentacle,                                      x-###,   1
+rv-kelo-and-saras-standee-front.png,                        core,       standees,    adversaries,   kelo and saras,                                x-###,   1
+rv-kelo-and-saras-standee-back.png,                         core,       standees,    adversaries,   kelo and saras,                                x-###,   1
+rv-kelo-and-saras-standee-front.png,                        core,       standees,    adversaries,   kelo,                                          x-###,   1
+rv-kelo-and-saras-standee-back.png,                         core,       standees,    adversaries,   kelo,                                          x-###,   1
+rv-kelo-and-saras-standee-front.png,                        core,       standees,    adversaries,   saras,                                         x-###,   1
+rv-kelo-and-saras-standee-back.png,                         core,       standees,    adversaries,   saras,                                         x-###,   1
+rv-kifa-standee-front.png,                                  core,       standees,    adversaries,   kifa,                                          x-###,   1
+rv-kifa-standee-back.png,                                   core,       standees,    adversaries,   kifa,                                          x-###,   1
+rv-marii-standee-front.png,                                 core,       standees,    adversaries,   marii,                                         x-###,   1
+rv-marii-standee-back.png,                                  core,       standees,    adversaries,   marii,                                         x-###,   1
+rv-marii-standee-front.png,                                 core,       standees,    adversaries,   marii advocate,                                x-###,   1
+rv-marii-standee-back.png,                                  core,       standees,    adversaries,   marii advocate,                                x-###,   1
+rv-nahadir-standee-front.png,                               core,       standees,    adversaries,   nahadir,                                       x-###,   1
+rv-nahadir-standee-back.png,                                core,       standees,    adversaries,   nahadir,                                       x-###,   1
+rv-nahadir-standee-front.png,                               core,       standees,    adversaries,   zaghan nahadir,                                x-###,   1
+rv-nahadir-standee-back.png,                                core,       standees,    adversaries,   zaghan nahadir,                                x-###,   1
+rv-nahoot-standee-front.png,                                core,       standees,    adversaries,   nahoot,                                        x-###,   1
+rv-nahoot-standee-back.png,                                 core,       standees,    adversaries,   nahoot,                                        x-###,   1
+rv-nahoot-standee-front.png,                                core,       standees,    adversaries,   zaghan nahoot,                                 x-###,   1
+rv-nahoot-standee-back.png,                                 core,       standees,    adversaries,   zaghan nahoot,                                 x-###,   1
+rv-nektari-standee-front.png,                               core,       standees,    adversaries,   nektari,                                       x-###,   1
+rv-nektari-standee-back.png,                                core,       standees,    adversaries,   nektari,                                       x-###,   1
+rv-nektari-standee-front.png,                               core,       standees,    adversaries,   nektari swarm,                                 x-###,   1
+rv-nektari-standee-back.png,                                core,       standees,    adversaries,   nektari swarm,                                 x-###,   1
+rv-nektari-standee-front.png,                               core,       standees,    adversaries,   corrupted nektari swarm,                       x-###,   1
+rv-nektari-standee-back.png,                                core,       standees,    adversaries,   corrupted nektari swarm,                       x-###,   1
+rv-onisski-standee-front.png,                               core,       standees,    adversaries,   onisski,                                       x-###,   1
+rv-onisski-standee-back.png,                                core,       standees,    adversaries,   onisski,                                       x-###,   1
+rv-querist-standee-front.png,                               core,       standees,    adversaries,   querist,                                       x-###,   1
+rv-querist-standee-back.png,                                core,       standees,    adversaries,   querist,                                       x-###,   1
+rv-rakifa-standee-front.png,                                core,       standees,    adversaries,   rakifa,                                        x-###,   1
+rv-rakifa-standee-back.png,                                 core,       standees,    adversaries,   rakifa,                                        x-###,   1
+rv-ranger-standee-front.png,                                core,       standees,    adversaries,   ranger,                                        x-###,   1
+rv-ranger-standee-back.png,                                 core,       standees,    adversaries,   ranger,                                        x-###,   1
+rv-ranger-standee-front.png,                                core,       standees,    adversaries,   borrowed vessel,                               x-###,   1
+rv-ranger-standee-back.png,                                 core,       standees,    adversaries,   borrowed vessel,                               x-###,   1
+rv-ranger-standee-front.png,                                core,       standees,    adversaries,   courslayer,                                    x-###,   1
+rv-ranger-standee-back.png,                                 core,       standees,    adversaries,   courslayer,                                    x-###,   1
+rv-ranger-standee-front.png,                                core,       standees,    adversaries,   piercing gaze,                                 x-###,   1
+rv-ranger-standee-back.png,                                 core,       standees,    adversaries,   piercing gaze,                                 x-###,   1
+rv-ranger-standee-front.png,                                core,       standees,    adversaries,   warden,                                        x-###,   1
+rv-ranger-standee-back.png,                                 core,       standees,    adversaries,   warden,                                        x-###,   1
+rv-scour-standee-front.png,                                 core,       standees,    adversaries,   scour,                                         x-###,   1
+rv-scour-standee-back.png,                                  core,       standees,    adversaries,   scour,                                         x-###,   1
+rv-sek-standee-front.png,                                   core,       standees,    adversaries,   sek,                                           x-###,   1
+rv-sek-standee-back.png,                                    core,       standees,    adversaries,   sek,                                           x-###,   1
+rv-sek-standee-front.png,                                   core,       standees,    adversaries,   sek principal,                                 x-###,   1
+rv-sek-standee-back.png,                                    core,       standees,    adversaries,   sek principal,                                 x-###,   1
+rv-skara-standee-front.png,                                 core,       standees,    adversaries,   skara,                                         x-###,   1
+rv-skara-standee-back.png,                                  core,       standees,    adversaries,   skara,                                         x-###,   1
+rv-squall-standee-front.png,                                core,       standees,    adversaries,   squall,                                        x-###,   1
+rv-squall-standee-back.png,                                 core,       standees,    adversaries,   squall,                                        x-###,   1
+rv-stomaw-standee-front.png,                                core,       standees,    adversaries,   stomaw,                                        x-###,   1
+rv-stomaw-standee-back.png,                                 core,       standees,    adversaries,   stomaw,                                        x-###,   1
+rv-stomaw-standee-front.png,                                core,       standees,    adversaries,   endless hunger,                                x-###,   1
+rv-stomaw-standee-back.png,                                 core,       standees,    adversaries,   endless hunger,                                x-###,   1
+rv-stomaw-standee-front.png,                                core,       standees,    adversaries,   writhing stomaw,                               x-###,   1
+rv-stomaw-standee-back.png,                                 core,       standees,    adversaries,   writhing stomaw,                               x-###,   1
+rv-stormcaller-standee-front.png,                           core,       standees,    adversaries,   stormcaller,                                   x-###,   1
+rv-stormcaller-standee-back.png,                            core,       standees,    adversaries,   stormcaller,                                   x-###,   1
+rv-stormcaller-standee-front.png,                           core,       standees,    adversaries,   battering winds,                               x-###,   1
+rv-stormcaller-standee-back.png,                            core,       standees,    adversaries,   battering winds,                               x-###,   1
+rv-stormcaller-standee-front.png,                           core,       standees,    adversaries,   embercaller,                                   x-###,   1
+rv-stormcaller-standee-back.png,                            core,       standees,    adversaries,   embercaller,                                   x-###,   1
+rv-stormcaller-standee-front.png,                           core,       standees,    adversaries,   stolen breath,                                 x-###,   1
+rv-stormcaller-standee-back.png,                            core,       standees,    adversaries,   stolen breath,                                 x-###,   1
+rv-stormcaller-standee-front.png,                           core,       standees,    adversaries,   tremorcaller,                                  x-###,   1
+rv-stormcaller-standee-back.png,                            core,       standees,    adversaries,   tremorcaller,                                  x-###,   1
+rv-stormcaller-standee-front.png,                           core,       standees,    adversaries,   wavecaller,                                    x-###,   1
+rv-stormcaller-standee-back.png,                            core,       standees,    adversaries,   wavecaller,                                    x-###,   1
+rv-streak-standee-front.png,                                core,       standees,    adversaries,   streak,                                        x-###,   1
+rv-streak-standee-back.png,                                 core,       standees,    adversaries,   streak,                                        x-###,   1
+rv-svaraka-standee-front.png,                               core,       standees,    adversaries,   svaraka,                                       x-###,   1
+rv-svaraka-standee-back.png,                                core,       standees,    adversaries,   svaraka,                                       x-###,   1
+rv-terranape-standee-front.png,                             core,       standees,    adversaries,   terranape,                                     x-###,   1
+rv-terranape-standee-back.png,                              core,       standees,    adversaries,   terranape,                                     x-###,   1
+rv-terranape-standee-front.png,                             core,       standees,    adversaries,   bursting terranape,                            x-###,   1
+rv-terranape-standee-back.png,                              core,       standees,    adversaries,   bursting terranape,                            x-###,   1
+rv-urn-standee-front.png,                                   core,       standees,    adversaries,   urn,                                           x-###,   1
+rv-urn-standee-back.png,                                    core,       standees,    adversaries,   urn,                                           x-###,   1
+rv-urn-standee-front.png,                                   core,       standees,    adversaries,   urnlette,                                      x-###,   1
+rv-urn-standee-back.png,                                    core,       standees,    adversaries,   urnlette,                                      x-###,   1
+rv-uzem-standee-front.png,                                  core,       standees,    adversaries,   uzem,                                          x-###,   1
+rv-uzem-standee-back.png,                                   core,       standees,    adversaries,   uzem,                                          x-###,   1
+rv-uzem-standee-front.png,                                  core,       standees,    adversaries,   breath of uzem,                                x-###,   1
+rv-uzem-standee-back.png,                                   core,       standees,    adversaries,   breath of uzem,                                x-###,   1
+rv-uzem-standee-front.png,                                  core,       standees,    adversaries,   rage of uzem,                                  x-###,   1
+rv-uzem-standee-back.png,                                   core,       standees,    adversaries,   rage of uzem,                                  x-###,   1
+rv-uzem-standee-front.png,                                  core,       standees,    adversaries,   tears of uzem,                                 x-###,   1
+rv-uzem-standee-back.png,                                   core,       standees,    adversaries,   tears of uzem,                                 x-###,   1
+rv-uzem-standee-front.png,                                  core,       standees,    adversaries,   the king of storms,                            x-###,   1
+rv-uzem-standee-back.png,                                   core,       standees,    adversaries,   the king of storms,                            x-###,   1
+rv-wrathbone-standee-front.png,                             core,       standees,    adversaries,   wrathbone,                                     x-###,   1
+rv-wrathbone-standee-back.png,                              core,       standees,    adversaries,   wrathbone,                                     x-###,   1
+rv-zeepurah-standee-front.png,                              core,       standees,    adversaries,   zeepurah,                                      x-###,   1
+rv-zeepurah-standee-back.png,                               core,       standees,    adversaries,   zeepurah,                                      x-###,   1
+rv-zinix-standee-front.png,                                 core,       standees,    adversaries,   zinix,                                         x-###,   1
+rv-zinix-standee-back.png,                                  core,       standees,    adversaries,   zinix,                                         x-###,   1
+rv-zisafi-standee-front.png,                                core,       standees,    adversaries,   zisafi,                                        x-###,   1
+rv-zisafi-standee-back.png,                                 core,       standees,    adversaries,   zisafi,                                        x-###,   1
+rv-zisafi-standee-front.png,                                core,       standees,    adversaries,   zisafi principal,                              x-###,   1
+rv-zisafi-standee-back.png,                                 core,       standees,    adversaries,   zisafi principal,                              x-###,   1
+rv-zisafi-standee-front.png,                                core,       standees,    adversaries,   zisafi taskmaster,                             x-###,   1
+rv-zisafi-standee-back.png,                                 core,       standees,    adversaries,   zisafi taskmaster,                             x-###,   1
+rv-armored-xulc-standee-front.png,                          xulc,       standees,    adversaries,   armored Xulc,                                  x-###,   1
+rv-armored-xulc-standee-back.png,                           xulc,       standees,    adversaries,   armored Xulc,                                  x-###,   1
+rv-cleaving-xulc-standee-front.png,                         xulc,       standees,    adversaries,   cleaving Xulc,                                 x-###,   1
+rv-cleaving-xulc-standee-back.png,                          xulc,       standees,    adversaries,   cleaving Xulc,                                 x-###,   1
+rv-flying-xulc-standee-front.png,                           xulc,       standees,    adversaries,   flying Xulc,                                   x-###,   1
+rv-flying-xulc-standee-back.png,                            xulc,       standees,    adversaries,   flying Xulc,                                   x-###,   1
+rv-hastadilling-standee-front.png,                          xulc,       standees,    adversaries,   hastadilling,                                  x-###,   1
+rv-hastadilling-standee-back.png,                           xulc,       standees,    adversaries,   hastadilling,                                  x-###,   1
+rv-hastadilling-standee-front.png,                          xulc,       standees,    adversaries,   hastadilling Core,                             x-###,   1
+rv-hastadilling-standee-back.png,                           xulc,       standees,    adversaries,   hastadilling Core,                             x-###,   1
+rv-hastadilling-standee-front.png,                          xulc,       standees,    adversaries,   hastadilling headless,                         x-###,   1
+rv-hastadilling-standee-back.png,                           xulc,       standees,    adversaries,   hastadilling headless,                         x-###,   1
+rv-head-standee-front.png,                                  xulc,       standees,    adversaries,   head,                                          x-###,   1
+rv-head-standee-back.png,                                   xulc,       standees,    adversaries,   head,                                          x-###,   1
+rv-hunter-standee-front.png,                                xulc,       standees,    adversaries,   hunter,                                        x-###,   1
+rv-hunter-standee-back.png,                                 xulc,       standees,    adversaries,   hunter,                                        x-###,   1
+rv-nidus-standee-front.png,                                 xulc,       standees,    adversaries,   nidus,                                         x-###,   1
+rv-nidus-standee-back.png,                                  xulc,       standees,    adversaries,   nidus,                                         x-###,   1
+rv-nidus-standee-front.png,                                 xulc,       standees,    adversaries,   colony,                                        x-###,   1
+rv-nidus-standee-back.png,                                  xulc,       standees,    adversaries,   colony,                                        x-###,   1
+rv-prime-xulc-standee-front.png,                            xulc,       standees,    adversaries,   prime Xulc,                                    x-###,   1
+rv-prime-xulc-standee-back.png,                             xulc,       standees,    adversaries,   prime Xulc,                                    x-###,   1
+rv-prime-xulc-standee-front.png,                            xulc,       standees,    adversaries,   prime xulc brood matron,                       x-###,   1
+rv-prime-xulc-standee-back.png,                             xulc,       standees,    adversaries,   prime xulc brood matron,                       x-###,   1
+rv-prime-xulc-standee-front.png,                            xulc,       standees,    adversaries,   prime xulc deliverer,                          x-###,   1
+rv-prime-xulc-standee-back.png,                             xulc,       standees,    adversaries,   prime xulc deliverer,                          x-###,   1
+rv-prime-xulc-standee-front.png,                            xulc,       standees,    adversaries,   prime xulc dominator,                          x-###,   1
+rv-prime-xulc-standee-back.png,                             xulc,       standees,    adversaries,   prime xulc dominator,                          x-###,   1
+rv-regenerator-standee-front.png,                           xulc,       standees,    adversaries,   regenerator,                                   x-###,   1
+rv-regenerator-standee-back.png,                            xulc,       standees,    adversaries,   regenerator,                                   x-###,   1
+rv-stolen-urn-standee-front.png,                            xulc,       standees,    adversaries,   stolen urn,                                    x-###,   1
+rv-stolen-urn-standee-back.png,                             xulc,       standees,    adversaries,   stolen urn,                                    x-###,   1
+rv-undercarriage-standee-front.png,                         xulc,       standees,    adversaries,   undercarriage,                                 x-###,   1
+rv-undercarriage-standee-back.png,                          xulc,       standees,    adversaries,   undercarriage,                                 x-###,   1
+rv-hra-standee-front.png,                                   core,       standees,    allies,        hra,                                           x-###,   1
+rv-hra-standee-back.png,                                    core,       standees,    allies,        hra,                                           x-###,   1
+rv-ozendyn-standee-front.png,                               core,       standees,    allies,        ozendyn,                                       x-###,   1
+rv-ozendyn-standee-back.png,                                core,       standees,    allies,        ozendyn,                                       x-###,   1
+rv-aster-standee-front.png,                                 core,       standees,    classes,       aster standee,                                 x-###,   1
+rv-aster-standee-back.png,                                  core,       standees,    classes,       aster standee,                                 x-###,   1
+rv-canyon-temper-standee-front.png,                         core,       standees,    classes,       canyon temper standee,                         x-###,   1
+rv-canyon-temper-standee-back.png,                          core,       standees,    classes,       canyon temper standee,                         x-###,   1
+rv-conceptualist-standee-front.png,                         core,       standees,    classes,       conceptualist standee,                         x-###,   1
+rv-conceptualist-standee-back.png,                          core,       standees,    classes,       conceptualist standee,                         x-###,   1
+rv-dune-dancer-standee-front.png,                           core,       standees,    classes,       dune dancer standee,                           x-###,   1
+rv-dune-dancer-standee-back.png,                            core,       standees,    classes,       dune dancer standee,                           x-###,   1
+rv-flash-standee-front.png,                                 core,       standees,    classes,       flash standee,                                 x-###,   1
+rv-flash-standee-back.png,                                  core,       standees,    classes,       flash standee,                                 x-###,   1
+rv-helion-standee-front.png,                                core,       standees,    classes,       helion standee,                                x-###,   1
+rv-helion-standee-back.png,                                 core,       standees,    classes,       helion standee,                                x-###,   1
+rv-invisible-hand-standee-front.png,                        core,       standees,    classes,       invisible hand standee,                        x-###,   1
+rv-invisible-hand-standee-back.png,                         core,       standees,    classes,       invisible hand standee,                        x-###,   1
+rv-maximist-standee-front.png,                              core,       standees,    classes,       maximist standee,                              x-###,   1
+rv-maximist-standee-back.png,                               core,       standees,    classes,       maximist standee,                              x-###,   1
+rv-nocturne-hoarfrost-standee-front.png,                    core,       standees,    classes,       nocturne hoarfrost standee,                    x-###,   1
+rv-nocturne-hoarfrost-standee-back.png,                     core,       standees,    classes,       nocturne hoarfrost standee,                    x-###,   1
+rv-ridge-striker-standee-front.png,                         core,       standees,    classes,       ridge striker standee,                         x-###,   1
+rv-ridge-striker-standee-back.png,                          core,       standees,    classes,       ridge striker standee,                         x-###,   1
+rv-shadow-piercer-standee-front.png,                        core,       standees,    classes,       shadow piercer standee,                        x-###,   1
+rv-shadow-piercer-standee-back.png,                         core,       standees,    classes,       shadow piercer standee,                        x-###,   1
+rv-sophist-standee-front.png,                               core,       standees,    classes,       sophist standee,                               x-###,   1
+rv-sophist-standee-back.png,                                core,       standees,    classes,       sophist standee,                               x-###,   1
+rv-toll-bearer-standee-front.png,                           core,       standees,    classes,       toll bearer standee,                           x-###,   1
+rv-toll-bearer-standee-back.png,                            core,       standees,    classes,       toll bearer standee,                           x-###,   1
+rv-true-scale-standee-front.png,                            core,       standees,    classes,       true scale standee,                            x-###,   1
+rv-true-scale-standee-back.png,                             core,       standees,    classes,       true scale standee,                            x-###,   1
+rv-umbral-howl-standee-front.png,                           core,       standees,    classes,       umbral howl standee,                           x-###,   1
+rv-umbral-howl-standee-back.png,                            core,       standees,    classes,       umbral howl standee,                           x-###,   1
+rv-essentialist-standee-front.png,                          xulc,       standees,    classes,       essentialist standee,                          x-###,   1
+rv-essentialist-standee-back.png,                           xulc,       standees,    classes,       essentialist standee,                          x-###,   1
+rv-fierce-ransomer-standee-front.png,                       xulc,       standees,    classes,       fierce ransomer standee,                       x-###,   1
+rv-fierce-ransomer-standee-back.png,                        xulc,       standees,    classes,       fierce ransomer standee,                       x-###,   1
+rv-fountain-caller-standee-front.png,                       xulc,       standees,    classes,       fountain caller standee,                       x-###,   1
+rv-fountain-caller-standee-back.png,                        xulc,       standees,    classes,       fountain caller standee,                       x-###,   1
+rv-kataphatist-standee-front.png,                           xulc,       standees,    classes,       kataphatist standee,                           x-###,   1
+rv-kataphatist-standee-back.png,                            xulc,       standees,    classes,       kataphatist standee,                           x-###,   1
+rv-keening-bolt-standee-front.png,                          xulc,       standees,    classes,       keening bolt standee,                          x-###,   1
+rv-keening-bolt-standee-back.png,                           xulc,       standees,    classes,       keening bolt standee,                          x-###,   1
+rv-mistral-standee-front.png,                               xulc,       standees,    classes,       mistral standee,                               x-###,   1
+rv-mistral-standee-back.png,                                xulc,       standees,    classes,       mistral standee,                               x-###,   1
+rv-tempest-standee-front.png,                               xulc,       standees,    classes,       tempest standee,                               x-###,   1
+rv-tempest-standee-back.png,                                xulc,       standees,    classes,       tempest standee,                               x-###,   1
+rv-vesper-sharpshot-standee-front.png,                      xulc,       standees,    classes,       vesper sharpshot standee,                      x-###,   1
+rv-vesper-sharpshot-standee-back.png,                       xulc,       standees,    classes,       vesper sharpshot standee,                      x-###,   1
+rv-wellspring-ewer-standee-front.png,                       xulc,       standees,    classes,       wellspring ewer standee,                       x-###,   1
+rv-wellspring-ewer-standee-back.png,                        xulc,       standees,    classes,       wellspring ewer standee,                       x-###,   1
+rv-zero-sum-keb-standee-front.png,                          xulc,       standees,    classes,       zero sum keb standee,                          x-###,   1
+rv-zero-sum-keb-standee-back.png,                           xulc,       standees,    classes,       zero sum keb standee,                          x-###,   1
+rv-zero-sum-rasska-standee-front.png,                       xulc,       standees,    classes,       zero sum rasska standee,                       x-###,   1
+rv-zero-sum-rasska-standee-back.png,                        xulc,       standees,    classes,       zero sum rasska standee,                       x-###,   1
+rv-canyon-temper-ravenous-drako-standee-front.png,          core,       standees,    summons,       canyon temper ravenous drako standee,          x-###,   1
+rv-canyon-temper-ravenous-drako-standee-back.png,           core,       standees,    summons,       canyon temper ravenous drako standee,          x-###,   1
+rv-dune-dancer-curious-ardorok-standee-front.png,           core,       standees,    summons,       dune dancer curious ardorok standee,           x-###,   1
+rv-dune-dancer-curious-ardorok-standee-back.png,            core,       standees,    summons,       dune dancer curious ardorok standee,           x-###,   1
+rv-dune-dancer-pouncing-borejaw-standee-front.png,          core,       standees,    summons,       dune dancer pouncing borejaw standee,          x-###,   1
+rv-dune-dancer-pouncing-borejaw-standee-back.png,           core,       standees,    summons,       dune dancer pouncing borejaw standee,          x-###,   1
+rv-ridge-striker-adamant-ardorok-standee-front.png,         core,       standees,    summons,       ridge striker adamant ardorok standee,         x-###,   1
+rv-ridge-striker-adamant-ardorok-standee-back.png,          core,       standees,    summons,       ridge striker adamant ardorok standee,         x-###,   1
+rv-fountain-caller-growing-typhon-standee-front.png,        xulc,       standees,    summons,       fountain caller growing typhon standee,        x-###,   1
+rv-fountain-caller-growing-typhon-standee-back.png,         xulc,       standees,    summons,       fountain caller growing typhon standee,        x-###,   1
+rv-fountain-caller-resplendant-ardorok-standee-front.png,   xulc,       standees,    summons,       fountain caller resplendant arkorok standee,   x-###,   1
+rv-fountain-caller-resplendant-ardorok-standee-back.png,    xulc,       standees,    summons,       fountain caller resplendant arkorok standee,   x-###,   1
+rv-wellspring-ewer-radiant-ardorok-standee-front.png,       xulc,       standees,    summons,       wellspring ewer radiant ardorok standee,       x-###,   1
+rv-wellspring-ewer-radiant-ardorok-standee-back.png,        xulc,       standees,    summons,       wellspring ewer radiant ardorok standee,       x-###,   1
+rv-wellspring-ewer-sunburst-zokolati-standee-front.png,     xulc,       standees,    summons,       wellspring ewer sunburst zokolati standee,     x-###,   1
+rv-wellspring-ewer-sunburst-zokolati-standee-back.png,      xulc,       standees,    summons,       wellspring ewer sunburst zokolati standee,     x-###,   1
+rv-aster-aura.png,                                          core,       tokens,      classes,       aster aura,                                    x-###,   1
+rv-aster-miasma.png,                                        core,       tokens,      classes,       aster miasma,                                  x-###,   1
+rv-canyon-temper-aura.png,                                  core,       tokens,      classes,       canyon temper aura,                            x-###,   1
+rv-canyon-temper-miasma.png,                                core,       tokens,      classes,       canyon temper miasma,                          x-###,   1
+rv-conceptualist-aura.png,                                  core,       tokens,      classes,       conceptualist aura,                            x-###,   1
+rv-conceptualist-luminescent-quartic-back.png,              core,       tokens,      classes,       conceptualist luminescent quartic,             x-###,   1
+rv-conceptualist-luminescent-quartic-front.png,             core,       tokens,      classes,       conceptualist luminescent quartic,             x-###,   1
+rv-conceptualist-radiant-spinaerios-back.png,               core,       tokens,      classes,       conceptualist radiant spinaerios,              x-###,   1
+rv-conceptualist-radiant-spinaerios-front.png,              core,       tokens,      classes,       conceptualist radiant spinaerios,              x-###,   1
+rv-dune-dancer-aura.png,                                    core,       tokens,      classes,       dune dancer aura,                              x-###,   1
+rv-dune-dancer-miasma.png,                                  core,       tokens,      classes,       dune dancer miasma,                            x-###,   1
+rv-flash-aura.png,                                          core,       tokens,      classes,       flash aura,                                    x-###,   1
+rv-flash-miasma.png,                                        core,       tokens,      classes,       flash miasma,                                  x-###,   1
+rv-flash-trap.png,                                          core,       tokens,      classes,       flash trap,                                    x-###,   1
+rv-helion-aura.png,                                         core,       tokens,      classes,       helion aura,                                   x-###,   1
+rv-helion-miasma.png,                                       core,       tokens,      classes,       helion miasma,                                 x-###,   1
+rv-helion-raging-inferno.png,                               core,       tokens,      classes,       helion raging inferno,                         x-###,   1
+rv-invisible-hand-miasma.png,                               core,       tokens,      classes,       invisible hand miasma,                         x-###,   1
+rv-maximist-alluring-thureoll-back.png,                     core,       tokens,      classes,       mistral alluring thureoll,                     x-###,   1
+rv-maximist-alluring-thureoll-front.png,                    core,       tokens,      classes,       mistral alluring thureoll,                     x-###,   1
+rv-maximist-aura.png,                                       core,       tokens,      classes,       maximist aura,                                 x-###,   1
+rv-maximist-luminescent-quartic-back.png,                   core,       tokens,      classes,       maximist luminescent quartic,                  x-###,   1
+rv-maximist-luminescent-quartic-front.png,                  core,       tokens,      classes,       maximist luminescent quartic,                  x-###,   1
+rv-nocturne-hoarfrost-aura.png,                             core,       tokens,      classes,       nocturne hoarfrost aura,                       x-###,   1
+rv-nocturne-hoarfrost-blood.png,                            core,       tokens,      classes,       nocturne hoarfrost blood,                      x-###,   1
+rv-nocturne-hoarfrost-miasma.png,                           core,       tokens,      classes,       nocturne hoarfrost miasma,                     x-###,   1
+rv-ridge-striker-aura.png,                                  core,       tokens,      classes,       ridge striker aura,                            x-###,   1
+rv-ridge-striker-miasma.png,                                core,       tokens,      classes,       ridge striker miasma,                          x-###,   1
+rv-shadow-piercer-aura.png,                                 core,       tokens,      classes,       shadow piercer aura,                           x-###,   1
+rv-shadow-piercer-miasma.png,                               core,       tokens,      classes,       shadow piercer miasma,                         x-###,   1
+rv-sophist-alluring-armoroll-back.png,                      core,       tokens,      classes,       sophist alluring armoroll,                     x-###,   1
+rv-sophist-alluring-armoroll-front.png,                     core,       tokens,      classes,       sophist alluring armoroll,                     x-###,   1
+rv-sophist-aura.png,                                        core,       tokens,      classes,       sophist aura,                                  x-###,   1
+rv-sophist-luminescent-hyperbola-back.png,                  core,       tokens,      classes,       sophist luminescent hyperbola,                 x-###,   1
+rv-sophist-luminescent-hyperbola-front.png,                 core,       tokens,      classes,       sophist luminescent hyperbola,                 x-###,   1
+rv-sophist-radiant-aerios-back.png,                         core,       tokens,      classes,       sophist radiant aerios,                        x-###,   1
+rv-sophist-radiant-aerios-front.png,                        core,       tokens,      classes,       sophist radiant aerios,                        x-###,   1
+rv-toll-bearer-fortify.png,                                 core,       tokens,      classes,       toll bearer fortify,                           x-###,   1
+rv-toll-bearer-miasma.png,                                  core,       tokens,      classes,       toll bearer miasma,                            x-###,   1
+rv-true-scale-miasma.png,                                   core,       tokens,      classes,       true scale miasma,                             x-###,   1
+rv-umbral-howl-aura.png,                                    core,       tokens,      classes,       umbral howl aura,                              x-###,   1
+rv-umbral-howl-blood-lust-back.png,                         core,       tokens,      classes,       umbral howl blood lust,                        x-###,   1
+rv-umbral-howl-blood-lust-front.png,                        core,       tokens,      classes,       umbral howl blood lust,                        x-###,   1
+rv-umbral-howl-miasma.png,                                  core,       tokens,      classes,       umbral howl miasma,                            x-###,   1
+rv-essentialist-aura.png,                                   xulc,       tokens,      classes,       essentialist aura,                             x-###,   1
+rv-essentialist-flip-back.png,                              xulc,       tokens,      classes,       essentialist flip,                             x-###,   1
+rv-essentialist-flip-front.png,                             xulc,       tokens,      classes,       essentialist flip,                             x-###,   1
+rv-essentialist-luminescent-hyperbola-back.png,             xulc,       tokens,      classes,       essentialist luminescent hyperbola,            x-###,   1
+rv-essentialist-luminescent-hyperbola-front.png,            xulc,       tokens,      classes,       essentialist luminescent hyperbola,            x-###,   1
+rv-essentialist-prestidigitation-back.png,                  xulc,       tokens,      classes,       essentialist prestidigitation,                 x-###,   1
+rv-essentialist-prestidigitation-front.png,                 xulc,       tokens,      classes,       essentialist prestidigitation,                 x-###,   1
+rv-fierce-ransomer-miasma.png,                              xulc,       tokens,      classes,       fierce ransomer miasma,                        x-###,   1
+rv-fountain-caller-aura.png,                                xulc,       tokens,      classes,       fountain caller aura,                          x-###,   1
+rv-fountain-caller-miasma.png,                              xulc,       tokens,      classes,       fountain caller miasma,                        x-###,   1
+rv-kataphatist-aura.png,                                    xulc,       tokens,      classes,       kataphatist aura,                              x-###,   1
+rv-kataphatist-devine-incomprehensibility-back.png,         xulc,       tokens,      classes,       kataphatist devine incomprehensibility,        x-###,   1
+rv-kataphatist-devine-incomprehensibility-front.png,        xulc,       tokens,      classes,       kataphatist devine incomprehensibility,        x-###,   1
+rv-kataphatist-flip-back.png,                               xulc,       tokens,      classes,       kataphatist flip,                              x-###,   1
+rv-kataphatist-flip-front.png,                              xulc,       tokens,      classes,       kataphatist flip,                              x-###,   1
+rv-kataphatist-luminescent-hyperbola-back.png,              xulc,       tokens,      classes,       kataphatist luminescent hyperbola,             x-###,   1
+rv-kataphatist-luminescent-hyperbola-front.png,             xulc,       tokens,      classes,       kataphatist luminescent hyperbola,             x-###,   1
+rv-kataphatist-numinous-synchronicity-back.png,             xulc,       tokens,      classes,       kataphatist numinous synchronicity,            x-###,   1
+rv-kataphatist-numinous-synchronicity-front.png,            xulc,       tokens,      classes,       kataphatist numinous synchronicity,            x-###,   1
+rv-keening-bolt-aura.png,                                   xulc,       tokens,      classes,       keening bolt aura,                             x-###,   1
+rv-keening-bolt-frozen-soul.png,                            xulc,       tokens,      classes,       keening bolt frozen soul,                      x-###,   1
+rv-keening-bolt-miasma.png,                                 xulc,       tokens,      classes,       keening bolt miasma,                           x-###,   1
+rv-mistral-aura.png,                                        xulc,       tokens,      classes,       mistral aura,                                  x-###,   1
+rv-mistral-miasma.png,                                      xulc,       tokens,      classes,       mistral miasma,                                x-###,   1
+rv-mistral-trap.png,                                        xulc,       tokens,      classes,       mistral trap,                                  x-###,   1
+rv-tempest-aura.png,                                        xulc,       tokens,      classes,       tempest aura,                                  x-###,   1
+rv-tempest-miasma.png,                                      xulc,       tokens,      classes,       tempest miasma,                                x-###,   1
+rv-tempest-trap.png,                                        xulc,       tokens,      classes,       tempest trap,                                  x-###,   1
+rv-vesper-sharpshot-aura.png,                               xulc,       tokens,      classes,       vesper sharpshot aura,                         x-###,   1
+rv-vesper-sharpshot-frozen-soul.png,                        xulc,       tokens,      classes,       vesper sharpshot frozen soul,                  x-###,   1
+rv-vesper-sharpshot-miasma.png,                             xulc,       tokens,      classes,       vesper sharpshot miasma,                       x-###,   1
+rv-wellspring-ewer-aura.png,                                xulc,       tokens,      classes,       wellspring ewer aura,                          x-###,   1
+rv-wellspring-ewer-miasma.png,                              xulc,       tokens,      classes,       wellspring ewer miasma,                        x-###,   1
+rv-zero-sum-miasma.png,                                     xulc,       tokens,      classes,       zero sum miasma,                               x-###,   1
+rv-aura.png,                                                game,       tokens,      ether-tiles,   aura,                                          x-###,   1
+rv-everbloom.png,                                           game,       tokens,      ether-tiles,   everbloom,                                     x-###,   1
+rv-miasma.png,                                              game,       tokens,      ether-tiles,   miasma,                                        x-###,   1
+rv-snapfrost.png,                                           game,       tokens,      ether-tiles,   snapfrost,                                     x-###,   1
+rv-wildfire.png,                                            game,       tokens,      ether-tiles,   wildfire,                                      x-###,   1
+rv-windscreen.png,                                          game,       tokens,      ether-tiles,   windscreen,                                    x-###,   1
+rv-10-damage.png,                                           game,       tokens,      other-tiles,   10 damage,                                     x-###,   1
+rv-1-damage.png,                                            game,       tokens,      other-tiles,   1 damage,                                      x-###,   1
+rv-3-damage.png,                                            game,       tokens,      other-tiles,   3 damage,                                      x-###,   1
+rv-5-damage.png,                                            game,       tokens,      other-tiles,   5 damage,                                      x-###,   1
+rv-adversary-ability.png,                                   game,       tokens,      other-tiles,   adversary ability,                             x-###,   1
+rv-defense.png,                                             game,       tokens,      other-tiles,   defense,                                       x-###,   1
+rv-hoard.png,                                               game,       tokens,      other-tiles,   hoard,                                         x-###,   1
+rv-large-base-adapter.png,                                  game,       tokens,      other-tiles,   large base adapter,                            x-###,   1
+rv-monstrous-growth.png,                                    game,       tokens,      other-tiles,   monstrous growth,                              x-###,   1
+rv-nektari-hive.png,                                        game,       tokens,      other-tiles,   nektari hive,                                  x-###,   1
+rv-reaction.png,                                            game,       tokens,      other-tiles,   reaction,                                      x-###,   1
+rv-treasure-chest.png,                                      game,       tokens,      other-tiles,   treasure chest,                                x-###,   1
+rv-adversary.png,                                           game,       tokens,      trap-tiles,    adversary,                                     x-###,   1
+rv-bursting-bell.png,                                       game,       tokens,      trap-tiles,    bursting bell,                                 x-###,   1
+rv-crumbling-column.png,                                    game,       tokens,      trap-tiles,    crumbling column,                              x-###,   1
+rv-hatchery.png,                                            game,       tokens,      trap-tiles,    hatchery,                                      x-###,   1
+rv-magic.png,                                               game,       tokens,      trap-tiles,    magic,                                         x-###,   1

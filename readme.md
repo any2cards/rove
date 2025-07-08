@@ -1,4 +1,4 @@
-# Rove (RV)
+# Rove (Rove Asset Viewer: RAV)
 
 An easy-to-use collection of data and images from [Rove](http://www.addaxgames.com/rove) by [Addax Games](http://www.addaxgames.com/) - Developer: **Motti Eisenbach, Tyvan Grossi, et. al.**.
 
@@ -23,19 +23,23 @@ This repository contains data and images for the following games and components:
 - profile-boards
 - traits
 
-There are three top-level directories; `data` , `images` , and `xwc`.
+There are four top-level directories; 'config', `data` , `images` , and `xwc`.
+
+### config
+
+The `config` folder contains all configuration files used to generate the RAV data in JSON format.
 
 ### data
 
-The `data` folder contains all RV Asset Viewer data in JSON format.
+The `data` folder contains all RAV data in JSON format.
 
 ### images
 
-The `images` folder contains all RV Asset Viewer images for each of the above components.
+The `images` folder contains all RAV images for each of the above components.
 
 ### xwc
 
-The `xwc` folder contains all of the files that power the RV Asset Viewer Chrome Extension.
+The `xwc` folder contains all of the files that power the RAV Chrome Extension.
 
 ## Bugs / Issues
 
@@ -55,7 +59,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [RV Asset Viewer](PLACE URL HERE) (Chrome Extension)
+- [RAV](PLACE URL HERE) (Chrome Extension)
 
 ## Versioning
 

@@ -9,9 +9,9 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"co": "Core",
-	"xu": "Xulc",
-	"gm": "Game",
+	"co": "core",
+	"xu": "xulc",
+	"gm": "game",
 };
 
 var expansion_card_type = {}
