@@ -2920,19 +2920,19 @@
     "cardno": "x-###"
   },
   {
-    "name": "sophist alluring thureoll",
+    "name": "sophist alluring armoroll",
     "points": 365,
     "expansion": "Core",
     "image": "art/rove/core/tokens/classes/rv-sophist-alluring-armoroll-back.png",
-    "xws": "sophistalluringthureoll",
+    "xws": "sophistalluringarmoroll",
     "cardno": "x-###"
   },
   {
-    "name": "sophist alluring thureoll",
+    "name": "sophist alluring armoroll",
     "points": 366,
     "expansion": "Core",
     "image": "art/rove/core/tokens/classes/rv-sophist-alluring-armoroll-front.png",
-    "xws": "sophistalluringthureoll",
+    "xws": "sophistalluringarmoroll",
     "cardno": "x-###"
   },
   {
