@@ -339,7 +339,7 @@
     "name": "bazhar charger",
     "points": 42,
     "expansion": "core",
-    "image": "art/rove/core/standees/adversaries/rv-bazhar-standee-front.png",
+    "image": "art/rove/core/standees/adversaries/rv-bazhar-standee-back.png",
     "xws": "bazharcharger",
     "cardno": "x-###"
   },
@@ -347,7 +347,7 @@
     "name": "bazhar creator",
     "points": 43,
     "expansion": "core",
-    "image": "art/rove/core/standees/adversaries/rv-bazhar-standee-back.png",
+    "image": "art/rove/core/standees/adversaries/rv-bazhar-standee-front.png",
     "xws": "bazharcreator",
     "cardno": "x-###"
   },
