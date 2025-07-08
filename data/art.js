@@ -1376,11 +1376,11 @@
     "cardno": "x-###"
   },
   {
-    "name": "fountain caller resplendant ardorok standee",
+    "name": "fountain caller resplendent ardorok standee",
     "points": 172,
     "expansion": "xulc",
-    "image": "art/rove/xulc/standees/summons/rv-fountain-caller-resplendant-ardorok-standee-front.png",
-    "xws": "fountaincallerresplendantardorokstandee",
+    "image": "art/rove/xulc/standees/summons/rv-fountain-caller-resplendent-ardorok-standee-front.png",
+    "xws": "fountaincallerresplendentardorokstandee",
     "cardno": "x-###"
   },
   {
