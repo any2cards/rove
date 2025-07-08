@@ -328,8 +328,8 @@ rv-ridge-striker-adamant-ardorok-standee-front.png,         core,       standees
 rv-ridge-striker-adamant-ardorok-standee-back.png,          core,       standees,    summons,       ridge striker adamant ardorok standee,         x-###,   0
 rv-fountain-caller-growing-typhon-standee-front.png,        xulc,       standees,    summons,       fountain caller growing typhon standee,        x-###,   1
 rv-fountain-caller-growing-typhon-standee-back.png,         xulc,       standees,    summons,       fountain caller growing typhon standee,        x-###,   0
-rv-fountain-caller-resplendant-ardorok-standee-front.png,   xulc,       standees,    summons,       fountain caller resplendant ardorok standee,   x-###,   1
-rv-fountain-caller-resplendant-ardorok-standee-back.png,    xulc,       standees,    summons,       fountain caller resplendant ardorok standee,   x-###,   0
+rv-fountain-caller-resplendent-ardorok-standee-front.png,   xulc,       standees,    summons,       fountain caller resplend3nt ardorok standee,   x-###,   1
+rv-fountain-caller-resplendent-ardorok-standee-back.png,    xulc,       standees,    summons,       fountain caller resplend3nt ardorok standee,   x-###,   0
 rv-wellspring-ewer-radiant-ardorok-standee-front.png,       xulc,       standees,    summons,       wellspring ewer radiant ardorok standee,       x-###,   1
 rv-wellspring-ewer-radiant-ardorok-standee-back.png,        xulc,       standees,    summons,       wellspring ewer radiant ardorok standee,       x-###,   0
 rv-wellspring-ewer-sunburst-zokolati-standee-front.png,     xulc,       standees,    summons,       wellspring ewer sunburst zokolati standee,     x-###,   1
