@@ -3024,7 +3024,7 @@
     "cardno": "i-095"
   },
   {
-    "name": "frozen-lattice",
+    "name": "frozen lattice",
     "points": 378,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-frozen-lattice.png",
