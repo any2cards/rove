@@ -5,1798 +5,1998 @@
     "expansion": "core",
     "image": "abilities/rove/core/apex/aster/rv-aster-ability-back.png",
     "xws": "asterabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 1,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/aster/rv-aster-ability-back.png",
+    "xws": "asterabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "channel",
-    "points": 1,
-    "expansion": "core",
-    "image": "abilities/rove/core/apex/aster/rv-channel.png",
-    "xws": "channel",
-    "cardno": "c-018"
-  },
-  {
-    "name": "c-018",
     "points": 2,
     "expansion": "core",
     "image": "abilities/rove/core/apex/aster/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-018"
+    "assetno": "c-018"
+  },
+  {
+    "name": "c-018",
+    "points": 3,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/aster/rv-channel.png",
+    "xws": "channel",
+    "assetno": "c-018"
   },
   {
     "name": "solar winds",
-    "points": 3,
-    "expansion": "core",
-    "image": "abilities/rove/core/apex/aster/rv-solar-winds.png",
-    "xws": "solarwinds",
-    "cardno": "c-019"
-  },
-  {
-    "name": "c-019",
     "points": 4,
     "expansion": "core",
     "image": "abilities/rove/core/apex/aster/rv-solar-winds.png",
     "xws": "solarwinds",
-    "cardno": "c-019"
+    "assetno": "c-019"
+  },
+  {
+    "name": "c-019",
+    "points": 5,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/aster/rv-solar-winds.png",
+    "xws": "solarwinds",
+    "assetno": "c-019"
   },
   {
     "name": "torrid glide",
-    "points": 5,
-    "expansion": "core",
-    "image": "abilities/rove/core/apex/aster/rv-torrid-glide.png",
-    "xws": "torridglide",
-    "cardno": "c-017"
-  },
-  {
-    "name": "c-017",
     "points": 6,
     "expansion": "core",
     "image": "abilities/rove/core/apex/aster/rv-torrid-glide.png",
     "xws": "torridglide",
-    "cardno": "c-017"
+    "assetno": "c-017"
+  },
+  {
+    "name": "c-017",
+    "points": 7,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/aster/rv-torrid-glide.png",
+    "xws": "torridglide",
+    "assetno": "c-017"
   },
   {
     "name": "withering sear",
-    "points": 7,
-    "expansion": "core",
-    "image": "abilities/rove/core/apex/aster/rv-withering-sear.png",
-    "xws": "witheringsear",
-    "cardno": "c-020"
-  },
-  {
-    "name": "c-020",
     "points": 8,
     "expansion": "core",
     "image": "abilities/rove/core/apex/aster/rv-withering-sear.png",
     "xws": "witheringsear",
-    "cardno": "c-020"
+    "assetno": "c-020"
+  },
+  {
+    "name": "c-020",
+    "points": 9,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/aster/rv-withering-sear.png",
+    "xws": "witheringsear",
+    "assetno": "c-020"
   },
   {
     "name": "canyon temper ability back",
-    "points": 9,
+    "points": 10,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-canyon-temper-ability-back.png",
     "xws": "canyontemperabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 11,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/canyon-temper/rv-canyon-temper-ability-back.png",
+    "xws": "canyontemperabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "double carve",
-    "points": 10,
+    "points": 12,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-double-carve.png",
     "xws": "doublecarve",
-    "cardno": "c-010"
+    "assetno": "c-010"
   },
   {
     "name": "c-010",
-    "points": 11,
+    "points": 13,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-double-carve.png",
     "xws": "doublecarve",
-    "cardno": "c-010"
+    "assetno": "c-010"
   },
   {
     "name": "friendly barter",
-    "points": 12,
+    "points": 14,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-friendly-barter.png",
     "xws": "friendlybarter",
-    "cardno": "c-011"
+    "assetno": "c-011"
   },
   {
     "name": "c-011",
-    "points": 13,
+    "points": 15,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-friendly-barter.png",
     "xws": "friendlybarter",
-    "cardno": "c-011"
+    "assetno": "c-011"
   },
   {
     "name": "gleaming plumage",
-    "points": 14,
+    "points": 16,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-gleaming-plumage.png",
     "xws": "gleamingplumage",
-    "cardno": "c-012"
+    "assetno": "c-012"
   },
   {
     "name": "c-012",
-    "points": 15,
+    "points": 17,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-gleaming-plumage.png",
     "xws": "gleamingplumage",
-    "cardno": "c-012"
+    "assetno": "c-012"
   },
   {
     "name": "raptor stride",
-    "points": 16,
+    "points": 18,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-raptor-stride.png",
     "xws": "raptorstride",
-    "cardno": "c-009"
+    "assetno": "c-009"
   },
   {
     "name": "c-009",
-    "points": 17,
+    "points": 19,
     "expansion": "core",
     "image": "abilities/rove/core/apex/canyon-temper/rv-raptor-stride.png",
     "xws": "raptorstride",
-    "cardno": "c-009"
+    "assetno": "c-009"
   },
   {
     "name": "best a foe",
-    "points": 18,
+    "points": 20,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-best-a-foe.png",
     "xws": "bestafoe",
-    "cardno": "c-042"
+    "assetno": "c-042"
   },
   {
     "name": "c-042",
-    "points": 19,
+    "points": 21,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-best-a-foe.png",
     "xws": "bestafoe",
-    "cardno": "c-042"
+    "assetno": "c-042"
   },
   {
     "name": "conceptualist ability back",
-    "points": 20,
+    "points": 22,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-conceptualist-ability-back.png",
     "xws": "conceptualistabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 23,
+    "expansion": "core",
+    "image": "abilities/rove/core/prime/conceptualist/rv-conceptualist-ability-back.png",
+    "xws": "conceptualistabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "inspire",
-    "points": 21,
+    "points": 24,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-043"
+    "assetno": "c-043"
   },
   {
     "name": "c-043",
-    "points": 22,
+    "points": 25,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-043"
+    "assetno": "c-043"
   },
   {
     "name": "made manifest",
-    "points": 23,
+    "points": 26,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-made-manifest.png",
     "xws": "mademanifest",
-    "cardno": "c-044"
+    "assetno": "c-044"
   },
   {
     "name": "c-044",
-    "points": 24,
+    "points": 27,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-made-manifest.png",
     "xws": "mademanifest",
-    "cardno": "c-044"
+    "assetno": "c-044"
   },
   {
     "name": "vault",
-    "points": 25,
+    "points": 28,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-vault.png",
     "xws": "vault",
-    "cardno": "c-041"
+    "assetno": "c-041"
   },
   {
     "name": "c-041",
-    "points": 26,
+    "points": 29,
     "expansion": "core",
     "image": "abilities/rove/core/prime/conceptualist/rv-vault.png",
     "xws": "vault",
-    "cardno": "c-041"
+    "assetno": "c-041"
   },
   {
     "name": "barter",
-    "points": 27,
+    "points": 30,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-barter.png",
     "xws": "barter",
-    "cardno": "c-002"
+    "assetno": "c-002"
   },
   {
     "name": "c-002",
-    "points": 28,
+    "points": 31,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-barter.png",
     "xws": "barter",
-    "cardno": "c-002"
+    "assetno": "c-002"
   },
   {
     "name": "carve",
-    "points": 29,
+    "points": 32,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-carve.png",
     "xws": "carve",
-    "cardno": "c-003"
+    "assetno": "c-003"
   },
   {
     "name": "c-003",
-    "points": 30,
+    "points": 33,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-carve.png",
     "xws": "carve",
-    "cardno": "c-003"
+    "assetno": "c-003"
   },
   {
     "name": "dune dancer ability back",
-    "points": 31,
+    "points": 34,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-dune-dancer-ability-back.png",
     "xws": "dunedancerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 35,
+    "expansion": "core",
+    "image": "abilities/rove/core/base/dune-dancer/rv-dune-dancer-ability-back.png",
+    "xws": "dunedancerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "erosion",
-    "points": 32,
+    "points": 36,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-erosion.png",
     "xws": "erosion",
-    "cardno": "c-004"
+    "assetno": "c-004"
   },
   {
     "name": "c-004",
-    "points": 33,
+    "points": 37,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-erosion.png",
     "xws": "erosion",
-    "cardno": "c-004"
+    "assetno": "c-004"
   },
   {
     "name": "stride",
-    "points": 34,
+    "points": 38,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-stride.png",
     "xws": "stride",
-    "cardno": "c-001"
+    "assetno": "c-001"
   },
   {
     "name": "c-001",
-    "points": 35,
+    "points": 39,
     "expansion": "core",
     "image": "abilities/rove/core/base/dune-dancer/rv-stride.png",
     "xws": "stride",
-    "cardno": "c-001"
+    "assetno": "c-001"
   },
   {
     "name": "channel",
-    "points": 36,
+    "points": 40,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-014"
+    "assetno": "c-014"
   },
   {
     "name": "c-014",
-    "points": 37,
+    "points": 41,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-014"
+    "assetno": "c-014"
   },
   {
     "name": "flash ability back",
-    "points": 38,
+    "points": 42,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-flash-ability-back.png",
     "xws": "flashabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 43,
+    "expansion": "core",
+    "image": "abilities/rove/core/base/flash/rv-flash-ability-back.png",
+    "xws": "flashabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "gale",
-    "points": 39,
+    "points": 44,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-gale.png",
     "xws": "gale",
-    "cardno": "c-015"
+    "assetno": "c-015"
   },
   {
     "name": "c-015",
-    "points": 40,
+    "points": 45,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-gale.png",
     "xws": "gale",
-    "cardno": "c-015"
+    "assetno": "c-015"
   },
   {
     "name": "glide",
-    "points": 41,
+    "points": 46,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-glide.png",
     "xws": "glide",
-    "cardno": "c-013"
+    "assetno": "c-013"
   },
   {
     "name": "c-013",
-    "points": 42,
+    "points": 47,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-glide.png",
     "xws": "glide",
-    "cardno": "c-013"
+    "assetno": "c-013"
   },
   {
     "name": "sear",
-    "points": 43,
+    "points": 48,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-sear.png",
     "xws": "sear",
-    "cardno": "c-016"
+    "assetno": "c-016"
   },
   {
     "name": "c-016",
-    "points": 44,
+    "points": 49,
     "expansion": "core",
     "image": "abilities/rove/core/base/flash/rv-sear.png",
     "xws": "sear",
-    "cardno": "c-016"
+    "assetno": "c-016"
   },
   {
     "name": "channel",
-    "points": 45,
+    "points": 50,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-022"
+    "assetno": "c-022"
   },
   {
     "name": "c-022",
-    "points": 46,
+    "points": 51,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-022"
+    "assetno": "c-022"
   },
   {
     "name": "gale",
-    "points": 47,
+    "points": 52,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-gale.png",
     "xws": "gale",
-    "cardno": "c-023"
+    "assetno": "c-023"
   },
   {
     "name": "c-023",
-    "points": 48,
+    "points": 53,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-gale.png",
     "xws": "gale",
-    "cardno": "c-023"
+    "assetno": "c-023"
   },
   {
     "name": "helion ability back",
-    "points": 49,
+    "points": 54,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-helion-ability-back.png",
     "xws": "helionabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 55,
+    "expansion": "core",
+    "image": "abilities/rove/core/prime/helion/rv-helion-ability-back.png",
+    "xws": "helionabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "torrid glide",
-    "points": 50,
+    "points": 56,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-torrid-glide.png",
     "xws": "torridglide",
-    "cardno": "c-021"
+    "assetno": "c-021"
   },
   {
     "name": "c-021",
-    "points": 51,
+    "points": 57,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-torrid-glide.png",
     "xws": "torridglide",
-    "cardno": "c-021"
+    "assetno": "c-021"
   },
   {
     "name": "withering sear",
-    "points": 52,
+    "points": 58,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-withering-sear.png",
     "xws": "witheringsear",
-    "cardno": "c-024"
+    "assetno": "c-024"
   },
   {
     "name": "c-024",
-    "points": 53,
+    "points": 59,
     "expansion": "core",
     "image": "abilities/rove/core/prime/helion/rv-withering-sear.png",
     "xws": "witheringsear",
-    "cardno": "c-024"
+    "assetno": "c-024"
   },
   {
     "name": "complete seizure",
-    "points": 54,
+    "points": 60,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-complete-seizure.png",
     "xws": "completeseizure",
-    "cardno": "c-060"
+    "assetno": "c-060"
   },
   {
     "name": "c-060",
-    "points": 55,
+    "points": 61,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-complete-seizure.png",
     "xws": "completeseizure",
-    "cardno": "c-060"
+    "assetno": "c-060"
   },
   {
     "name": "invisible hand ability back",
-    "points": 56,
+    "points": 62,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-invisible-hand-ability-back.png",
     "xws": "invisiblehandabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 63,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/invisible-hand/rv-invisible-hand-ability-back.png",
+    "xws": "invisiblehandabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "screen then skitter",
-    "points": 57,
+    "points": 64,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-screen-then-skitter.png",
     "xws": "screenthenskitter",
-    "cardno": "c-057"
+    "assetno": "c-057"
   },
   {
     "name": "c-057",
-    "points": 58,
+    "points": 65,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-screen-then-skitter.png",
     "xws": "screenthenskitter",
-    "cardno": "c-057"
+    "assetno": "c-057"
   },
   {
     "name": "secured strike",
-    "points": 59,
+    "points": 66,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-secured-strike.png",
     "xws": "securedstrike",
-    "cardno": "c-058"
+    "assetno": "c-058"
   },
   {
     "name": "c-058",
-    "points": 60,
+    "points": 67,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-secured-strike.png",
     "xws": "securedstrike",
-    "cardno": "c-058"
+    "assetno": "c-058"
   },
   {
     "name": "take stock",
-    "points": 61,
+    "points": 68,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-take-stock.png",
     "xws": "takestock",
-    "cardno": "c-059"
+    "assetno": "c-059"
   },
   {
     "name": "c-059",
-    "points": 62,
+    "points": 69,
     "expansion": "core",
     "image": "abilities/rove/core/apex/invisible-hand/rv-take-stock.png",
     "xws": "takestock",
-    "cardno": "c-059"
+    "assetno": "c-059"
   },
   {
     "name": "beset a foe",
-    "points": 63,
+    "points": 70,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-beset-a-foe.png",
     "xws": "besetafoe",
-    "cardno": "c-046"
+    "assetno": "c-046"
   },
   {
     "name": "c-046",
-    "points": 64,
+    "points": 71,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-beset-a-foe.png",
     "xws": "besetafoe",
-    "cardno": "c-046"
+    "assetno": "c-046"
   },
   {
     "name": "inspire",
-    "points": 65,
+    "points": 72,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-047"
+    "assetno": "c-047"
   },
   {
     "name": "c-047",
-    "points": 66,
+    "points": 73,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-047"
+    "assetno": "c-047"
   },
   {
     "name": "made manifest",
-    "points": 67,
+    "points": 74,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-made-manifest.png",
     "xws": "mademanifest",
-    "cardno": "c-048"
+    "assetno": "c-048"
   },
   {
     "name": "c-048",
-    "points": 68,
+    "points": 75,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-made-manifest.png",
     "xws": "mademanifest",
-    "cardno": "c-048"
+    "assetno": "c-048"
   },
   {
     "name": "maximist ability back",
-    "points": 69,
+    "points": 76,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-maximist-ability-back.png",
     "xws": "maximistabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 77,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/maximist/rv-maximist-ability-back.png",
+    "xws": "maximistabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "vault",
-    "points": 70,
+    "points": 78,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-vault.png",
     "xws": "vault",
-    "cardno": "c-045"
+    "assetno": "c-045"
   },
   {
     "name": "c-045",
-    "points": 71,
+    "points": 79,
     "expansion": "core",
     "image": "abilities/rove/core/apex/maximist/rv-vault.png",
     "xws": "vault",
-    "cardno": "c-045"
+    "assetno": "c-045"
   },
   {
     "name": "bloodlet",
-    "points": 72,
+    "points": 80,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-bloodlet.png",
     "xws": "bloodlet",
-    "cardno": "c-035"
+    "assetno": "c-035"
   },
   {
     "name": "c-035",
-    "points": 73,
+    "points": 81,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-bloodlet.png",
     "xws": "bloodlet",
-    "cardno": "c-035"
+    "assetno": "c-035"
   },
   {
     "name": "bound and pounce",
-    "points": 74,
+    "points": 82,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-bound-and-pounce.png",
     "xws": "boundandpounce",
-    "cardno": "c-033"
+    "assetno": "c-033"
   },
   {
     "name": "c-033",
-    "points": 75,
+    "points": 83,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-bound-and-pounce.png",
     "xws": "boundandpounce",
-    "cardno": "c-033"
+    "assetno": "c-033"
   },
   {
     "name": "compose and reknit",
-    "points": 76,
+    "points": 84,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-compose-and-reknit.png",
     "xws": "composeandreknit",
-    "cardno": "c-036"
+    "assetno": "c-036"
   },
   {
     "name": "c-036",
-    "points": 77,
+    "points": 85,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-compose-and-reknit.png",
     "xws": "composeandreknit",
-    "cardno": "c-036"
+    "assetno": "c-036"
   },
   {
     "name": "lurk and ambush",
-    "points": 78,
+    "points": 86,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-lurk-and-ambush.png",
     "xws": "lurkandambush",
-    "cardno": "c-034"
+    "assetno": "c-034"
   },
   {
     "name": "c-034",
-    "points": 79,
+    "points": 87,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-lurk-and-ambush.png",
     "xws": "lurkandambush",
-    "cardno": "c-034"
+    "assetno": "c-034"
   },
   {
     "name": "nocturne hoarfrost ability back",
-    "points": 80,
+    "points": 88,
     "expansion": "core",
     "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-nocturne-hoarfrost-ability-back.png",
     "xws": "nocturnehoarfrostabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 89,
+    "expansion": "core",
+    "image": "abilities/rove/core/apex/nocturne-hoarfrost/rv-nocturne-hoarfrost-ability-back.png",
+    "xws": "nocturnehoarfrostabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "adamant plumage",
-    "points": 81,
+    "points": 90,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-adamant-plumage.png",
     "xws": "adamantplumage",
-    "cardno": "c-008"
+    "assetno": "c-008"
   },
   {
     "name": "c-008",
-    "points": 82,
+    "points": 91,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-adamant-plumage.png",
     "xws": "adamantplumage",
-    "cardno": "c-008"
+    "assetno": "c-008"
   },
   {
     "name": "friendly barter",
-    "points": 83,
+    "points": 92,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-friendly-barter.png",
     "xws": "friendlybarter",
-    "cardno": "c-007"
+    "assetno": "c-007"
   },
   {
     "name": "c-007",
-    "points": 84,
+    "points": 93,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-friendly-barter.png",
     "xws": "friendlybarter",
-    "cardno": "c-007"
+    "assetno": "c-007"
   },
   {
     "name": "ridge striker ability back",
-    "points": 85,
+    "points": 94,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-ridge-striker-ability-back.png",
     "xws": "ridgestrikerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 95,
+    "expansion": "core",
+    "image": "abilities/rove/core/prime/ridge-striker/rv-ridge-striker-ability-back.png",
+    "xws": "ridgestrikerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "stride",
-    "points": 86,
+    "points": 96,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-stride.png",
     "xws": "stride",
-    "cardno": "c-005"
+    "assetno": "c-005"
   },
   {
     "name": "c-005",
-    "points": 87,
+    "points": 97,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-stride.png",
     "xws": "stride",
-    "cardno": "c-005"
+    "assetno": "c-005"
   },
   {
     "name": "talon carve",
-    "points": 88,
+    "points": 98,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-talon-carve.png",
     "xws": "taloncarve",
-    "cardno": "c-006"
+    "assetno": "c-006"
   },
   {
     "name": "c-006",
-    "points": 89,
+    "points": 99,
     "expansion": "core",
     "image": "abilities/rove/core/prime/ridge-striker/rv-talon-carve.png",
     "xws": "taloncarve",
-    "cardno": "c-006"
+    "assetno": "c-006"
   },
   {
     "name": "ambush",
-    "points": 90,
+    "points": 100,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-ambush.png",
     "xws": "ambush",
-    "cardno": "c-027"
+    "assetno": "c-027"
   },
   {
     "name": "c-027",
-    "points": 91,
+    "points": 101,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-ambush.png",
     "xws": "ambush",
-    "cardno": "c-027"
+    "assetno": "c-027"
   },
   {
     "name": "bound",
-    "points": 92,
+    "points": 102,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-bound.png",
     "xws": "bound",
-    "cardno": "c-025"
+    "assetno": "c-025"
   },
   {
     "name": "c-025",
-    "points": 93,
+    "points": 103,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-bound.png",
     "xws": "bound",
-    "cardno": "c-025"
+    "assetno": "c-025"
   },
   {
     "name": "brace",
-    "points": 94,
+    "points": 104,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-brace.png",
     "xws": "brace",
-    "cardno": "c-026"
+    "assetno": "c-026"
   },
   {
     "name": "c-026",
-    "points": 95,
+    "points": 105,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-brace.png",
     "xws": "brace",
-    "cardno": "c-026"
+    "assetno": "c-026"
   },
   {
     "name": "reknit",
-    "points": 96,
+    "points": 106,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-reknit.png",
     "xws": "reknit",
-    "cardno": "c-028"
+    "assetno": "c-028"
   },
   {
     "name": "c-028",
-    "points": 97,
+    "points": 107,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-reknit.png",
     "xws": "reknit",
-    "cardno": "c-028"
+    "assetno": "c-028"
   },
   {
     "name": "shadow piercer ability back",
-    "points": 98,
+    "points": 108,
     "expansion": "core",
     "image": "abilities/rove/core/base/shadow-piercer/rv-shadow-piercer-ability-back.png",
     "xws": "shadowpiercerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 109,
+    "expansion": "core",
+    "image": "abilities/rove/core/base/shadow-piercer/rv-shadow-piercer-ability-back.png",
+    "xws": "shadowpiercerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "beset",
-    "points": 99,
+    "points": 110,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-beset.png",
     "xws": "beset",
-    "cardno": "c-039"
+    "assetno": "c-039"
   },
   {
     "name": "c-039",
-    "points": 100,
+    "points": 111,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-beset.png",
     "xws": "beset",
-    "cardno": "c-039"
+    "assetno": "c-039"
   },
   {
     "name": "inspire",
-    "points": 101,
+    "points": 112,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-038"
+    "assetno": "c-038"
   },
   {
     "name": "c-038",
-    "points": 102,
+    "points": 113,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-038"
+    "assetno": "c-038"
   },
   {
     "name": "manifest",
-    "points": 103,
+    "points": 114,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-manifest.png",
     "xws": "manifest",
-    "cardno": "c-040"
+    "assetno": "c-040"
   },
   {
     "name": "c-040",
-    "points": 104,
+    "points": 115,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-manifest.png",
     "xws": "manifest",
-    "cardno": "c-040"
+    "assetno": "c-040"
   },
   {
     "name": "sophist ability back",
-    "points": 105,
+    "points": 116,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-sophist-ability-back.png",
     "xws": "sophistabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 117,
+    "expansion": "core",
+    "image": "abilities/rove/core/base/sophist/rv-sophist-ability-back.png",
+    "xws": "sophistabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "vault",
-    "points": 106,
+    "points": 118,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-vault.png",
     "xws": "vault",
-    "cardno": "c-037"
+    "assetno": "c-037"
   },
   {
     "name": "c-037",
-    "points": 107,
+    "points": 119,
     "expansion": "core",
     "image": "abilities/rove/core/base/sophist/rv-vault.png",
     "xws": "vault",
-    "cardno": "c-037"
+    "assetno": "c-037"
   },
   {
     "name": "secured strike",
-    "points": 108,
+    "points": 120,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-secured-strike.png",
     "xws": "securedstrike",
-    "cardno": "c-054"
+    "assetno": "c-054"
   },
   {
     "name": "c-054",
-    "points": 109,
+    "points": 121,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-secured-strike.png",
     "xws": "securedstrike",
-    "cardno": "c-054"
+    "assetno": "c-054"
   },
   {
     "name": "seize",
-    "points": 110,
+    "points": 122,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-seize.png",
     "xws": "seize",
-    "cardno": "c-056"
+    "assetno": "c-056"
   },
   {
     "name": "c-056",
-    "points": 111,
+    "points": 123,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-seize.png",
     "xws": "seize",
-    "cardno": "c-056"
+    "assetno": "c-056"
   },
   {
     "name": "skitter",
-    "points": 112,
+    "points": 124,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-skitter.png",
     "xws": "skitter",
-    "cardno": "c-053"
+    "assetno": "c-053"
   },
   {
     "name": "c-053",
-    "points": 113,
+    "points": 125,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-skitter.png",
     "xws": "skitter",
-    "cardno": "c-053"
+    "assetno": "c-053"
   },
   {
     "name": "take stock",
-    "points": 114,
+    "points": 126,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-take-stock.png",
     "xws": "takestock",
-    "cardno": "c-055"
+    "assetno": "c-055"
   },
   {
     "name": "c-055",
-    "points": 115,
+    "points": 127,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-take-stock.png",
     "xws": "takestock",
-    "cardno": "c-055"
+    "assetno": "c-055"
   },
   {
     "name": "toll bearer ability back",
-    "points": 116,
+    "points": 128,
     "expansion": "core",
     "image": "abilities/rove/core/prime/toll-bearer/rv-toll-bearer-ability-back.png",
     "xws": "tollbearerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 129,
+    "expansion": "core",
+    "image": "abilities/rove/core/prime/toll-bearer/rv-toll-bearer-ability-back.png",
+    "xws": "tollbearerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "seize",
-    "points": 117,
+    "points": 130,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-seize.png",
     "xws": "seize",
-    "cardno": "c-052"
+    "assetno": "c-052"
   },
   {
     "name": "c-052",
-    "points": 118,
+    "points": 131,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-seize.png",
     "xws": "seize",
-    "cardno": "c-052"
+    "assetno": "c-052"
   },
   {
     "name": "skitter",
-    "points": 119,
+    "points": 132,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-skitter.png",
     "xws": "skitter",
-    "cardno": "c-049"
+    "assetno": "c-049"
   },
   {
     "name": "c-049",
-    "points": 120,
+    "points": 133,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-skitter.png",
     "xws": "skitter",
-    "cardno": "c-049"
+    "assetno": "c-049"
   },
   {
     "name": "strike",
-    "points": 121,
+    "points": 134,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-strike.png",
     "xws": "strike",
-    "cardno": "c-050"
+    "assetno": "c-050"
   },
   {
     "name": "c-050",
-    "points": 122,
+    "points": 135,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-strike.png",
     "xws": "strike",
-    "cardno": "c-050"
+    "assetno": "c-050"
   },
   {
     "name": "take stock",
-    "points": 123,
+    "points": 136,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-take-stock.png",
     "xws": "takestock",
-    "cardno": "c-051"
+    "assetno": "c-051"
   },
   {
     "name": "c-051",
-    "points": 124,
+    "points": 137,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-take-stock.png",
     "xws": "takestock",
-    "cardno": "c-051"
+    "assetno": "c-051"
   },
   {
     "name": "true scale ability back",
-    "points": 125,
+    "points": 138,
     "expansion": "core",
     "image": "abilities/rove/core/base/true-scale/rv-true-scale-ability-back.png",
     "xws": "truescaleabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 139,
+    "expansion": "core",
+    "image": "abilities/rove/core/base/true-scale/rv-true-scale-ability-back.png",
+    "xws": "truescaleabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "belt and brace",
-    "points": 126,
+    "points": 140,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-belt-and-brace.png",
     "xws": "beltandbrace",
-    "cardno": "c-031"
+    "assetno": "c-031"
   },
   {
     "name": "c-031",
-    "points": 127,
+    "points": 141,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-belt-and-brace.png",
     "xws": "beltandbrace",
-    "cardno": "c-031"
+    "assetno": "c-031"
   },
   {
     "name": "bound and pounce",
-    "points": 128,
+    "points": 142,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-bound-and-pounce.png",
     "xws": "boundandpounce",
-    "cardno": "c-029"
+    "assetno": "c-029"
   },
   {
     "name": "c-029",
-    "points": 129,
+    "points": 143,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-bound-and-pounce.png",
     "xws": "boundandpounce",
-    "cardno": "c-029"
+    "assetno": "c-029"
   },
   {
     "name": "compose and reknit",
-    "points": 130,
+    "points": 144,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-compose-and-reknit.png",
     "xws": "composeandreknit",
-    "cardno": "c-030"
+    "assetno": "c-030"
   },
   {
     "name": "c-030",
-    "points": 131,
+    "points": 145,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-compose-and-reknit.png",
     "xws": "composeandreknit",
-    "cardno": "c-030"
+    "assetno": "c-030"
   },
   {
     "name": "lurk and ambush",
-    "points": 132,
+    "points": 146,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-lurk-and-ambush.png",
     "xws": "lurkandambush",
-    "cardno": "c-032"
+    "assetno": "c-032"
   },
   {
     "name": "c-032",
-    "points": 133,
+    "points": 147,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-lurk-and-ambush.png",
     "xws": "lurkandambush",
-    "cardno": "c-032"
+    "assetno": "c-032"
   },
   {
     "name": "umbral howl ability back",
-    "points": 134,
+    "points": 148,
     "expansion": "core",
     "image": "abilities/rove/core/prime/umbral-howl/rv-umbral-howl-ability-back.png",
     "xws": "umbralhowlabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 149,
+    "expansion": "core",
+    "image": "abilities/rove/core/prime/umbral-howl/rv-umbral-howl-ability-back.png",
+    "xws": "umbralhowlabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "beset with choice",
-    "points": 135,
+    "points": 150,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-beset-with-choice.png",
     "xws": "besetwithchoice",
-    "cardno": "c-087"
+    "assetno": "c-087"
   },
   {
     "name": "c-087",
-    "points": 136,
+    "points": 151,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-beset-with-choice.png",
     "xws": "besetwithchoice",
-    "cardno": "c-087"
+    "assetno": "c-087"
   },
   {
     "name": "essentialist ability back",
-    "points": 137,
+    "points": 152,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-essentialist-ability-back.png",
     "xws": "essentialistabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 153,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/prime/essentialist/rv-essentialist-ability-back.png",
+    "xws": "essentialistabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "inspire",
-    "points": 138,
+    "points": 154,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-086"
+    "assetno": "c-086"
   },
   {
     "name": "c-086",
-    "points": 139,
+    "points": 155,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-086"
+    "assetno": "c-086"
   },
   {
     "name": "manifest",
-    "points": 140,
+    "points": 156,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-manifest.png",
     "xws": "manifest",
-    "cardno": "c-088"
+    "assetno": "c-088"
   },
   {
     "name": "c-088",
-    "points": 141,
+    "points": 157,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-manifest.png",
     "xws": "manifest",
-    "cardno": "c-088"
+    "assetno": "c-088"
   },
   {
     "name": "skip vault",
-    "points": 142,
+    "points": 158,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-skip-vault.png",
     "xws": "skipvault",
-    "cardno": "c-085"
+    "assetno": "c-085"
   },
   {
     "name": "c-085",
-    "points": 143,
+    "points": 159,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/essentialist/rv-skip-vault.png",
     "xws": "skipvault",
-    "cardno": "c-085"
+    "assetno": "c-085"
   },
   {
     "name": "fierce ransomer ability back",
-    "points": 144,
+    "points": 160,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-fierce-ransomer-ability-back.png",
     "xws": "fierceransomerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 161,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-fierce-ransomer-ability-back.png",
+    "xws": "fierceransomerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "hissing skitter",
-    "points": 145,
+    "points": 162,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-hissing-skitter.png",
     "xws": "hissingskitter",
-    "cardno": "c-094"
+    "assetno": "c-094"
   },
   {
     "name": "c-094",
-    "points": 146,
+    "points": 163,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-hissing-skitter.png",
     "xws": "hissingskitter",
-    "cardno": "c-094"
+    "assetno": "c-094"
   },
   {
     "name": "over stock",
-    "points": 147,
+    "points": 164,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-over-stock.png",
     "xws": "overstock",
-    "cardno": "c-093"
+    "assetno": "c-093"
   },
   {
     "name": "c-093",
-    "points": 148,
+    "points": 165,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-over-stock.png",
     "xws": "overstock",
-    "cardno": "c-093"
+    "assetno": "c-093"
   },
   {
     "name": "send then receive",
-    "points": 149,
+    "points": 166,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-send-then-receive.png",
     "xws": "sendthenreceive",
-    "cardno": "c-096"
+    "assetno": "c-096"
   },
   {
     "name": "c-096",
-    "points": 150,
+    "points": 167,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-send-then-receive.png",
     "xws": "sendthenreceive",
-    "cardno": "c-096"
+    "assetno": "c-096"
   },
   {
     "name": "sting then strike",
-    "points": 151,
+    "points": 168,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-sting-then-strike.png",
     "xws": "stingthenstrike",
-    "cardno": "c-095"
+    "assetno": "c-095"
   },
   {
     "name": "c-095",
-    "points": 152,
+    "points": 169,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fierce-ransomer/rv-sting-then-strike.png",
     "xws": "stingthenstrike",
-    "cardno": "c-095"
+    "assetno": "c-095"
   },
   {
     "name": "barter",
-    "points": 153,
+    "points": 170,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-barter.png",
     "xws": "barter",
-    "cardno": "c-062"
+    "assetno": "c-062"
   },
   {
     "name": "c-062",
-    "points": 154,
+    "points": 171,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-barter.png",
     "xws": "barter",
-    "cardno": "c-062"
+    "assetno": "c-062"
   },
   {
     "name": "fountain caller ability back",
-    "points": 155,
+    "points": 172,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-fountain-caller-ability-back.png",
     "xws": "fountaincallerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 173,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/prime/fountain-caller/rv-fountain-caller-ability-back.png",
+    "xws": "fountaincallerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "rapid erosion",
-    "points": 156,
+    "points": 174,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-rapid-erosion.png",
     "xws": "rapiderosion",
-    "cardno": "c-063"
+    "assetno": "c-063"
   },
   {
     "name": "c-063",
-    "points": 157,
+    "points": 175,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-rapid-erosion.png",
     "xws": "rapiderosion",
-    "cardno": "c-063"
+    "assetno": "c-063"
   },
   {
     "name": "resplendent plumage",
-    "points": 158,
+    "points": 176,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-resplendent-plumage.png",
     "xws": "resplendentplumage",
-    "cardno": "c-064"
+    "assetno": "c-064"
   },
   {
     "name": "c-064",
-    "points": 159,
+    "points": 177,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-resplendent-plumage.png",
     "xws": "resplendentplumage",
-    "cardno": "c-064"
+    "assetno": "c-064"
   },
   {
     "name": "water stride",
-    "points": 160,
+    "points": 178,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-water-stride.png",
     "xws": "waterstride",
-    "cardno": "c-061"
+    "assetno": "c-061"
   },
   {
     "name": "c-061",
-    "points": 161,
+    "points": 179,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/fountain-caller/rv-water-stride.png",
     "xws": "waterstride",
-    "cardno": "c-061"
+    "assetno": "c-061"
   },
   {
     "name": "beset with choice",
-    "points": 162,
+    "points": 180,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-beset-with-choice.png",
     "xws": "besetwithchoice",
-    "cardno": "c-091"
+    "assetno": "c-091"
   },
   {
     "name": "c-091",
-    "points": 163,
+    "points": 181,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-beset-with-choice.png",
     "xws": "besetwithchoice",
-    "cardno": "c-091"
+    "assetno": "c-091"
   },
   {
     "name": "inspire",
-    "points": 164,
+    "points": 182,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-090"
+    "assetno": "c-090"
   },
   {
     "name": "c-090",
-    "points": 165,
+    "points": 183,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-inspire.png",
     "xws": "inspire",
-    "cardno": "c-090"
+    "assetno": "c-090"
   },
   {
     "name": "kataphatist ability back",
-    "points": 166,
+    "points": 184,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-kataphatist-ability-back.png",
     "xws": "kataphatistabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 185,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/apex/kataphatist/rv-kataphatist-ability-back.png",
+    "xws": "kataphatistabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "manifest",
-    "points": 167,
+    "points": 186,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-manifest.png",
     "xws": "manifest",
-    "cardno": "c-092"
+    "assetno": "c-092"
   },
   {
     "name": "c-092",
-    "points": 168,
+    "points": 187,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-manifest.png",
     "xws": "manifest",
-    "cardno": "c-092"
+    "assetno": "c-092"
   },
   {
     "name": "skip vault",
-    "points": 169,
+    "points": 188,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-skip-vault.png",
     "xws": "skipvault",
-    "cardno": "c-089"
+    "assetno": "c-089"
   },
   {
     "name": "c-089",
-    "points": 170,
+    "points": 189,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/kataphatist/rv-skip-vault.png",
     "xws": "skipvault",
-    "cardno": "c-089"
+    "assetno": "c-089"
   },
   {
     "name": "brace",
-    "points": 171,
+    "points": 190,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-brace.png",
     "xws": "brace",
-    "cardno": "c-078"
+    "assetno": "c-078"
   },
   {
     "name": "c-078",
-    "points": 172,
+    "points": 191,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-brace.png",
     "xws": "brace",
-    "cardno": "c-078"
+    "assetno": "c-078"
   },
   {
     "name": "cleanly reknit",
-    "points": 173,
+    "points": 192,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-cleanly-reknit.png",
     "xws": "cleanlyreknit",
-    "cardno": "c-080"
+    "assetno": "c-080"
   },
   {
     "name": "c-080",
-    "points": 174,
+    "points": 193,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-cleanly-reknit.png",
     "xws": "cleanlyreknit",
-    "cardno": "c-080"
+    "assetno": "c-080"
   },
   {
     "name": "keening bolt ability back",
-    "points": 175,
+    "points": 194,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-keening-bolt-ability-back.png",
     "xws": "keeningboltabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 195,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/prime/keening-bolt/rv-keening-bolt-ability-back.png",
+    "xws": "keeningboltabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "numbing ambush",
-    "points": 176,
+    "points": 196,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-numbing-ambush.png",
     "xws": "numbingambush",
-    "cardno": "c-079"
+    "assetno": "c-079"
   },
   {
     "name": "c-079",
-    "points": 177,
+    "points": 197,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-numbing-ambush.png",
     "xws": "numbingambush",
-    "cardno": "c-079"
+    "assetno": "c-079"
   },
   {
     "name": "pounce",
-    "points": 178,
+    "points": 198,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-pounce.png",
     "xws": "pounce",
-    "cardno": "c-077"
+    "assetno": "c-077"
   },
   {
     "name": "c-077",
-    "points": 179,
+    "points": 199,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/keening-bolt/rv-pounce.png",
     "xws": "pounce",
-    "cardno": "c-077"
+    "assetno": "c-077"
   },
   {
     "name": "aerial glide",
-    "points": 180,
+    "points": 200,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-aerial-glide.png",
     "xws": "aerialglide",
-    "cardno": "c-069"
+    "assetno": "c-069"
   },
   {
     "name": "c-069",
-    "points": 181,
+    "points": 201,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-aerial-glide.png",
     "xws": "aerialglide",
-    "cardno": "c-069"
+    "assetno": "c-069"
   },
   {
     "name": "channel",
-    "points": 182,
+    "points": 202,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-070"
+    "assetno": "c-070"
   },
   {
     "name": "c-070",
-    "points": 183,
+    "points": 203,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-channel.png",
     "xws": "channel",
-    "cardno": "c-070"
+    "assetno": "c-070"
   },
   {
     "name": "gale force",
-    "points": 184,
+    "points": 204,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-gale-force.png",
     "xws": "galeforce",
-    "cardno": "c-071"
+    "assetno": "c-071"
   },
   {
     "name": "c-071",
-    "points": 185,
+    "points": 205,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-gale-force.png",
     "xws": "galeforce",
-    "cardno": "c-071"
+    "assetno": "c-071"
   },
   {
     "name": "mistral ability back",
-    "points": 186,
+    "points": 206,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-mistral-ability-back.png",
     "xws": "mistralabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 207,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/prime/mistral/rv-mistral-ability-back.png",
+    "xws": "mistralabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "sear",
-    "points": 187,
+    "points": 208,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-sear.png",
     "xws": "sear",
-    "cardno": "c-072"
+    "assetno": "c-072"
   },
   {
     "name": "c-072",
-    "points": 188,
+    "points": 209,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/prime/mistral/rv-sear.png",
     "xws": "sear",
-    "cardno": "c-072"
+    "assetno": "c-072"
   },
   {
     "name": "aerial glide",
-    "points": 189,
+    "points": 210,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-aerial-glide.png",
     "xws": "aerialglide",
-    "cardno": "c-073"
+    "assetno": "c-073"
   },
   {
     "name": "c-073",
-    "points": 190,
+    "points": 211,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-aerial-glide.png",
     "xws": "aerialglide",
-    "cardno": "c-073"
+    "assetno": "c-073"
   },
   {
     "name": "arc channel",
-    "points": 191,
+    "points": 212,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-arc-channel.png",
     "xws": "arcchannel",
-    "cardno": "c-074"
+    "assetno": "c-074"
   },
   {
     "name": "c-074",
-    "points": 192,
+    "points": 213,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-arc-channel.png",
     "xws": "arcchannel",
-    "cardno": "c-074"
+    "assetno": "c-074"
   },
   {
     "name": "gale force",
-    "points": 193,
+    "points": 214,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-gale-force.png",
     "xws": "galeforce",
-    "cardno": "c-075"
+    "assetno": "c-075"
   },
   {
     "name": "c-075",
-    "points": 194,
+    "points": 215,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-gale-force.png",
     "xws": "galeforce",
-    "cardno": "c-075"
+    "assetno": "c-075"
   },
   {
     "name": "sear",
-    "points": 195,
+    "points": 216,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-sear.png",
     "xws": "sear",
-    "cardno": "c-076"
+    "assetno": "c-076"
   },
   {
     "name": "c-076",
-    "points": 196,
+    "points": 217,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-sear.png",
     "xws": "sear",
-    "cardno": "c-076"
+    "assetno": "c-076"
   },
   {
     "name": "tempest ability back",
-    "points": 197,
+    "points": 218,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/tempest/rv-tempest-ability-back.png",
     "xws": "tempestabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 219,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/apex/tempest/rv-tempest-ability-back.png",
+    "xws": "tempestabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "bound or bore",
-    "points": 198,
+    "points": 220,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-bound-or-bore.png",
     "xws": "boundorbore",
-    "cardno": "c-081"
+    "assetno": "c-081"
   },
   {
     "name": "c-081",
-    "points": 199,
+    "points": 221,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-bound-or-bore.png",
     "xws": "boundorbore",
-    "cardno": "c-081"
+    "assetno": "c-081"
   },
   {
     "name": "cleanly reknit",
-    "points": 200,
+    "points": 222,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-cleanly-reknit.png",
     "xws": "cleanlyreknit",
-    "cardno": "c-084"
+    "assetno": "c-084"
   },
   {
     "name": "c-084",
-    "points": 201,
+    "points": 223,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-cleanly-reknit.png",
     "xws": "cleanlyreknit",
-    "cardno": "c-084"
+    "assetno": "c-084"
   },
   {
     "name": "fall brace",
-    "points": 202,
+    "points": 224,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-fall-brace.png",
     "xws": "fallbrace",
-    "cardno": "c-082"
+    "assetno": "c-082"
   },
   {
     "name": "c-082",
-    "points": 203,
+    "points": 225,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-fall-brace.png",
     "xws": "fallbrace",
-    "cardno": "c-082"
+    "assetno": "c-082"
   },
   {
     "name": "numbing ambush",
-    "points": 204,
+    "points": 226,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-numbing-ambush.png",
     "xws": "numbingambush",
-    "cardno": "c-083"
+    "assetno": "c-083"
   },
   {
     "name": "c-083",
-    "points": 205,
+    "points": 227,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-numbing-ambush.png",
     "xws": "numbingambush",
-    "cardno": "c-083"
+    "assetno": "c-083"
   },
   {
     "name": "vesper sharpshot ability back",
-    "points": 206,
+    "points": 228,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-vesper-sharpshot-ability-back.png",
     "xws": "vespersharpshotabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 229,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/apex/vesper-sharpshot/rv-vesper-sharpshot-ability-back.png",
+    "xws": "vespersharpshotabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "barter",
-    "points": 207,
+    "points": 230,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-barter.png",
     "xws": "barter",
-    "cardno": "c-066"
+    "assetno": "c-066"
   },
   {
     "name": "c-066",
-    "points": 208,
+    "points": 231,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-barter.png",
     "xws": "barter",
-    "cardno": "c-066"
+    "assetno": "c-066"
   },
   {
     "name": "radiant plumage",
-    "points": 209,
+    "points": 232,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-radiant-plumage.png",
     "xws": "radiantplumage",
-    "cardno": "c-068"
+    "assetno": "c-068"
   },
   {
     "name": "c-068",
-    "points": 210,
+    "points": 233,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-radiant-plumage.png",
     "xws": "radiantplumage",
-    "cardno": "c-068"
+    "assetno": "c-068"
   },
   {
     "name": "rapid erosion",
-    "points": 211,
+    "points": 234,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-rapid-erosion.png",
     "xws": "rapiderosion",
-    "cardno": "c-067"
+    "assetno": "c-067"
   },
   {
     "name": "c-067",
-    "points": 212,
+    "points": 235,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-rapid-erosion.png",
     "xws": "rapiderosion",
-    "cardno": "c-067"
+    "assetno": "c-067"
   },
   {
     "name": "slip stride",
-    "points": 213,
+    "points": 236,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-slip-stride.png",
     "xws": "slipstride",
-    "cardno": "c-065"
+    "assetno": "c-065"
   },
   {
     "name": "c-065",
-    "points": 214,
+    "points": 237,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-slip-stride.png",
     "xws": "slipstride",
-    "cardno": "c-065"
+    "assetno": "c-065"
   },
   {
     "name": "wellspring ewer ability back",
-    "points": 215,
+    "points": 238,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-wellspring-ewer-ability-back.png",
     "xws": "wellspringewerabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 239,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/apex/wellspring-ewer/rv-wellspring-ewer-ability-back.png",
+    "xws": "wellspringewerabilityback",
+    "assetno": "c-###"
   },
   {
     "name": "charge",
-    "points": 216,
+    "points": 240,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-charge.png",
     "xws": "charge",
-    "cardno": "c-098"
+    "assetno": "c-098"
   },
   {
     "name": "c-098",
-    "points": 217,
+    "points": 241,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-charge.png",
     "xws": "charge",
-    "cardno": "c-098"
+    "assetno": "c-098"
   },
   {
     "name": "send then receive",
-    "points": 218,
+    "points": 242,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-send-then-receive.png",
     "xws": "sendthenreceive",
-    "cardno": "c-100"
+    "assetno": "c-100"
   },
   {
     "name": "c-100",
-    "points": 219,
+    "points": 243,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-send-then-receive.png",
     "xws": "sendthenreceive",
-    "cardno": "c-100"
+    "assetno": "c-100"
   },
   {
     "name": "sting then strike",
-    "points": 220,
+    "points": 244,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-sting-then-strike.png",
     "xws": "stingthenstrike",
-    "cardno": "c-099"
+    "assetno": "c-099"
   },
   {
     "name": "c-099",
-    "points": 221,
+    "points": 245,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-sting-then-strike.png",
     "xws": "stingthenstrike",
-    "cardno": "c-099"
+    "assetno": "c-099"
   },
   {
     "name": "stockhold",
-    "points": 222,
+    "points": 246,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-stockhold.png",
     "xws": "stockhold",
-    "cardno": "c-097"
+    "assetno": "c-097"
   },
   {
     "name": "c-097",
-    "points": 223,
+    "points": 247,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-stockhold.png",
     "xws": "stockhold",
-    "cardno": "c-097"
+    "assetno": "c-097"
   },
   {
     "name": "zero sum ability back",
-    "points": 224,
+    "points": 248,
     "expansion": "xulc",
     "image": "abilities/rove/xulc/apex/zero-sum/rv-zero-sum-ability-back.png",
     "xws": "zerosumabilityback",
-    "cardno": "c-###"
+    "assetno": "c-###"
+  },
+  {
+    "name": "c-###",
+    "points": 249,
+    "expansion": "xulc",
+    "image": "abilities/rove/xulc/apex/zero-sum/rv-zero-sum-ability-back.png",
+    "xws": "zerosumabilityback",
+    "assetno": "c-###"
   }
 ]

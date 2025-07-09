@@ -5,7 +5,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-aster-front.png",
     "xws": "aster",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "aster",
@@ -13,7 +13,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-aster-back.png",
     "xws": "aster",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "canyon temper",
@@ -21,7 +21,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-canyon-temper-front.png",
     "xws": "canyontemper",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "canyon temper",
@@ -29,7 +29,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-canyon-temper-back.png",
     "xws": "canyontemper",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "conceptualist",
@@ -37,7 +37,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-conceptualist-front.png",
     "xws": "conceptualist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "conceptualist",
@@ -45,7 +45,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-conceptualist-back.png",
     "xws": "conceptualist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "dune dancer",
@@ -53,7 +53,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-dune-dancer-front.png",
     "xws": "dunedancer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "dune dancer",
@@ -61,7 +61,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-dune-dancer-back.png",
     "xws": "dunedancer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "flash",
@@ -69,7 +69,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-flash-front.png",
     "xws": "flash",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "flash",
@@ -77,7 +77,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-flash-back.png",
     "xws": "flash",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "helion",
@@ -85,7 +85,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-helion-front.png",
     "xws": "helion",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "helion",
@@ -93,7 +93,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-helion-back.png",
     "xws": "helion",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "invisible hand",
@@ -101,7 +101,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-invisible-hand-front.png",
     "xws": "invisiblehand",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "invisible hand",
@@ -109,7 +109,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-invisible-hand-back.png",
     "xws": "invisiblehand",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "maximist",
@@ -117,7 +117,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-maximist-front.png",
     "xws": "maximist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "maximist",
@@ -125,7 +125,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-maximist-back.png",
     "xws": "maximist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "nocturne hoarfrost",
@@ -133,7 +133,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-nocturne-hoarfrost-front.png",
     "xws": "nocturnehoarfrost",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "nocturne hoarfrost",
@@ -141,7 +141,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/apex/rv-nocturne-hoarfrost-back.png",
     "xws": "nocturnehoarfrost",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "ridge striker",
@@ -149,7 +149,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-ridge-striker-front.png",
     "xws": "ridgestriker",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "ridge striker",
@@ -157,7 +157,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-ridge-striker-back.png",
     "xws": "ridgestriker",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "shadow piercer",
@@ -165,7 +165,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-shadow-piercer-front.png",
     "xws": "shadowpiercer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "shadow piercer",
@@ -173,7 +173,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-shadow-piercer-back.png",
     "xws": "shadowpiercer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "sophist",
@@ -181,7 +181,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-sophist-front.png",
     "xws": "sophist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "sophist",
@@ -189,7 +189,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-sophist-back.png",
     "xws": "sophist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "toll bearer",
@@ -197,7 +197,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-toll-bearer-front.png",
     "xws": "tollbearer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "toll bearer",
@@ -205,7 +205,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-toll-bearer-back.png",
     "xws": "tollbearer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "true scale",
@@ -213,7 +213,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-true-scale-front.png",
     "xws": "truescale",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "true scale",
@@ -221,7 +221,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/base/rv-true-scale-back.png",
     "xws": "truescale",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "umbral howl",
@@ -229,7 +229,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-umbrul-howl-front.png",
     "xws": "umbralhowl",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "umbral howl",
@@ -237,7 +237,7 @@
     "expansion": "core",
     "image": "profile-boards/rove/core/prime/rv-umbrul-howl-back.png",
     "xws": "umbralhowl",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "essentialist",
@@ -245,7 +245,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-essentialist-front.png",
     "xws": "essentialist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "essentialist",
@@ -253,7 +253,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-essentialist-back.png",
     "xws": "essentialist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "fierce ransomer",
@@ -261,7 +261,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-fierce-ransomer-front.png",
     "xws": "fierceransomer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "fierce ransomer",
@@ -269,7 +269,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-fierce-ransomer-back.png",
     "xws": "fierceransomer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "fountain caller",
@@ -277,7 +277,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-fountain-caller-front.png",
     "xws": "fountaincaller",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "fountain caller",
@@ -285,7 +285,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-fountain-caller-back.png",
     "xws": "fountaincaller",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "kataphatist",
@@ -293,7 +293,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-kataphatist-front.png",
     "xws": "kataphatist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "kataphatist",
@@ -301,7 +301,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-kataphatist-back.png",
     "xws": "kataphatist",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "keening bolt",
@@ -309,7 +309,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-keening-bolt-front.png",
     "xws": "keeningbolt",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "keening bolt",
@@ -317,7 +317,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-keening-bolt-back.png",
     "xws": "keeningbolt",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "mistral",
@@ -325,7 +325,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-mistral-front.png",
     "xws": "mistral",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "mistral",
@@ -333,7 +333,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-mistral-back.png",
     "xws": "mistral",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "tempest",
@@ -341,7 +341,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-tempest-front.png",
     "xws": "tempest",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "tempest",
@@ -349,7 +349,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-tempest-back.png",
     "xws": "tempest",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "vesper sharpshot",
@@ -357,7 +357,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-vesper-sharpshot-front.png",
     "xws": "vespersharpshot",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "vesper sharpshot",
@@ -365,7 +365,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-vesper-sharpshot-back.png",
     "xws": "vespersharpshot",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "wellspring ewer",
@@ -373,7 +373,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-wellspring-ewer-front.png",
     "xws": "wellspringewer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "wellspring ewer",
@@ -381,7 +381,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-wellspring-ewer-back.png",
     "xws": "wellspringewer",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "zero sum",
@@ -389,7 +389,7 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-zero-sum-front.png",
     "xws": "zerosum",
-    "cardno": "x-###"
+    "assetno": "x-###"
   },
   {
     "name": "zero sum",
@@ -397,6 +397,6 @@
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/apex/rv-zero-sum-back.png",
     "xws": "zerosum",
-    "cardno": "x-###"
+    "assetno": "x-###"
   }
 ]

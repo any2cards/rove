@@ -5,7 +5,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-aster-trait-back.png",
     "xws": "astertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "particle beam",
@@ -13,7 +13,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-particle-beam.png",
     "xws": "particlebeam",
-    "cardno": "c-112"
+    "assetno": "c-112"
   },
   {
     "name": "c-112",
@@ -21,7 +21,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-particle-beam.png",
     "xws": "particlebeam",
-    "cardno": "c-112"
+    "assetno": "c-112"
   },
   {
     "name": "plasma approximation",
@@ -29,7 +29,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-plasma-approximation.png",
     "xws": "plasmaapproximation",
-    "cardno": "c-111"
+    "assetno": "c-111"
   },
   {
     "name": "c-111",
@@ -37,7 +37,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-plasma-approximation.png",
     "xws": "plasmaapproximation",
-    "cardno": "c-111"
+    "assetno": "c-111"
   },
   {
     "name": "stellar forging",
@@ -45,7 +45,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-stellar-forging.png",
     "xws": "stellarforging",
-    "cardno": "c-110"
+    "assetno": "c-110"
   },
   {
     "name": "c-110",
@@ -53,7 +53,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/aster/rv-stellar-forging.png",
     "xws": "stellarforging",
-    "cardno": "c-110"
+    "assetno": "c-110"
   },
   {
     "name": "blazing charge",
@@ -61,7 +61,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-blazing-charge.png",
     "xws": "blazingcharge",
-    "cardno": "c-105"
+    "assetno": "c-105"
   },
   {
     "name": "c-105",
@@ -69,7 +69,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-blazing-charge.png",
     "xws": "blazingcharge",
-    "cardno": "c-105"
+    "assetno": "c-105"
   },
   {
     "name": "canyon temper trait back",
@@ -77,7 +77,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-canyon-temper-trait-back.png",
     "xws": "canyontempertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "earthen whisper",
@@ -85,7 +85,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-earthen-whisper.png",
     "xws": "earthenwhisper",
-    "cardno": "c-104"
+    "assetno": "c-104"
   },
   {
     "name": "c-104",
@@ -93,7 +93,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-earthen-whisper.png",
     "xws": "earthenwhisper",
-    "cardno": "c-104"
+    "assetno": "c-104"
   },
   {
     "name": "streak boarding",
@@ -101,7 +101,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-streak-boarding.png",
     "xws": "streakboarding",
-    "cardno": "c-106"
+    "assetno": "c-106"
   },
   {
     "name": "c-106",
@@ -109,7 +109,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/canyon-temper/rv-streak-boarding.png",
     "xws": "streakboarding",
-    "cardno": "c-106"
+    "assetno": "c-106"
   },
   {
     "name": "conceptualist trait back",
@@ -117,7 +117,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-conceptualist-trait-back.png",
     "xws": "conceptualisttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "ethos rhetoric",
@@ -125,7 +125,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-ethos-rhetoric.png",
     "xws": "ethosrhetoric",
-    "cardno": "c-121"
+    "assetno": "c-121"
   },
   {
     "name": "c-121",
@@ -133,7 +133,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-ethos-rhetoric.png",
     "xws": "ethosrhetoric",
-    "cardno": "c-121"
+    "assetno": "c-121"
   },
   {
     "name": "kanon inventio",
@@ -141,7 +141,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-kanon-inventio.png",
     "xws": "kanoninventio",
-    "cardno": "c-120"
+    "assetno": "c-120"
   },
   {
     "name": "c-120",
@@ -149,7 +149,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-kanon-inventio.png",
     "xws": "kanoninventio",
-    "cardno": "c-120"
+    "assetno": "c-120"
   },
   {
     "name": "pathos rhetoric",
@@ -157,7 +157,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-pathos-rhetoric.png",
     "xws": "pathosrhetoric",
-    "cardno": "c-119"
+    "assetno": "c-119"
   },
   {
     "name": "c-119",
@@ -165,7 +165,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/conceptualist/rv-pathos-rhetoric.png",
     "xws": "pathosrhetoric",
-    "cardno": "c-119"
+    "assetno": "c-119"
   },
   {
     "name": "helion trait back",
@@ -173,7 +173,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-helion-trait-back.png",
     "xws": "heliontraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "pyretic",
@@ -181,7 +181,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-pyretic.png",
     "xws": "pyretic",
-    "cardno": "c-107"
+    "assetno": "c-107"
   },
   {
     "name": "c-107",
@@ -189,7 +189,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-pyretic.png",
     "xws": "pyretic",
-    "cardno": "c-107"
+    "assetno": "c-107"
   },
   {
     "name": "thermostatic",
@@ -197,7 +197,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-thermostatic.png",
     "xws": "thermostatic",
-    "cardno": "c-108"
+    "assetno": "c-108"
   },
   {
     "name": "c-108",
@@ -205,7 +205,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-thermostatic.png",
     "xws": "thermostatic",
-    "cardno": "c-108"
+    "assetno": "c-108"
   },
   {
     "name": "tropistic",
@@ -213,7 +213,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-tropistic.png",
     "xws": "tropistic",
-    "cardno": "c-109"
+    "assetno": "c-109"
   },
   {
     "name": "c-109",
@@ -221,7 +221,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/helion/rv-tropistic.png",
     "xws": "tropistic",
-    "cardno": "c-109"
+    "assetno": "c-109"
   },
   {
     "name": "directed taxation",
@@ -229,7 +229,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-directed-taxation.png",
     "xws": "directedtaxation",
-    "cardno": "c-128"
+    "assetno": "c-128"
   },
   {
     "name": "c-128",
@@ -237,7 +237,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-directed-taxation.png",
     "xws": "directedtaxation",
-    "cardno": "c-128"
+    "assetno": "c-128"
   },
   {
     "name": "exoskeletal development",
@@ -245,7 +245,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-exoskeletal-development.png",
     "xws": "exoskeletaldevelopment",
-    "cardno": "c-129"
+    "assetno": "c-129"
   },
   {
     "name": "c-129",
@@ -253,7 +253,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-exoskeletal-development.png",
     "xws": "exoskeletaldevelopment",
-    "cardno": "c-129"
+    "assetno": "c-129"
   },
   {
     "name": "invisible hand trait back",
@@ -261,7 +261,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-invisible-hand-trait-back.png",
     "xws": "invisiblehandtraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "skimming sleight",
@@ -269,7 +269,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-skimming-sleight.png",
     "xws": "skimmingsleight",
-    "cardno": "c-130"
+    "assetno": "c-130"
   },
   {
     "name": "c-130",
@@ -277,7 +277,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/invisible-hand/rv-skimming-sleight.png",
     "xws": "skimmingsleight",
-    "cardno": "c-130"
+    "assetno": "c-130"
   },
   {
     "name": "chronos rhetoric",
@@ -285,7 +285,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-chronos-rhetoric.png",
     "xws": "chronosrhetoric",
-    "cardno": "c-122"
+    "assetno": "c-122"
   },
   {
     "name": "c-122",
@@ -293,7 +293,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-chronos-rhetoric.png",
     "xws": "chronosrhetoric",
-    "cardno": "c-122"
+    "assetno": "c-122"
   },
   {
     "name": "kanon dispositio",
@@ -301,7 +301,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-kanon-dispositio.png",
     "xws": "kanondispositio",
-    "cardno": "c-123"
+    "assetno": "c-123"
   },
   {
     "name": "c-123",
@@ -309,7 +309,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-kanon-dispositio.png",
     "xws": "kanondispositio",
-    "cardno": "c-123"
+    "assetno": "c-123"
   },
   {
     "name": "kanon memoria",
@@ -317,7 +317,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-kanon-memoria.png",
     "xws": "kanonmemoria",
-    "cardno": "c-124"
+    "assetno": "c-124"
   },
   {
     "name": "c-124",
@@ -325,7 +325,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-kanon-memoria.png",
     "xws": "kanonmemoria",
-    "cardno": "c-124"
+    "assetno": "c-124"
   },
   {
     "name": "maximist trait back",
@@ -333,7 +333,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/maximist/rv-maximist-trait-back.png",
     "xws": "maximisttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "blood vial",
@@ -341,7 +341,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-blood-vial.png",
     "xws": "bloodvial",
-    "cardno": "c-116"
+    "assetno": "c-116"
   },
   {
     "name": "c-116",
@@ -349,7 +349,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-blood-vial.png",
     "xws": "bloodvial",
-    "cardno": "c-116"
+    "assetno": "c-116"
   },
   {
     "name": "nocturne hoarfrost trait back",
@@ -357,7 +357,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-nocturne-hoarfrost-trait-back.png",
     "xws": "nocturnehoarfrosttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "rime cauterization",
@@ -365,7 +365,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-rime-cauterization.png",
     "xws": "rimecauterization",
-    "cardno": "c-118"
+    "assetno": "c-118"
   },
   {
     "name": "c-118",
@@ -373,7 +373,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-rime-cauterization.png",
     "xws": "rimecauterization",
-    "cardno": "c-118"
+    "assetno": "c-118"
   },
   {
     "name": "threat response",
@@ -381,7 +381,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-threat-response.png",
     "xws": "threatresponse",
-    "cardno": "c-117"
+    "assetno": "c-117"
   },
   {
     "name": "c-117",
@@ -389,7 +389,7 @@
     "expansion": "core",
     "image": "traits/rove/core/apex/nocturne-hoarfrost/rv-threat-response.png",
     "xws": "threatresponse",
-    "cardno": "c-117"
+    "assetno": "c-117"
   },
   {
     "name": "act of solidarity",
@@ -397,7 +397,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-act-of-solidarity.png",
     "xws": "actofsolidarity",
-    "cardno": "c-103"
+    "assetno": "c-103"
   },
   {
     "name": "c-103",
@@ -405,7 +405,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-act-of-solidarity.png",
     "xws": "actofsolidarity",
-    "cardno": "c-103"
+    "assetno": "c-103"
   },
   {
     "name": "ridge barding",
@@ -413,7 +413,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-ridge-barding.png",
     "xws": "ridgebarding",
-    "cardno": "c-102"
+    "assetno": "c-102"
   },
   {
     "name": "c-102",
@@ -421,7 +421,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-ridge-barding.png",
     "xws": "ridgebarding",
-    "cardno": "c-102"
+    "assetno": "c-102"
   },
   {
     "name": "ridge striker trait back",
@@ -429,7 +429,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-ridge-striker-trait-back.png",
     "xws": "ridgestrikertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "sum of our parts",
@@ -437,7 +437,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-sum-of-our-parts.png",
     "xws": "sumofourparts",
-    "cardno": "c-101"
+    "assetno": "c-101"
   },
   {
     "name": "c-101",
@@ -445,7 +445,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/ridge-striker/rv-sum-of-our-parts.png",
     "xws": "sumofourparts",
-    "cardno": "c-101"
+    "assetno": "c-101"
   },
   {
     "name": "nest egg",
@@ -453,7 +453,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-nest-egg.png",
     "xws": "nestegg",
-    "cardno": "c-126"
+    "assetno": "c-126"
   },
   {
     "name": "c-126",
@@ -461,7 +461,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-nest-egg.png",
     "xws": "nestegg",
-    "cardno": "c-126"
+    "assetno": "c-126"
   },
   {
     "name": "seize the means",
@@ -469,7 +469,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-seize-the-means.png",
     "xws": "seizethemeans",
-    "cardno": "c-127"
+    "assetno": "c-127"
   },
   {
     "name": "c-127",
@@ -477,7 +477,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-seize-the-means.png",
     "xws": "seizethemeans",
-    "cardno": "c-127"
+    "assetno": "c-127"
   },
   {
     "name": "strategic resources",
@@ -485,7 +485,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-strategic-resources.png",
     "xws": "strategicresources",
-    "cardno": "c-125"
+    "assetno": "c-125"
   },
   {
     "name": "c-125",
@@ -493,7 +493,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-strategic-resources.png",
     "xws": "strategicresources",
-    "cardno": "c-125"
+    "assetno": "c-125"
   },
   {
     "name": "toll bearer trait back",
@@ -501,7 +501,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/toll-bearer/rv-toll-bearer-trait-back.png",
     "xws": "tollbearertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "draw from death",
@@ -509,7 +509,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-draw-from-death.png",
     "xws": "drawfromdeath",
-    "cardno": "c-115"
+    "assetno": "c-115"
   },
   {
     "name": "c-115",
@@ -517,7 +517,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-draw-from-death.png",
     "xws": "drawfromdeath",
-    "cardno": "c-115"
+    "assetno": "c-115"
   },
   {
     "name": "frenzied feeding",
@@ -525,7 +525,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-frenzied-feeding.png",
     "xws": "frenziedfeeding",
-    "cardno": "c-114"
+    "assetno": "c-114"
   },
   {
     "name": "c-114",
@@ -533,7 +533,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-frenzied-feeding.png",
     "xws": "frenziedfeeding",
-    "cardno": "c-114"
+    "assetno": "c-114"
   },
   {
     "name": "scent of blood",
@@ -541,7 +541,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-scent-of-blood.png",
     "xws": "scentofblood",
-    "cardno": "c-113"
+    "assetno": "c-113"
   },
   {
     "name": "c-113",
@@ -549,7 +549,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-scent-of-blood.png",
     "xws": "scentofblood",
-    "cardno": "c-113"
+    "assetno": "c-113"
   },
   {
     "name": "umbral howl trait back",
@@ -557,7 +557,7 @@
     "expansion": "core",
     "image": "traits/rove/core/prime/umbral-howl/rv-umbral-howl-trait-back.png",
     "xws": "umbralhowltraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "carry the one",
@@ -565,7 +565,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-carry-the-one.png",
     "xws": "carrytheone",
-    "cardno": "c-149"
+    "assetno": "c-149"
   },
   {
     "name": "c-149",
@@ -573,7 +573,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-carry-the-one.png",
     "xws": "carrytheone",
-    "cardno": "c-149"
+    "assetno": "c-149"
   },
   {
     "name": "essentialist trait back",
@@ -581,7 +581,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-essentialist-trait-back.png",
     "xws": "essentialisttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "substitution",
@@ -589,7 +589,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-substitution.png",
     "xws": "substitution",
-    "cardno": "c-150"
+    "assetno": "c-150"
   },
   {
     "name": "c-150",
@@ -597,7 +597,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-substitution.png",
     "xws": "substitution",
-    "cardno": "c-150"
+    "assetno": "c-150"
   },
   {
     "name": "wild card",
@@ -605,7 +605,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-wild-card.png",
     "xws": "wildcard",
-    "cardno": "c-151"
+    "assetno": "c-151"
   },
   {
     "name": "c-151",
@@ -613,7 +613,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/essentialist/rv-wild-card.png",
     "xws": "wildcard",
-    "cardno": "c-151"
+    "assetno": "c-151"
   },
   {
     "name": "fierce ransomer trait back",
@@ -621,7 +621,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-fierce-ransomer-trait-back.png",
     "xws": "fierceransomertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "fire sale",
@@ -629,7 +629,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-fire-sale.png",
     "xws": "firesale",
-    "cardno": "c-157"
+    "assetno": "c-157"
   },
   {
     "name": "c-157",
@@ -637,7 +637,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-fire-sale.png",
     "xws": "firesale",
-    "cardno": "c-157"
+    "assetno": "c-157"
   },
   {
     "name": "full complement",
@@ -645,7 +645,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-full-complement.png",
     "xws": "fullcomplement",
-    "cardno": "c-155"
+    "assetno": "c-155"
   },
   {
     "name": "c-155",
@@ -653,7 +653,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-full-complement.png",
     "xws": "fullcomplement",
-    "cardno": "c-155"
+    "assetno": "c-155"
   },
   {
     "name": "nothing wasted",
@@ -661,7 +661,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-nothing-wasted.png",
     "xws": "nothingwasted",
-    "cardno": "c-156"
+    "assetno": "c-156"
   },
   {
     "name": "c-156",
@@ -669,7 +669,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fierce-ransomer/rv-nothing-wasted.png",
     "xws": "nothingwasted",
-    "cardno": "c-156"
+    "assetno": "c-156"
   },
   {
     "name": "firebird's rally",
@@ -677,7 +677,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-firebirds-rally.png",
     "xws": "firebirdsrally",
-    "cardno": "c-133"
+    "assetno": "c-133"
   },
   {
     "name": "c-133",
@@ -685,7 +685,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-firebirds-rally.png",
     "xws": "firebirdsrally",
-    "cardno": "c-133"
+    "assetno": "c-133"
   },
   {
     "name": "fountain caller trait back",
@@ -693,7 +693,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-fountain-caller-trait-back.png",
     "xws": "fountaincallertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "sum of our parts",
@@ -701,7 +701,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-sum-of-our-parts.png",
     "xws": "sumofourparts",
-    "cardno": "c-131"
+    "assetno": "c-131"
   },
   {
     "name": "c-131",
@@ -709,7 +709,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-sum-of-our-parts.png",
     "xws": "sumofourparts",
-    "cardno": "c-131"
+    "assetno": "c-131"
   },
   {
     "name": "winged embrace",
@@ -717,7 +717,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-winged-embrace.png",
     "xws": "wingedembrace",
-    "cardno": "c-132"
+    "assetno": "c-132"
   },
   {
     "name": "c-132",
@@ -725,143 +725,143 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/fountain-caller/rv-winged-embrace.png",
     "xws": "wingedembrace",
-    "cardno": "c-132"
+    "assetno": "c-132"
   },
   {
     "name": "catabolic boosting",
     "points": 91,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-catabolic-boosting.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-catabolic-boosting.png",
     "xws": "catabolicboosting",
-    "cardno": "c-168"
+    "assetno": "c-168"
   },
   {
     "name": "c-168",
     "points": 92,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-catabolic-boosting.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-catabolic-boosting.png",
     "xws": "catabolicboosting",
-    "cardno": "c-168"
+    "assetno": "c-168"
   },
   {
     "name": "entoman carapace",
     "points": 93,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-entoman-carapace.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-entoman-carapace.png",
     "xws": "entomancarapace",
-    "cardno": "c-165"
+    "assetno": "c-165"
   },
   {
     "name": "c-165",
     "points": 94,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-entoman-carapace.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-entoman-carapace.png",
     "xws": "entomancarapace",
-    "cardno": "c-165"
+    "assetno": "c-165"
   },
   {
     "name": "explosive emissions",
     "points": 95,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-explosive-emissions.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-explosive-emissions.png",
     "xws": "explosiveemissions",
-    "cardno": "c-161"
+    "assetno": "c-161"
   },
   {
     "name": "c-161",
     "points": 96,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-explosive-emissions.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-explosive-emissions.png",
     "xws": "explosiveemissions",
-    "cardno": "c-161"
+    "assetno": "c-161"
   },
   {
     "name": "hyper flexibility",
     "points": 97,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-hyper-flexibility.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-hyper-flexibility.png",
     "xws": "hyperflexibility",
-    "cardno": "c-167"
+    "assetno": "c-167"
   },
   {
     "name": "c-167",
     "points": 98,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-hyper-flexibility.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-hyper-flexibility.png",
     "xws": "hyperflexibility",
-    "cardno": "c-167"
+    "assetno": "c-167"
   },
   {
     "name": "infected trait back",
     "points": 99,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-infected-trait-back.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-infected-trait-back.png",
     "xws": "infectedtraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "metabolic balancing",
     "points": 100,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-metabolic-balancing.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-metabolic-balancing.png",
     "xws": "metabolicbalancing",
-    "cardno": "c-163"
+    "assetno": "c-163"
   },
   {
     "name": "c-163",
     "points": 101,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-metabolic-balancing.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-metabolic-balancing.png",
     "xws": "metabolicbalancing",
-    "cardno": "c-163"
+    "assetno": "c-163"
   },
   {
     "name": "silvan appendages",
     "points": 102,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-silvan-appendages.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-silvan-appendages.png",
     "xws": "silvanappendages",
-    "cardno": "c-164"
+    "assetno": "c-164"
   },
   {
     "name": "c-164",
     "points": 103,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-silvan-appendages.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-silvan-appendages.png",
     "xws": "silvanappendages",
-    "cardno": "c-164"
+    "assetno": "c-164"
   },
   {
     "name": "theran instinct",
     "points": 104,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-theran-instinct.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-theran-instinct.png",
     "xws": "theraninstinct",
-    "cardno": "c-162"
+    "assetno": "c-162"
   },
   {
     "name": "c-162",
     "points": 105,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-theran-instinct.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-theran-instinct.png",
     "xws": "theraninstinct",
-    "cardno": "c-162"
+    "assetno": "c-162"
   },
   {
     "name": "wing membranes",
     "points": 106,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-wing-membranes.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-wing-membranes.png",
     "xws": "wingmembranes",
-    "cardno": "c-166"
+    "assetno": "c-166"
   },
   {
     "name": "c-166",
     "points": 107,
-    "expansion": "other",
-    "image": "traits/rove/other/other/infected/rv-wing-membranes.png",
+    "expansion": "xulc",
+    "image": "traits/rove/xulc/other/infected/rv-wing-membranes.png",
     "xws": "wingmembranes",
-    "cardno": "c-166"
+    "assetno": "c-166"
   },
   {
     "name": "kataphatist trait back",
@@ -869,7 +869,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-kataphatist-trait-back.png",
     "xws": "kataphatisttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "partial derivative",
@@ -877,7 +877,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-partial-derivative.png",
     "xws": "partialderivative",
-    "cardno": "c-152"
+    "assetno": "c-152"
   },
   {
     "name": "c-152",
@@ -885,7 +885,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-partial-derivative.png",
     "xws": "partialderivative",
-    "cardno": "c-152"
+    "assetno": "c-152"
   },
   {
     "name": "polynomial expression",
@@ -893,7 +893,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-polynomial-expression.png",
     "xws": "polynomialexpression",
-    "cardno": "c-153"
+    "assetno": "c-153"
   },
   {
     "name": "c-153",
@@ -901,7 +901,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-polynomial-expression.png",
     "xws": "polynomialexpression",
-    "cardno": "c-153"
+    "assetno": "c-153"
   },
   {
     "name": "undefined variable",
@@ -909,7 +909,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-undefined-variable.png",
     "xws": "undefinedvariable",
-    "cardno": "c-154"
+    "assetno": "c-154"
   },
   {
     "name": "c-154",
@@ -917,7 +917,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/kataphatist/rv-undefined-variable.png",
     "xws": "undefinedvariable",
-    "cardno": "c-154"
+    "assetno": "c-154"
   },
   {
     "name": "gripping despair",
@@ -925,7 +925,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-gripping-despair.png",
     "xws": "grippingdespair",
-    "cardno": "c-145"
+    "assetno": "c-145"
   },
   {
     "name": "c-145",
@@ -933,7 +933,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-gripping-despair.png",
     "xws": "grippingdespair",
-    "cardno": "c-145"
+    "assetno": "c-145"
   },
   {
     "name": "keening bolt trait back",
@@ -941,7 +941,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-keening-bolt-trait-back.png",
     "xws": "keeningbolttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "lost hope",
@@ -949,7 +949,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-lost-hope.png",
     "xws": "losthope",
-    "cardno": "c-143"
+    "assetno": "c-143"
   },
   {
     "name": "c-143",
@@ -957,7 +957,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-lost-hope.png",
     "xws": "losthope",
-    "cardno": "c-143"
+    "assetno": "c-143"
   },
   {
     "name": "sap will",
@@ -965,7 +965,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-sap-will.png",
     "xws": "sapwill",
-    "cardno": "c-144"
+    "assetno": "c-144"
   },
   {
     "name": "c-144",
@@ -973,7 +973,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/keening-bolt/rv-sap-will.png",
     "xws": "sapwill",
-    "cardno": "c-144"
+    "assetno": "c-144"
   },
   {
     "name": "aeroelastic",
@@ -981,7 +981,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-aeroelastic.png",
     "xws": "aeroelastic",
-    "cardno": "c-137"
+    "assetno": "c-137"
   },
   {
     "name": "c-137",
@@ -989,7 +989,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-aeroelastic.png",
     "xws": "aeroelastic",
-    "cardno": "c-137"
+    "assetno": "c-137"
   },
   {
     "name": "electrostatic",
@@ -997,7 +997,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-electrostatic.png",
     "xws": "electrostatic",
-    "cardno": "c-138"
+    "assetno": "c-138"
   },
   {
     "name": "c-138",
@@ -1005,7 +1005,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-electrostatic.png",
     "xws": "electrostatic",
-    "cardno": "c-138"
+    "assetno": "c-138"
   },
   {
     "name": "mistral trait back",
@@ -1013,7 +1013,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-mistral-trait-back.png",
     "xws": "mistraltraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "tropistic",
@@ -1021,7 +1021,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-tropistic.png",
     "xws": "tropistic",
-    "cardno": "c-139"
+    "assetno": "c-139"
   },
   {
     "name": "c-139",
@@ -1029,7 +1029,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/prime/mistral/rv-tropistic.png",
     "xws": "tropistic",
-    "cardno": "c-139"
+    "assetno": "c-139"
   },
   {
     "name": "atmospheric conditioning",
@@ -1037,7 +1037,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-atmospheric-conditioning.png",
     "xws": "atmosphericconditioning",
-    "cardno": "c-140"
+    "assetno": "c-140"
   },
   {
     "name": "c-140",
@@ -1045,7 +1045,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-atmospheric-conditioning.png",
     "xws": "atmosphericconditioning",
-    "cardno": "c-140"
+    "assetno": "c-140"
   },
   {
     "name": "eye of the storm",
@@ -1053,7 +1053,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-eye-of-the-storm.png",
     "xws": "eyeofthestorm",
-    "cardno": "c-141"
+    "assetno": "c-141"
   },
   {
     "name": "c-141",
@@ -1061,7 +1061,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-eye-of-the-storm.png",
     "xws": "eyeofthestorm",
-    "cardno": "c-141"
+    "assetno": "c-141"
   },
   {
     "name": "shockwave propagation",
@@ -1069,7 +1069,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-shockwave-propagation.png",
     "xws": "shockwavepropagation",
-    "cardno": "c-142"
+    "assetno": "c-142"
   },
   {
     "name": "c-142",
@@ -1077,7 +1077,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-shockwave-propagation.png",
     "xws": "shockwavepropagation",
-    "cardno": "c-142"
+    "assetno": "c-142"
   },
   {
     "name": "tempest trait back",
@@ -1085,7 +1085,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/tempest/rv-tempest-trait-back.png",
     "xws": "tempesttraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "hungering cold",
@@ -1093,7 +1093,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-hungering-cold.png",
     "xws": "hungeringcold",
-    "cardno": "c-148"
+    "assetno": "c-148"
   },
   {
     "name": "c-148",
@@ -1101,7 +1101,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-hungering-cold.png",
     "xws": "hungeringcold",
-    "cardno": "c-148"
+    "assetno": "c-148"
   },
   {
     "name": "hunter's instinct",
@@ -1109,7 +1109,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-hunters-instinct.png",
     "xws": "huntersinstinct",
-    "cardno": "c-147"
+    "assetno": "c-147"
   },
   {
     "name": "c-147",
@@ -1117,7 +1117,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-hunters-instinct.png",
     "xws": "huntersinstinct",
-    "cardno": "c-147"
+    "assetno": "c-147"
   },
   {
     "name": "meltwater spring",
@@ -1125,7 +1125,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-meltwater-spring.png",
     "xws": "meltwaterspring",
-    "cardno": "c-146"
+    "assetno": "c-146"
   },
   {
     "name": "c-146",
@@ -1133,7 +1133,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-meltwater-spring.png",
     "xws": "meltwaterspring",
-    "cardno": "c-146"
+    "assetno": "c-146"
   },
   {
     "name": "vesper sharpshot trait back",
@@ -1141,7 +1141,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-vesper-sharpshot-trait-back.png",
     "xws": "vespersharpshottraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "positive affirmation",
@@ -1149,7 +1149,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-positive-affirmation.png",
     "xws": "positiveaffirmation",
-    "cardno": "c-134"
+    "assetno": "c-134"
   },
   {
     "name": "c-134",
@@ -1157,7 +1157,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-positive-affirmation.png",
     "xws": "positiveaffirmation",
-    "cardno": "c-134"
+    "assetno": "c-134"
   },
   {
     "name": "scalding shower",
@@ -1165,7 +1165,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-scalding-shower.png",
     "xws": "scaldingshower",
-    "cardno": "c-136"
+    "assetno": "c-136"
   },
   {
     "name": "c-136",
@@ -1173,7 +1173,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-scalding-shower.png",
     "xws": "scaldingshower",
-    "cardno": "c-136"
+    "assetno": "c-136"
   },
   {
     "name": "soothing shower",
@@ -1181,7 +1181,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-soothing-shower.png",
     "xws": "soothingshower",
-    "cardno": "c-135"
+    "assetno": "c-135"
   },
   {
     "name": "c-135",
@@ -1189,7 +1189,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-soothing-shower.png",
     "xws": "soothingshower",
-    "cardno": "c-135"
+    "assetno": "c-135"
   },
   {
     "name": "wellspring ewer trait back",
@@ -1197,7 +1197,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/wellspring-ewer/rv-wellspring-ewer-trait-back.png",
     "xws": "wellspringewertraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   },
   {
     "name": "exoskeletal development",
@@ -1205,7 +1205,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-exoskeletal-development.png",
     "xws": "exoskeletaldevelopment",
-    "cardno": "c-159"
+    "assetno": "c-159"
   },
   {
     "name": "c-159",
@@ -1213,7 +1213,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-exoskeletal-development.png",
     "xws": "exoskeletaldevelopment",
-    "cardno": "c-159"
+    "assetno": "c-159"
   },
   {
     "name": "fine print",
@@ -1221,7 +1221,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-fine-print.png",
     "xws": "fineprint",
-    "cardno": "c-160"
+    "assetno": "c-160"
   },
   {
     "name": "c-160",
@@ -1229,7 +1229,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-fine-print.png",
     "xws": "fineprint",
-    "cardno": "c-160"
+    "assetno": "c-160"
   },
   {
     "name": "shrewd negotiator",
@@ -1237,7 +1237,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-shrewd-negotiator.png",
     "xws": "shrewdnegotiator",
-    "cardno": "c-158"
+    "assetno": "c-158"
   },
   {
     "name": "c-158",
@@ -1245,7 +1245,7 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-shrewd-negotiator.png",
     "xws": "shrewdnegotiator",
-    "cardno": "c-158"
+    "assetno": "c-158"
   },
   {
     "name": "zero sum trait back",
@@ -1253,6 +1253,6 @@
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/zero-sum/rv-zero-sum-trait-back.png",
     "xws": "zerosumtraitback",
-    "cardno": "c-###"
+    "assetno": "c-###"
   }
 ]

@@ -5,7 +5,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-kelo-front.png",
     "xws": "kelo",
-    "cardno": "a-013"
+    "assetno": "a-013"
   },
   {
     "name": "a-013",
@@ -13,7 +13,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-kelo-front.png",
     "xws": "kelo",
-    "cardno": "a-013"
+    "assetno": "a-013"
   },
   {
     "name": "saras",
@@ -21,7 +21,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-saras-back.png",
     "xws": "saras",
-    "cardno": "a-013"
+    "assetno": "a-013"
   },
   {
     "name": "a-013",
@@ -29,7 +29,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-saras-back.png",
     "xws": "saras",
-    "cardno": "a-013"
+    "assetno": "a-013"
   },
   {
     "name": "ozendyn",
@@ -37,7 +37,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-front-1.png",
     "xws": "ozendyn",
-    "cardno": "a-014"
+    "assetno": "a-014"
   },
   {
     "name": "a-014",
@@ -45,7 +45,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-front-1.png",
     "xws": "ozendyn",
-    "cardno": "a-014"
+    "assetno": "a-014"
   },
   {
     "name": "ozendyn",
@@ -53,7 +53,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-back-1.png",
     "xws": "ozendyn",
-    "cardno": "a-014"
+    "assetno": "a-014"
   },
   {
     "name": "a-014",
@@ -61,7 +61,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-back-1.png",
     "xws": "ozendyn",
-    "cardno": "a-014"
+    "assetno": "a-014"
   },
   {
     "name": "ozendyn",
@@ -69,7 +69,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-front-2.png",
     "xws": "ozendyn",
-    "cardno": "a-015"
+    "assetno": "a-015"
   },
   {
     "name": "a-015",
@@ -77,7 +77,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-front-2.png",
     "xws": "ozendyn",
-    "cardno": "a-015"
+    "assetno": "a-015"
   },
   {
     "name": "ozendyn",
@@ -85,7 +85,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-back-2.png",
     "xws": "ozendyn",
-    "cardno": "a-015"
+    "assetno": "a-015"
   },
   {
     "name": "a-015",
@@ -93,7 +93,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-ozendyn-back-2.png",
     "xws": "ozendyn",
-    "cardno": "a-015"
+    "assetno": "a-015"
   },
   {
     "name": "zeepurah",
@@ -101,7 +101,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-zeepurah-front.png",
     "xws": "zeepurah",
-    "cardno": "a-012"
+    "assetno": "a-012"
   },
   {
     "name": "a-012",
@@ -109,7 +109,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-zeepurah-front.png",
     "xws": "zeepurah",
-    "cardno": "a-012"
+    "assetno": "a-012"
   },
   {
     "name": "zeepurah",
@@ -117,7 +117,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-zeepurah-back.png",
     "xws": "zeepurah",
-    "cardno": "a-012"
+    "assetno": "a-012"
   },
   {
     "name": "a-012",
@@ -125,7 +125,7 @@
     "expansion": "core",
     "image": "allies/rove/core/rv-zeepurah-back.png",
     "xws": "zeepurah",
-    "cardno": "a-012"
+    "assetno": "a-012"
   },
   {
     "name": "hra",
@@ -133,7 +133,7 @@
     "expansion": "xulc",
     "image": "allies/rove/xulc/rv-hra-front.png",
     "xws": "hra",
-    "cardno": "a-024"
+    "assetno": "a-024"
   },
   {
     "name": "a-024",
@@ -141,7 +141,7 @@
     "expansion": "xulc",
     "image": "allies/rove/xulc/rv-hra-front.png",
     "xws": "hra",
-    "cardno": "a-024"
+    "assetno": "a-024"
   },
   {
     "name": "hra",
@@ -149,7 +149,7 @@
     "expansion": "xulc",
     "image": "allies/rove/xulc/rv-hra-back.png",
     "xws": "hra",
-    "cardno": "a-024"
+    "assetno": "a-024"
   },
   {
     "name": "a-024",
@@ -157,6 +157,6 @@
     "expansion": "xulc",
     "image": "allies/rove/xulc/rv-hra-back.png",
     "xws": "hra",
-    "cardno": "a-024"
+    "assetno": "a-024"
   }
 ]

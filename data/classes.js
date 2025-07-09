@@ -5,7 +5,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-bulk-interactions.png",
     "xws": "bulkinteractions",
-    "cardno": "s-092"
+    "assetno": "s-092"
   },
   {
     "name": "s-092",
@@ -13,7 +13,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-bulk-interactions.png",
     "xws": "bulkinteractions",
-    "cardno": "s-092"
+    "assetno": "s-092"
   },
   {
     "name": "coronal loop",
@@ -21,7 +21,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-coronal-loop.png",
     "xws": "coronalloop",
-    "cardno": "s-097"
+    "assetno": "s-097"
   },
   {
     "name": "s-097",
@@ -29,7 +29,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-coronal-loop.png",
     "xws": "coronalloop",
-    "cardno": "s-097"
+    "assetno": "s-097"
   },
   {
     "name": "coronal mass ejection",
@@ -37,7 +37,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-coronal-mass-ejection.png",
     "xws": "coronalmassejection",
-    "cardno": "s-094"
+    "assetno": "s-094"
   },
   {
     "name": "s-094",
@@ -45,7 +45,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-coronal-mass-ejection.png",
     "xws": "coronalmassejection",
-    "cardno": "s-094"
+    "assetno": "s-094"
   },
   {
     "name": "heat transfer",
@@ -53,7 +53,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-heat-transfer.png",
     "xws": "heattransfer",
-    "cardno": "s-098"
+    "assetno": "s-098"
   },
   {
     "name": "s-098",
@@ -61,7 +61,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-heat-transfer.png",
     "xws": "heattransfer",
-    "cardno": "s-098"
+    "assetno": "s-098"
   },
   {
     "name": "heliosphere",
@@ -69,7 +69,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-heliosphere.png",
     "xws": "heliosphere",
-    "cardno": "s-095"
+    "assetno": "s-095"
   },
   {
     "name": "s-095",
@@ -77,7 +77,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-heliosphere.png",
     "xws": "heliosphere",
-    "cardno": "s-095"
+    "assetno": "s-095"
   },
   {
     "name": "ionization",
@@ -85,7 +85,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-ionization.png",
     "xws": "ionization",
-    "cardno": "s-096"
+    "assetno": "s-096"
   },
   {
     "name": "s-096",
@@ -93,7 +93,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-ionization.png",
     "xws": "ionization",
-    "cardno": "s-096"
+    "assetno": "s-096"
   },
   {
     "name": "meteor shower",
@@ -101,7 +101,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-meteor-shower.png",
     "xws": "meteorshower",
-    "cardno": "s-102"
+    "assetno": "s-102"
   },
   {
     "name": "s-102",
@@ -109,7 +109,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-meteor-shower.png",
     "xws": "meteorshower",
-    "cardno": "s-102"
+    "assetno": "s-102"
   },
   {
     "name": "scorching ray",
@@ -117,7 +117,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-scorching-ray.png",
     "xws": "scorchingray",
-    "cardno": "s-100"
+    "assetno": "s-100"
   },
   {
     "name": "s-100",
@@ -125,7 +125,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-scorching-ray.png",
     "xws": "scorchingray",
-    "cardno": "s-100"
+    "assetno": "s-100"
   },
   {
     "name": "solar flare",
@@ -133,7 +133,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-solar-flare.png",
     "xws": "solarflare",
-    "cardno": "s-093"
+    "assetno": "s-093"
   },
   {
     "name": "s-093",
@@ -141,7 +141,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-solar-flare.png",
     "xws": "solarflare",
-    "cardno": "s-093"
+    "assetno": "s-093"
   },
   {
     "name": "sun spots",
@@ -149,7 +149,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-sun-spots.png",
     "xws": "sunspots",
-    "cardno": "s-099"
+    "assetno": "s-099"
   },
   {
     "name": "s-099",
@@ -157,7 +157,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-sun-spots.png",
     "xws": "sunspots",
-    "cardno": "s-099"
+    "assetno": "s-099"
   },
   {
     "name": "thermal conduit",
@@ -165,7 +165,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-thermal-conduit.png",
     "xws": "thermalconduit",
-    "cardno": "s-103"
+    "assetno": "s-103"
   },
   {
     "name": "s-103",
@@ -173,7 +173,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-thermal-conduit.png",
     "xws": "thermalconduit",
-    "cardno": "s-103"
+    "assetno": "s-103"
   },
   {
     "name": "thermal dynamism",
@@ -181,7 +181,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-thermal-dynamism.png",
     "xws": "thermaldynamism",
-    "cardno": "s-104"
+    "assetno": "s-104"
   },
   {
     "name": "s-104",
@@ -189,7 +189,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-thermal-dynamism.png",
     "xws": "thermaldynamism",
-    "cardno": "s-104"
+    "assetno": "s-104"
   },
   {
     "name": "warm bodies",
@@ -197,7 +197,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-warm-bodies.png",
     "xws": "warmbodies",
-    "cardno": "s-091"
+    "assetno": "s-091"
   },
   {
     "name": "s-091",
@@ -205,7 +205,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-warm-bodies.png",
     "xws": "warmbodies",
-    "cardno": "s-091"
+    "assetno": "s-091"
   },
   {
     "name": "warm front",
@@ -213,7 +213,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-warm-front.png",
     "xws": "warmfront",
-    "cardno": "s-101"
+    "assetno": "s-101"
   },
   {
     "name": "s-101",
@@ -221,7 +221,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/aster/rv-warm-front.png",
     "xws": "warmfront",
-    "cardno": "s-101"
+    "assetno": "s-101"
   },
   {
     "name": "beak and claw and sword",
@@ -229,7 +229,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-beak-and-claw-and-sword.png",
     "xws": "beakandclawandsword",
-    "cardno": "s-046"
+    "assetno": "s-046"
   },
   {
     "name": "s-046",
@@ -237,7 +237,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-beak-and-claw-and-sword.png",
     "xws": "beakandclawandsword",
-    "cardno": "s-046"
+    "assetno": "s-046"
   },
   {
     "name": "boulder clad",
@@ -245,7 +245,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-boulder-clad.png",
     "xws": "boulderclad",
-    "cardno": "s-051"
+    "assetno": "s-051"
   },
   {
     "name": "s-051",
@@ -253,7 +253,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-boulder-clad.png",
     "xws": "boulderclad",
-    "cardno": "s-051"
+    "assetno": "s-051"
   },
   {
     "name": "frost depth",
@@ -261,7 +261,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-frost-depth.png",
     "xws": "frostdepth",
-    "cardno": "s-044"
+    "assetno": "s-044"
   },
   {
     "name": "s-044",
@@ -269,7 +269,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-frost-depth.png",
     "xws": "frostdepth",
-    "cardno": "s-044"
+    "assetno": "s-044"
   },
   {
     "name": "mighty gust",
@@ -277,7 +277,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-mighty-gust.png",
     "xws": "mightygust",
-    "cardno": "s-040"
+    "assetno": "s-040"
   },
   {
     "name": "s-040",
@@ -285,7 +285,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-mighty-gust.png",
     "xws": "mightygust",
-    "cardno": "s-040"
+    "assetno": "s-040"
   },
   {
     "name": "oasis sanctuary",
@@ -293,7 +293,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-oasis-sanctuary.png",
     "xws": "oasissanctuary",
-    "cardno": "s-039"
+    "assetno": "s-039"
   },
   {
     "name": "s-039",
@@ -301,7 +301,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-oasis-sanctuary.png",
     "xws": "oasissanctuary",
-    "cardno": "s-039"
+    "assetno": "s-039"
   },
   {
     "name": "quake zone",
@@ -309,7 +309,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-quake-zone.png",
     "xws": "quakezone",
-    "cardno": "s-049"
+    "assetno": "s-049"
   },
   {
     "name": "s-049",
@@ -317,7 +317,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-quake-zone.png",
     "xws": "quakezone",
-    "cardno": "s-049"
+    "assetno": "s-049"
   },
   {
     "name": "ravenous drako",
@@ -325,7 +325,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-ravenous-drako-front.png",
     "xws": "ravenousdrako",
-    "cardno": "a-004"
+    "assetno": "a-004"
   },
   {
     "name": "a-004",
@@ -333,7 +333,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-ravenous-drako-front.png",
     "xws": "ravenousdrako",
-    "cardno": "a-004"
+    "assetno": "a-004"
   },
   {
     "name": "ravenous drako",
@@ -341,7 +341,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-ravenous-drako-back.png",
     "xws": "ravenousdrako",
-    "cardno": "a-004"
+    "assetno": "a-004"
   },
   {
     "name": "a-004",
@@ -349,7 +349,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-ravenous-drako-back.png",
     "xws": "ravenousdrako",
-    "cardno": "a-004"
+    "assetno": "a-004"
   },
   {
     "name": "razor pinion",
@@ -357,7 +357,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-razor-pinion.png",
     "xws": "razorpinion",
-    "cardno": "s-047"
+    "assetno": "s-047"
   },
   {
     "name": "s-047",
@@ -365,7 +365,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-razor-pinion.png",
     "xws": "razorpinion",
-    "cardno": "s-047"
+    "assetno": "s-047"
   },
   {
     "name": "red blitz",
@@ -373,7 +373,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-red-blitz.png",
     "xws": "redblitz",
-    "cardno": "s-050"
+    "assetno": "s-050"
   },
   {
     "name": "s-050",
@@ -381,7 +381,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-red-blitz.png",
     "xws": "redblitz",
-    "cardno": "s-050"
+    "assetno": "s-050"
   },
   {
     "name": "sand plume",
@@ -389,7 +389,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-sand-plume.png",
     "xws": "sandplume",
-    "cardno": "s-045"
+    "assetno": "s-045"
   },
   {
     "name": "s-045",
@@ -397,7 +397,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-sand-plume.png",
     "xws": "sandplume",
-    "cardno": "s-045"
+    "assetno": "s-045"
   },
   {
     "name": "scorching maws",
@@ -405,7 +405,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-scorching-maws.png",
     "xws": "scorchingmaws",
-    "cardno": "s-042"
+    "assetno": "s-042"
   },
   {
     "name": "s-042",
@@ -413,7 +413,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-scorching-maws.png",
     "xws": "scorchingmaws",
-    "cardno": "s-042"
+    "assetno": "s-042"
   },
   {
     "name": "silicate shield",
@@ -421,7 +421,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-silicate-shield.png",
     "xws": "silicateshield",
-    "cardno": "s-048"
+    "assetno": "s-048"
   },
   {
     "name": "s-048",
@@ -429,7 +429,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-silicate-shield.png",
     "xws": "silicateshield",
-    "cardno": "s-048"
+    "assetno": "s-048"
   },
   {
     "name": "take flight",
@@ -437,7 +437,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-take-flight.png",
     "xws": "takeflight",
-    "cardno": "s-041"
+    "assetno": "s-041"
   },
   {
     "name": "s-041",
@@ -445,7 +445,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-take-flight.png",
     "xws": "takeflight",
-    "cardno": "s-041"
+    "assetno": "s-041"
   },
   {
     "name": "uplifting aid",
@@ -453,7 +453,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-uplifting-aid.png",
     "xws": "upliftingaid",
-    "cardno": "s-043"
+    "assetno": "s-043"
   },
   {
     "name": "s-043",
@@ -461,7 +461,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-uplifting-aid.png",
     "xws": "upliftingaid",
-    "cardno": "s-043"
+    "assetno": "s-043"
   },
   {
     "name": "wrought from clay",
@@ -469,7 +469,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-wrought-from-clay.png",
     "xws": "wroughtfromclay",
-    "cardno": "s-052"
+    "assetno": "s-052"
   },
   {
     "name": "s-052",
@@ -477,7 +477,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/canyon-temper/rv-wrought-from-clay.png",
     "xws": "wroughtfromclay",
-    "cardno": "s-052"
+    "assetno": "s-052"
   },
   {
     "name": "balance the equation",
@@ -485,7 +485,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-balance-the-equation.png",
     "xws": "balancetheequation",
-    "cardno": "s-188"
+    "assetno": "s-188"
   },
   {
     "name": "s-188",
@@ -493,7 +493,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-balance-the-equation.png",
     "xws": "balancetheequation",
-    "cardno": "s-188"
+    "assetno": "s-188"
   },
   {
     "name": "coefficient value",
@@ -501,7 +501,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-coefficient-value.png",
     "xws": "coefficientvalue",
-    "cardno": "s-192"
+    "assetno": "s-192"
   },
   {
     "name": "s-192",
@@ -509,7 +509,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-coefficient-value.png",
     "xws": "coefficientvalue",
-    "cardno": "s-192"
+    "assetno": "s-192"
   },
   {
     "name": "guiding the discussion",
@@ -517,7 +517,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-guiding-the-discussion.png",
     "xws": "guidingthediscussion",
-    "cardno": "s-183"
+    "assetno": "s-183"
   },
   {
     "name": "s-183",
@@ -525,7 +525,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-guiding-the-discussion.png",
     "xws": "guidingthediscussion",
-    "cardno": "s-183"
+    "assetno": "s-183"
   },
   {
     "name": "inner monologue",
@@ -533,7 +533,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-inner-monologue.png",
     "xws": "innermonologue",
-    "cardno": "s-181"
+    "assetno": "s-181"
   },
   {
     "name": "s-181",
@@ -541,7 +541,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-inner-monologue.png",
     "xws": "innermonologue",
-    "cardno": "s-181"
+    "assetno": "s-181"
   },
   {
     "name": "in the lines",
@@ -549,7 +549,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-in-the-lines.png",
     "xws": "inthelines",
-    "cardno": "s-194"
+    "assetno": "s-194"
   },
   {
     "name": "s-194",
@@ -557,7 +557,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-in-the-lines.png",
     "xws": "inthelines",
-    "cardno": "s-194"
+    "assetno": "s-194"
   },
   {
     "name": "lasting impression",
@@ -565,7 +565,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-lasting-impression.png",
     "xws": "lastingimpression",
-    "cardno": "s-185"
+    "assetno": "s-185"
   },
   {
     "name": "s-185",
@@ -573,7 +573,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-lasting-impression.png",
     "xws": "lastingimpression",
-    "cardno": "s-185"
+    "assetno": "s-185"
   },
   {
     "name": "luminescent quartic",
@@ -581,7 +581,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-luminescent-quartic-front.png",
     "xws": "luminescentquartic",
-    "cardno": "a-008"
+    "assetno": "a-008"
   },
   {
     "name": "a-008",
@@ -589,7 +589,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-luminescent-quartic-front.png",
     "xws": "luminescentquartic",
-    "cardno": "a-008"
+    "assetno": "a-008"
   },
   {
     "name": "luminescent quartic",
@@ -597,7 +597,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-luminescent-quartic-back.png",
     "xws": "luminescentquartic",
-    "cardno": "a-008"
+    "assetno": "a-008"
   },
   {
     "name": "a-008",
@@ -605,7 +605,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-luminescent-quartic-back.png",
     "xws": "luminescentquartic",
-    "cardno": "a-008"
+    "assetno": "a-008"
   },
   {
     "name": "motivational speeches",
@@ -613,7 +613,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-motivational-speeches.png",
     "xws": "motivationalspeeches",
-    "cardno": "s-190"
+    "assetno": "s-190"
   },
   {
     "name": "s-190",
@@ -621,7 +621,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-motivational-speeches.png",
     "xws": "motivationalspeeches",
-    "cardno": "s-190"
+    "assetno": "s-190"
   },
   {
     "name": "out of the box",
@@ -629,7 +629,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-out-of-the-box.png",
     "xws": "outofthebox",
-    "cardno": "s-193"
+    "assetno": "s-193"
   },
   {
     "name": "s-193",
@@ -637,7 +637,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-out-of-the-box.png",
     "xws": "outofthebox",
-    "cardno": "s-193"
+    "assetno": "s-193"
   },
   {
     "name": "parting gift",
@@ -645,7 +645,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-parting-gift.png",
     "xws": "partinggift",
-    "cardno": "s-186"
+    "assetno": "s-186"
   },
   {
     "name": "s-186",
@@ -653,7 +653,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-parting-gift.png",
     "xws": "partinggift",
-    "cardno": "s-186"
+    "assetno": "s-186"
   },
   {
     "name": "point of pursuit",
@@ -661,7 +661,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-point-of-pursuit.png",
     "xws": "pointofpursuit",
-    "cardno": "s-184"
+    "assetno": "s-184"
   },
   {
     "name": "s-184",
@@ -669,7 +669,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-point-of-pursuit.png",
     "xws": "pointofpursuit",
-    "cardno": "s-184"
+    "assetno": "s-184"
   },
   {
     "name": "radiant spinaerios",
@@ -677,7 +677,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-radiant-spinaerios.png",
     "xws": "radiantspinaerios",
-    "cardno": "s-182"
+    "assetno": "s-182"
   },
   {
     "name": "s-182",
@@ -685,7 +685,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-radiant-spinaerios.png",
     "xws": "radiantspinaerios",
-    "cardno": "s-182"
+    "assetno": "s-182"
   },
   {
     "name": "radiant spinaerios",
@@ -693,7 +693,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-radiant-spinaerios-front.png",
     "xws": "radiantspinaerios",
-    "cardno": "a-009"
+    "assetno": "a-009"
   },
   {
     "name": "a-009",
@@ -701,7 +701,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-radiant-spinaerios-front.png",
     "xws": "radiantspinaerios",
-    "cardno": "a-009"
+    "assetno": "a-009"
   },
   {
     "name": "radiant spinaerios",
@@ -709,7 +709,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-radiant-spinaerios-back.png",
     "xws": "radiantspinaerios",
-    "cardno": "a-009"
+    "assetno": "a-009"
   },
   {
     "name": "a-009",
@@ -717,7 +717,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-radiant-spinaerios-back.png",
     "xws": "radiantspinaerios",
-    "cardno": "a-009"
+    "assetno": "a-009"
   },
   {
     "name": "simple refraction",
@@ -725,7 +725,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-simple-refraction.png",
     "xws": "simplerefraction",
-    "cardno": "s-187"
+    "assetno": "s-187"
   },
   {
     "name": "s-187",
@@ -733,7 +733,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-simple-refraction.png",
     "xws": "simplerefraction",
-    "cardno": "s-187"
+    "assetno": "s-187"
   },
   {
     "name": "the oldest trick",
@@ -741,7 +741,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-the-oldest-trick.png",
     "xws": "theoldesttrick",
-    "cardno": "s-189"
+    "assetno": "s-189"
   },
   {
     "name": "s-189",
@@ -749,7 +749,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-the-oldest-trick.png",
     "xws": "theoldesttrick",
-    "cardno": "s-189"
+    "assetno": "s-189"
   },
   {
     "name": "two-step method",
@@ -757,7 +757,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-two-step-method.png",
     "xws": "twostepmethod",
-    "cardno": "s-191"
+    "assetno": "s-191"
   },
   {
     "name": "s-191",
@@ -765,7 +765,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/conceptualist/rv-two-step-method.png",
     "xws": "twostepmethod",
-    "cardno": "s-191"
+    "assetno": "s-191"
   },
   {
     "name": "calm rivers",
@@ -773,7 +773,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-calm-rivers.png",
     "xws": "calmrivers",
-    "cardno": "s-005"
+    "assetno": "s-005"
   },
   {
     "name": "s-005",
@@ -781,7 +781,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-calm-rivers.png",
     "xws": "calmrivers",
-    "cardno": "s-005"
+    "assetno": "s-005"
   },
   {
     "name": "camaraderie",
@@ -789,7 +789,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-camaraderie.png",
     "xws": "camaraderie",
-    "cardno": "s-023"
+    "assetno": "s-023"
   },
   {
     "name": "s-023",
@@ -797,7 +797,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-camaraderie.png",
     "xws": "camaraderie",
-    "cardno": "s-023"
+    "assetno": "s-023"
   },
   {
     "name": "chill touch",
@@ -805,7 +805,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-chill-touch.png",
     "xws": "chilltouch",
-    "cardno": "s-020"
+    "assetno": "s-020"
   },
   {
     "name": "s-020",
@@ -813,7 +813,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-chill-touch.png",
     "xws": "chilltouch",
-    "cardno": "s-020"
+    "assetno": "s-020"
   },
   {
     "name": "clay grasp",
@@ -821,7 +821,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-clay-grasp.png",
     "xws": "claygrasp",
-    "cardno": "s-001"
+    "assetno": "s-001"
   },
   {
     "name": "s-001",
@@ -829,7 +829,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-clay-grasp.png",
     "xws": "claygrasp",
-    "cardno": "s-001"
+    "assetno": "s-001"
   },
   {
     "name": "crag smash",
@@ -837,7 +837,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-crag-smash.png",
     "xws": "cragsmash",
-    "cardno": "s-007"
+    "assetno": "s-007"
   },
   {
     "name": "s-007",
@@ -845,7 +845,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-crag-smash.png",
     "xws": "cragsmash",
-    "cardno": "s-007"
+    "assetno": "s-007"
   },
   {
     "name": "curious ardorok",
@@ -853,7 +853,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-curious-ardorok-front.png",
     "xws": "curiousardorok",
-    "cardno": "a-001"
+    "assetno": "a-001"
   },
   {
     "name": "a-001",
@@ -861,7 +861,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-curious-ardorok-front.png",
     "xws": "curiousardorok",
-    "cardno": "a-001"
+    "assetno": "a-001"
   },
   {
     "name": "curious ardorok",
@@ -869,7 +869,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-curious-ardorok-back.png",
     "xws": "curiousardorok",
-    "cardno": "a-001"
+    "assetno": "a-001"
   },
   {
     "name": "a-001",
@@ -877,7 +877,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-curious-ardorok-back.png",
     "xws": "curiousardorok",
-    "cardno": "a-001"
+    "assetno": "a-001"
   },
   {
     "name": "dearest friend",
@@ -885,7 +885,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-dearest-friend.png",
     "xws": "dearestfriend",
-    "cardno": "s-004"
+    "assetno": "s-004"
   },
   {
     "name": "s-004",
@@ -893,7 +893,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-dearest-friend.png",
     "xws": "dearestfriend",
-    "cardno": "s-004"
+    "assetno": "s-004"
   },
   {
     "name": "deep freeze",
@@ -901,7 +901,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-deep-freeze.png",
     "xws": "deepfreeze",
-    "cardno": "s-016"
+    "assetno": "s-016"
   },
   {
     "name": "s-016",
@@ -909,7 +909,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-deep-freeze.png",
     "xws": "deepfreeze",
-    "cardno": "s-016"
+    "assetno": "s-016"
   },
   {
     "name": "desert's gift",
@@ -917,7 +917,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-deserts-gift.png",
     "xws": "desertsgift",
-    "cardno": "s-015"
+    "assetno": "s-015"
   },
   {
     "name": "s-015",
@@ -925,7 +925,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-deserts-gift.png",
     "xws": "desertsgift",
-    "cardno": "s-015"
+    "assetno": "s-015"
   },
   {
     "name": "desiccating blast",
@@ -933,7 +933,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-desiccating-blast.png",
     "xws": "desiccatingblast",
-    "cardno": "s-002"
+    "assetno": "s-002"
   },
   {
     "name": "s-002",
@@ -941,7 +941,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-desiccating-blast.png",
     "xws": "desiccatingblast",
-    "cardno": "s-002"
+    "assetno": "s-002"
   },
   {
     "name": "dual assault",
@@ -949,7 +949,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-dual-assault.png",
     "xws": "dualassault",
-    "cardno": "s-010"
+    "assetno": "s-010"
   },
   {
     "name": "s-010",
@@ -957,7 +957,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-dual-assault.png",
     "xws": "dualassault",
-    "cardno": "s-010"
+    "assetno": "s-010"
   },
   {
     "name": "earthen shield",
@@ -965,7 +965,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-earthen-shield.png",
     "xws": "earthenshield",
-    "cardno": "s-013"
+    "assetno": "s-013"
   },
   {
     "name": "s-013",
@@ -973,7 +973,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-earthen-shield.png",
     "xws": "earthenshield",
-    "cardno": "s-013"
+    "assetno": "s-013"
   },
   {
     "name": "enchant body",
@@ -981,7 +981,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-enchant-body.png",
     "xws": "enchantbody",
-    "cardno": "s-024"
+    "assetno": "s-024"
   },
   {
     "name": "s-024",
@@ -989,7 +989,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-enchant-body.png",
     "xws": "enchantbody",
-    "cardno": "s-024"
+    "assetno": "s-024"
   },
   {
     "name": "flow of floes",
@@ -997,7 +997,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-flow-of-floes.png",
     "xws": "flowoffloes",
-    "cardno": "s-019"
+    "assetno": "s-019"
   },
   {
     "name": "s-019",
@@ -1005,7 +1005,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-flow-of-floes.png",
     "xws": "flowoffloes",
-    "cardno": "s-019"
+    "assetno": "s-019"
   },
   {
     "name": "gift of the oasis",
@@ -1013,7 +1013,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-gift-of-the-oasis.png",
     "xws": "giftoftheoasis",
-    "cardno": "s-003"
+    "assetno": "s-003"
   },
   {
     "name": "s-003",
@@ -1021,7 +1021,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-gift-of-the-oasis.png",
     "xws": "giftoftheoasis",
-    "cardno": "s-003"
+    "assetno": "s-003"
   },
   {
     "name": "granite phalanx",
@@ -1029,7 +1029,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-granite-phalanx.png",
     "xws": "granitephalanx",
-    "cardno": "s-009"
+    "assetno": "s-009"
   },
   {
     "name": "s-009",
@@ -1037,7 +1037,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-granite-phalanx.png",
     "xws": "granitephalanx",
-    "cardno": "s-009"
+    "assetno": "s-009"
   },
   {
     "name": "healing surge",
@@ -1045,7 +1045,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-healing-surge.png",
     "xws": "healingsurge",
-    "cardno": "s-014"
+    "assetno": "s-014"
   },
   {
     "name": "s-014",
@@ -1053,7 +1053,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-healing-surge.png",
     "xws": "healingsurge",
-    "cardno": "s-014"
+    "assetno": "s-014"
   },
   {
     "name": "ice blast",
@@ -1061,7 +1061,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-ice-blast.png",
     "xws": "iceblast",
-    "cardno": "s-008"
+    "assetno": "s-008"
   },
   {
     "name": "s-008",
@@ -1069,7 +1069,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-ice-blast.png",
     "xws": "iceblast",
-    "cardno": "s-008"
+    "assetno": "s-008"
   },
   {
     "name": "oasis reprieve",
@@ -1077,7 +1077,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-oasis-reprieve.png",
     "xws": "oasisreprieve",
-    "cardno": "s-017"
+    "assetno": "s-017"
   },
   {
     "name": "s-017",
@@ -1085,7 +1085,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-oasis-reprieve.png",
     "xws": "oasisreprieve",
-    "cardno": "s-017"
+    "assetno": "s-017"
   },
   {
     "name": "pouncing borejaw",
@@ -1093,7 +1093,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-pouncing-borejaw-front.png",
     "xws": "pouncingborejaw",
-    "cardno": "a-002"
+    "assetno": "a-002"
   },
   {
     "name": "a-002",
@@ -1101,7 +1101,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-pouncing-borejaw-front.png",
     "xws": "pouncingborejaw",
-    "cardno": "a-002"
+    "assetno": "a-002"
   },
   {
     "name": "pouncing borejaw",
@@ -1109,7 +1109,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-pouncing-borejaw-back.png",
     "xws": "pouncingborejaw",
-    "cardno": "a-002"
+    "assetno": "a-002"
   },
   {
     "name": "a-002",
@@ -1117,7 +1117,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-pouncing-borejaw-back.png",
     "xws": "pouncingborejaw",
-    "cardno": "a-002"
+    "assetno": "a-002"
   },
   {
     "name": "quickening sand",
@@ -1125,7 +1125,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-quickening-sand.png",
     "xws": "quickeningsand",
-    "cardno": "s-012"
+    "assetno": "s-012"
   },
   {
     "name": "s-012",
@@ -1133,7 +1133,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-quickening-sand.png",
     "xws": "quickeningsand",
-    "cardno": "s-012"
+    "assetno": "s-012"
   },
   {
     "name": "rallying cry",
@@ -1141,7 +1141,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-rallying-cry.png",
     "xws": "rallyingcry",
-    "cardno": "s-011"
+    "assetno": "s-011"
   },
   {
     "name": "s-011",
@@ -1149,7 +1149,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-rallying-cry.png",
     "xws": "rallyingcry",
-    "cardno": "s-011"
+    "assetno": "s-011"
   },
   {
     "name": "revitalizing clay",
@@ -1157,7 +1157,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-revitalizing-clay.png",
     "xws": "revitalizingclay",
-    "cardno": "s-022"
+    "assetno": "s-022"
   },
   {
     "name": "s-022",
@@ -1165,7 +1165,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-revitalizing-clay.png",
     "xws": "revitalizingclay",
-    "cardno": "s-022"
+    "assetno": "s-022"
   },
   {
     "name": "sand wedge",
@@ -1173,7 +1173,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-sand-wedge.png",
     "xws": "sandwedge",
-    "cardno": "s-018"
+    "assetno": "s-018"
   },
   {
     "name": "s-018",
@@ -1181,7 +1181,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-sand-wedge.png",
     "xws": "sandwedge",
-    "cardno": "s-018"
+    "assetno": "s-018"
   },
   {
     "name": "suffocating spray",
@@ -1189,7 +1189,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-suffocating-spray.png",
     "xws": "suffocatingspray",
-    "cardno": "s-006"
+    "assetno": "s-006"
   },
   {
     "name": "s-006",
@@ -1197,7 +1197,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-suffocating-spray.png",
     "xws": "suffocatingspray",
-    "cardno": "s-006"
+    "assetno": "s-006"
   },
   {
     "name": "war beast",
@@ -1205,7 +1205,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-war-beast.png",
     "xws": "warbeast",
-    "cardno": "s-021"
+    "assetno": "s-021"
   },
   {
     "name": "s-021",
@@ -1213,7 +1213,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/dune-dancer/rv-war-beast.png",
     "xws": "warbeast",
-    "cardno": "s-021"
+    "assetno": "s-021"
   },
   {
     "name": "alar",
@@ -1221,7 +1221,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-alar.png",
     "xws": "alar",
-    "cardno": "s-055"
+    "assetno": "s-055"
   },
   {
     "name": "s-055",
@@ -1229,7 +1229,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-alar.png",
     "xws": "alar",
-    "cardno": "s-055"
+    "assetno": "s-055"
   },
   {
     "name": "attract",
@@ -1237,7 +1237,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-attract.png",
     "xws": "attract",
-    "cardno": "s-065"
+    "assetno": "s-065"
   },
   {
     "name": "s-065",
@@ -1245,7 +1245,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-attract.png",
     "xws": "attract",
-    "cardno": "s-065"
+    "assetno": "s-065"
   },
   {
     "name": "blast",
@@ -1253,7 +1253,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-blast.png",
     "xws": "blast",
-    "cardno": "s-058"
+    "assetno": "s-058"
   },
   {
     "name": "s-058",
@@ -1261,7 +1261,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-blast.png",
     "xws": "blast",
-    "cardno": "s-058"
+    "assetno": "s-058"
   },
   {
     "name": "bolt",
@@ -1269,7 +1269,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-bolt.png",
     "xws": "bolt",
-    "cardno": "s-056"
+    "assetno": "s-056"
   },
   {
     "name": "s-056",
@@ -1277,7 +1277,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-bolt.png",
     "xws": "bolt",
-    "cardno": "s-056"
+    "assetno": "s-056"
   },
   {
     "name": "buffet",
@@ -1285,7 +1285,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-buffet.png",
     "xws": "buffet",
-    "cardno": "s-069"
+    "assetno": "s-069"
   },
   {
     "name": "s-069",
@@ -1293,7 +1293,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-buffet.png",
     "xws": "buffet",
-    "cardno": "s-069"
+    "assetno": "s-069"
   },
   {
     "name": "charge",
@@ -1301,7 +1301,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-charge.png",
     "xws": "charge",
-    "cardno": "s-061"
+    "assetno": "s-061"
   },
   {
     "name": "s-061",
@@ -1309,7 +1309,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-charge.png",
     "xws": "charge",
-    "cardno": "s-061"
+    "assetno": "s-061"
   },
   {
     "name": "eruption",
@@ -1317,7 +1317,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-eruption.png",
     "xws": "eruption",
-    "cardno": "s-060"
+    "assetno": "s-060"
   },
   {
     "name": "s-060",
@@ -1325,7 +1325,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-eruption.png",
     "xws": "eruption",
-    "cardno": "s-060"
+    "assetno": "s-060"
   },
   {
     "name": "flare",
@@ -1333,7 +1333,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-flare.png",
     "xws": "flare",
-    "cardno": "s-070"
+    "assetno": "s-070"
   },
   {
     "name": "s-070",
@@ -1341,7 +1341,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-flare.png",
     "xws": "flare",
-    "cardno": "s-070"
+    "assetno": "s-070"
   },
   {
     "name": "galvanize",
@@ -1349,7 +1349,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-galvanize.png",
     "xws": "galvanize",
-    "cardno": "s-076"
+    "assetno": "s-076"
   },
   {
     "name": "s-076",
@@ -1357,7 +1357,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-galvanize.png",
     "xws": "galvanize",
-    "cardno": "s-076"
+    "assetno": "s-076"
   },
   {
     "name": "helion",
@@ -1365,7 +1365,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-helion.png",
     "xws": "helion",
-    "cardno": "s-074"
+    "assetno": "s-074"
   },
   {
     "name": "s-074",
@@ -1373,7 +1373,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-helion.png",
     "xws": "helion",
-    "cardno": "s-074"
+    "assetno": "s-074"
   },
   {
     "name": "kindle",
@@ -1381,7 +1381,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-kindle.png",
     "xws": "kindle",
-    "cardno": "s-062"
+    "assetno": "s-062"
   },
   {
     "name": "s-062",
@@ -1389,7 +1389,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-kindle.png",
     "xws": "kindle",
-    "cardno": "s-062"
+    "assetno": "s-062"
   },
   {
     "name": "link",
@@ -1397,7 +1397,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-link.png",
     "xws": "link",
-    "cardno": "s-075"
+    "assetno": "s-075"
   },
   {
     "name": "s-075",
@@ -1405,7 +1405,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-link.png",
     "xws": "link",
-    "cardno": "s-075"
+    "assetno": "s-075"
   },
   {
     "name": "mistral",
@@ -1413,7 +1413,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-mistral.png",
     "xws": "mistral",
-    "cardno": "s-071"
+    "assetno": "s-071"
   },
   {
     "name": "s-071",
@@ -1421,7 +1421,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-mistral.png",
     "xws": "mistral",
-    "cardno": "s-071"
+    "assetno": "s-071"
   },
   {
     "name": "pulse",
@@ -1429,7 +1429,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-pulse.png",
     "xws": "pulse",
-    "cardno": "s-063"
+    "assetno": "s-063"
   },
   {
     "name": "s-063",
@@ -1437,7 +1437,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-pulse.png",
     "xws": "pulse",
-    "cardno": "s-063"
+    "assetno": "s-063"
   },
   {
     "name": "scorch",
@@ -1445,7 +1445,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-scorch.png",
     "xws": "scorch",
-    "cardno": "s-073"
+    "assetno": "s-073"
   },
   {
     "name": "s-073",
@@ -1453,7 +1453,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-scorch.png",
     "xws": "scorch",
-    "cardno": "s-073"
+    "assetno": "s-073"
   },
   {
     "name": "singe",
@@ -1461,7 +1461,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-singe.png",
     "xws": "singe",
-    "cardno": "s-067"
+    "assetno": "s-067"
   },
   {
     "name": "s-067",
@@ -1469,7 +1469,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-singe.png",
     "xws": "singe",
-    "cardno": "s-067"
+    "assetno": "s-067"
   },
   {
     "name": "smolder",
@@ -1477,7 +1477,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-smolder.png",
     "xws": "smolder",
-    "cardno": "s-064"
+    "assetno": "s-064"
   },
   {
     "name": "s-064",
@@ -1485,7 +1485,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-smolder.png",
     "xws": "smolder",
-    "cardno": "s-064"
+    "assetno": "s-064"
   },
   {
     "name": "stoke",
@@ -1493,7 +1493,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-stoke.png",
     "xws": "stoke",
-    "cardno": "s-066"
+    "assetno": "s-066"
   },
   {
     "name": "s-066",
@@ -1501,7 +1501,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-stoke.png",
     "xws": "stoke",
-    "cardno": "s-066"
+    "assetno": "s-066"
   },
   {
     "name": "suffuse",
@@ -1509,7 +1509,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-suffuse.png",
     "xws": "suffuse",
-    "cardno": "s-053"
+    "assetno": "s-053"
   },
   {
     "name": "s-053",
@@ -1517,7 +1517,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-suffuse.png",
     "xws": "suffuse",
-    "cardno": "s-053"
+    "assetno": "s-053"
   },
   {
     "name": "swell",
@@ -1525,7 +1525,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-swell.png",
     "xws": "swell",
-    "cardno": "s-054"
+    "assetno": "s-054"
   },
   {
     "name": "s-054",
@@ -1533,7 +1533,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-swell.png",
     "xws": "swell",
-    "cardno": "s-054"
+    "assetno": "s-054"
   },
   {
     "name": "tempest",
@@ -1541,7 +1541,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-tempest.png",
     "xws": "tempest",
-    "cardno": "s-059"
+    "assetno": "s-059"
   },
   {
     "name": "s-059",
@@ -1549,7 +1549,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-tempest.png",
     "xws": "tempest",
-    "cardno": "s-059"
+    "assetno": "s-059"
   },
   {
     "name": "transcend",
@@ -1557,7 +1557,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-transcend.png",
     "xws": "transcend",
-    "cardno": "s-057"
+    "assetno": "s-057"
   },
   {
     "name": "s-057",
@@ -1565,7 +1565,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-transcend.png",
     "xws": "transcend",
-    "cardno": "s-057"
+    "assetno": "s-057"
   },
   {
     "name": "vacuum",
@@ -1573,7 +1573,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-vacuum.png",
     "xws": "vacuum",
-    "cardno": "s-068"
+    "assetno": "s-068"
   },
   {
     "name": "s-068",
@@ -1581,7 +1581,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-vacuum.png",
     "xws": "vacuum",
-    "cardno": "s-068"
+    "assetno": "s-068"
   },
   {
     "name": "zephyr",
@@ -1589,7 +1589,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-zephyr.png",
     "xws": "zephyr",
-    "cardno": "s-072"
+    "assetno": "s-072"
   },
   {
     "name": "s-072",
@@ -1597,7 +1597,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/flash/rv-zephyr.png",
     "xws": "zephyr",
-    "cardno": "s-072"
+    "assetno": "s-072"
   },
   {
     "name": "blazing trail",
@@ -1605,7 +1605,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-blazing-trail.png",
     "xws": "blazingtrail",
-    "cardno": "s-079"
+    "assetno": "s-079"
   },
   {
     "name": "s-079",
@@ -1613,7 +1613,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-blazing-trail.png",
     "xws": "blazingtrail",
-    "cardno": "s-079"
+    "assetno": "s-079"
   },
   {
     "name": "catalyzing explosion",
@@ -1621,7 +1621,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-catalyzing-explosion.png",
     "xws": "catalyzingexplosion",
-    "cardno": "s-088"
+    "assetno": "s-088"
   },
   {
     "name": "s-088",
@@ -1629,7 +1629,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-catalyzing-explosion.png",
     "xws": "catalyzingexplosion",
-    "cardno": "s-088"
+    "assetno": "s-088"
   },
   {
     "name": "cleansing flames",
@@ -1637,7 +1637,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-cleansing-flames.png",
     "xws": "cleansingflames",
-    "cardno": "s-077"
+    "assetno": "s-077"
   },
   {
     "name": "s-077",
@@ -1645,7 +1645,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-cleansing-flames.png",
     "xws": "cleansingflames",
-    "cardno": "s-077"
+    "assetno": "s-077"
   },
   {
     "name": "controlled backdraft",
@@ -1653,7 +1653,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-controlled-backdraft.png",
     "xws": "controlledbackdraft",
-    "cardno": "s-078"
+    "assetno": "s-078"
   },
   {
     "name": "s-078",
@@ -1661,7 +1661,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-controlled-backdraft.png",
     "xws": "controlledbackdraft",
-    "cardno": "s-078"
+    "assetno": "s-078"
   },
   {
     "name": "detonate",
@@ -1669,7 +1669,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-detonate.png",
     "xws": "detonate",
-    "cardno": "s-086"
+    "assetno": "s-086"
   },
   {
     "name": "s-086",
@@ -1677,7 +1677,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-detonate.png",
     "xws": "detonate",
-    "cardno": "s-086"
+    "assetno": "s-086"
   },
   {
     "name": "fire volley",
@@ -1685,7 +1685,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-fire-volley.png",
     "xws": "firevolley",
-    "cardno": "s-080"
+    "assetno": "s-080"
   },
   {
     "name": "s-080",
@@ -1693,7 +1693,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-fire-volley.png",
     "xws": "firevolley",
-    "cardno": "s-080"
+    "assetno": "s-080"
   },
   {
     "name": "fueled fire",
@@ -1701,7 +1701,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-fueled-fire.png",
     "xws": "fueledfire",
-    "cardno": "s-081"
+    "assetno": "s-081"
   },
   {
     "name": "s-081",
@@ -1709,7 +1709,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-fueled-fire.png",
     "xws": "fueledfire",
-    "cardno": "s-081"
+    "assetno": "s-081"
   },
   {
     "name": "hot air",
@@ -1717,7 +1717,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-hot-air.png",
     "xws": "hotair",
-    "cardno": "s-089"
+    "assetno": "s-089"
   },
   {
     "name": "s-089",
@@ -1725,7 +1725,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-hot-air.png",
     "xws": "hotair",
-    "cardno": "s-089"
+    "assetno": "s-089"
   },
   {
     "name": "shifting fronts",
@@ -1733,7 +1733,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-shifting-fronts.png",
     "xws": "shiftingfronts",
-    "cardno": "s-087"
+    "assetno": "s-087"
   },
   {
     "name": "s-087",
@@ -1741,7 +1741,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-shifting-fronts.png",
     "xws": "shiftingfronts",
-    "cardno": "s-087"
+    "assetno": "s-087"
   },
   {
     "name": "smoldering embers",
@@ -1749,7 +1749,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-smoldering-embers.png",
     "xws": "smolderingembers",
-    "cardno": "s-090"
+    "assetno": "s-090"
   },
   {
     "name": "s-090",
@@ -1757,7 +1757,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-smoldering-embers.png",
     "xws": "smolderingembers",
-    "cardno": "s-090"
+    "assetno": "s-090"
   },
   {
     "name": "spontaneous combustion",
@@ -1765,7 +1765,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-spontaneous-combustion.png",
     "xws": "spontaneouscombustion",
-    "cardno": "s-082"
+    "assetno": "s-082"
   },
   {
     "name": "s-082",
@@ -1773,7 +1773,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-spontaneous-combustion.png",
     "xws": "spontaneouscombustion",
-    "cardno": "s-082"
+    "assetno": "s-082"
   },
   {
     "name": "sudden bellows",
@@ -1781,7 +1781,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-sudden-bellows.png",
     "xws": "suddenbellows",
-    "cardno": "s-083"
+    "assetno": "s-083"
   },
   {
     "name": "s-083",
@@ -1789,7 +1789,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-sudden-bellows.png",
     "xws": "suddenbellows",
-    "cardno": "s-083"
+    "assetno": "s-083"
   },
   {
     "name": "torching spray",
@@ -1797,7 +1797,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-torching-spray.png",
     "xws": "torchingspray",
-    "cardno": "s-085"
+    "assetno": "s-085"
   },
   {
     "name": "s-085",
@@ -1805,7 +1805,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-torching-spray.png",
     "xws": "torchingspray",
-    "cardno": "s-085"
+    "assetno": "s-085"
   },
   {
     "name": "wind barrier",
@@ -1813,7 +1813,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-wind-barrier.png",
     "xws": "windbarrier",
-    "cardno": "s-084"
+    "assetno": "s-084"
   },
   {
     "name": "s-084",
@@ -1821,7 +1821,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/helion/rv-wind-barrier.png",
     "xws": "windbarrier",
-    "cardno": "s-084"
+    "assetno": "s-084"
   },
   {
     "name": "blunt the strike",
@@ -1829,7 +1829,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-blunt-the-strike.png",
     "xws": "bluntthestrike",
-    "cardno": "s-254"
+    "assetno": "s-254"
   },
   {
     "name": "s-254",
@@ -1837,7 +1837,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-blunt-the-strike.png",
     "xws": "bluntthestrike",
-    "cardno": "s-254"
+    "assetno": "s-254"
   },
   {
     "name": "burning pocket",
@@ -1845,7 +1845,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-burning-pocket.png",
     "xws": "burningpocket",
-    "cardno": "s-256"
+    "assetno": "s-256"
   },
   {
     "name": "s-256",
@@ -1853,7 +1853,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-burning-pocket.png",
     "xws": "burningpocket",
-    "cardno": "s-256"
+    "assetno": "s-256"
   },
   {
     "name": "direct control",
@@ -1861,7 +1861,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-direct-control.png",
     "xws": "directcontrol",
-    "cardno": "s-260"
+    "assetno": "s-260"
   },
   {
     "name": "s-260",
@@ -1869,7 +1869,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-direct-control.png",
     "xws": "directcontrol",
-    "cardno": "s-260"
+    "assetno": "s-260"
   },
   {
     "name": "flip the script",
@@ -1877,7 +1877,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-flip-the-script.png",
     "xws": "flipthescript",
-    "cardno": "s-253"
+    "assetno": "s-253"
   },
   {
     "name": "s-253",
@@ -1885,7 +1885,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-flip-the-script.png",
     "xws": "flipthescript",
-    "cardno": "s-253"
+    "assetno": "s-253"
   },
   {
     "name": "foe's falling",
@@ -1893,7 +1893,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-foes-falling.png",
     "xws": "foesfalling",
-    "cardno": "s-249"
+    "assetno": "s-249"
   },
   {
     "name": "s-249",
@@ -1901,7 +1901,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-foes-falling.png",
     "xws": "foesfalling",
-    "cardno": "s-249"
+    "assetno": "s-249"
   },
   {
     "name": "grasped chances",
@@ -1909,7 +1909,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-grasped-chances.png",
     "xws": "graspedchances",
-    "cardno": "s-250"
+    "assetno": "s-250"
   },
   {
     "name": "s-250",
@@ -1917,7 +1917,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-grasped-chances.png",
     "xws": "graspedchances",
-    "cardno": "s-250"
+    "assetno": "s-250"
   },
   {
     "name": "resource management",
@@ -1925,7 +1925,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-resource-management.png",
     "xws": "resourcemanagement",
-    "cardno": "s-259"
+    "assetno": "s-259"
   },
   {
     "name": "s-259",
@@ -1933,7 +1933,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-resource-management.png",
     "xws": "resourcemanagement",
-    "cardno": "s-259"
+    "assetno": "s-259"
   },
   {
     "name": "risk aversion",
@@ -1941,7 +1941,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-risk-aversion.png",
     "xws": "riskaversion",
-    "cardno": "s-248"
+    "assetno": "s-248"
   },
   {
     "name": "s-248",
@@ -1949,7 +1949,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-risk-aversion.png",
     "xws": "riskaversion",
-    "cardno": "s-248"
+    "assetno": "s-248"
   },
   {
     "name": "signal noise",
@@ -1957,7 +1957,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-signal-noise.png",
     "xws": "signalnoise",
-    "cardno": "s-255"
+    "assetno": "s-255"
   },
   {
     "name": "s-255",
@@ -1965,7 +1965,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-signal-noise.png",
     "xws": "signalnoise",
-    "cardno": "s-255"
+    "assetno": "s-255"
   },
   {
     "name": "spread wealth",
@@ -1973,7 +1973,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-spread-wealth.png",
     "xws": "spreadwealth",
-    "cardno": "s-247"
+    "assetno": "s-247"
   },
   {
     "name": "s-247",
@@ -1981,7 +1981,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-spread-wealth.png",
     "xws": "spreadwealth",
-    "cardno": "s-247"
+    "assetno": "s-247"
   },
   {
     "name": "strike negotiations",
@@ -1989,7 +1989,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-strike-negotiations.png",
     "xws": "strikenegotiations",
-    "cardno": "s-258"
+    "assetno": "s-258"
   },
   {
     "name": "s-258",
@@ -1997,7 +1997,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-strike-negotiations.png",
     "xws": "strikenegotiations",
-    "cardno": "s-258"
+    "assetno": "s-258"
   },
   {
     "name": "vein extraction",
@@ -2005,7 +2005,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-vein-extraction.png",
     "xws": "veinextraction",
-    "cardno": "s-257"
+    "assetno": "s-257"
   },
   {
     "name": "s-257",
@@ -2013,7 +2013,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-vein-extraction.png",
     "xws": "veinextraction",
-    "cardno": "s-257"
+    "assetno": "s-257"
   },
   {
     "name": "we, the arbiters",
@@ -2021,7 +2021,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-we-the-arbiters.png",
     "xws": "wethearbiters",
-    "cardno": "s-251"
+    "assetno": "s-251"
   },
   {
     "name": "s-251",
@@ -2029,7 +2029,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-we-the-arbiters.png",
     "xws": "wethearbiters",
-    "cardno": "s-251"
+    "assetno": "s-251"
   },
   {
     "name": "we, the beholders",
@@ -2037,7 +2037,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-we-the-beholders.png",
     "xws": "wethebeholders",
-    "cardno": "s-252"
+    "assetno": "s-252"
   },
   {
     "name": "s-252",
@@ -2045,7 +2045,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/invisible-hand/rv-we-the-beholders.png",
     "xws": "wethebeholders",
-    "cardno": "s-252"
+    "assetno": "s-252"
   },
   {
     "name": "ad hominem",
@@ -2053,7 +2053,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-ad-hominem.png",
     "xws": "adhominem",
-    "cardno": "s-203"
+    "assetno": "s-203"
   },
   {
     "name": "s-203",
@@ -2061,7 +2061,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-ad-hominem.png",
     "xws": "adhominem",
-    "cardno": "s-203"
+    "assetno": "s-203"
   },
   {
     "name": "alluring thureoll",
@@ -2069,7 +2069,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-alluring-thureoll-front.png",
     "xws": "alluringthureoll",
-    "cardno": "a-011"
+    "assetno": "a-011"
   },
   {
     "name": "a-011",
@@ -2077,7 +2077,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-alluring-thureoll-front.png",
     "xws": "alluringthureoll",
-    "cardno": "a-011"
+    "assetno": "a-011"
   },
   {
     "name": "alluring thureoll",
@@ -2085,7 +2085,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-alluring-thureoll-back.png",
     "xws": "alluringthureoll",
-    "cardno": "a-011"
+    "assetno": "a-011"
   },
   {
     "name": "a-011",
@@ -2093,7 +2093,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-alluring-thureoll-back.png",
     "xws": "alluringthureoll",
-    "cardno": "a-011"
+    "assetno": "a-011"
   },
   {
     "name": "best fit",
@@ -2101,7 +2101,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-best-fit.png",
     "xws": "bestfit",
-    "cardno": "s-197"
+    "assetno": "s-197"
   },
   {
     "name": "s-197",
@@ -2109,7 +2109,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-best-fit.png",
     "xws": "bestfit",
-    "cardno": "s-197"
+    "assetno": "s-197"
   },
   {
     "name": "convincing argument",
@@ -2117,7 +2117,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-convincing-argument.png",
     "xws": "convincingargument",
-    "cardno": "s-201"
+    "assetno": "s-201"
   },
   {
     "name": "s-201",
@@ -2125,7 +2125,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-convincing-argument.png",
     "xws": "convincingargument",
-    "cardno": "s-201"
+    "assetno": "s-201"
   },
   {
     "name": "escape psychology",
@@ -2133,7 +2133,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-escape-psychology.png",
     "xws": "escapepsychology",
-    "cardno": "s-208"
+    "assetno": "s-208"
   },
   {
     "name": "s-208",
@@ -2141,7 +2141,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-escape-psychology.png",
     "xws": "escapepsychology",
-    "cardno": "s-208"
+    "assetno": "s-208"
   },
   {
     "name": "exponential formula",
@@ -2149,7 +2149,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-exponential-formula.png",
     "xws": "exponentialformula",
-    "cardno": "s-199"
+    "assetno": "s-199"
   },
   {
     "name": "s-199",
@@ -2157,7 +2157,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-exponential-formula.png",
     "xws": "exponentialformula",
-    "cardno": "s-199"
+    "assetno": "s-199"
   },
   {
     "name": "foundational pillars",
@@ -2165,7 +2165,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-foundational-pillars.png",
     "xws": "foundationalpillars",
-    "cardno": "s-202"
+    "assetno": "s-202"
   },
   {
     "name": "s-202",
@@ -2173,7 +2173,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-foundational-pillars.png",
     "xws": "foundationalpillars",
-    "cardno": "s-202"
+    "assetno": "s-202"
   },
   {
     "name": "impenetrable position",
@@ -2181,7 +2181,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-impenetrable-position.png",
     "xws": "impenetrableposition",
-    "cardno": "s-196"
+    "assetno": "s-196"
   },
   {
     "name": "s-196",
@@ -2189,7 +2189,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-impenetrable-position.png",
     "xws": "impenetrableposition",
-    "cardno": "s-196"
+    "assetno": "s-196"
   },
   {
     "name": "luminescent quartic",
@@ -2197,7 +2197,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-luminescent-quartic-front.png",
     "xws": "luminescentquartic",
-    "cardno": "a-010"
+    "assetno": "a-010"
   },
   {
     "name": "a-010",
@@ -2205,7 +2205,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-luminescent-quartic-front.png",
     "xws": "luminescentquartic",
-    "cardno": "a-010"
+    "assetno": "a-010"
   },
   {
     "name": "luminescent quartic",
@@ -2213,7 +2213,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-luminescent-quartic-back.png",
     "xws": "luminescentquartic",
-    "cardno": "a-010"
+    "assetno": "a-010"
   },
   {
     "name": "a-010",
@@ -2221,7 +2221,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-luminescent-quartic-back.png",
     "xws": "luminescentquartic",
-    "cardno": "a-010"
+    "assetno": "a-010"
   },
   {
     "name": "parabolic formula",
@@ -2229,7 +2229,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-parabolic-formula.png",
     "xws": "parabolicformula",
-    "cardno": "s-200"
+    "assetno": "s-200"
   },
   {
     "name": "s-200",
@@ -2237,7 +2237,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-parabolic-formula.png",
     "xws": "parabolicformula",
-    "cardno": "s-200"
+    "assetno": "s-200"
   },
   {
     "name": "self assurance",
@@ -2245,7 +2245,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-self-assurance.png",
     "xws": "selfassurance",
-    "cardno": "s-206"
+    "assetno": "s-206"
   },
   {
     "name": "s-206",
@@ -2253,7 +2253,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-self-assurance.png",
     "xws": "selfassurance",
-    "cardno": "s-206"
+    "assetno": "s-206"
   },
   {
     "name": "sheer confidence",
@@ -2261,7 +2261,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-sheer-confidence.png",
     "xws": "sheerconfidence",
-    "cardno": "s-205"
+    "assetno": "s-205"
   },
   {
     "name": "s-205",
@@ -2269,7 +2269,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-sheer-confidence.png",
     "xws": "sheerconfidence",
-    "cardno": "s-205"
+    "assetno": "s-205"
   },
   {
     "name": "spread the word",
@@ -2277,7 +2277,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-spread-the-word.png",
     "xws": "spreadtheword",
-    "cardno": "s-195"
+    "assetno": "s-195"
   },
   {
     "name": "s-195",
@@ -2285,7 +2285,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-spread-the-word.png",
     "xws": "spreadtheword",
-    "cardno": "s-195"
+    "assetno": "s-195"
   },
   {
     "name": "substitute reality",
@@ -2293,7 +2293,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-substitute-reality.png",
     "xws": "substitutereality",
-    "cardno": "s-207"
+    "assetno": "s-207"
   },
   {
     "name": "s-207",
@@ -2301,7 +2301,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-substitute-reality.png",
     "xws": "substitutereality",
-    "cardno": "s-207"
+    "assetno": "s-207"
   },
   {
     "name": "via proxy",
@@ -2309,7 +2309,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-via-proxy.png",
     "xws": "viaproxy",
-    "cardno": "s-198"
+    "assetno": "s-198"
   },
   {
     "name": "s-198",
@@ -2317,7 +2317,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-via-proxy.png",
     "xws": "viaproxy",
-    "cardno": "s-198"
+    "assetno": "s-198"
   },
   {
     "name": "vox populi",
@@ -2325,7 +2325,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-vox-populi.png",
     "xws": "voxpopuli",
-    "cardno": "s-204"
+    "assetno": "s-204"
   },
   {
     "name": "s-204",
@@ -2333,7 +2333,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/maximist/rv-vox-populi.png",
     "xws": "voxpopuli",
-    "cardno": "s-204"
+    "assetno": "s-204"
   },
   {
     "name": "apex predator",
@@ -2341,7 +2341,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-apex-predator.png",
     "xws": "apexpredator",
-    "cardno": "s-146"
+    "assetno": "s-146"
   },
   {
     "name": "s-146",
@@ -2349,7 +2349,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-apex-predator.png",
     "xws": "apexpredator",
-    "cardno": "s-146"
+    "assetno": "s-146"
   },
   {
     "name": "blood boil",
@@ -2357,7 +2357,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-blood-boil.png",
     "xws": "bloodboil",
-    "cardno": "s-155"
+    "assetno": "s-155"
   },
   {
     "name": "s-155",
@@ -2365,7 +2365,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-blood-boil.png",
     "xws": "bloodboil",
-    "cardno": "s-155"
+    "assetno": "s-155"
   },
   {
     "name": "blood echo",
@@ -2373,7 +2373,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-blood-echo.png",
     "xws": "bloodecho",
-    "cardno": "s-150"
+    "assetno": "s-150"
   },
   {
     "name": "s-150",
@@ -2381,7 +2381,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-blood-echo.png",
     "xws": "bloodecho",
-    "cardno": "s-150"
+    "assetno": "s-150"
   },
   {
     "name": "chilling cadence",
@@ -2389,7 +2389,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-chilling-cadence.png",
     "xws": "chillingcadence",
-    "cardno": "s-149"
+    "assetno": "s-149"
   },
   {
     "name": "s-149",
@@ -2397,7 +2397,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-chilling-cadence.png",
     "xws": "chillingcadence",
-    "cardno": "s-149"
+    "assetno": "s-149"
   },
   {
     "name": "cut time",
@@ -2405,7 +2405,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-cut-time.png",
     "xws": "cuttime",
-    "cardno": "s-151"
+    "assetno": "s-151"
   },
   {
     "name": "s-151",
@@ -2413,7 +2413,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-cut-time.png",
     "xws": "cuttime",
-    "cardno": "s-151"
+    "assetno": "s-151"
   },
   {
     "name": "deeper wounds",
@@ -2421,7 +2421,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-deeper-wounds.png",
     "xws": "deeperwounds",
-    "cardno": "s-147"
+    "assetno": "s-147"
   },
   {
     "name": "s-147",
@@ -2429,7 +2429,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-deeper-wounds.png",
     "xws": "deeperwounds",
-    "cardno": "s-147"
+    "assetno": "s-147"
   },
   {
     "name": "dirge percussion",
@@ -2437,7 +2437,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-dirge-percussion.png",
     "xws": "dirgepercussion",
-    "cardno": "s-148"
+    "assetno": "s-148"
   },
   {
     "name": "s-148",
@@ -2445,7 +2445,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-dirge-percussion.png",
     "xws": "dirgepercussion",
-    "cardno": "s-148"
+    "assetno": "s-148"
   },
   {
     "name": "fury's end",
@@ -2453,7 +2453,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-furys-end.png",
     "xws": "furysend",
-    "cardno": "s-154"
+    "assetno": "s-154"
   },
   {
     "name": "s-154",
@@ -2461,7 +2461,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-furys-end.png",
     "xws": "furysend",
-    "cardno": "s-154"
+    "assetno": "s-154"
   },
   {
     "name": "grim scavenger",
@@ -2469,7 +2469,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-grim-scavenger.png",
     "xws": "grimscavenger",
-    "cardno": "s-144"
+    "assetno": "s-144"
   },
   {
     "name": "s-144",
@@ -2477,7 +2477,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-grim-scavenger.png",
     "xws": "grimscavenger",
-    "cardno": "s-144"
+    "assetno": "s-144"
   },
   {
     "name": "growing tempo",
@@ -2485,7 +2485,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-growing-tempo.png",
     "xws": "growingtempo",
-    "cardno": "s-156"
+    "assetno": "s-156"
   },
   {
     "name": "s-156",
@@ -2493,7 +2493,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-growing-tempo.png",
     "xws": "growingtempo",
-    "cardno": "s-156"
+    "assetno": "s-156"
   },
   {
     "name": "pursuit predation",
@@ -2501,7 +2501,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-pursuit-predation.png",
     "xws": "pursuitpredation",
-    "cardno": "s-152"
+    "assetno": "s-152"
   },
   {
     "name": "s-152",
@@ -2509,7 +2509,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-pursuit-predation.png",
     "xws": "pursuitpredation",
-    "cardno": "s-152"
+    "assetno": "s-152"
   },
   {
     "name": "sanguine crescendo",
@@ -2517,7 +2517,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-sanguine-crescendo.png",
     "xws": "sanguinecrescendo",
-    "cardno": "s-143"
+    "assetno": "s-143"
   },
   {
     "name": "s-143",
@@ -2525,7 +2525,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-sanguine-crescendo.png",
     "xws": "sanguinecrescendo",
-    "cardno": "s-143"
+    "assetno": "s-143"
   },
   {
     "name": "scent trail",
@@ -2533,7 +2533,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-scent-trail.png",
     "xws": "scenttrail",
-    "cardno": "s-153"
+    "assetno": "s-153"
   },
   {
     "name": "s-153",
@@ -2541,7 +2541,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-scent-trail.png",
     "xws": "scenttrail",
-    "cardno": "s-153"
+    "assetno": "s-153"
   },
   {
     "name": "soul sway",
@@ -2549,7 +2549,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-soul-sway.png",
     "xws": "soulsway",
-    "cardno": "s-145"
+    "assetno": "s-145"
   },
   {
     "name": "s-145",
@@ -2557,7 +2557,7 @@
     "expansion": "core",
     "image": "classes/rove/core/apex/nocturne-hoarfrost/rv-soul-sway.png",
     "xws": "soulsway",
-    "cardno": "s-145"
+    "assetno": "s-145"
   },
   {
     "name": "adamant ardorok",
@@ -2565,7 +2565,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-adamant-ardorok-front.png",
     "xws": "adamantardorok",
-    "cardno": "a-003"
+    "assetno": "a-003"
   },
   {
     "name": "a-003",
@@ -2573,7 +2573,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-adamant-ardorok-front.png",
     "xws": "adamantardorok",
-    "cardno": "a-003"
+    "assetno": "a-003"
   },
   {
     "name": "adamant ardorok",
@@ -2581,7 +2581,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-adamant-ardorok-back.png",
     "xws": "adamantardorok",
-    "cardno": "a-003"
+    "assetno": "a-003"
   },
   {
     "name": "a-003",
@@ -2589,7 +2589,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-adamant-ardorok-back.png",
     "xws": "adamantardorok",
-    "cardno": "a-003"
+    "assetno": "a-003"
   },
   {
     "name": "arid valley",
@@ -2597,7 +2597,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-arid-valley.png",
     "xws": "aridvalley",
-    "cardno": "s-033"
+    "assetno": "s-033"
   },
   {
     "name": "s-033",
@@ -2605,7 +2605,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-arid-valley.png",
     "xws": "aridvalley",
-    "cardno": "s-033"
+    "assetno": "s-033"
   },
   {
     "name": "clay cage",
@@ -2613,7 +2613,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-clay-cage.png",
     "xws": "claycage",
-    "cardno": "s-025"
+    "assetno": "s-025"
   },
   {
     "name": "s-025",
@@ -2621,7 +2621,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-clay-cage.png",
     "xws": "claycage",
-    "cardno": "s-025"
+    "assetno": "s-025"
   },
   {
     "name": "desert night",
@@ -2629,7 +2629,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-desert-night.png",
     "xws": "desertnight",
-    "cardno": "s-035"
+    "assetno": "s-035"
   },
   {
     "name": "s-035",
@@ -2637,7 +2637,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-desert-night.png",
     "xws": "desertnight",
-    "cardno": "s-035"
+    "assetno": "s-035"
   },
   {
     "name": "dual talons",
@@ -2645,7 +2645,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-dual-talons.png",
     "xws": "dualtalons",
-    "cardno": "s-032"
+    "assetno": "s-032"
   },
   {
     "name": "s-032",
@@ -2653,7 +2653,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-dual-talons.png",
     "xws": "dualtalons",
-    "cardno": "s-032"
+    "assetno": "s-032"
   },
   {
     "name": "earthen armor",
@@ -2661,7 +2661,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-earthen-armor.png",
     "xws": "earthenarmor",
-    "cardno": "s-037"
+    "assetno": "s-037"
   },
   {
     "name": "s-037",
@@ -2669,7 +2669,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-earthen-armor.png",
     "xws": "earthenarmor",
-    "cardno": "s-037"
+    "assetno": "s-037"
   },
   {
     "name": "enduring valley",
@@ -2677,7 +2677,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-enduring-valley.png",
     "xws": "enduringvalley",
-    "cardno": "s-034"
+    "assetno": "s-034"
   },
   {
     "name": "s-034",
@@ -2685,7 +2685,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-enduring-valley.png",
     "xws": "enduringvalley",
-    "cardno": "s-034"
+    "assetno": "s-034"
   },
   {
     "name": "lent patience",
@@ -2693,7 +2693,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-lent-patience.png",
     "xws": "lentpatience",
-    "cardno": "s-030"
+    "assetno": "s-030"
   },
   {
     "name": "s-030",
@@ -2701,7 +2701,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-lent-patience.png",
     "xws": "lentpatience",
-    "cardno": "s-030"
+    "assetno": "s-030"
   },
   {
     "name": "lent strength",
@@ -2709,7 +2709,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-lent-strength.png",
     "xws": "lentstrength",
-    "cardno": "s-029"
+    "assetno": "s-029"
   },
   {
     "name": "s-029",
@@ -2717,7 +2717,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-lent-strength.png",
     "xws": "lentstrength",
-    "cardno": "s-029"
+    "assetno": "s-029"
   },
   {
     "name": "oasis clemency",
@@ -2725,7 +2725,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-oasis-clemency.png",
     "xws": "oasisclemency",
-    "cardno": "s-031"
+    "assetno": "s-031"
   },
   {
     "name": "s-031",
@@ -2733,7 +2733,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-oasis-clemency.png",
     "xws": "oasisclemency",
-    "cardno": "s-031"
+    "assetno": "s-031"
   },
   {
     "name": "sand storm",
@@ -2741,7 +2741,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-sand-storm.png",
     "xws": "sandstorm",
-    "cardno": "s-036"
+    "assetno": "s-036"
   },
   {
     "name": "s-036",
@@ -2749,7 +2749,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-sand-storm.png",
     "xws": "sandstorm",
-    "cardno": "s-036"
+    "assetno": "s-036"
   },
   {
     "name": "searching sands",
@@ -2757,7 +2757,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-searching-sands.png",
     "xws": "searchingsands",
-    "cardno": "s-027"
+    "assetno": "s-027"
   },
   {
     "name": "s-027",
@@ -2765,7 +2765,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-searching-sands.png",
     "xws": "searchingsands",
-    "cardno": "s-027"
+    "assetno": "s-027"
   },
   {
     "name": "shifted sands",
@@ -2773,7 +2773,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-shifted-sands.png",
     "xws": "shiftedsands",
-    "cardno": "s-038"
+    "assetno": "s-038"
   },
   {
     "name": "s-038",
@@ -2781,7 +2781,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-shifted-sands.png",
     "xws": "shiftedsands",
-    "cardno": "s-038"
+    "assetno": "s-038"
   },
   {
     "name": "tectonic clash",
@@ -2789,7 +2789,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-tectonic-clash.png",
     "xws": "tectonicclash",
-    "cardno": "s-026"
+    "assetno": "s-026"
   },
   {
     "name": "s-026",
@@ -2797,7 +2797,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-tectonic-clash.png",
     "xws": "tectonicclash",
-    "cardno": "s-026"
+    "assetno": "s-026"
   },
   {
     "name": "venerated friend",
@@ -2805,7 +2805,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-venerated-friend.png",
     "xws": "veneratedfriend",
-    "cardno": "s-028"
+    "assetno": "s-028"
   },
   {
     "name": "s-028",
@@ -2813,7 +2813,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/ridge-striker/rv-venerated-friend.png",
     "xws": "veneratedfriend",
-    "cardno": "s-028"
+    "assetno": "s-028"
   },
   {
     "name": "bell tolls",
@@ -2821,7 +2821,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-bell-tolls.png",
     "xws": "belltolls",
-    "cardno": "s-106"
+    "assetno": "s-106"
   },
   {
     "name": "s-106",
@@ -2829,7 +2829,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-bell-tolls.png",
     "xws": "belltolls",
-    "cardno": "s-106"
+    "assetno": "s-106"
   },
   {
     "name": "careful aim",
@@ -2837,7 +2837,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-careful-aim.png",
     "xws": "carefulaim",
-    "cardno": "s-109"
+    "assetno": "s-109"
   },
   {
     "name": "s-109",
@@ -2845,7 +2845,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-careful-aim.png",
     "xws": "carefulaim",
-    "cardno": "s-109"
+    "assetno": "s-109"
   },
   {
     "name": "consume vitality",
@@ -2853,7 +2853,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-consume-vitality.png",
     "xws": "consumevitality",
-    "cardno": "s-116"
+    "assetno": "s-116"
   },
   {
     "name": "s-116",
@@ -2861,7 +2861,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-consume-vitality.png",
     "xws": "consumevitality",
-    "cardno": "s-116"
+    "assetno": "s-116"
   },
   {
     "name": "crimson curse",
@@ -2869,7 +2869,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-crimson-curse.png",
     "xws": "crimsoncurse",
-    "cardno": "s-121"
+    "assetno": "s-121"
   },
   {
     "name": "s-121",
@@ -2877,7 +2877,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-crimson-curse.png",
     "xws": "crimsoncurse",
-    "cardno": "s-121"
+    "assetno": "s-121"
   },
   {
     "name": "devour prey",
@@ -2885,7 +2885,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-devour-prey.png",
     "xws": "devourprey",
-    "cardno": "s-110"
+    "assetno": "s-110"
   },
   {
     "name": "s-110",
@@ -2893,7 +2893,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-devour-prey.png",
     "xws": "devourprey",
-    "cardno": "s-110"
+    "assetno": "s-110"
   },
   {
     "name": "disengage",
@@ -2901,7 +2901,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-disengage.png",
     "xws": "disengage",
-    "cardno": "s-117"
+    "assetno": "s-117"
   },
   {
     "name": "s-117",
@@ -2909,7 +2909,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-disengage.png",
     "xws": "disengage",
-    "cardno": "s-117"
+    "assetno": "s-117"
   },
   {
     "name": "drag away",
@@ -2917,7 +2917,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-drag-away.png",
     "xws": "dragaway",
-    "cardno": "s-112"
+    "assetno": "s-112"
   },
   {
     "name": "s-112",
@@ -2925,7 +2925,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-drag-away.png",
     "xws": "dragaway",
-    "cardno": "s-112"
+    "assetno": "s-112"
   },
   {
     "name": "drain essence",
@@ -2933,7 +2933,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-drain-essence.png",
     "xws": "drainessence",
-    "cardno": "s-123"
+    "assetno": "s-123"
   },
   {
     "name": "s-123",
@@ -2941,7 +2941,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-drain-essence.png",
     "xws": "drainessence",
-    "cardno": "s-123"
+    "assetno": "s-123"
   },
   {
     "name": "draw from blood",
@@ -2949,7 +2949,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-draw-from-blood.png",
     "xws": "drawfromblood",
-    "cardno": "s-115"
+    "assetno": "s-115"
   },
   {
     "name": "s-115",
@@ -2957,7 +2957,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-draw-from-blood.png",
     "xws": "drawfromblood",
-    "cardno": "s-115"
+    "assetno": "s-115"
   },
   {
     "name": "ebony blessing",
@@ -2965,7 +2965,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-ebony-blessing.png",
     "xws": "ebonyblessing",
-    "cardno": "s-122"
+    "assetno": "s-122"
   },
   {
     "name": "s-122",
@@ -2973,7 +2973,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-ebony-blessing.png",
     "xws": "ebonyblessing",
-    "cardno": "s-122"
+    "assetno": "s-122"
   },
   {
     "name": "eviscerate",
@@ -2981,7 +2981,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-eviscerate.png",
     "xws": "eviscerate",
-    "cardno": "s-108"
+    "assetno": "s-108"
   },
   {
     "name": "s-108",
@@ -2989,7 +2989,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-eviscerate.png",
     "xws": "eviscerate",
-    "cardno": "s-108"
+    "assetno": "s-108"
   },
   {
     "name": "feral swipe",
@@ -2997,7 +2997,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-feral-swipe.png",
     "xws": "feralswipe",
-    "cardno": "s-118"
+    "assetno": "s-118"
   },
   {
     "name": "s-118",
@@ -3005,7 +3005,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-feral-swipe.png",
     "xws": "feralswipe",
-    "cardno": "s-118"
+    "assetno": "s-118"
   },
   {
     "name": "forte",
@@ -3013,7 +3013,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-forte.png",
     "xws": "forte",
-    "cardno": "s-128"
+    "assetno": "s-128"
   },
   {
     "name": "s-128",
@@ -3021,7 +3021,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-forte.png",
     "xws": "forte",
-    "cardno": "s-128"
+    "assetno": "s-128"
   },
   {
     "name": "grace note",
@@ -3029,7 +3029,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-grace-note.png",
     "xws": "gracenote",
-    "cardno": "s-125"
+    "assetno": "s-125"
   },
   {
     "name": "s-125",
@@ -3037,7 +3037,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-grace-note.png",
     "xws": "gracenote",
-    "cardno": "s-125"
+    "assetno": "s-125"
   },
   {
     "name": "incant",
@@ -3045,7 +3045,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-incant.png",
     "xws": "incant",
-    "cardno": "s-111"
+    "assetno": "s-111"
   },
   {
     "name": "s-111",
@@ -3053,7 +3053,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-incant.png",
     "xws": "incant",
-    "cardno": "s-111"
+    "assetno": "s-111"
   },
   {
     "name": "invigorate",
@@ -3061,7 +3061,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-invigorate.png",
     "xws": "invigorate",
-    "cardno": "s-114"
+    "assetno": "s-114"
   },
   {
     "name": "s-114",
@@ -3069,7 +3069,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-invigorate.png",
     "xws": "invigorate",
-    "cardno": "s-114"
+    "assetno": "s-114"
   },
   {
     "name": "keen bolter",
@@ -3077,7 +3077,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-keen-bolter.png",
     "xws": "keenbolter",
-    "cardno": "s-124"
+    "assetno": "s-124"
   },
   {
     "name": "s-124",
@@ -3085,7 +3085,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-keen-bolter.png",
     "xws": "keenbolter",
-    "cardno": "s-124"
+    "assetno": "s-124"
   },
   {
     "name": "lifeblood",
@@ -3093,7 +3093,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-lifeblood.png",
     "xws": "lifeblood",
-    "cardno": "s-105"
+    "assetno": "s-105"
   },
   {
     "name": "s-105",
@@ -3101,7 +3101,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-lifeblood.png",
     "xws": "lifeblood",
-    "cardno": "s-105"
+    "assetno": "s-105"
   },
   {
     "name": "lithe form",
@@ -3109,7 +3109,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-lithe-form.png",
     "xws": "litheform",
-    "cardno": "s-119"
+    "assetno": "s-119"
   },
   {
     "name": "s-119",
@@ -3117,7 +3117,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-lithe-form.png",
     "xws": "litheform",
-    "cardno": "s-119"
+    "assetno": "s-119"
   },
   {
     "name": "miasmic arrow",
@@ -3125,7 +3125,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-miasmic-arrow.png",
     "xws": "miasmicarrow",
-    "cardno": "s-113"
+    "assetno": "s-113"
   },
   {
     "name": "s-113",
@@ -3133,7 +3133,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-miasmic-arrow.png",
     "xws": "miasmicarrow",
-    "cardno": "s-113"
+    "assetno": "s-113"
   },
   {
     "name": "passing knell",
@@ -3141,7 +3141,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-passing-knell.png",
     "xws": "passingknell",
-    "cardno": "s-107"
+    "assetno": "s-107"
   },
   {
     "name": "s-107",
@@ -3149,7 +3149,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-passing-knell.png",
     "xws": "passingknell",
-    "cardno": "s-107"
+    "assetno": "s-107"
   },
   {
     "name": "pounce",
@@ -3157,7 +3157,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-pounce.png",
     "xws": "pounce",
-    "cardno": "s-120"
+    "assetno": "s-120"
   },
   {
     "name": "s-120",
@@ -3165,7 +3165,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-pounce.png",
     "xws": "pounce",
-    "cardno": "s-120"
+    "assetno": "s-120"
   },
   {
     "name": "refrain",
@@ -3173,7 +3173,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-refrain.png",
     "xws": "refrain",
-    "cardno": "s-127"
+    "assetno": "s-127"
   },
   {
     "name": "s-127",
@@ -3181,7 +3181,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-refrain.png",
     "xws": "refrain",
-    "cardno": "s-127"
+    "assetno": "s-127"
   },
   {
     "name": "umbral howl",
@@ -3189,7 +3189,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-umbral-howl.png",
     "xws": "umbralhowl",
-    "cardno": "s-126"
+    "assetno": "s-126"
   },
   {
     "name": "s-126",
@@ -3197,7 +3197,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/shadow-piercer/rv-umbral-howl.png",
     "xws": "umbralhowl",
-    "cardno": "s-126"
+    "assetno": "s-126"
   },
   {
     "name": "alluring armoroll",
@@ -3205,7 +3205,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-alluring-armoroll-front.png",
     "xws": "alluringarmoroll",
-    "cardno": "a-006"
+    "assetno": "a-006"
   },
   {
     "name": "a-006",
@@ -3213,7 +3213,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-alluring-armoroll-front.png",
     "xws": "alluringarmoroll",
-    "cardno": "a-006"
+    "assetno": "a-006"
   },
   {
     "name": "alluring armoroll",
@@ -3221,7 +3221,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-alluring-armoroll-back.png",
     "xws": "alluringarmoroll",
-    "cardno": "a-006"
+    "assetno": "a-006"
   },
   {
     "name": "a-006",
@@ -3229,7 +3229,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-alluring-armoroll-back.png",
     "xws": "alluringarmoroll",
-    "cardno": "a-006"
+    "assetno": "a-006"
   },
   {
     "name": "bask in the light",
@@ -3237,7 +3237,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-bask-in-the-light.png",
     "xws": "baskinthelight",
-    "cardno": "s-163"
+    "assetno": "s-163"
   },
   {
     "name": "s-163",
@@ -3245,7 +3245,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-bask-in-the-light.png",
     "xws": "baskinthelight",
-    "cardno": "s-163"
+    "assetno": "s-163"
   },
   {
     "name": "bitter realization",
@@ -3253,7 +3253,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-bitter-realization.png",
     "xws": "bitterrealization",
-    "cardno": "s-172"
+    "assetno": "s-172"
   },
   {
     "name": "s-172",
@@ -3261,7 +3261,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-bitter-realization.png",
     "xws": "bitterrealization",
-    "cardno": "s-172"
+    "assetno": "s-172"
   },
   {
     "name": "blustery rebuke",
@@ -3269,7 +3269,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-blustery-rebuke.png",
     "xws": "blusteryrebuke",
-    "cardno": "s-157"
+    "assetno": "s-157"
   },
   {
     "name": "s-157",
@@ -3277,7 +3277,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-blustery-rebuke.png",
     "xws": "blusteryrebuke",
-    "cardno": "s-157"
+    "assetno": "s-157"
   },
   {
     "name": "conceptualism",
@@ -3285,7 +3285,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-conceptualism.png",
     "xws": "conceptualism",
-    "cardno": "s-177"
+    "assetno": "s-177"
   },
   {
     "name": "s-177",
@@ -3293,7 +3293,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-conceptualism.png",
     "xws": "conceptualism",
-    "cardno": "s-177"
+    "assetno": "s-177"
   },
   {
     "name": "confound",
@@ -3301,7 +3301,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-confound.png",
     "xws": "confound",
-    "cardno": "s-169"
+    "assetno": "s-169"
   },
   {
     "name": "s-169",
@@ -3309,7 +3309,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-confound.png",
     "xws": "confound",
-    "cardno": "s-169"
+    "assetno": "s-169"
   },
   {
     "name": "dance of fronds",
@@ -3317,7 +3317,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-dance-of-fronds.png",
     "xws": "danceoffronds",
-    "cardno": "s-164"
+    "assetno": "s-164"
   },
   {
     "name": "s-164",
@@ -3325,7 +3325,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-dance-of-fronds.png",
     "xws": "danceoffronds",
-    "cardno": "s-164"
+    "assetno": "s-164"
   },
   {
     "name": "dance of rays",
@@ -3333,7 +3333,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-dance-of-rays.png",
     "xws": "danceofrays",
-    "cardno": "s-170"
+    "assetno": "s-170"
   },
   {
     "name": "s-170",
@@ -3341,7 +3341,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-dance-of-rays.png",
     "xws": "danceofrays",
-    "cardno": "s-170"
+    "assetno": "s-170"
   },
   {
     "name": "dazzling strike",
@@ -3349,7 +3349,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-dazzling-strike.png",
     "xws": "dazzlingstrike",
-    "cardno": "s-160"
+    "assetno": "s-160"
   },
   {
     "name": "s-160",
@@ -3357,7 +3357,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-dazzling-strike.png",
     "xws": "dazzlingstrike",
-    "cardno": "s-160"
+    "assetno": "s-160"
   },
   {
     "name": "echo chamber",
@@ -3365,7 +3365,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-echo-chamber.png",
     "xws": "echochamber",
-    "cardno": "s-158"
+    "assetno": "s-158"
   },
   {
     "name": "s-158",
@@ -3373,7 +3373,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-echo-chamber.png",
     "xws": "echochamber",
-    "cardno": "s-158"
+    "assetno": "s-158"
   },
   {
     "name": "essentialism",
@@ -3381,7 +3381,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-essentialism.png",
     "xws": "essentialism",
-    "cardno": "s-176"
+    "assetno": "s-176"
   },
   {
     "name": "s-176",
@@ -3389,7 +3389,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-essentialism.png",
     "xws": "essentialism",
-    "cardno": "s-176"
+    "assetno": "s-176"
   },
   {
     "name": "intense curiosity",
@@ -3397,7 +3397,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-intense-curiosity.png",
     "xws": "intensecuriosity",
-    "cardno": "s-179"
+    "assetno": "s-179"
   },
   {
     "name": "s-179",
@@ -3405,7 +3405,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-intense-curiosity.png",
     "xws": "intensecuriosity",
-    "cardno": "s-179"
+    "assetno": "s-179"
   },
   {
     "name": "isolation agitation",
@@ -3413,7 +3413,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-isolation-agitation.png",
     "xws": "isolationagitation",
-    "cardno": "s-180"
+    "assetno": "s-180"
   },
   {
     "name": "s-180",
@@ -3421,7 +3421,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-isolation-agitation.png",
     "xws": "isolationagitation",
-    "cardno": "s-180"
+    "assetno": "s-180"
   },
   {
     "name": "luminescent hyperbola",
@@ -3429,7 +3429,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-luminescent-hyperbola-front.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-005"
+    "assetno": "a-005"
   },
   {
     "name": "a-005",
@@ -3437,7 +3437,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-luminescent-hyperbola-front.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-005"
+    "assetno": "a-005"
   },
   {
     "name": "luminescent hyperbola",
@@ -3445,7 +3445,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-luminescent-hyperbola-back.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-005"
+    "assetno": "a-005"
   },
   {
     "name": "a-005",
@@ -3453,7 +3453,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-luminescent-hyperbola-back.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-005"
+    "assetno": "a-005"
   },
   {
     "name": "lustrous flare",
@@ -3461,7 +3461,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-lustrous-flare.png",
     "xws": "lustrousflare",
-    "cardno": "s-166"
+    "assetno": "s-166"
   },
   {
     "name": "s-166",
@@ -3469,7 +3469,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-lustrous-flare.png",
     "xws": "lustrousflare",
-    "cardno": "s-166"
+    "assetno": "s-166"
   },
   {
     "name": "moment's respite",
@@ -3477,7 +3477,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-moments-respite.png",
     "xws": "momentsrespite",
-    "cardno": "s-159"
+    "assetno": "s-159"
   },
   {
     "name": "s-159",
@@ -3485,7 +3485,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-moments-respite.png",
     "xws": "momentsrespite",
-    "cardno": "s-159"
+    "assetno": "s-159"
   },
   {
     "name": "pure sophistry",
@@ -3493,7 +3493,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-pure-sophistry.png",
     "xws": "puresophistry",
-    "cardno": "s-175"
+    "assetno": "s-175"
   },
   {
     "name": "s-175",
@@ -3501,7 +3501,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-pure-sophistry.png",
     "xws": "puresophistry",
-    "cardno": "s-175"
+    "assetno": "s-175"
   },
   {
     "name": "radiant aerios",
@@ -3509,7 +3509,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-radiant-aerios-front.png",
     "xws": "radiantaerios",
-    "cardno": "a-007"
+    "assetno": "a-007"
   },
   {
     "name": "a-007",
@@ -3517,7 +3517,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-radiant-aerios-front.png",
     "xws": "radiantaerios",
-    "cardno": "a-007"
+    "assetno": "a-007"
   },
   {
     "name": "radiant aerios",
@@ -3525,7 +3525,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-radiant-aerios-back.png",
     "xws": "radiantaerios",
-    "cardno": "a-007"
+    "assetno": "a-007"
   },
   {
     "name": "a-007",
@@ -3533,7 +3533,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-radiant-aerios-back.png",
     "xws": "radiantaerios",
-    "cardno": "a-007"
+    "assetno": "a-007"
   },
   {
     "name": "ready in mind",
@@ -3541,7 +3541,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-ready-in-mind.png",
     "xws": "readyinmind",
-    "cardno": "s-171"
+    "assetno": "s-171"
   },
   {
     "name": "s-171",
@@ -3549,7 +3549,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-ready-in-mind.png",
     "xws": "readyinmind",
-    "cardno": "s-171"
+    "assetno": "s-171"
   },
   {
     "name": "scintillating darts",
@@ -3557,7 +3557,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-scintillating-darts.png",
     "xws": "scintillatingdarts",
-    "cardno": "s-173"
+    "assetno": "s-173"
   },
   {
     "name": "s-173",
@@ -3565,7 +3565,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-scintillating-darts.png",
     "xws": "scintillatingdarts",
-    "cardno": "s-173"
+    "assetno": "s-173"
   },
   {
     "name": "second wind",
@@ -3573,7 +3573,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-second-wind.png",
     "xws": "secondwind",
-    "cardno": "s-178"
+    "assetno": "s-178"
   },
   {
     "name": "s-178",
@@ -3581,7 +3581,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-second-wind.png",
     "xws": "secondwind",
-    "cardno": "s-178"
+    "assetno": "s-178"
   },
   {
     "name": "shifts in the wind",
@@ -3589,7 +3589,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-shifts-in-the-wind.png",
     "xws": "shiftsinthewind",
-    "cardno": "s-161"
+    "assetno": "s-161"
   },
   {
     "name": "s-161",
@@ -3597,7 +3597,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-shifts-in-the-wind.png",
     "xws": "shiftsinthewind",
-    "cardno": "s-161"
+    "assetno": "s-161"
   },
   {
     "name": "sound barrier",
@@ -3605,7 +3605,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-sound-barrier.png",
     "xws": "soundbarrier",
-    "cardno": "s-168"
+    "assetno": "s-168"
   },
   {
     "name": "s-168",
@@ -3613,7 +3613,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-sound-barrier.png",
     "xws": "soundbarrier",
-    "cardno": "s-168"
+    "assetno": "s-168"
   },
   {
     "name": "sudden debate",
@@ -3621,7 +3621,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-sudden-debate.png",
     "xws": "suddendebate",
-    "cardno": "s-174"
+    "assetno": "s-174"
   },
   {
     "name": "s-174",
@@ -3629,7 +3629,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-sudden-debate.png",
     "xws": "suddendebate",
-    "cardno": "s-174"
+    "assetno": "s-174"
   },
   {
     "name": "trick of the light",
@@ -3637,7 +3637,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-trick-of-the-light.png",
     "xws": "trickofthelight",
-    "cardno": "s-162"
+    "assetno": "s-162"
   },
   {
     "name": "s-162",
@@ -3645,7 +3645,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-trick-of-the-light.png",
     "xws": "trickofthelight",
-    "cardno": "s-162"
+    "assetno": "s-162"
   },
   {
     "name": "unnatural defenses",
@@ -3653,7 +3653,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-unnatural-defenses.png",
     "xws": "unnaturaldefenses",
-    "cardno": "s-165"
+    "assetno": "s-165"
   },
   {
     "name": "s-165",
@@ -3661,7 +3661,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-unnatural-defenses.png",
     "xws": "unnaturaldefenses",
-    "cardno": "s-165"
+    "assetno": "s-165"
   },
   {
     "name": "watch your step",
@@ -3669,7 +3669,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-watch-your-step.png",
     "xws": "watchyourstep",
-    "cardno": "s-167"
+    "assetno": "s-167"
   },
   {
     "name": "s-167",
@@ -3677,7 +3677,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/sophist/rv-watch-your-step.png",
     "xws": "watchyourstep",
-    "cardno": "s-167"
+    "assetno": "s-167"
   },
   {
     "name": "against the stream",
@@ -3685,7 +3685,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-against-the-stream.png",
     "xws": "againstthestream",
-    "cardno": "s-240"
+    "assetno": "s-240"
   },
   {
     "name": "s-240",
@@ -3693,7 +3693,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-against-the-stream.png",
     "xws": "againstthestream",
-    "cardno": "s-240"
+    "assetno": "s-240"
   },
   {
     "name": "call the cavalry",
@@ -3701,7 +3701,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-call-the-cavalry.png",
     "xws": "callthecavalry",
-    "cardno": "s-237"
+    "assetno": "s-237"
   },
   {
     "name": "s-237",
@@ -3709,7 +3709,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-call-the-cavalry.png",
     "xws": "callthecavalry",
-    "cardno": "s-237"
+    "assetno": "s-237"
   },
   {
     "name": "collected dividends",
@@ -3717,7 +3717,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-collected-dividends.png",
     "xws": "collecteddividends",
-    "cardno": "s-234"
+    "assetno": "s-234"
   },
   {
     "name": "s-234",
@@ -3725,7 +3725,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-collected-dividends.png",
     "xws": "collecteddividends",
-    "cardno": "s-234"
+    "assetno": "s-234"
   },
   {
     "name": "defensive formula",
@@ -3733,7 +3733,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-defensive-formula.png",
     "xws": "defensiveformula",
-    "cardno": "s-241"
+    "assetno": "s-241"
   },
   {
     "name": "s-241",
@@ -3741,7 +3741,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-defensive-formula.png",
     "xws": "defensiveformula",
-    "cardno": "s-241"
+    "assetno": "s-241"
   },
   {
     "name": "devastating charge",
@@ -3749,7 +3749,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-devastating-charge.png",
     "xws": "devastatingcharge",
-    "cardno": "s-246"
+    "assetno": "s-246"
   },
   {
     "name": "s-246",
@@ -3757,7 +3757,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-devastating-charge.png",
     "xws": "devastatingcharge",
-    "cardno": "s-246"
+    "assetno": "s-246"
   },
   {
     "name": "even the odds",
@@ -3765,7 +3765,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-even-the-odds.png",
     "xws": "eventheodds",
-    "cardno": "s-239"
+    "assetno": "s-239"
   },
   {
     "name": "s-239",
@@ -3773,7 +3773,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-even-the-odds.png",
     "xws": "eventheodds",
-    "cardno": "s-239"
+    "assetno": "s-239"
   },
   {
     "name": "fire-arum grit",
@@ -3781,7 +3781,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-fire-arum-grit.png",
     "xws": "firearumgrit",
-    "cardno": "s-242"
+    "assetno": "s-242"
   },
   {
     "name": "s-242",
@@ -3789,7 +3789,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-fire-arum-grit.png",
     "xws": "firearumgrit",
-    "cardno": "s-242"
+    "assetno": "s-242"
   },
   {
     "name": "psychic onslaught",
@@ -3797,7 +3797,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-psychic-onslaught.png",
     "xws": "psychiconslaught",
-    "cardno": "s-244"
+    "assetno": "s-244"
   },
   {
     "name": "s-244",
@@ -3805,7 +3805,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-psychic-onslaught.png",
     "xws": "psychiconslaught",
-    "cardno": "s-244"
+    "assetno": "s-244"
   },
   {
     "name": "punished mistakes",
@@ -3813,7 +3813,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-punished-mistakes.png",
     "xws": "punishedmistakes",
-    "cardno": "s-243"
+    "assetno": "s-243"
   },
   {
     "name": "s-243",
@@ -3821,7 +3821,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-punished-mistakes.png",
     "xws": "punishedmistakes",
-    "cardno": "s-243"
+    "assetno": "s-243"
   },
   {
     "name": "recoup losses",
@@ -3829,7 +3829,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-recoup-losses.png",
     "xws": "recouplosses",
-    "cardno": "s-235"
+    "assetno": "s-235"
   },
   {
     "name": "s-235",
@@ -3837,7 +3837,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-recoup-losses.png",
     "xws": "recouplosses",
-    "cardno": "s-235"
+    "assetno": "s-235"
   },
   {
     "name": "short leash",
@@ -3845,7 +3845,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-short-leash.png",
     "xws": "shortleash",
-    "cardno": "s-236"
+    "assetno": "s-236"
   },
   {
     "name": "s-236",
@@ -3853,7 +3853,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-short-leash.png",
     "xws": "shortleash",
-    "cardno": "s-236"
+    "assetno": "s-236"
   },
   {
     "name": "siege position",
@@ -3861,7 +3861,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-siege-position.png",
     "xws": "siegeposition",
-    "cardno": "s-233"
+    "assetno": "s-233"
   },
   {
     "name": "s-233",
@@ -3869,7 +3869,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-siege-position.png",
     "xws": "siegeposition",
-    "cardno": "s-233"
+    "assetno": "s-233"
   },
   {
     "name": "stolen valor",
@@ -3877,7 +3877,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-stolen-valor.png",
     "xws": "stolenvalor",
-    "cardno": "s-245"
+    "assetno": "s-245"
   },
   {
     "name": "s-245",
@@ -3885,7 +3885,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-stolen-valor.png",
     "xws": "stolenvalor",
-    "cardno": "s-245"
+    "assetno": "s-245"
   },
   {
     "name": "strain the nerve",
@@ -3893,7 +3893,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-strain-the-nerve.png",
     "xws": "strainthenerve",
-    "cardno": "s-238"
+    "assetno": "s-238"
   },
   {
     "name": "s-238",
@@ -3901,7 +3901,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/toll-bearer/rv-strain-the-nerve.png",
     "xws": "strainthenerve",
-    "cardno": "s-238"
+    "assetno": "s-238"
   },
   {
     "name": "against the odds",
@@ -3909,7 +3909,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-against-the-odds.png",
     "xws": "againsttheodds",
-    "cardno": "s-221"
+    "assetno": "s-221"
   },
   {
     "name": "s-221",
@@ -3917,7 +3917,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-against-the-odds.png",
     "xws": "againsttheodds",
-    "cardno": "s-221"
+    "assetno": "s-221"
   },
   {
     "name": "amidst the fray",
@@ -3925,7 +3925,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-amidst-the-fray.png",
     "xws": "amidstthefray",
-    "cardno": "s-220"
+    "assetno": "s-220"
   },
   {
     "name": "s-220",
@@ -3933,7 +3933,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-amidst-the-fray.png",
     "xws": "amidstthefray",
-    "cardno": "s-220"
+    "assetno": "s-220"
   },
   {
     "name": "blast step",
@@ -3941,7 +3941,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-blast-step.png",
     "xws": "blaststep",
-    "cardno": "s-217"
+    "assetno": "s-217"
   },
   {
     "name": "s-217",
@@ -3949,7 +3949,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-blast-step.png",
     "xws": "blaststep",
-    "cardno": "s-217"
+    "assetno": "s-217"
   },
   {
     "name": "coordinated assault",
@@ -3957,7 +3957,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-coordinated-assault.png",
     "xws": "coordinatedassault",
-    "cardno": "s-214"
+    "assetno": "s-214"
   },
   {
     "name": "s-214",
@@ -3965,7 +3965,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-coordinated-assault.png",
     "xws": "coordinatedassault",
-    "cardno": "s-214"
+    "assetno": "s-214"
   },
   {
     "name": "credit",
@@ -3973,7 +3973,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-credit.png",
     "xws": "credit",
-    "cardno": "s-231"
+    "assetno": "s-231"
   },
   {
     "name": "s-231",
@@ -3981,7 +3981,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-credit.png",
     "xws": "credit",
-    "cardno": "s-231"
+    "assetno": "s-231"
   },
   {
     "name": "divesting thoughts",
@@ -3989,7 +3989,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-divesting-thoughts.png",
     "xws": "divestingthoughts",
-    "cardno": "s-228"
+    "assetno": "s-228"
   },
   {
     "name": "s-228",
@@ -3997,7 +3997,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-divesting-thoughts.png",
     "xws": "divestingthoughts",
-    "cardno": "s-228"
+    "assetno": "s-228"
   },
   {
     "name": "embezzle",
@@ -4005,7 +4005,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-embezzle.png",
     "xws": "embezzle",
-    "cardno": "s-229"
+    "assetno": "s-229"
   },
   {
     "name": "s-229",
@@ -4013,7 +4013,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-embezzle.png",
     "xws": "embezzle",
-    "cardno": "s-229"
+    "assetno": "s-229"
   },
   {
     "name": "fierce ransomer",
@@ -4021,7 +4021,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-fierce-ransomer.png",
     "xws": "fierceransomer",
-    "cardno": "s-230"
+    "assetno": "s-230"
   },
   {
     "name": "s-230",
@@ -4029,7 +4029,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-fierce-ransomer.png",
     "xws": "fierceransomer",
-    "cardno": "s-230"
+    "assetno": "s-230"
   },
   {
     "name": "initial investment",
@@ -4037,7 +4037,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-initial-investment.png",
     "xws": "initialinvestment",
-    "cardno": "s-226"
+    "assetno": "s-226"
   },
   {
     "name": "s-226",
@@ -4045,7 +4045,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-initial-investment.png",
     "xws": "initialinvestment",
-    "cardno": "s-226"
+    "assetno": "s-226"
   },
   {
     "name": "intrusive thoughts",
@@ -4053,7 +4053,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-intrusive-thoughts.png",
     "xws": "intrusivethoughts",
-    "cardno": "s-215"
+    "assetno": "s-215"
   },
   {
     "name": "s-215",
@@ -4061,7 +4061,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-intrusive-thoughts.png",
     "xws": "intrusivethoughts",
-    "cardno": "s-215"
+    "assetno": "s-215"
   },
   {
     "name": "knock senseless",
@@ -4069,7 +4069,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-knock-senseless.png",
     "xws": "knocksenseless",
-    "cardno": "s-210"
+    "assetno": "s-210"
   },
   {
     "name": "s-210",
@@ -4077,7 +4077,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-knock-senseless.png",
     "xws": "knocksenseless",
-    "cardno": "s-210"
+    "assetno": "s-210"
   },
   {
     "name": "press the advantage",
@@ -4085,7 +4085,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-press-the-advantage.png",
     "xws": "presstheadvantage",
-    "cardno": "s-222"
+    "assetno": "s-222"
   },
   {
     "name": "s-222",
@@ -4093,7 +4093,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-press-the-advantage.png",
     "xws": "presstheadvantage",
-    "cardno": "s-222"
+    "assetno": "s-222"
   },
   {
     "name": "psychic scars",
@@ -4101,7 +4101,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-psychic-scars.png",
     "xws": "psychicscars",
-    "cardno": "s-225"
+    "assetno": "s-225"
   },
   {
     "name": "s-225",
@@ -4109,7 +4109,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-psychic-scars.png",
     "xws": "psychicscars",
-    "cardno": "s-225"
+    "assetno": "s-225"
   },
   {
     "name": "ruthless assault",
@@ -4117,7 +4117,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-ruthless-assault.png",
     "xws": "ruthlessassault",
-    "cardno": "s-216"
+    "assetno": "s-216"
   },
   {
     "name": "s-216",
@@ -4125,7 +4125,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-ruthless-assault.png",
     "xws": "ruthlessassault",
-    "cardno": "s-216"
+    "assetno": "s-216"
   },
   {
     "name": "safe cracker",
@@ -4133,7 +4133,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-safe-cracker.png",
     "xws": "safecracker",
-    "cardno": "s-227"
+    "assetno": "s-227"
   },
   {
     "name": "s-227",
@@ -4141,7 +4141,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-safe-cracker.png",
     "xws": "safecracker",
-    "cardno": "s-227"
+    "assetno": "s-227"
   },
   {
     "name": "settling groundwork",
@@ -4149,7 +4149,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-settling-groundwork.png",
     "xws": "settlinggroundwork",
-    "cardno": "s-213"
+    "assetno": "s-213"
   },
   {
     "name": "s-213",
@@ -4157,7 +4157,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-settling-groundwork.png",
     "xws": "settlinggroundwork",
-    "cardno": "s-213"
+    "assetno": "s-213"
   },
   {
     "name": "shell games",
@@ -4165,7 +4165,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-shell-games.png",
     "xws": "shellgames",
-    "cardno": "s-209"
+    "assetno": "s-209"
   },
   {
     "name": "s-209",
@@ -4173,7 +4173,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-shell-games.png",
     "xws": "shellgames",
-    "cardno": "s-209"
+    "assetno": "s-209"
   },
   {
     "name": "spectrum support",
@@ -4181,7 +4181,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-spectrum-support.png",
     "xws": "spectrumsupport",
-    "cardno": "s-223"
+    "assetno": "s-223"
   },
   {
     "name": "s-223",
@@ -4189,7 +4189,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-spectrum-support.png",
     "xws": "spectrumsupport",
-    "cardno": "s-223"
+    "assetno": "s-223"
   },
   {
     "name": "strange chatter",
@@ -4197,7 +4197,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-strange-chatter.png",
     "xws": "strangechatter",
-    "cardno": "s-211"
+    "assetno": "s-211"
   },
   {
     "name": "s-211",
@@ -4205,7 +4205,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-strange-chatter.png",
     "xws": "strangechatter",
-    "cardno": "s-211"
+    "assetno": "s-211"
   },
   {
     "name": "sweeping cleave",
@@ -4213,7 +4213,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-sweeping-cleave.png",
     "xws": "sweepingcleave",
-    "cardno": "s-212"
+    "assetno": "s-212"
   },
   {
     "name": "s-212",
@@ -4221,7 +4221,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-sweeping-cleave.png",
     "xws": "sweepingcleave",
-    "cardno": "s-212"
+    "assetno": "s-212"
   },
   {
     "name": "toll bearer",
@@ -4229,7 +4229,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-toll-bearer.png",
     "xws": "tollbearer",
-    "cardno": "s-232"
+    "assetno": "s-232"
   },
   {
     "name": "s-232",
@@ -4237,7 +4237,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-toll-bearer.png",
     "xws": "tollbearer",
-    "cardno": "s-232"
+    "assetno": "s-232"
   },
   {
     "name": "traitorous thoughts",
@@ -4245,7 +4245,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-traitorous-thoughts.png",
     "xws": "traitorousthoughts",
-    "cardno": "s-218"
+    "assetno": "s-218"
   },
   {
     "name": "s-218",
@@ -4253,7 +4253,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-traitorous-thoughts.png",
     "xws": "traitorousthoughts",
-    "cardno": "s-218"
+    "assetno": "s-218"
   },
   {
     "name": "volatile exchange",
@@ -4261,7 +4261,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-volatile-exchange.png",
     "xws": "volatileexchange",
-    "cardno": "s-224"
+    "assetno": "s-224"
   },
   {
     "name": "s-224",
@@ -4269,7 +4269,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-volatile-exchange.png",
     "xws": "volatileexchange",
-    "cardno": "s-224"
+    "assetno": "s-224"
   },
   {
     "name": "watch the back",
@@ -4277,7 +4277,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-watch-the-back.png",
     "xws": "watchtheback",
-    "cardno": "s-219"
+    "assetno": "s-219"
   },
   {
     "name": "s-219",
@@ -4285,7 +4285,7 @@
     "expansion": "core",
     "image": "classes/rove/core/base/true-scale/rv-watch-the-back.png",
     "xws": "watchtheback",
-    "cardno": "s-219"
+    "assetno": "s-219"
   },
   {
     "name": "claret dewclaw",
@@ -4293,7 +4293,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-claret-dewclaw.png",
     "xws": "claretdewclaw",
-    "cardno": "s-136"
+    "assetno": "s-136"
   },
   {
     "name": "s-136",
@@ -4301,7 +4301,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-claret-dewclaw.png",
     "xws": "claretdewclaw",
-    "cardno": "s-136"
+    "assetno": "s-136"
   },
   {
     "name": "gut wrench",
@@ -4309,7 +4309,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-gut-wrench.png",
     "xws": "gutwrench",
-    "cardno": "s-141"
+    "assetno": "s-141"
   },
   {
     "name": "s-141",
@@ -4317,7 +4317,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-gut-wrench.png",
     "xws": "gutwrench",
-    "cardno": "s-141"
+    "assetno": "s-141"
   },
   {
     "name": "measured beat",
@@ -4325,7 +4325,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-measured-beat.png",
     "xws": "measuredbeat",
-    "cardno": "s-135"
+    "assetno": "s-135"
   },
   {
     "name": "s-135",
@@ -4333,7 +4333,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-measured-beat.png",
     "xws": "measuredbeat",
-    "cardno": "s-135"
+    "assetno": "s-135"
   },
   {
     "name": "meditative trance",
@@ -4341,7 +4341,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-meditative-trance.png",
     "xws": "meditativetrance",
-    "cardno": "s-139"
+    "assetno": "s-139"
   },
   {
     "name": "s-139",
@@ -4349,7 +4349,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-meditative-trance.png",
     "xws": "meditativetrance",
-    "cardno": "s-139"
+    "assetno": "s-139"
   },
   {
     "name": "offbeat note",
@@ -4357,7 +4357,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-offbeat-note.png",
     "xws": "offbeatnote",
-    "cardno": "s-137"
+    "assetno": "s-137"
   },
   {
     "name": "s-137",
@@ -4365,7 +4365,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-offbeat-note.png",
     "xws": "offbeatnote",
-    "cardno": "s-137"
+    "assetno": "s-137"
   },
   {
     "name": "out for blood",
@@ -4373,7 +4373,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-out-for-blood.png",
     "xws": "outforblood",
-    "cardno": "s-133"
+    "assetno": "s-133"
   },
   {
     "name": "s-133",
@@ -4381,7 +4381,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-out-for-blood.png",
     "xws": "outforblood",
-    "cardno": "s-133"
+    "assetno": "s-133"
   },
   {
     "name": "predatory drive",
@@ -4389,7 +4389,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-predatory-drive.png",
     "xws": "predatorydrive",
-    "cardno": "s-132"
+    "assetno": "s-132"
   },
   {
     "name": "s-132",
@@ -4397,7 +4397,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-predatory-drive.png",
     "xws": "predatorydrive",
-    "cardno": "s-132"
+    "assetno": "s-132"
   },
   {
     "name": "renewed vitality",
@@ -4405,7 +4405,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-renewed-vitality.png",
     "xws": "renewedvitality",
-    "cardno": "s-134"
+    "assetno": "s-134"
   },
   {
     "name": "s-134",
@@ -4413,7 +4413,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-renewed-vitality.png",
     "xws": "renewedvitality",
-    "cardno": "s-134"
+    "assetno": "s-134"
   },
   {
     "name": "spine chatter",
@@ -4421,7 +4421,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-spine-chatter.png",
     "xws": "spinechatter",
-    "cardno": "s-130"
+    "assetno": "s-130"
   },
   {
     "name": "s-130",
@@ -4429,7 +4429,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-spine-chatter.png",
     "xws": "spinechatter",
-    "cardno": "s-130"
+    "assetno": "s-130"
   },
   {
     "name": "sprung rhythm",
@@ -4437,7 +4437,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-sprung-rhythm.png",
     "xws": "sprungrhythm",
-    "cardno": "s-129"
+    "assetno": "s-129"
   },
   {
     "name": "s-129",
@@ -4445,7 +4445,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-sprung-rhythm.png",
     "xws": "sprungrhythm",
-    "cardno": "s-129"
+    "assetno": "s-129"
   },
   {
     "name": "tapered reverb",
@@ -4453,7 +4453,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-tapered-reverb.png",
     "xws": "taperedreverb",
-    "cardno": "s-140"
+    "assetno": "s-140"
   },
   {
     "name": "s-140",
@@ -4461,7 +4461,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-tapered-reverb.png",
     "xws": "taperedreverb",
-    "cardno": "s-140"
+    "assetno": "s-140"
   },
   {
     "name": "tightened strings",
@@ -4469,7 +4469,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-tightened-strings.png",
     "xws": "tightenedstrings",
-    "cardno": "s-131"
+    "assetno": "s-131"
   },
   {
     "name": "s-131",
@@ -4477,7 +4477,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-tightened-strings.png",
     "xws": "tightenedstrings",
-    "cardno": "s-131"
+    "assetno": "s-131"
   },
   {
     "name": "unquenchable thirst",
@@ -4485,7 +4485,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-unquenchable-thirst.png",
     "xws": "unquenchablethirst",
-    "cardno": "s-138"
+    "assetno": "s-138"
   },
   {
     "name": "s-138",
@@ -4493,7 +4493,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-unquenchable-thirst.png",
     "xws": "unquenchablethirst",
-    "cardno": "s-138"
+    "assetno": "s-138"
   },
   {
     "name": "wild heart",
@@ -4501,7 +4501,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-wild-heart.png",
     "xws": "wildheart",
-    "cardno": "s-142"
+    "assetno": "s-142"
   },
   {
     "name": "s-142",
@@ -4509,7 +4509,7 @@
     "expansion": "core",
     "image": "classes/rove/core/prime/umbral-howl/rv-wild-heart.png",
     "xws": "wildheart",
-    "cardno": "s-142"
+    "assetno": "s-142"
   },
   {
     "name": "agree to disagree",
@@ -4517,7 +4517,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-agree-to-disagree.png",
     "xws": "agreetodisagree",
-    "cardno": "s-348"
+    "assetno": "s-348"
   },
   {
     "name": "s-348",
@@ -4525,7 +4525,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-agree-to-disagree.png",
     "xws": "agreetodisagree",
-    "cardno": "s-348"
+    "assetno": "s-348"
   },
   {
     "name": "damaged reputation",
@@ -4533,7 +4533,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-damaged-reputation.png",
     "xws": "damagedreputation",
-    "cardno": "s-351"
+    "assetno": "s-351"
   },
   {
     "name": "s-351",
@@ -4541,7 +4541,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-damaged-reputation.png",
     "xws": "damagedreputation",
-    "cardno": "s-351"
+    "assetno": "s-351"
   },
   {
     "name": "equivocation",
@@ -4549,7 +4549,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-equivocation.png",
     "xws": "equivocation",
-    "cardno": "s-349"
+    "assetno": "s-349"
   },
   {
     "name": "s-349",
@@ -4557,7 +4557,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-equivocation.png",
     "xws": "equivocation",
-    "cardno": "s-349"
+    "assetno": "s-349"
   },
   {
     "name": "heads up",
@@ -4565,7 +4565,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-heads-up.png",
     "xws": "headsup",
-    "cardno": "s-345"
+    "assetno": "s-345"
   },
   {
     "name": "s-345",
@@ -4573,7 +4573,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-heads-up.png",
     "xws": "headsup",
-    "cardno": "s-345"
+    "assetno": "s-345"
   },
   {
     "name": "leading term",
@@ -4581,7 +4581,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-leading-term.png",
     "xws": "leadingterm",
-    "cardno": "s-353"
+    "assetno": "s-353"
   },
   {
     "name": "s-353",
@@ -4589,7 +4589,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-leading-term.png",
     "xws": "leadingterm",
-    "cardno": "s-353"
+    "assetno": "s-353"
   },
   {
     "name": "lessened lessons",
@@ -4597,7 +4597,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-lessened-lessons.png",
     "xws": "lessenedlessons",
-    "cardno": "s-355"
+    "assetno": "s-355"
   },
   {
     "name": "s-355",
@@ -4605,7 +4605,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-lessened-lessons.png",
     "xws": "lessenedlessons",
-    "cardno": "s-355"
+    "assetno": "s-355"
   },
   {
     "name": "luminescent hyperbola",
@@ -4613,7 +4613,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-luminescent-hyperbola-front.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-020"
+    "assetno": "a-020"
   },
   {
     "name": "a-020",
@@ -4621,7 +4621,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-luminescent-hyperbola-front.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-020"
+    "assetno": "a-020"
   },
   {
     "name": "luminescent hyperbola",
@@ -4629,7 +4629,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-luminescent-hyperbola-back.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-020"
+    "assetno": "a-020"
   },
   {
     "name": "a-020",
@@ -4637,7 +4637,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-luminescent-hyperbola-back.png",
     "xws": "luminescenthyperbola",
-    "cardno": "a-020"
+    "assetno": "a-020"
   },
   {
     "name": "negative reinforcement",
@@ -4645,7 +4645,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-negative-reinforcement.png",
     "xws": "negativereinforcement",
-    "cardno": "s-357"
+    "assetno": "s-357"
   },
   {
     "name": "s-357",
@@ -4653,7 +4653,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-negative-reinforcement.png",
     "xws": "negativereinforcement",
-    "cardno": "s-357"
+    "assetno": "s-357"
   },
   {
     "name": "plausible deniability",
@@ -4661,7 +4661,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-plausible-deniability.png",
     "xws": "plausibledeniability",
-    "cardno": "s-350"
+    "assetno": "s-350"
   },
   {
     "name": "s-350",
@@ -4669,7 +4669,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-plausible-deniability.png",
     "xws": "plausibledeniability",
-    "cardno": "s-350"
+    "assetno": "s-350"
   },
   {
     "name": "positive reinforcement",
@@ -4677,7 +4677,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-positive-reinforcement.png",
     "xws": "positivereinforcement",
-    "cardno": "s-358"
+    "assetno": "s-358"
   },
   {
     "name": "s-358",
@@ -4685,7 +4685,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-positive-reinforcement.png",
     "xws": "positivereinforcement",
-    "cardno": "s-358"
+    "assetno": "s-358"
   },
   {
     "name": "power function",
@@ -4693,7 +4693,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-power-function.png",
     "xws": "powerfunction",
-    "cardno": "s-354"
+    "assetno": "s-354"
   },
   {
     "name": "s-354",
@@ -4701,7 +4701,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-power-function.png",
     "xws": "powerfunction",
-    "cardno": "s-354"
+    "assetno": "s-354"
   },
   {
     "name": "press gang",
@@ -4709,7 +4709,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-press-gang.png",
     "xws": "pressgang",
-    "cardno": "s-356"
+    "assetno": "s-356"
   },
   {
     "name": "s-356",
@@ -4717,7 +4717,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-press-gang.png",
     "xws": "pressgang",
-    "cardno": "s-356"
+    "assetno": "s-356"
   },
   {
     "name": "prestidigitation",
@@ -4725,7 +4725,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-prestidigitation-front.png",
     "xws": "prestidigitation",
-    "cardno": "a-021"
+    "assetno": "a-021"
   },
   {
     "name": "a-021",
@@ -4733,7 +4733,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-prestidigitation-front.png",
     "xws": "prestidigitation",
-    "cardno": "a-021"
+    "assetno": "a-021"
   },
   {
     "name": "prestidigitation",
@@ -4741,7 +4741,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-prestidigitation-back.png",
     "xws": "prestidigitation",
-    "cardno": "a-021"
+    "assetno": "a-021"
   },
   {
     "name": "a-021",
@@ -4749,7 +4749,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-prestidigitation-back.png",
     "xws": "prestidigitation",
-    "cardno": "a-021"
+    "assetno": "a-021"
   },
   {
     "name": "rule forty-two",
@@ -4757,7 +4757,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-rule-forty-two.png",
     "xws": "rulefortytwo",
-    "cardno": "s-352"
+    "assetno": "s-352"
   },
   {
     "name": "s-352",
@@ -4765,7 +4765,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-rule-forty-two.png",
     "xws": "rulefortytwo",
-    "cardno": "s-352"
+    "assetno": "s-352"
   },
   {
     "name": "sleight of hand",
@@ -4773,7 +4773,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-sleight-of-hand.png",
     "xws": "sleightofhand",
-    "cardno": "s-346"
+    "assetno": "s-346"
   },
   {
     "name": "s-346",
@@ -4781,7 +4781,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-sleight-of-hand.png",
     "xws": "sleightofhand",
-    "cardno": "s-346"
+    "assetno": "s-346"
   },
   {
     "name": "strawman fallacy",
@@ -4789,7 +4789,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-strawman-fallacy.png",
     "xws": "strawmanfallacy",
-    "cardno": "s-347"
+    "assetno": "s-347"
   },
   {
     "name": "s-347",
@@ -4797,7 +4797,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/essentialist/rv-strawman-fallacy.png",
     "xws": "strawmanfallacy",
-    "cardno": "s-347"
+    "assetno": "s-347"
   },
   {
     "name": "breach--clear",
@@ -4805,7 +4805,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-breach-clear.png",
     "xws": "breachclear",
-    "cardno": "s-376"
+    "assetno": "s-376"
   },
   {
     "name": "s-376",
@@ -4813,7 +4813,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-breach-clear.png",
     "xws": "breachclear",
-    "cardno": "s-376"
+    "assetno": "s-376"
   },
   {
     "name": "collect--dispose",
@@ -4821,7 +4821,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-collect-dispose.png",
     "xws": "collectdispose",
-    "cardno": "s-386"
+    "assetno": "s-386"
   },
   {
     "name": "s-386",
@@ -4829,7 +4829,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-collect-dispose.png",
     "xws": "collectdispose",
-    "cardno": "s-386"
+    "assetno": "s-386"
   },
   {
     "name": "confuse--disorient",
@@ -4837,7 +4837,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-confuse-disorient.png",
     "xws": "confusedisorient",
-    "cardno": "s-375"
+    "assetno": "s-375"
   },
   {
     "name": "s-375",
@@ -4845,7 +4845,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-confuse-disorient.png",
     "xws": "confusedisorient",
-    "cardno": "s-375"
+    "assetno": "s-375"
   },
   {
     "name": "control--sweep",
@@ -4853,7 +4853,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-control-sweep.png",
     "xws": "controlsweep",
-    "cardno": "s-373"
+    "assetno": "s-373"
   },
   {
     "name": "s-373",
@@ -4861,7 +4861,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-control-sweep.png",
     "xws": "controlsweep",
-    "cardno": "s-373"
+    "assetno": "s-373"
   },
   {
     "name": "organize--facilitate",
@@ -4869,7 +4869,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-organize-facilitate.png",
     "xws": "organizefacilitate",
-    "cardno": "s-383"
+    "assetno": "s-383"
   },
   {
     "name": "s-383",
@@ -4877,7 +4877,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-organize-facilitate.png",
     "xws": "organizefacilitate",
-    "cardno": "s-383"
+    "assetno": "s-383"
   },
   {
     "name": "pierce the veil",
@@ -4885,7 +4885,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-pierce-the-veil.png",
     "xws": "piercetheveil",
-    "cardno": "s-380"
+    "assetno": "s-380"
   },
   {
     "name": "s-380",
@@ -4893,7 +4893,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-pierce-the-veil.png",
     "xws": "piercetheveil",
-    "cardno": "s-380"
+    "assetno": "s-380"
   },
   {
     "name": "push the luck",
@@ -4901,7 +4901,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-push-the-luck.png",
     "xws": "pushtheluck",
-    "cardno": "s-377"
+    "assetno": "s-377"
   },
   {
     "name": "s-377",
@@ -4909,7 +4909,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-push-the-luck.png",
     "xws": "pushtheluck",
-    "cardno": "s-377"
+    "assetno": "s-377"
   },
   {
     "name": "reassert",
@@ -4917,7 +4917,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-reassert.png",
     "xws": "reassert",
-    "cardno": "s-382"
+    "assetno": "s-382"
   },
   {
     "name": "s-382",
@@ -4925,7 +4925,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-reassert.png",
     "xws": "reassert",
-    "cardno": "s-382"
+    "assetno": "s-382"
   },
   {
     "name": "reconcile--redistribute",
@@ -4933,7 +4933,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-reconcile-redistribute.png",
     "xws": "reconcileredistribute",
-    "cardno": "s-384"
+    "assetno": "s-384"
   },
   {
     "name": "s-384",
@@ -4941,7 +4941,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-reconcile-redistribute.png",
     "xws": "reconcileredistribute",
-    "cardno": "s-384"
+    "assetno": "s-384"
   },
   {
     "name": "resist the thought",
@@ -4949,7 +4949,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-resist-the-thought.png",
     "xws": "resistthethought",
-    "cardno": "s-378"
+    "assetno": "s-378"
   },
   {
     "name": "s-378",
@@ -4957,7 +4957,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-resist-the-thought.png",
     "xws": "resistthethought",
-    "cardno": "s-378"
+    "assetno": "s-378"
   },
   {
     "name": "resupply",
@@ -4965,7 +4965,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-resupply.png",
     "xws": "resupply",
-    "cardno": "s-381"
+    "assetno": "s-381"
   },
   {
     "name": "s-381",
@@ -4973,7 +4973,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-resupply.png",
     "xws": "resupply",
-    "cardno": "s-381"
+    "assetno": "s-381"
   },
   {
     "name": "seek--clarify",
@@ -4981,7 +4981,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-seek-clarify.png",
     "xws": "seekclarify",
-    "cardno": "s-374"
+    "assetno": "s-374"
   },
   {
     "name": "s-374",
@@ -4989,7 +4989,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-seek-clarify.png",
     "xws": "seekclarify",
-    "cardno": "s-374"
+    "assetno": "s-374"
   },
   {
     "name": "shipping--handling",
@@ -4997,7 +4997,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-shipping-handling.png",
     "xws": "shippinghandling",
-    "cardno": "s-385"
+    "assetno": "s-385"
   },
   {
     "name": "s-385",
@@ -5005,7 +5005,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-shipping-handling.png",
     "xws": "shippinghandling",
-    "cardno": "s-385"
+    "assetno": "s-385"
   },
   {
     "name": "stoke the flames",
@@ -5013,7 +5013,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-stoke-the-flames.png",
     "xws": "stoketheflames",
-    "cardno": "s-379"
+    "assetno": "s-379"
   },
   {
     "name": "s-379",
@@ -5021,7 +5021,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fierce-ransomer/rv-stoke-the-flames.png",
     "xws": "stoketheflames",
-    "cardno": "s-379"
+    "assetno": "s-379"
   },
   {
     "name": "biting cold",
@@ -5029,7 +5029,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-biting-cold.png",
     "xws": "bitingcold",
-    "cardno": "s-273"
+    "assetno": "s-273"
   },
   {
     "name": "s-273",
@@ -5037,7 +5037,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-biting-cold.png",
     "xws": "bitingcold",
-    "cardno": "s-273"
+    "assetno": "s-273"
   },
   {
     "name": "call and response",
@@ -5045,7 +5045,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-call-and-response.png",
     "xws": "callandresponse",
-    "cardno": "s-270"
+    "assetno": "s-270"
   },
   {
     "name": "s-270",
@@ -5053,7 +5053,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-call-and-response.png",
     "xws": "callandresponse",
-    "cardno": "s-270"
+    "assetno": "s-270"
   },
   {
     "name": "cherished friend",
@@ -5061,7 +5061,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-cherished-friend.png",
     "xws": "cherishedfriend",
-    "cardno": "s-264"
+    "assetno": "s-264"
   },
   {
     "name": "s-264",
@@ -5069,7 +5069,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-cherished-friend.png",
     "xws": "cherishedfriend",
-    "cardno": "s-264"
+    "assetno": "s-264"
   },
   {
     "name": "chilling reminder",
@@ -5077,7 +5077,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-chilling-reminder.png",
     "xws": "chillingreminder",
-    "cardno": "s-269"
+    "assetno": "s-269"
   },
   {
     "name": "s-269",
@@ -5085,7 +5085,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-chilling-reminder.png",
     "xws": "chillingreminder",
-    "cardno": "s-269"
+    "assetno": "s-269"
   },
   {
     "name": "cold shoulder",
@@ -5093,7 +5093,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-cold-shoulder.png",
     "xws": "coldshoulder",
-    "cardno": "s-271"
+    "assetno": "s-271"
   },
   {
     "name": "s-271",
@@ -5101,7 +5101,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-cold-shoulder.png",
     "xws": "coldshoulder",
-    "cardno": "s-271"
+    "assetno": "s-271"
   },
   {
     "name": "desert blood",
@@ -5109,7 +5109,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-desert-blood.png",
     "xws": "desertblood",
-    "cardno": "s-265"
+    "assetno": "s-265"
   },
   {
     "name": "s-265",
@@ -5117,7 +5117,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-desert-blood.png",
     "xws": "desertblood",
-    "cardno": "s-265"
+    "assetno": "s-265"
   },
   {
     "name": "freezing spiral",
@@ -5125,7 +5125,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-freezing-spiral.png",
     "xws": "freezingspiral",
-    "cardno": "s-263"
+    "assetno": "s-263"
   },
   {
     "name": "s-263",
@@ -5133,7 +5133,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-freezing-spiral.png",
     "xws": "freezingspiral",
-    "cardno": "s-263"
+    "assetno": "s-263"
   },
   {
     "name": "frozen wave",
@@ -5141,7 +5141,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-frozen-wave.png",
     "xws": "frozenwave",
-    "cardno": "s-262"
+    "assetno": "s-262"
   },
   {
     "name": "s-262",
@@ -5149,7 +5149,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-frozen-wave.png",
     "xws": "frozenwave",
-    "cardno": "s-262"
+    "assetno": "s-262"
   },
   {
     "name": "growing typhon",
@@ -5157,7 +5157,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-growing-typhon-front.png",
     "xws": "growingtyphon",
-    "cardno": "a-017"
+    "assetno": "a-017"
   },
   {
     "name": "a-017",
@@ -5165,7 +5165,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-growing-typhon-front.png",
     "xws": "growingtyphon",
-    "cardno": "a-017"
+    "assetno": "a-017"
   },
   {
     "name": "growing typhon",
@@ -5173,7 +5173,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-growing-typhon-back.png",
     "xws": "growingtyphon",
-    "cardno": "a-017"
+    "assetno": "a-017"
   },
   {
     "name": "a-017",
@@ -5181,7 +5181,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-growing-typhon-back.png",
     "xws": "growingtyphon",
-    "cardno": "a-017"
+    "assetno": "a-017"
   },
   {
     "name": "oasis revival",
@@ -5189,7 +5189,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-oasis-revival.png",
     "xws": "oasisrevival",
-    "cardno": "s-261"
+    "assetno": "s-261"
   },
   {
     "name": "s-261",
@@ -5197,7 +5197,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-oasis-revival.png",
     "xws": "oasisrevival",
-    "cardno": "s-261"
+    "assetno": "s-261"
   },
   {
     "name": "pure fluids",
@@ -5205,7 +5205,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-pure-fluids.png",
     "xws": "purefluids",
-    "cardno": "s-266"
+    "assetno": "s-266"
   },
   {
     "name": "s-266",
@@ -5213,7 +5213,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-pure-fluids.png",
     "xws": "purefluids",
-    "cardno": "s-266"
+    "assetno": "s-266"
   },
   {
     "name": "refreshing chill",
@@ -5221,7 +5221,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-refreshing-chill.png",
     "xws": "refreshingchill",
-    "cardno": "s-274"
+    "assetno": "s-274"
   },
   {
     "name": "s-274",
@@ -5229,7 +5229,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-refreshing-chill.png",
     "xws": "refreshingchill",
-    "cardno": "s-274"
+    "assetno": "s-274"
   },
   {
     "name": "resplendent ardorok",
@@ -5237,7 +5237,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-resplendent-ardorok-front.png",
     "xws": "resplendentardorok",
-    "cardno": "a-016"
+    "assetno": "a-016"
   },
   {
     "name": "a-016",
@@ -5245,7 +5245,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-resplendent-ardorok-front.png",
     "xws": "resplendentardorok",
-    "cardno": "a-016"
+    "assetno": "a-016"
   },
   {
     "name": "resplendent ardorok",
@@ -5253,7 +5253,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-resplendent-ardorok-back.png",
     "xws": "resplendentardorok",
-    "cardno": "a-016"
+    "assetno": "a-016"
   },
   {
     "name": "a-016",
@@ -5261,7 +5261,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-resplendent-ardorok-back.png",
     "xws": "resplendentardorok",
-    "cardno": "a-016"
+    "assetno": "a-016"
   },
   {
     "name": "subdued acrimony",
@@ -5269,7 +5269,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-subdued-acrimony.png",
     "xws": "subduedacrimony",
-    "cardno": "s-268"
+    "assetno": "s-268"
   },
   {
     "name": "s-268",
@@ -5277,7 +5277,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-subdued-acrimony.png",
     "xws": "subduedacrimony",
-    "cardno": "s-268"
+    "assetno": "s-268"
   },
   {
     "name": "sunlit basking",
@@ -5285,7 +5285,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-sunlit-basking.png",
     "xws": "sunlitbasking",
-    "cardno": "s-267"
+    "assetno": "s-267"
   },
   {
     "name": "s-267",
@@ -5293,7 +5293,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-sunlit-basking.png",
     "xws": "sunlitbasking",
-    "cardno": "s-267"
+    "assetno": "s-267"
   },
   {
     "name": "surging tides",
@@ -5301,7 +5301,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-surging-tides.png",
     "xws": "surgingtides",
-    "cardno": "s-272"
+    "assetno": "s-272"
   },
   {
     "name": "s-272",
@@ -5309,7 +5309,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/fountain-caller/rv-surging-tides.png",
     "xws": "surgingtides",
-    "cardno": "s-272"
+    "assetno": "s-272"
   },
   {
     "name": "acid metabolism",
@@ -5317,7 +5317,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-acid-metabolism.png",
     "xws": "acidmetabolism",
-    "cardno": "s-403"
+    "assetno": "s-403"
   },
   {
     "name": "s-403",
@@ -5325,7 +5325,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-acid-metabolism.png",
     "xws": "acidmetabolism",
-    "cardno": "s-403"
+    "assetno": "s-403"
   },
   {
     "name": "bile spray",
@@ -5333,7 +5333,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-bile-spray.png",
     "xws": "bilespray",
-    "cardno": "s-419"
+    "assetno": "s-419"
   },
   {
     "name": "s-419",
@@ -5341,7 +5341,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-bile-spray.png",
     "xws": "bilespray",
-    "cardno": "s-419"
+    "assetno": "s-419"
   },
   {
     "name": "braided tentacles",
@@ -5349,7 +5349,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-braided-tentacles.png",
     "xws": "braidedtentacles",
-    "cardno": "s-404"
+    "assetno": "s-404"
   },
   {
     "name": "s-404",
@@ -5357,7 +5357,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-braided-tentacles.png",
     "xws": "braidedtentacles",
-    "cardno": "s-404"
+    "assetno": "s-404"
   },
   {
     "name": "catapult bud",
@@ -5365,7 +5365,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-catapult-bud.png",
     "xws": "catapultbud",
-    "cardno": "s-402"
+    "assetno": "s-402"
   },
   {
     "name": "s-402",
@@ -5373,7 +5373,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-catapult-bud.png",
     "xws": "catapultbud",
-    "cardno": "s-402"
+    "assetno": "s-402"
   },
   {
     "name": "detachable stingers",
@@ -5381,7 +5381,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-detachable-stingers.png",
     "xws": "detachablestingers",
-    "cardno": "s-412"
+    "assetno": "s-412"
   },
   {
     "name": "s-412",
@@ -5389,7 +5389,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-detachable-stingers.png",
     "xws": "detachablestingers",
-    "cardno": "s-412"
+    "assetno": "s-412"
   },
   {
     "name": "efficient biology",
@@ -5397,7 +5397,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-efficient-biology.png",
     "xws": "efficientbiology",
-    "cardno": "s-416"
+    "assetno": "s-416"
   },
   {
     "name": "s-416",
@@ -5405,7 +5405,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-efficient-biology.png",
     "xws": "efficientbiology",
-    "cardno": "s-416"
+    "assetno": "s-416"
   },
   {
     "name": "fluid siphoner",
@@ -5413,7 +5413,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-fluid-siphoner.png",
     "xws": "fluidsiphoner",
-    "cardno": "s-411"
+    "assetno": "s-411"
   },
   {
     "name": "s-411",
@@ -5421,7 +5421,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-fluid-siphoner.png",
     "xws": "fluidsiphoner",
-    "cardno": "s-411"
+    "assetno": "s-411"
   },
   {
     "name": "human anamnesis",
@@ -5429,7 +5429,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-human-anamnesis.png",
     "xws": "humananamnesis",
-    "cardno": "s-414"
+    "assetno": "s-414"
   },
   {
     "name": "s-414",
@@ -5437,7 +5437,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-human-anamnesis.png",
     "xws": "humananamnesis",
-    "cardno": "s-414"
+    "assetno": "s-414"
   },
   {
     "name": "instinctual motion",
@@ -5445,7 +5445,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-instinctual-motion.png",
     "xws": "instinctualmotion",
-    "cardno": "s-418"
+    "assetno": "s-418"
   },
   {
     "name": "s-418",
@@ -5453,7 +5453,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-instinctual-motion.png",
     "xws": "instinctualmotion",
-    "cardno": "s-418"
+    "assetno": "s-418"
   },
   {
     "name": "keb rasska anamnesis",
@@ -5461,7 +5461,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-keb-rasska-anamnesis.png",
     "xws": "kebrasskaanamnesis",
-    "cardno": "s-420"
+    "assetno": "s-420"
   },
   {
     "name": "s-420",
@@ -5469,7 +5469,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-keb-rasska-anamnesis.png",
     "xws": "kebrasskaanamnesis",
-    "cardno": "s-420"
+    "assetno": "s-420"
   },
   {
     "name": "leeching spines",
@@ -5477,7 +5477,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-leeching-spines.png",
     "xws": "leechingspines",
-    "cardno": "s-409"
+    "assetno": "s-409"
   },
   {
     "name": "s-409",
@@ -5485,7 +5485,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-leeching-spines.png",
     "xws": "leechingspines",
-    "cardno": "s-409"
+    "assetno": "s-409"
   },
   {
     "name": "limb elongation",
@@ -5493,7 +5493,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-limb-elongation.png",
     "xws": "limbelongation",
-    "cardno": "s-417"
+    "assetno": "s-417"
   },
   {
     "name": "s-417",
@@ -5501,7 +5501,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-limb-elongation.png",
     "xws": "limbelongation",
-    "cardno": "s-417"
+    "assetno": "s-417"
   },
   {
     "name": "malignant growth",
@@ -5509,7 +5509,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-malignant-growth.png",
     "xws": "malignantgrowth",
-    "cardno": "s-405"
+    "assetno": "s-405"
   },
   {
     "name": "s-405",
@@ -5517,7 +5517,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-malignant-growth.png",
     "xws": "malignantgrowth",
-    "cardno": "s-405"
+    "assetno": "s-405"
   },
   {
     "name": "organ redundancy",
@@ -5525,7 +5525,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-organ-redundancy.png",
     "xws": "organredundancy",
-    "cardno": "s-422"
+    "assetno": "s-422"
   },
   {
     "name": "s-422",
@@ -5533,7 +5533,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-organ-redundancy.png",
     "xws": "organredundancy",
-    "cardno": "s-422"
+    "assetno": "s-422"
   },
   {
     "name": "quill burst",
@@ -5541,7 +5541,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-quill-burst.png",
     "xws": "quillburst",
-    "cardno": "s-413"
+    "assetno": "s-413"
   },
   {
     "name": "s-413",
@@ -5549,7 +5549,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-quill-burst.png",
     "xws": "quillburst",
-    "cardno": "s-413"
+    "assetno": "s-413"
   },
   {
     "name": "shifting scales",
@@ -5557,7 +5557,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-shifting-scales.png",
     "xws": "shiftingscales",
-    "cardno": "s-415"
+    "assetno": "s-415"
   },
   {
     "name": "s-415",
@@ -5565,7 +5565,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-shifting-scales.png",
     "xws": "shiftingscales",
-    "cardno": "s-415"
+    "assetno": "s-415"
   },
   {
     "name": "specialized offspring",
@@ -5573,7 +5573,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-specialized-offspring.png",
     "xws": "specializedoffspring",
-    "cardno": "s-410"
+    "assetno": "s-410"
   },
   {
     "name": "s-410",
@@ -5581,7 +5581,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-specialized-offspring.png",
     "xws": "specializedoffspring",
-    "cardno": "s-410"
+    "assetno": "s-410"
   },
   {
     "name": "spur launch",
@@ -5589,7 +5589,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-spur-launch.png",
     "xws": "spurlaunch",
-    "cardno": "s-421"
+    "assetno": "s-421"
   },
   {
     "name": "s-421",
@@ -5597,7 +5597,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-spur-launch.png",
     "xws": "spurlaunch",
-    "cardno": "s-421"
+    "assetno": "s-421"
   },
   {
     "name": "squirming sheddings",
@@ -5605,7 +5605,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-squirming-sheddings.png",
     "xws": "squirmingsheddings",
-    "cardno": "s-408"
+    "assetno": "s-408"
   },
   {
     "name": "s-408",
@@ -5613,7 +5613,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-squirming-sheddings.png",
     "xws": "squirmingsheddings",
-    "cardno": "s-408"
+    "assetno": "s-408"
   },
   {
     "name": "tentacle snatch",
@@ -5621,7 +5621,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tentacle-snatch.png",
     "xws": "tentaclesnatch",
-    "cardno": "s-407"
+    "assetno": "s-407"
   },
   {
     "name": "s-407",
@@ -5629,7 +5629,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tentacle-snatch.png",
     "xws": "tentaclesnatch",
-    "cardno": "s-407"
+    "assetno": "s-407"
   },
   {
     "name": "thornclad vines",
@@ -5637,7 +5637,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-thornclad-vines.png",
     "xws": "thorncladvines",
-    "cardno": "s-424"
+    "assetno": "s-424"
   },
   {
     "name": "s-424",
@@ -5645,7 +5645,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-thornclad-vines.png",
     "xws": "thorncladvines",
-    "cardno": "s-424"
+    "assetno": "s-424"
   },
   {
     "name": "tihfur anamnesis",
@@ -5653,7 +5653,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tihfur-anamnesis.png",
     "xws": "tihfuranamnesis",
-    "cardno": "s-406"
+    "assetno": "s-406"
   },
   {
     "name": "s-406",
@@ -5661,7 +5661,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tihfur-anamnesis.png",
     "xws": "tihfuranamnesis",
-    "cardno": "s-406"
+    "assetno": "s-406"
   },
   {
     "name": "tissue regeneration",
@@ -5669,7 +5669,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tissue-regeneration.png",
     "xws": "tissueregeneration",
-    "cardno": "s-401"
+    "assetno": "s-401"
   },
   {
     "name": "s-401",
@@ -5677,7 +5677,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tissue-regeneration.png",
     "xws": "tissueregeneration",
-    "cardno": "s-401"
+    "assetno": "s-401"
   },
   {
     "name": "tough molting",
@@ -5685,7 +5685,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tough-molting.png",
     "xws": "toughmolting",
-    "cardno": "s-423"
+    "assetno": "s-423"
   },
   {
     "name": "s-423",
@@ -5693,7 +5693,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-tough-molting.png",
     "xws": "toughmolting",
-    "cardno": "s-423"
+    "assetno": "s-423"
   },
   {
     "name": "twisting nettle",
@@ -5701,7 +5701,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-twisting-nettle.png",
     "xws": "twistingnettle",
-    "cardno": "s-425"
+    "assetno": "s-425"
   },
   {
     "name": "s-425",
@@ -5709,7 +5709,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-twisting-nettle.png",
     "xws": "twistingnettle",
-    "cardno": "s-425"
+    "assetno": "s-425"
   },
   {
     "name": "zusag anamnesis",
@@ -5717,7 +5717,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-zusag-anamnesis.png",
     "xws": "zusaganamnesis",
-    "cardno": "s-426"
+    "assetno": "s-426"
   },
   {
     "name": "s-426",
@@ -5725,7 +5725,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/other/infected/rv-zusag-anamnesis.png",
     "xws": "zusaganamnesis",
-    "cardno": "s-426"
+    "assetno": "s-426"
   },
   {
     "name": "before you speak",
@@ -5733,7 +5733,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-before-you-speak.png",
     "xws": "beforeyouspeak",
-    "cardno": "s-368"
+    "assetno": "s-368"
   },
   {
     "name": "s-368",
@@ -5741,7 +5741,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-before-you-speak.png",
     "xws": "beforeyouspeak",
-    "cardno": "s-368"
+    "assetno": "s-368"
   },
   {
     "name": "cheat sheet",
@@ -5749,7 +5749,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-cheat-sheet.png",
     "xws": "cheatsheet",
-    "cardno": "s-366"
+    "assetno": "s-366"
   },
   {
     "name": "s-366",
@@ -5757,7 +5757,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-cheat-sheet.png",
     "xws": "cheatsheet",
-    "cardno": "s-366"
+    "assetno": "s-366"
   },
   {
     "name": "compulsory debate",
@@ -5765,7 +5765,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-compulsory-debate.png",
     "xws": "compulsorydebate",
-    "cardno": "s-369"
+    "assetno": "s-369"
   },
   {
     "name": "s-369",
@@ -5773,7 +5773,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-compulsory-debate.png",
     "xws": "compulsorydebate",
-    "cardno": "s-369"
+    "assetno": "s-369"
   },
   {
     "name": "divine incomprehensibility",
@@ -5781,7 +5781,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-divine-incomprehensibility-back.png",
     "xws": "divineincomprehensibility",
-    "cardno": "a-023"
+    "assetno": "a-023"
   },
   {
     "name": "a-023",
@@ -5789,7 +5789,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-divine-incomprehensibility-back.png",
     "xws": "divineincomprehensibility",
-    "cardno": "a-023"
+    "assetno": "a-023"
   },
   {
     "name": "divine incomprehensibility",
@@ -5797,7 +5797,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-divine-incomprehensibility-front.png",
     "xws": "divineincomprehensibility",
-    "cardno": "a-023"
+    "assetno": "a-023"
   },
   {
     "name": "a-023",
@@ -5805,7 +5805,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-divine-incomprehensibility-front.png",
     "xws": "divineincomprehensibility",
-    "cardno": "a-023"
+    "assetno": "a-023"
   },
   {
     "name": "dominant balance",
@@ -5813,7 +5813,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-dominant-balance.png",
     "xws": "dominantbalance",
-    "cardno": "s-359"
+    "assetno": "s-359"
   },
   {
     "name": "s-359",
@@ -5821,7 +5821,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-dominant-balance.png",
     "xws": "dominantbalance",
-    "cardno": "s-359"
+    "assetno": "s-359"
   },
   {
     "name": "ego dissolution",
@@ -5829,7 +5829,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-ego-dissolution.png",
     "xws": "egodissolution",
-    "cardno": "s-361"
+    "assetno": "s-361"
   },
   {
     "name": "s-361",
@@ -5837,7 +5837,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-ego-dissolution.png",
     "xws": "egodissolution",
-    "cardno": "s-361"
+    "assetno": "s-361"
   },
   {
     "name": "empirical paradox",
@@ -5845,7 +5845,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-empirical-paradox.png",
     "xws": "empiricalparadox",
-    "cardno": "s-364"
+    "assetno": "s-364"
   },
   {
     "name": "s-364",
@@ -5853,7 +5853,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-empirical-paradox.png",
     "xws": "empiricalparadox",
-    "cardno": "s-364"
+    "assetno": "s-364"
   },
   {
     "name": "memetic hazard",
@@ -5861,7 +5861,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-memetic-hazard.png",
     "xws": "memetichazard",
-    "cardno": "s-367"
+    "assetno": "s-367"
   },
   {
     "name": "s-367",
@@ -5869,7 +5869,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-memetic-hazard.png",
     "xws": "memetichazard",
-    "cardno": "s-367"
+    "assetno": "s-367"
   },
   {
     "name": "numinous synchronicity",
@@ -5877,7 +5877,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-numinous-synchronicity-back.png",
     "xws": "numinoussynchronicity",
-    "cardno": "a-022"
+    "assetno": "a-022"
   },
   {
     "name": "a-022",
@@ -5885,7 +5885,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-numinous-synchronicity-back.png",
     "xws": "numinoussynchronicity",
-    "cardno": "a-022"
+    "assetno": "a-022"
   },
   {
     "name": "numinous synchronicity",
@@ -5893,7 +5893,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-numinous-synchronicity-front.png",
     "xws": "numinoussynchronicity",
-    "cardno": "a-022"
+    "assetno": "a-022"
   },
   {
     "name": "a-022",
@@ -5901,7 +5901,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-numinous-synchronicity-front.png",
     "xws": "numinoussynchronicity",
-    "cardno": "a-022"
+    "assetno": "a-022"
   },
   {
     "name": "pointed interjection",
@@ -5909,7 +5909,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-pointed-interjection.png",
     "xws": "pointedinterjection",
-    "cardno": "s-360"
+    "assetno": "s-360"
   },
   {
     "name": "s-360",
@@ -5917,7 +5917,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-pointed-interjection.png",
     "xws": "pointedinterjection",
-    "cardno": "s-360"
+    "assetno": "s-360"
   },
   {
     "name": "rejected reality",
@@ -5925,7 +5925,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-rejected-reality.png",
     "xws": "rejectedreality",
-    "cardno": "s-370"
+    "assetno": "s-370"
   },
   {
     "name": "s-370",
@@ -5933,7 +5933,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-rejected-reality.png",
     "xws": "rejectedreality",
-    "cardno": "s-370"
+    "assetno": "s-370"
   },
   {
     "name": "stolen momentum",
@@ -5941,7 +5941,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-stolen-momentum.png",
     "xws": "stolenmomentum",
-    "cardno": "s-362"
+    "assetno": "s-362"
   },
   {
     "name": "s-362",
@@ -5949,7 +5949,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-stolen-momentum.png",
     "xws": "stolenmomentum",
-    "cardno": "s-362"
+    "assetno": "s-362"
   },
   {
     "name": "uncovered clue",
@@ -5957,7 +5957,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-uncovered-clue.png",
     "xws": "uncoveredclue",
-    "cardno": "s-363"
+    "assetno": "s-363"
   },
   {
     "name": "s-363",
@@ -5965,7 +5965,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-uncovered-clue.png",
     "xws": "uncoveredclue",
-    "cardno": "s-363"
+    "assetno": "s-363"
   },
   {
     "name": "vox dei",
@@ -5973,7 +5973,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-vox-dei.png",
     "xws": "voxdei",
-    "cardno": "s-372"
+    "assetno": "s-372"
   },
   {
     "name": "s-372",
@@ -5981,7 +5981,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-vox-dei.png",
     "xws": "voxdei",
-    "cardno": "s-372"
+    "assetno": "s-372"
   },
   {
     "name": "welkin ring",
@@ -5989,7 +5989,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-welkin-ring.png",
     "xws": "welkinring",
-    "cardno": "s-371"
+    "assetno": "s-371"
   },
   {
     "name": "s-371",
@@ -5997,7 +5997,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-welkin-ring.png",
     "xws": "welkinring",
-    "cardno": "s-371"
+    "assetno": "s-371"
   },
   {
     "name": "whispered thoughts",
@@ -6005,7 +6005,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-whispered-thoughts.png",
     "xws": "whisperedthoughts",
-    "cardno": "s-365"
+    "assetno": "s-365"
   },
   {
     "name": "s-365",
@@ -6013,7 +6013,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/kataphatist/rv-whispered-thoughts.png",
     "xws": "whisperedthoughts",
-    "cardno": "s-365"
+    "assetno": "s-365"
   },
   {
     "name": "biting cold",
@@ -6021,7 +6021,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-biting-cold.png",
     "xws": "bitingcold",
-    "cardno": "s-321"
+    "assetno": "s-321"
   },
   {
     "name": "s-321",
@@ -6029,7 +6029,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-biting-cold.png",
     "xws": "bitingcold",
-    "cardno": "s-321"
+    "assetno": "s-321"
   },
   {
     "name": "blood rite",
@@ -6037,7 +6037,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-blood-rite.png",
     "xws": "bloodrite",
-    "cardno": "s-322"
+    "assetno": "s-322"
   },
   {
     "name": "s-322",
@@ -6045,7 +6045,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-blood-rite.png",
     "xws": "bloodrite",
-    "cardno": "s-322"
+    "assetno": "s-322"
   },
   {
     "name": "cold comfort",
@@ -6053,7 +6053,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-cold-comfort.png",
     "xws": "coldcomfort",
-    "cardno": "s-317"
+    "assetno": "s-317"
   },
   {
     "name": "s-317",
@@ -6061,7 +6061,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-cold-comfort.png",
     "xws": "coldcomfort",
-    "cardno": "s-317"
+    "assetno": "s-317"
   },
   {
     "name": "creeping chill",
@@ -6069,7 +6069,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-creeping-chill.png",
     "xws": "creepingchill",
-    "cardno": "s-318"
+    "assetno": "s-318"
   },
   {
     "name": "s-318",
@@ -6077,7 +6077,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-creeping-chill.png",
     "xws": "creepingchill",
-    "cardno": "s-318"
+    "assetno": "s-318"
   },
   {
     "name": "fog obscuring",
@@ -6085,7 +6085,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-fog-obscuring.png",
     "xws": "fogobscuring",
-    "cardno": "s-324"
+    "assetno": "s-324"
   },
   {
     "name": "s-324",
@@ -6093,7 +6093,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-fog-obscuring.png",
     "xws": "fogobscuring",
-    "cardno": "s-324"
+    "assetno": "s-324"
   },
   {
     "name": "frozen thresher",
@@ -6101,7 +6101,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-frozen-thresher.png",
     "xws": "frozenthresher",
-    "cardno": "s-326"
+    "assetno": "s-326"
   },
   {
     "name": "s-326",
@@ -6109,7 +6109,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-frozen-thresher.png",
     "xws": "frozenthresher",
-    "cardno": "s-326"
+    "assetno": "s-326"
   },
   {
     "name": "gelid embrace",
@@ -6117,7 +6117,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-gelid-embrace.png",
     "xws": "gelidembrace",
-    "cardno": "s-329"
+    "assetno": "s-329"
   },
   {
     "name": "s-329",
@@ -6125,7 +6125,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-gelid-embrace.png",
     "xws": "gelidembrace",
-    "cardno": "s-329"
+    "assetno": "s-329"
   },
   {
     "name": "glacier shot",
@@ -6133,7 +6133,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-glacier-shot.png",
     "xws": "glaciershot",
-    "cardno": "s-325"
+    "assetno": "s-325"
   },
   {
     "name": "s-325",
@@ -6141,7 +6141,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-glacier-shot.png",
     "xws": "glaciershot",
-    "cardno": "s-325"
+    "assetno": "s-325"
   },
   {
     "name": "icicle barrage",
@@ -6149,7 +6149,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-icicle-barrage.png",
     "xws": "iciclebarrage",
-    "cardno": "s-330"
+    "assetno": "s-330"
   },
   {
     "name": "s-330",
@@ -6157,7 +6157,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-icicle-barrage.png",
     "xws": "iciclebarrage",
-    "cardno": "s-330"
+    "assetno": "s-330"
   },
   {
     "name": "limb puncture",
@@ -6165,7 +6165,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-limb-puncture.png",
     "xws": "limbpuncture",
-    "cardno": "s-319"
+    "assetno": "s-319"
   },
   {
     "name": "s-319",
@@ -6173,7 +6173,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-limb-puncture.png",
     "xws": "limbpuncture",
-    "cardno": "s-319"
+    "assetno": "s-319"
   },
   {
     "name": "mist stalker",
@@ -6181,7 +6181,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-mist-stalker.png",
     "xws": "miststalker",
-    "cardno": "s-323"
+    "assetno": "s-323"
   },
   {
     "name": "s-323",
@@ -6189,7 +6189,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-mist-stalker.png",
     "xws": "miststalker",
-    "cardno": "s-323"
+    "assetno": "s-323"
   },
   {
     "name": "refreshing frost",
@@ -6197,7 +6197,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-refreshing-frost.png",
     "xws": "refreshingfrost",
-    "cardno": "s-320"
+    "assetno": "s-320"
   },
   {
     "name": "s-320",
@@ -6205,7 +6205,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-refreshing-frost.png",
     "xws": "refreshingfrost",
-    "cardno": "s-320"
+    "assetno": "s-320"
   },
   {
     "name": "stolen warmth",
@@ -6213,7 +6213,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-stolen-warmth.png",
     "xws": "stolenwarmth",
-    "cardno": "s-327"
+    "assetno": "s-327"
   },
   {
     "name": "s-327",
@@ -6221,7 +6221,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-stolen-warmth.png",
     "xws": "stolenwarmth",
-    "cardno": "s-327"
+    "assetno": "s-327"
   },
   {
     "name": "unrelenting fatigue",
@@ -6229,7 +6229,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-unrelenting-fatigue.png",
     "xws": "unrelentingfatigue",
-    "cardno": "s-328"
+    "assetno": "s-328"
   },
   {
     "name": "s-328",
@@ -6237,7 +6237,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/keening-bolt/rv-unrelenting-fatigue.png",
     "xws": "unrelentingfatigue",
-    "cardno": "s-328"
+    "assetno": "s-328"
   },
   {
     "name": "calm skies",
@@ -6245,7 +6245,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-calm-skies.png",
     "xws": "calmskies",
-    "cardno": "s-294"
+    "assetno": "s-294"
   },
   {
     "name": "s-294",
@@ -6253,7 +6253,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-calm-skies.png",
     "xws": "calmskies",
-    "cardno": "s-294"
+    "assetno": "s-294"
   },
   {
     "name": "charged air",
@@ -6261,7 +6261,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-charged-air.png",
     "xws": "chargedair",
-    "cardno": "s-293"
+    "assetno": "s-293"
   },
   {
     "name": "s-293",
@@ -6269,7 +6269,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-charged-air.png",
     "xws": "chargedair",
-    "cardno": "s-293"
+    "assetno": "s-293"
   },
   {
     "name": "cloud burst",
@@ -6277,7 +6277,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-cloud-burst.png",
     "xws": "cloudburst",
-    "cardno": "s-291"
+    "assetno": "s-291"
   },
   {
     "name": "s-291",
@@ -6285,7 +6285,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-cloud-burst.png",
     "xws": "cloudburst",
-    "cardno": "s-291"
+    "assetno": "s-291"
   },
   {
     "name": "controlled gusts",
@@ -6293,7 +6293,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-controlled-gusts.png",
     "xws": "controlledgusts",
-    "cardno": "s-300"
+    "assetno": "s-300"
   },
   {
     "name": "s-300",
@@ -6301,7 +6301,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-controlled-gusts.png",
     "xws": "controlledgusts",
-    "cardno": "s-300"
+    "assetno": "s-300"
   },
   {
     "name": "lightning strike",
@@ -6309,7 +6309,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-lightning-strike.png",
     "xws": "lightningstrike",
-    "cardno": "s-302"
+    "assetno": "s-302"
   },
   {
     "name": "s-302",
@@ -6317,7 +6317,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-lightning-strike.png",
     "xws": "lightningstrike",
-    "cardno": "s-302"
+    "assetno": "s-302"
   },
   {
     "name": "pressure shift",
@@ -6325,7 +6325,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-pressure-shift.png",
     "xws": "pressureshift",
-    "cardno": "s-295"
+    "assetno": "s-295"
   },
   {
     "name": "s-295",
@@ -6333,7 +6333,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-pressure-shift.png",
     "xws": "pressureshift",
-    "cardno": "s-295"
+    "assetno": "s-295"
   },
   {
     "name": "rolling thunderstorm",
@@ -6341,7 +6341,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-rolling-thunderstorm.png",
     "xws": "rollingthunderstorm",
-    "cardno": "s-292"
+    "assetno": "s-292"
   },
   {
     "name": "s-292",
@@ -6349,7 +6349,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-rolling-thunderstorm.png",
     "xws": "rollingthunderstorm",
-    "cardno": "s-292"
+    "assetno": "s-292"
   },
   {
     "name": "sky soaring",
@@ -6357,7 +6357,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-sky-soaring.png",
     "xws": "skysoaring",
-    "cardno": "s-297"
+    "assetno": "s-297"
   },
   {
     "name": "s-297",
@@ -6365,7 +6365,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-sky-soaring.png",
     "xws": "skysoaring",
-    "cardno": "s-297"
+    "assetno": "s-297"
   },
   {
     "name": "tempering updraft",
@@ -6373,7 +6373,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-tempering-updraft.png",
     "xws": "temperingupdraft",
-    "cardno": "s-289"
+    "assetno": "s-289"
   },
   {
     "name": "s-289",
@@ -6381,7 +6381,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-tempering-updraft.png",
     "xws": "temperingupdraft",
-    "cardno": "s-289"
+    "assetno": "s-289"
   },
   {
     "name": "violent hurricane",
@@ -6389,7 +6389,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-violent-hurricane.png",
     "xws": "violenthurricane",
-    "cardno": "s-290"
+    "assetno": "s-290"
   },
   {
     "name": "s-290",
@@ -6397,7 +6397,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-violent-hurricane.png",
     "xws": "violenthurricane",
-    "cardno": "s-290"
+    "assetno": "s-290"
   },
   {
     "name": "weather control",
@@ -6405,7 +6405,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-weather-control.png",
     "xws": "weathercontrol",
-    "cardno": "s-299"
+    "assetno": "s-299"
   },
   {
     "name": "s-299",
@@ -6413,7 +6413,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-weather-control.png",
     "xws": "weathercontrol",
-    "cardno": "s-299"
+    "assetno": "s-299"
   },
   {
     "name": "wind break",
@@ -6421,7 +6421,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-wind-break.png",
     "xws": "windbreak",
-    "cardno": "s-301"
+    "assetno": "s-301"
   },
   {
     "name": "s-301",
@@ -6429,7 +6429,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-wind-break.png",
     "xws": "windbreak",
-    "cardno": "s-301"
+    "assetno": "s-301"
   },
   {
     "name": "wind shear",
@@ -6437,7 +6437,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-wind-shear.png",
     "xws": "windshear",
-    "cardno": "s-298"
+    "assetno": "s-298"
   },
   {
     "name": "s-298",
@@ -6445,7 +6445,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-wind-shear.png",
     "xws": "windshear",
-    "cardno": "s-298"
+    "assetno": "s-298"
   },
   {
     "name": "wind wall",
@@ -6453,7 +6453,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-wind-wall.png",
     "xws": "windwall",
-    "cardno": "s-296"
+    "assetno": "s-296"
   },
   {
     "name": "s-296",
@@ -6461,7 +6461,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/prime/mistral/rv-wind-wall.png",
     "xws": "windwall",
-    "cardno": "s-296"
+    "assetno": "s-296"
   },
   {
     "name": "chain lightning",
@@ -6469,7 +6469,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-chain-lightning.png",
     "xws": "chainlightning",
-    "cardno": "s-312"
+    "assetno": "s-312"
   },
   {
     "name": "s-312",
@@ -6477,7 +6477,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-chain-lightning.png",
     "xws": "chainlightning",
-    "cardno": "s-312"
+    "assetno": "s-312"
   },
   {
     "name": "cyclonic separation",
@@ -6485,7 +6485,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-cyclonic-separation.png",
     "xws": "cyclonicseparation",
-    "cardno": "s-310"
+    "assetno": "s-310"
   },
   {
     "name": "s-310",
@@ -6493,7 +6493,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-cyclonic-separation.png",
     "xws": "cyclonicseparation",
-    "cardno": "s-310"
+    "assetno": "s-310"
   },
   {
     "name": "electrical stimulation",
@@ -6501,7 +6501,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electrical-stimulation.png",
     "xws": "electricalstimulation",
-    "cardno": "s-316"
+    "assetno": "s-316"
   },
   {
     "name": "s-316",
@@ -6509,7 +6509,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electrical-stimulation.png",
     "xws": "electricalstimulation",
-    "cardno": "s-316"
+    "assetno": "s-316"
   },
   {
     "name": "electric displacement",
@@ -6517,7 +6517,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electric-displacement.png",
     "xws": "electricdisplacement",
-    "cardno": "s-307"
+    "assetno": "s-307"
   },
   {
     "name": "s-307",
@@ -6525,7 +6525,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electric-displacement.png",
     "xws": "electricdisplacement",
-    "cardno": "s-307"
+    "assetno": "s-307"
   },
   {
     "name": "electric flow",
@@ -6533,7 +6533,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electric-flow.png",
     "xws": "electricflow",
-    "cardno": "s-311"
+    "assetno": "s-311"
   },
   {
     "name": "s-311",
@@ -6541,7 +6541,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electric-flow.png",
     "xws": "electricflow",
-    "cardno": "s-311"
+    "assetno": "s-311"
   },
   {
     "name": "electro dynamism",
@@ -6549,7 +6549,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electro-dynamism.png",
     "xws": "electrodynamism",
-    "cardno": "s-315"
+    "assetno": "s-315"
   },
   {
     "name": "s-315",
@@ -6557,7 +6557,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-electro-dynamism.png",
     "xws": "electrodynamism",
-    "cardno": "s-315"
+    "assetno": "s-315"
   },
   {
     "name": "funneling winds",
@@ -6565,7 +6565,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-funneling-winds.png",
     "xws": "funnelingwinds",
-    "cardno": "s-303"
+    "assetno": "s-303"
   },
   {
     "name": "s-303",
@@ -6573,7 +6573,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-funneling-winds.png",
     "xws": "funnelingwinds",
-    "cardno": "s-303"
+    "assetno": "s-303"
   },
   {
     "name": "least resistance",
@@ -6581,7 +6581,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-least-resistance.png",
     "xws": "leastresistance",
-    "cardno": "s-309"
+    "assetno": "s-309"
   },
   {
     "name": "s-309",
@@ -6589,7 +6589,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-least-resistance.png",
     "xws": "leastresistance",
-    "cardno": "s-309"
+    "assetno": "s-309"
   },
   {
     "name": "sky splitter",
@@ -6597,7 +6597,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-sky-splitter.png",
     "xws": "skysplitter",
-    "cardno": "s-306"
+    "assetno": "s-306"
   },
   {
     "name": "s-306",
@@ -6605,7 +6605,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-sky-splitter.png",
     "xws": "skysplitter",
-    "cardno": "s-306"
+    "assetno": "s-306"
   },
   {
     "name": "sonic boom",
@@ -6613,7 +6613,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-sonic-boom.png",
     "xws": "sonicboom",
-    "cardno": "s-314"
+    "assetno": "s-314"
   },
   {
     "name": "s-314",
@@ -6621,7 +6621,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-sonic-boom.png",
     "xws": "sonicboom",
-    "cardno": "s-314"
+    "assetno": "s-314"
   },
   {
     "name": "static charge",
@@ -6629,7 +6629,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-static-charge.png",
     "xws": "staticcharge",
-    "cardno": "s-305"
+    "assetno": "s-305"
   },
   {
     "name": "s-305",
@@ -6637,7 +6637,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-static-charge.png",
     "xws": "staticcharge",
-    "cardno": "s-305"
+    "assetno": "s-305"
   },
   {
     "name": "unstable conduit",
@@ -6645,7 +6645,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-unstable-conduit.png",
     "xws": "unstableconduit",
-    "cardno": "s-308"
+    "assetno": "s-308"
   },
   {
     "name": "s-308",
@@ -6653,7 +6653,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-unstable-conduit.png",
     "xws": "unstableconduit",
-    "cardno": "s-308"
+    "assetno": "s-308"
   },
   {
     "name": "weather diversion",
@@ -6661,7 +6661,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-weather-diversion.png",
     "xws": "weatherdiversion",
-    "cardno": "s-313"
+    "assetno": "s-313"
   },
   {
     "name": "s-313",
@@ -6669,7 +6669,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-weather-diversion.png",
     "xws": "weatherdiversion",
-    "cardno": "s-313"
+    "assetno": "s-313"
   },
   {
     "name": "wind tunnel",
@@ -6677,7 +6677,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-wind-tunnel.png",
     "xws": "windtunnel",
-    "cardno": "s-304"
+    "assetno": "s-304"
   },
   {
     "name": "s-304",
@@ -6685,7 +6685,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/tempest/rv-wind-tunnel.png",
     "xws": "windtunnel",
-    "cardno": "s-304"
+    "assetno": "s-304"
   },
   {
     "name": "accumulated frost",
@@ -6693,7 +6693,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-accumulated-frost.png",
     "xws": "accumulatedfrost",
-    "cardno": "s-339"
+    "assetno": "s-339"
   },
   {
     "name": "s-339",
@@ -6701,7 +6701,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-accumulated-frost.png",
     "xws": "accumulatedfrost",
-    "cardno": "s-339"
+    "assetno": "s-339"
   },
   {
     "name": "apex hunter",
@@ -6709,7 +6709,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-apex-hunter.png",
     "xws": "apexhunter",
-    "cardno": "s-334"
+    "assetno": "s-334"
   },
   {
     "name": "s-334",
@@ -6717,7 +6717,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-apex-hunter.png",
     "xws": "apexhunter",
-    "cardno": "s-334"
+    "assetno": "s-334"
   },
   {
     "name": "avalanche bolt",
@@ -6725,7 +6725,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-avalanche-bolt.png",
     "xws": "avalanchebolt",
-    "cardno": "s-342"
+    "assetno": "s-342"
   },
   {
     "name": "s-342",
@@ -6733,7 +6733,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-avalanche-bolt.png",
     "xws": "avalanchebolt",
-    "cardno": "s-342"
+    "assetno": "s-342"
   },
   {
     "name": "battle chant",
@@ -6741,7 +6741,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-battle-chant.png",
     "xws": "battlechant",
-    "cardno": "s-336"
+    "assetno": "s-336"
   },
   {
     "name": "s-336",
@@ -6749,7 +6749,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-battle-chant.png",
     "xws": "battlechant",
-    "cardno": "s-336"
+    "assetno": "s-336"
   },
   {
     "name": "cloud song",
@@ -6757,7 +6757,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-cloud-song.png",
     "xws": "cloudsong",
-    "cardno": "s-343"
+    "assetno": "s-343"
   },
   {
     "name": "s-343",
@@ -6765,7 +6765,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-cloud-song.png",
     "xws": "cloudsong",
-    "cardno": "s-343"
+    "assetno": "s-343"
   },
   {
     "name": "enveloping flurry",
@@ -6773,7 +6773,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-enveloping-flurry.png",
     "xws": "envelopingflurry",
-    "cardno": "s-341"
+    "assetno": "s-341"
   },
   {
     "name": "s-341",
@@ -6781,7 +6781,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-enveloping-flurry.png",
     "xws": "envelopingflurry",
-    "cardno": "s-341"
+    "assetno": "s-341"
   },
   {
     "name": "ground blizzard",
@@ -6789,7 +6789,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-ground-blizzard.png",
     "xws": "groundblizzard",
-    "cardno": "s-333"
+    "assetno": "s-333"
   },
   {
     "name": "s-333",
@@ -6797,7 +6797,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-ground-blizzard.png",
     "xws": "groundblizzard",
-    "cardno": "s-333"
+    "assetno": "s-333"
   },
   {
     "name": "hundred paces",
@@ -6805,7 +6805,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-hundred-paces.png",
     "xws": "hundredpaces",
-    "cardno": "s-331"
+    "assetno": "s-331"
   },
   {
     "name": "s-331",
@@ -6813,7 +6813,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-hundred-paces.png",
     "xws": "hundredpaces",
-    "cardno": "s-331"
+    "assetno": "s-331"
   },
   {
     "name": "nightfall arrow",
@@ -6821,7 +6821,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-nightfall-arrow.png",
     "xws": "nightfallarrow",
-    "cardno": "s-335"
+    "assetno": "s-335"
   },
   {
     "name": "s-335",
@@ -6829,7 +6829,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-nightfall-arrow.png",
     "xws": "nightfallarrow",
-    "cardno": "s-335"
+    "assetno": "s-335"
   },
   {
     "name": "peak form",
@@ -6837,7 +6837,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-peak-form.png",
     "xws": "peakform",
-    "cardno": "s-340"
+    "assetno": "s-340"
   },
   {
     "name": "s-340",
@@ -6845,7 +6845,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-peak-form.png",
     "xws": "peakform",
-    "cardno": "s-340"
+    "assetno": "s-340"
   },
   {
     "name": "quickshot draw",
@@ -6853,7 +6853,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-quickshot-draw.png",
     "xws": "quickshotdraw",
-    "cardno": "s-337"
+    "assetno": "s-337"
   },
   {
     "name": "s-337",
@@ -6861,7 +6861,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-quickshot-draw.png",
     "xws": "quickshotdraw",
-    "cardno": "s-337"
+    "assetno": "s-337"
   },
   {
     "name": "relentless hailstorm",
@@ -6869,7 +6869,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-relentless-hailstorm.png",
     "xws": "relentlesshailstorm",
-    "cardno": "s-332"
+    "assetno": "s-332"
   },
   {
     "name": "s-332",
@@ -6877,7 +6877,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-relentless-hailstorm.png",
     "xws": "relentlesshailstorm",
-    "cardno": "s-332"
+    "assetno": "s-332"
   },
   {
     "name": "shrieking hail",
@@ -6885,7 +6885,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-shrieking-hail.png",
     "xws": "shriekinghail",
-    "cardno": "s-344"
+    "assetno": "s-344"
   },
   {
     "name": "s-344",
@@ -6893,7 +6893,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-shrieking-hail.png",
     "xws": "shriekinghail",
-    "cardno": "s-344"
+    "assetno": "s-344"
   },
   {
     "name": "snapfrozen hide",
@@ -6901,7 +6901,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-snapfrozen-hide.png",
     "xws": "snapfrozenhide",
-    "cardno": "s-338"
+    "assetno": "s-338"
   },
   {
     "name": "s-338",
@@ -6909,7 +6909,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/vesper-sharpshot/rv-snapfrozen-hide.png",
     "xws": "snapfrozenhide",
-    "cardno": "s-338"
+    "assetno": "s-338"
   },
   {
     "name": "ewer of courage",
@@ -6917,7 +6917,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-ewer-of-courage.png",
     "xws": "ewerofcourage",
-    "cardno": "s-288"
+    "assetno": "s-288"
   },
   {
     "name": "s-288",
@@ -6925,7 +6925,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-ewer-of-courage.png",
     "xws": "ewerofcourage",
-    "cardno": "s-288"
+    "assetno": "s-288"
   },
   {
     "name": "ewer of power",
@@ -6933,7 +6933,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-ewer-of-power.png",
     "xws": "ewerofpower",
-    "cardno": "s-287"
+    "assetno": "s-287"
   },
   {
     "name": "s-287",
@@ -6941,7 +6941,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-ewer-of-power.png",
     "xws": "ewerofpower",
-    "cardno": "s-287"
+    "assetno": "s-287"
   },
   {
     "name": "flock together",
@@ -6949,7 +6949,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-flock-together.png",
     "xws": "flocktogether",
-    "cardno": "s-275"
+    "assetno": "s-275"
   },
   {
     "name": "s-275",
@@ -6957,7 +6957,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-flock-together.png",
     "xws": "flocktogether",
-    "cardno": "s-275"
+    "assetno": "s-275"
   },
   {
     "name": "friends of a feather",
@@ -6965,7 +6965,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-friends-of-a-feather.png",
     "xws": "friendsofafeather",
-    "cardno": "s-278"
+    "assetno": "s-278"
   },
   {
     "name": "s-278",
@@ -6973,7 +6973,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-friends-of-a-feather.png",
     "xws": "friendsofafeather",
-    "cardno": "s-278"
+    "assetno": "s-278"
   },
   {
     "name": "frost line",
@@ -6981,7 +6981,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-frost-line.png",
     "xws": "frostline",
-    "cardno": "s-277"
+    "assetno": "s-277"
   },
   {
     "name": "s-277",
@@ -6989,7 +6989,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-frost-line.png",
     "xws": "frostline",
-    "cardno": "s-277"
+    "assetno": "s-277"
   },
   {
     "name": "fruits of the earth",
@@ -6997,7 +6997,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-fruits-of-the-earth.png",
     "xws": "fruitsoftheearth",
-    "cardno": "s-282"
+    "assetno": "s-282"
   },
   {
     "name": "s-282",
@@ -7005,7 +7005,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-fruits-of-the-earth.png",
     "xws": "fruitsoftheearth",
-    "cardno": "s-282"
+    "assetno": "s-282"
   },
   {
     "name": "miracles of the sky",
@@ -7013,7 +7013,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-miracles-of-the-sky.png",
     "xws": "miraclesofthesky",
-    "cardno": "s-281"
+    "assetno": "s-281"
   },
   {
     "name": "s-281",
@@ -7021,7 +7021,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-miracles-of-the-sky.png",
     "xws": "miraclesofthesky",
-    "cardno": "s-281"
+    "assetno": "s-281"
   },
   {
     "name": "radiant ardorok",
@@ -7029,7 +7029,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-radiant-ardorok-back.png",
     "xws": "radiantardorok",
-    "cardno": "a-018"
+    "assetno": "a-018"
   },
   {
     "name": "a-018",
@@ -7037,7 +7037,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-radiant-ardorok-back.png",
     "xws": "radiantardorok",
-    "cardno": "a-018"
+    "assetno": "a-018"
   },
   {
     "name": "radiant ardorok",
@@ -7045,7 +7045,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-radiant-ardorok-front.png",
     "xws": "radiantardorok",
-    "cardno": "a-018"
+    "assetno": "a-018"
   },
   {
     "name": "a-018",
@@ -7053,7 +7053,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-radiant-ardorok-front.png",
     "xws": "radiantardorok",
-    "cardno": "a-018"
+    "assetno": "a-018"
   },
   {
     "name": "raging whirlpool",
@@ -7061,7 +7061,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-raging-whirlpool.png",
     "xws": "ragingwhirlpool",
-    "cardno": "s-276"
+    "assetno": "s-276"
   },
   {
     "name": "s-276",
@@ -7069,7 +7069,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-raging-whirlpool.png",
     "xws": "ragingwhirlpool",
-    "cardno": "s-276"
+    "assetno": "s-276"
   },
   {
     "name": "rushing hail",
@@ -7077,7 +7077,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-rushing-hail.png",
     "xws": "rushinghail",
-    "cardno": "s-284"
+    "assetno": "s-284"
   },
   {
     "name": "s-284",
@@ -7085,7 +7085,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-rushing-hail.png",
     "xws": "rushinghail",
-    "cardno": "s-284"
+    "assetno": "s-284"
   },
   {
     "name": "silver storm",
@@ -7093,7 +7093,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-silver-storm.png",
     "xws": "silverstorm",
-    "cardno": "s-286"
+    "assetno": "s-286"
   },
   {
     "name": "s-286",
@@ -7101,7 +7101,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-silver-storm.png",
     "xws": "silverstorm",
-    "cardno": "s-286"
+    "assetno": "s-286"
   },
   {
     "name": "sing along",
@@ -7109,7 +7109,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sing-along.png",
     "xws": "singalong",
-    "cardno": "s-280"
+    "assetno": "s-280"
   },
   {
     "name": "s-280",
@@ -7117,7 +7117,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sing-along.png",
     "xws": "singalong",
-    "cardno": "s-280"
+    "assetno": "s-280"
   },
   {
     "name": "slipstream flurry",
@@ -7125,7 +7125,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-slipstream-flurry.png",
     "xws": "slipstreamflurry",
-    "cardno": "s-285"
+    "assetno": "s-285"
   },
   {
     "name": "s-285",
@@ -7133,7 +7133,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-slipstream-flurry.png",
     "xws": "slipstreamflurry",
-    "cardno": "s-285"
+    "assetno": "s-285"
   },
   {
     "name": "sound off",
@@ -7141,7 +7141,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sound-off.png",
     "xws": "soundoff",
-    "cardno": "s-279"
+    "assetno": "s-279"
   },
   {
     "name": "s-279",
@@ -7149,7 +7149,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sound-off.png",
     "xws": "soundoff",
-    "cardno": "s-279"
+    "assetno": "s-279"
   },
   {
     "name": "sunburst zokolati",
@@ -7157,7 +7157,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sunburst-zokolati-back.png",
     "xws": "sunburstzokolati",
-    "cardno": "a-019"
+    "assetno": "a-019"
   },
   {
     "name": "a-019",
@@ -7165,7 +7165,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sunburst-zokolati-back.png",
     "xws": "sunburstzokolati",
-    "cardno": "a-019"
+    "assetno": "a-019"
   },
   {
     "name": "sunburst zokolati",
@@ -7173,7 +7173,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sunburst-zokolati-front.png",
     "xws": "sunburstzokolati",
-    "cardno": "a-019"
+    "assetno": "a-019"
   },
   {
     "name": "a-019",
@@ -7181,7 +7181,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-sunburst-zokolati-front.png",
     "xws": "sunburstzokolati",
-    "cardno": "a-019"
+    "assetno": "a-019"
   },
   {
     "name": "team huddle",
@@ -7189,7 +7189,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-team-huddle.png",
     "xws": "teamhuddle",
-    "cardno": "s-283"
+    "assetno": "s-283"
   },
   {
     "name": "s-283",
@@ -7197,7 +7197,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/wellspring-ewer/rv-team-huddle.png",
     "xws": "teamhuddle",
-    "cardno": "s-283"
+    "assetno": "s-283"
   },
   {
     "name": "acquire--develop",
@@ -7205,7 +7205,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-acquire-develop.png",
     "xws": "acquiredevelop",
-    "cardno": "s-395"
+    "assetno": "s-395"
   },
   {
     "name": "s-395",
@@ -7213,7 +7213,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-acquire-develop.png",
     "xws": "acquiredevelop",
-    "cardno": "s-395"
+    "assetno": "s-395"
   },
   {
     "name": "adjudication--termination",
@@ -7221,7 +7221,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-adjudication-termination.png",
     "xws": "adjudicationtermination",
-    "cardno": "s-400"
+    "assetno": "s-400"
   },
   {
     "name": "s-400",
@@ -7229,7 +7229,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-adjudication-termination.png",
     "xws": "adjudicationtermination",
-    "cardno": "s-400"
+    "assetno": "s-400"
   },
   {
     "name": "cache--store",
@@ -7237,7 +7237,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-cache-store.png",
     "xws": "cachestore",
-    "cardno": "s-396"
+    "assetno": "s-396"
   },
   {
     "name": "s-396",
@@ -7245,7 +7245,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-cache-store.png",
     "xws": "cachestore",
-    "cardno": "s-396"
+    "assetno": "s-396"
   },
   {
     "name": "catch | release",
@@ -7253,7 +7253,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-catch-release.png",
     "xws": "catchrelease",
-    "cardno": "s-388"
+    "assetno": "s-388"
   },
   {
     "name": "s-388",
@@ -7261,7 +7261,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-catch-release.png",
     "xws": "catchrelease",
-    "cardno": "s-388"
+    "assetno": "s-388"
   },
   {
     "name": "litigate--bankrupt",
@@ -7269,7 +7269,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-litigate-bankrupt.png",
     "xws": "litigatebankrupt",
-    "cardno": "s-398"
+    "assetno": "s-398"
   },
   {
     "name": "s-398",
@@ -7277,7 +7277,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-litigate-bankrupt.png",
     "xws": "litigatebankrupt",
-    "cardno": "s-398"
+    "assetno": "s-398"
   },
   {
     "name": "overwhelm--overpower",
@@ -7285,7 +7285,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-overwhelm-overpower.png",
     "xws": "overwhelmoverpower",
-    "cardno": "s-390"
+    "assetno": "s-390"
   },
   {
     "name": "s-390",
@@ -7293,7 +7293,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-overwhelm-overpower.png",
     "xws": "overwhelmoverpower",
-    "cardno": "s-390"
+    "assetno": "s-390"
   },
   {
     "name": "payoff matrix",
@@ -7301,7 +7301,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-payoff-matrix.png",
     "xws": "payoffmatrix",
-    "cardno": "s-387"
+    "assetno": "s-387"
   },
   {
     "name": "s-387",
@@ -7309,7 +7309,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-payoff-matrix.png",
     "xws": "payoffmatrix",
-    "cardno": "s-387"
+    "assetno": "s-387"
   },
   {
     "name": "rationalize | marginalize",
@@ -7317,7 +7317,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-rationalize-marginalize.png",
     "xws": "rationalizemarginalize",
-    "cardno": "s-397"
+    "assetno": "s-397"
   },
   {
     "name": "s-397",
@@ -7325,7 +7325,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-rationalize-marginalize.png",
     "xws": "rationalizemarginalize",
-    "cardno": "s-397"
+    "assetno": "s-397"
   },
   {
     "name": "salt--scorch",
@@ -7333,7 +7333,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-salt-scorch.png",
     "xws": "saltscorch",
-    "cardno": "s-399"
+    "assetno": "s-399"
   },
   {
     "name": "s-399",
@@ -7341,7 +7341,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-salt-scorch.png",
     "xws": "saltscorch",
-    "cardno": "s-399"
+    "assetno": "s-399"
   },
   {
     "name": "supply chain",
@@ -7349,7 +7349,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-supply-chain.png",
     "xws": "supplychain",
-    "cardno": "s-389"
+    "assetno": "s-389"
   },
   {
     "name": "s-389",
@@ -7357,7 +7357,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-supply-chain.png",
     "xws": "supplychain",
-    "cardno": "s-389"
+    "assetno": "s-389"
   },
   {
     "name": "they bring famine",
@@ -7365,7 +7365,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-famine.png",
     "xws": "theybringfamine",
-    "cardno": "s-393"
+    "assetno": "s-393"
   },
   {
     "name": "s-393",
@@ -7373,7 +7373,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-famine.png",
     "xws": "theybringfamine",
-    "cardno": "s-393"
+    "assetno": "s-393"
   },
   {
     "name": "they bring flame",
@@ -7381,7 +7381,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-flame.png",
     "xws": "theybringflame",
-    "cardno": "s-394"
+    "assetno": "s-394"
   },
   {
     "name": "s-394",
@@ -7389,7 +7389,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-flame.png",
     "xws": "theybringflame",
-    "cardno": "s-394"
+    "assetno": "s-394"
   },
   {
     "name": "they bring strife",
@@ -7397,7 +7397,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-strife.png",
     "xws": "theybringstrife",
-    "cardno": "s-392"
+    "assetno": "s-392"
   },
   {
     "name": "s-392",
@@ -7405,7 +7405,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-strife.png",
     "xws": "theybringstrife",
-    "cardno": "s-392"
+    "assetno": "s-392"
   },
   {
     "name": "they bring succor",
@@ -7413,7 +7413,7 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-succor.png",
     "xws": "theybringsuccor",
-    "cardno": "s-391"
+    "assetno": "s-391"
   },
   {
     "name": "s-391",
@@ -7421,6 +7421,6 @@
     "expansion": "xulc",
     "image": "classes/rove/xulc/apex/zero-sum/rv-they-bring-succor.png",
     "xws": "theybringsuccor",
-    "cardno": "s-391"
+    "assetno": "s-391"
   }
 ]
