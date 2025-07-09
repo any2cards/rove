@@ -1272,7 +1272,7 @@
     "cardno": "i-221"
   },
   {
-    "name": "i-221",
+    "name": "glyph-autonomos: vertex",
     "points": 159,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-back.png",
@@ -1280,8 +1280,16 @@
     "cardno": "i-221"
   },
   {
-    "name": "merchant level 2 consumables back",
+    "name": "i-221",
     "points": 160,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-back.png",
+    "xws": "glyphautonomos:vertex",
+    "cardno": "i-221"
+  },
+  {
+    "name": "merchant level 2 consumables back",
+    "points": 161,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-merchant-level-2-consumables-back.png",
     "xws": "merchantlevel2consumablesback",
@@ -1289,14 +1297,6 @@
   },
   {
     "name": "multifaceted icon",
-    "points": 161,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-consumables/rv-multifaceted-icon-1.png",
-    "xws": "multifacetedicon",
-    "cardno": "i-213"
-  },
-  {
-    "name": "i-213",
     "points": 162,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-multifaceted-icon-1.png",
@@ -1304,8 +1304,16 @@
     "cardno": "i-213"
   },
   {
-    "name": "i-214",
+    "name": "i-213",
     "points": 163,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-consumables/rv-multifaceted-icon-1.png",
+    "xws": "multifacetedicon",
+    "cardno": "i-213"
+  },
+  {
+    "name": "i-214",
+    "points": 164,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-multifaceted-icon-2.png",
     "xws": "multifacetedicon",
@@ -1313,7 +1321,7 @@
   },
   {
     "name": "i-215",
-    "points": 164,
+    "points": 165,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-multifaceted-icon-3.png",
     "xws": "multifacetedicon",
@@ -1321,7 +1329,7 @@
   },
   {
     "name": "i-216",
-    "points": 165,
+    "points": 166,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-multifaceted-icon-4.png",
     "xws": "multifacetedicon",
@@ -1329,14 +1337,6 @@
   },
   {
     "name": "scour ichor",
-    "points": 166,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-consumables/rv-scour-ichor-1.png",
-    "xws": "scourichor",
-    "cardno": "i-217"
-  },
-  {
-    "name": "i-217",
     "points": 167,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-scour-ichor-1.png",
@@ -1344,8 +1344,16 @@
     "cardno": "i-217"
   },
   {
-    "name": "i-218",
+    "name": "i-217",
     "points": 168,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-consumables/rv-scour-ichor-1.png",
+    "xws": "scourichor",
+    "cardno": "i-217"
+  },
+  {
+    "name": "i-218",
+    "points": 169,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-scour-ichor-2.png",
     "xws": "scourichor",
@@ -1353,7 +1361,7 @@
   },
   {
     "name": "i-219",
-    "points": 169,
+    "points": 170,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-scour-ichor-3.png",
     "xws": "scourichor",
@@ -1361,7 +1369,7 @@
   },
   {
     "name": "i-220",
-    "points": 170,
+    "points": 171,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-scour-ichor-4.png",
     "xws": "scourichor",
@@ -1369,14 +1377,6 @@
   },
   {
     "name": "slingspear",
-    "points": 171,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-consumables/rv-slingspear-1.png",
-    "xws": "slingspear",
-    "cardno": "i-205"
-  },
-  {
-    "name": "i-205",
     "points": 172,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-slingspear-1.png",
@@ -1384,8 +1384,16 @@
     "cardno": "i-205"
   },
   {
-    "name": "i-206",
+    "name": "i-205",
     "points": 173,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-consumables/rv-slingspear-1.png",
+    "xws": "slingspear",
+    "cardno": "i-205"
+  },
+  {
+    "name": "i-206",
+    "points": 174,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-slingspear-2.png",
     "xws": "slingspear",
@@ -1393,7 +1401,7 @@
   },
   {
     "name": "i-207",
-    "points": 174,
+    "points": 175,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-slingspear-3.png",
     "xws": "slingspear",
@@ -1401,7 +1409,7 @@
   },
   {
     "name": "i-208",
-    "points": 175,
+    "points": 176,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-slingspear-4.png",
     "xws": "slingspear",
@@ -1409,14 +1417,6 @@
   },
   {
     "name": "vigor salve",
-    "points": 176,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-consumables/rv-vigor-salve-1.png",
-    "xws": "vigorsalve",
-    "cardno": "i-209"
-  },
-  {
-    "name": "i-209",
     "points": 177,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-vigor-salve-1.png",
@@ -1424,8 +1424,16 @@
     "cardno": "i-209"
   },
   {
-    "name": "i-210",
+    "name": "i-209",
     "points": 178,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-consumables/rv-vigor-salve-1.png",
+    "xws": "vigorsalve",
+    "cardno": "i-209"
+  },
+  {
+    "name": "i-210",
+    "points": 179,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-vigor-salve-2.png",
     "xws": "vigorsalve",
@@ -1433,7 +1441,7 @@
   },
   {
     "name": "i-211",
-    "points": 179,
+    "points": 180,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-vigor-salve-3.png",
     "xws": "vigorsalve",
@@ -1441,7 +1449,7 @@
   },
   {
     "name": "i-212",
-    "points": 180,
+    "points": 181,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-vigor-salve-4.png",
     "xws": "vigorsalve",
@@ -1449,14 +1457,6 @@
   },
   {
     "name": "chitin tallshield",
-    "points": 181,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-chitin-tallshield-1.png",
-    "xws": "chitintallshield",
-    "cardno": "i-051"
-  },
-  {
-    "name": "i-051",
     "points": 182,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-chitin-tallshield-1.png",
@@ -1464,8 +1464,16 @@
     "cardno": "i-051"
   },
   {
-    "name": "i-052",
+    "name": "i-051",
     "points": 183,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-chitin-tallshield-1.png",
+    "xws": "chitintallshield",
+    "cardno": "i-051"
+  },
+  {
+    "name": "i-052",
+    "points": 184,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-chitin-tallshield-2.png",
     "xws": "chitintallshield",
@@ -1473,7 +1481,7 @@
   },
   {
     "name": "merchant level 2 weapons back",
-    "points": 184,
+    "points": 185,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-merchant-level-2-weapons-back.png",
     "xws": "merchantlevel2weaponsback",
@@ -1481,14 +1489,6 @@
   },
   {
     "name": "ringblade",
-    "points": 185,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-ringblade-1.png",
-    "xws": "ringblade",
-    "cardno": "i-039"
-  },
-  {
-    "name": "i-039",
     "points": 186,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-ringblade-1.png",
@@ -1496,8 +1496,16 @@
     "cardno": "i-039"
   },
   {
-    "name": "i-040",
+    "name": "i-039",
     "points": 187,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-ringblade-1.png",
+    "xws": "ringblade",
+    "cardno": "i-039"
+  },
+  {
+    "name": "i-040",
+    "points": 188,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-ringblade-2.png",
     "xws": "ringblade",
@@ -1505,14 +1513,6 @@
   },
   {
     "name": "rivespear",
-    "points": 188,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-rivespear-1.png",
-    "xws": "rivespear",
-    "cardno": "i-041"
-  },
-  {
-    "name": "i-041",
     "points": 189,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-rivespear-1.png",
@@ -1520,8 +1520,16 @@
     "cardno": "i-041"
   },
   {
-    "name": "i-042",
+    "name": "i-041",
     "points": 190,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-rivespear-1.png",
+    "xws": "rivespear",
+    "cardno": "i-041"
+  },
+  {
+    "name": "i-042",
+    "points": 191,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-rivespear-2.png",
     "xws": "rivespear",
@@ -1529,14 +1537,6 @@
   },
   {
     "name": "rod of seasons",
-    "points": 191,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-rod-of-seasons-1.png",
-    "xws": "rodofseasons",
-    "cardno": "i-049"
-  },
-  {
-    "name": "i-049",
     "points": 192,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-rod-of-seasons-1.png",
@@ -1544,8 +1544,16 @@
     "cardno": "i-049"
   },
   {
-    "name": "i-050",
+    "name": "i-049",
     "points": 193,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-rod-of-seasons-1.png",
+    "xws": "rodofseasons",
+    "cardno": "i-049"
+  },
+  {
+    "name": "i-050",
+    "points": 194,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-rod-of-seasons-2.png",
     "xws": "rodofseasons",
@@ -1553,14 +1561,6 @@
   },
   {
     "name": "rough cleaver",
-    "points": 194,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-rough-cleaver-1.png",
-    "xws": "roughcleaver",
-    "cardno": "i-043"
-  },
-  {
-    "name": "i-043",
     "points": 195,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-rough-cleaver-1.png",
@@ -1568,8 +1568,16 @@
     "cardno": "i-043"
   },
   {
-    "name": "i-044",
+    "name": "i-043",
     "points": 196,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-rough-cleaver-1.png",
+    "xws": "roughcleaver",
+    "cardno": "i-043"
+  },
+  {
+    "name": "i-044",
+    "points": 197,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-rough-cleaver-2.png",
     "xws": "roughcleaver",
@@ -1577,14 +1585,6 @@
   },
   {
     "name": "scroll of duality",
-    "points": 197,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-scroll-of-duality-1.png",
-    "xws": "scrollofduality",
-    "cardno": "i-047"
-  },
-  {
-    "name": "i-047",
     "points": 198,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-scroll-of-duality-1.png",
@@ -1592,8 +1592,16 @@
     "cardno": "i-047"
   },
   {
-    "name": "i-048",
+    "name": "i-047",
     "points": 199,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-scroll-of-duality-1.png",
+    "xws": "scrollofduality",
+    "cardno": "i-047"
+  },
+  {
+    "name": "i-048",
+    "points": 200,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-scroll-of-duality-2.png",
     "xws": "scrollofduality",
@@ -1601,14 +1609,6 @@
   },
   {
     "name": "spikeshot",
-    "points": 200,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-2-weapons/rv-spikeshot-1.png",
-    "xws": "spikeshot",
-    "cardno": "i-045"
-  },
-  {
-    "name": "i-045",
     "points": 201,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-spikeshot-1.png",
@@ -1616,8 +1616,16 @@
     "cardno": "i-045"
   },
   {
-    "name": "i-046",
+    "name": "i-045",
     "points": 202,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-2-weapons/rv-spikeshot-1.png",
+    "xws": "spikeshot",
+    "cardno": "i-045"
+  },
+  {
+    "name": "i-046",
+    "points": 203,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-weapons/rv-spikeshot-2.png",
     "xws": "spikeshot",
@@ -1625,14 +1633,6 @@
   },
   {
     "name": "adamant warders",
-    "points": 203,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-armor/rv-adamant-warders-1.png",
-    "xws": "adamantwarders",
-    "cardno": "i-125"
-  },
-  {
-    "name": "i-125",
     "points": 204,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-adamant-warders-1.png",
@@ -1640,8 +1640,16 @@
     "cardno": "i-125"
   },
   {
-    "name": "i-126",
+    "name": "i-125",
     "points": 205,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-armor/rv-adamant-warders-1.png",
+    "xws": "adamantwarders",
+    "cardno": "i-125"
+  },
+  {
+    "name": "i-126",
+    "points": 206,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-adamant-warders-2.png",
     "xws": "adamantwarders",
@@ -1649,14 +1657,6 @@
   },
   {
     "name": "elemental ward",
-    "points": 206,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-armor/rv-elemental-ward-1.png",
-    "xws": "elementalward",
-    "cardno": "i-121"
-  },
-  {
-    "name": "i-121",
     "points": 207,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-elemental-ward-1.png",
@@ -1664,8 +1664,16 @@
     "cardno": "i-121"
   },
   {
-    "name": "i-122",
+    "name": "i-121",
     "points": 208,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-armor/rv-elemental-ward-1.png",
+    "xws": "elementalward",
+    "cardno": "i-121"
+  },
+  {
+    "name": "i-122",
+    "points": 209,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-elemental-ward-2.png",
     "xws": "elementalward",
@@ -1673,7 +1681,7 @@
   },
   {
     "name": "merchant level 3 armor back",
-    "points": 209,
+    "points": 210,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-merchant-level-3-armor-back.png",
     "xws": "merchantlevel3armorback",
@@ -1681,14 +1689,6 @@
   },
   {
     "name": "plated aketon",
-    "points": 210,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-armor/rv-plated-aketon-1.png",
-    "xws": "platedaketon",
-    "cardno": "i-123"
-  },
-  {
-    "name": "i-123",
     "points": 211,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-plated-aketon-1.png",
@@ -1696,8 +1696,16 @@
     "cardno": "i-123"
   },
   {
-    "name": "i-124",
+    "name": "i-123",
     "points": 212,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-armor/rv-plated-aketon-1.png",
+    "xws": "platedaketon",
+    "cardno": "i-123"
+  },
+  {
+    "name": "i-124",
+    "points": 213,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-armor/rv-plated-aketon-2.png",
     "xws": "platedaketon",
@@ -1705,14 +1713,6 @@
   },
   {
     "name": "aviating coalyst",
-    "points": 213,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-consumables/rv-aviating-coalyst-1.png",
-    "xws": "aviatingcoalyst",
-    "cardno": "i-230"
-  },
-  {
-    "name": "i-230",
     "points": 214,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-aviating-coalyst-1.png",
@@ -1720,8 +1720,16 @@
     "cardno": "i-230"
   },
   {
-    "name": "i-231",
+    "name": "i-230",
     "points": 215,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-consumables/rv-aviating-coalyst-1.png",
+    "xws": "aviatingcoalyst",
+    "cardno": "i-230"
+  },
+  {
+    "name": "i-231",
+    "points": 216,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-aviating-coalyst-2.png",
     "xws": "aviatingcoalyst",
@@ -1729,7 +1737,7 @@
   },
   {
     "name": "i-232",
-    "points": 216,
+    "points": 217,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-aviating-coalyst-3.png",
     "xws": "aviatingcoalyst",
@@ -1737,7 +1745,7 @@
   },
   {
     "name": "i-233",
-    "points": 217,
+    "points": 218,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-aviating-coalyst-4.png",
     "xws": "aviatingcoalyst",
@@ -1745,14 +1753,6 @@
   },
   {
     "name": "encrusting coalyst",
-    "points": 218,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-consumables/rv-encrusting-coalyst-1.png",
-    "xws": "encrustingcoalyst",
-    "cardno": "i-238"
-  },
-  {
-    "name": "i-238",
     "points": 219,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-encrusting-coalyst-1.png",
@@ -1760,8 +1760,16 @@
     "cardno": "i-238"
   },
   {
-    "name": "i-239",
+    "name": "i-238",
     "points": 220,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-consumables/rv-encrusting-coalyst-1.png",
+    "xws": "encrustingcoalyst",
+    "cardno": "i-238"
+  },
+  {
+    "name": "i-239",
+    "points": 221,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-encrusting-coalyst-2.png",
     "xws": "encrustingcoalyst",
@@ -1769,7 +1777,7 @@
   },
   {
     "name": "i-240",
-    "points": 221,
+    "points": 222,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-encrusting-coalyst-3.png",
     "xws": "encrustingcoalyst",
@@ -1777,7 +1785,7 @@
   },
   {
     "name": "i-241",
-    "points": 222,
+    "points": 223,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-encrusting-coalyst-4.png",
     "xws": "encrustingcoalyst",
@@ -1785,14 +1793,6 @@
   },
   {
     "name": "flaming coalyst",
-    "points": 223,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-consumables/rv-flaming-coalyst-1.png",
-    "xws": "flamingcoalyst",
-    "cardno": "i-234"
-  },
-  {
-    "name": "i-234",
     "points": 224,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-flaming-coalyst-1.png",
@@ -1800,8 +1800,16 @@
     "cardno": "i-234"
   },
   {
-    "name": "i-235",
+    "name": "i-234",
     "points": 225,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-consumables/rv-flaming-coalyst-1.png",
+    "xws": "flamingcoalyst",
+    "cardno": "i-234"
+  },
+  {
+    "name": "i-235",
+    "points": 226,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-flaming-coalyst-2.png",
     "xws": "flamingcoalyst",
@@ -1809,7 +1817,7 @@
   },
   {
     "name": "i-236",
-    "points": 226,
+    "points": 227,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-flaming-coalyst-3.png",
     "xws": "flamingcoalyst",
@@ -1817,7 +1825,7 @@
   },
   {
     "name": "i-237",
-    "points": 227,
+    "points": 228,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-flaming-coalyst-4.png",
     "xws": "flamingcoalyst",
@@ -1825,7 +1833,7 @@
   },
   {
     "name": "merchant level 3 consumables back",
-    "points": 228,
+    "points": 229,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-merchant-level-3-consumables-back.png",
     "xws": "merchantlevel3consumablesback",
@@ -1833,14 +1841,6 @@
   },
   {
     "name": "pyknodrakaen potion",
-    "points": 229,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-consumables/rv-pyknodrakaen-potion-1.png",
-    "xws": "pyknodrakaenpotion",
-    "cardno": "i-226"
-  },
-  {
-    "name": "i-226",
     "points": 230,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-pyknodrakaen-potion-1.png",
@@ -1848,8 +1848,16 @@
     "cardno": "i-226"
   },
   {
-    "name": "i-227",
+    "name": "i-226",
     "points": 231,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-consumables/rv-pyknodrakaen-potion-1.png",
+    "xws": "pyknodrakaenpotion",
+    "cardno": "i-226"
+  },
+  {
+    "name": "i-227",
+    "points": 232,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-pyknodrakaen-potion-2.png",
     "xws": "pyknodrakaenpotion",
@@ -1857,7 +1865,7 @@
   },
   {
     "name": "i-228",
-    "points": 232,
+    "points": 233,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-pyknodrakaen-potion-3.png",
     "xws": "pyknodrakaenpotion",
@@ -1865,7 +1873,7 @@
   },
   {
     "name": "i-229",
-    "points": 233,
+    "points": 234,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-pyknodrakaen-potion-4.png",
     "xws": "pyknodrakaenpotion",
@@ -1873,14 +1881,6 @@
   },
   {
     "name": "weltering coalyst",
-    "points": 234,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-consumables/rv-weltering-coalyst-1.png",
-    "xws": "welteringcoalyst",
-    "cardno": "i-242"
-  },
-  {
-    "name": "i-242",
     "points": 235,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-weltering-coalyst-1.png",
@@ -1888,8 +1888,16 @@
     "cardno": "i-242"
   },
   {
-    "name": "i-243",
+    "name": "i-242",
     "points": 236,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-consumables/rv-weltering-coalyst-1.png",
+    "xws": "welteringcoalyst",
+    "cardno": "i-242"
+  },
+  {
+    "name": "i-243",
+    "points": 237,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-weltering-coalyst-2.png",
     "xws": "welteringcoalyst",
@@ -1897,7 +1905,7 @@
   },
   {
     "name": "i-244",
-    "points": 237,
+    "points": 238,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-weltering-coalyst-3.png",
     "xws": "welteringcoalyst",
@@ -1905,7 +1913,7 @@
   },
   {
     "name": "i-245",
-    "points": 238,
+    "points": 239,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-weltering-coalyst-4.png",
     "xws": "welteringcoalyst",
@@ -1913,14 +1921,6 @@
   },
   {
     "name": "zusag high keystone",
-    "points": 239,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-consumables/rv-zusag-high-keystone-1.png",
-    "xws": "zusaghighkeystone",
-    "cardno": "i-222"
-  },
-  {
-    "name": "i-222",
     "points": 240,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-zusag-high-keystone-1.png",
@@ -1928,8 +1928,16 @@
     "cardno": "i-222"
   },
   {
-    "name": "i-223",
+    "name": "i-222",
     "points": 241,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-consumables/rv-zusag-high-keystone-1.png",
+    "xws": "zusaghighkeystone",
+    "cardno": "i-222"
+  },
+  {
+    "name": "i-223",
+    "points": 242,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-zusag-high-keystone-2.png",
     "xws": "zusaghighkeystone",
@@ -1937,7 +1945,7 @@
   },
   {
     "name": "i-224",
-    "points": 242,
+    "points": 243,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-zusag-high-keystone-3.png",
     "xws": "zusaghighkeystone",
@@ -1945,7 +1953,7 @@
   },
   {
     "name": "i-225",
-    "points": 243,
+    "points": 244,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-consumables/rv-zusag-high-keystone-4.png",
     "xws": "zusaghighkeystone",
@@ -1953,14 +1961,6 @@
   },
   {
     "name": "chitin carapace bulwark",
-    "points": 244,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-chitin-carapace-bulwark-1.png",
-    "xws": "chitincarapacebulwark",
-    "cardno": "i-065"
-  },
-  {
-    "name": "i-065",
     "points": 245,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-chitin-carapace-bulwark-1.png",
@@ -1968,8 +1968,16 @@
     "cardno": "i-065"
   },
   {
-    "name": "i-066",
+    "name": "i-065",
     "points": 246,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-chitin-carapace-bulwark-1.png",
+    "xws": "chitincarapacebulwark",
+    "cardno": "i-065"
+  },
+  {
+    "name": "i-066",
+    "points": 247,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-chitin-carapace-bulwark-2.png",
     "xws": "chitincarapacebulwark",
@@ -1977,14 +1985,6 @@
   },
   {
     "name": "far caster",
-    "points": 247,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-far-caster-1.png",
-    "xws": "farcaster",
-    "cardno": "i-059"
-  },
-  {
-    "name": "i-059",
     "points": 248,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-far-caster-1.png",
@@ -1992,8 +1992,16 @@
     "cardno": "i-059"
   },
   {
-    "name": "i-060",
+    "name": "i-059",
     "points": 249,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-far-caster-1.png",
+    "xws": "farcaster",
+    "cardno": "i-059"
+  },
+  {
+    "name": "i-060",
+    "points": 250,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-far-caster-2.png",
     "xws": "farcaster",
@@ -2001,7 +2009,7 @@
   },
   {
     "name": "merchant level 3 weapons back",
-    "points": 250,
+    "points": 251,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-merchant-level-3-weapons-back.png",
     "xws": "merchantlevel3weaponsback",
@@ -2009,14 +2017,6 @@
   },
   {
     "name": "penitence memento",
-    "points": 251,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-penitence-memento-1.png",
-    "xws": "penitencememento",
-    "cardno": "i-061"
-  },
-  {
-    "name": "i-061",
     "points": 252,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-penitence-memento-1.png",
@@ -2024,8 +2024,16 @@
     "cardno": "i-061"
   },
   {
-    "name": "i-062",
+    "name": "i-061",
     "points": 253,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-penitence-memento-1.png",
+    "xws": "penitencememento",
+    "cardno": "i-061"
+  },
+  {
+    "name": "i-062",
+    "points": 254,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-penitence-memento-2.png",
     "xws": "penitencememento",
@@ -2033,14 +2041,6 @@
   },
   {
     "name": "rod of dissonance scepter",
-    "points": 254,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-rod-of-dissonance-scepter-1.png",
-    "xws": "rodofdissonancescepter",
-    "cardno": "i-063"
-  },
-  {
-    "name": "i-063",
     "points": 255,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-rod-of-dissonance-scepter-1.png",
@@ -2048,8 +2048,16 @@
     "cardno": "i-063"
   },
   {
-    "name": "i-064",
+    "name": "i-063",
     "points": 256,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-rod-of-dissonance-scepter-1.png",
+    "xws": "rodofdissonancescepter",
+    "cardno": "i-063"
+  },
+  {
+    "name": "i-064",
+    "points": 257,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-rod-of-dissonance-scepter-2.png",
     "xws": "rodofdissonancescepter",
@@ -2057,14 +2065,6 @@
   },
   {
     "name": "serrated requital",
-    "points": 257,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-serrated-requital-1.png",
-    "xws": "serratedrequital",
-    "cardno": "i-053"
-  },
-  {
-    "name": "i-053",
     "points": 258,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-serrated-requital-1.png",
@@ -2072,8 +2072,16 @@
     "cardno": "i-053"
   },
   {
-    "name": "i-054",
+    "name": "i-053",
     "points": 259,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-serrated-requital-1.png",
+    "xws": "serratedrequital",
+    "cardno": "i-053"
+  },
+  {
+    "name": "i-054",
+    "points": 260,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-serrated-requital-2.png",
     "xws": "serratedrequital",
@@ -2081,14 +2089,6 @@
   },
   {
     "name": "side winder",
-    "points": 260,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-side-winder-1.png",
-    "xws": "sidewinder",
-    "cardno": "i-057"
-  },
-  {
-    "name": "i-057",
     "points": 261,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-side-winder-1.png",
@@ -2096,8 +2096,16 @@
     "cardno": "i-057"
   },
   {
-    "name": "i-058",
+    "name": "i-057",
     "points": 262,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-side-winder-1.png",
+    "xws": "sidewinder",
+    "cardno": "i-057"
+  },
+  {
+    "name": "i-058",
+    "points": 263,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-side-winder-2.png",
     "xws": "sidewinder",
@@ -2105,14 +2113,6 @@
   },
   {
     "name": "soaring spear",
-    "points": 263,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-3-weapons/rv-soaring-spear-1.png",
-    "xws": "soaringspear",
-    "cardno": "i-055"
-  },
-  {
-    "name": "i-055",
     "points": 264,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-soaring-spear-1.png",
@@ -2120,8 +2120,16 @@
     "cardno": "i-055"
   },
   {
-    "name": "i-056",
+    "name": "i-055",
     "points": 265,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-3-weapons/rv-soaring-spear-1.png",
+    "xws": "soaringspear",
+    "cardno": "i-055"
+  },
+  {
+    "name": "i-056",
+    "points": 266,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-3-weapons/rv-soaring-spear-2.png",
     "xws": "soaringspear",
@@ -2129,14 +2137,6 @@
   },
   {
     "name": "etheric gleaner",
-    "points": 266,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-armor/rv-etheric-gleaner-1.png",
-    "xws": "ethericgleaner",
-    "cardno": "i-127"
-  },
-  {
-    "name": "i-127",
     "points": 267,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-etheric-gleaner-1.png",
@@ -2144,8 +2144,16 @@
     "cardno": "i-127"
   },
   {
-    "name": "i-128",
+    "name": "i-127",
     "points": 268,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-armor/rv-etheric-gleaner-1.png",
+    "xws": "ethericgleaner",
+    "cardno": "i-127"
+  },
+  {
+    "name": "i-128",
+    "points": 269,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-etheric-gleaner-2.png",
     "xws": "ethericgleaner",
@@ -2153,14 +2161,6 @@
   },
   {
     "name": "megalith armor",
-    "points": 269,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-armor/rv-megalith-armor-1.png",
-    "xws": "megalitharmor",
-    "cardno": "i-129"
-  },
-  {
-    "name": "i-129",
     "points": 270,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-megalith-armor-1.png",
@@ -2168,8 +2168,16 @@
     "cardno": "i-129"
   },
   {
-    "name": "i-130",
+    "name": "i-129",
     "points": 271,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-armor/rv-megalith-armor-1.png",
+    "xws": "megalitharmor",
+    "cardno": "i-129"
+  },
+  {
+    "name": "i-130",
+    "points": 272,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-megalith-armor-2.png",
     "xws": "megalitharmor",
@@ -2177,7 +2185,7 @@
   },
   {
     "name": "merchant level 4 armor back",
-    "points": 272,
+    "points": 273,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-merchant-level-4-armor-back.png",
     "xws": "merchantlevel4armorback",
@@ -2185,14 +2193,6 @@
   },
   {
     "name": "zephyr streamers",
-    "points": 273,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-armor/rv-zephyr-streamers-1.png",
-    "xws": "zephyrstreamers",
-    "cardno": "i-131"
-  },
-  {
-    "name": "i-131",
     "points": 274,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-zephyr-streamers-1.png",
@@ -2200,8 +2200,16 @@
     "cardno": "i-131"
   },
   {
-    "name": "i-132",
+    "name": "i-131",
     "points": 275,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-armor/rv-zephyr-streamers-1.png",
+    "xws": "zephyrstreamers",
+    "cardno": "i-131"
+  },
+  {
+    "name": "i-132",
+    "points": 276,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-armor/rv-zephyr-streamers-2.png",
     "xws": "zephyrstreamers",
@@ -2209,14 +2217,6 @@
   },
   {
     "name": "biting zokolat",
-    "points": 276,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-consumables/rv-biting-zokolat-1.png",
-    "xws": "bitingzokolat",
-    "cardno": "i-266"
-  },
-  {
-    "name": "i-266",
     "points": 277,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-biting-zokolat-1.png",
@@ -2224,8 +2224,16 @@
     "cardno": "i-266"
   },
   {
-    "name": "i-267",
+    "name": "i-266",
     "points": 278,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-consumables/rv-biting-zokolat-1.png",
+    "xws": "bitingzokolat",
+    "cardno": "i-266"
+  },
+  {
+    "name": "i-267",
+    "points": 279,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-biting-zokolat-2.png",
     "xws": "bitingzokolat",
@@ -2233,7 +2241,7 @@
   },
   {
     "name": "i-268",
-    "points": 279,
+    "points": 280,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-biting-zokolat-3.png",
     "xws": "bitingzokolat",
@@ -2241,7 +2249,7 @@
   },
   {
     "name": "i-269",
-    "points": 280,
+    "points": 281,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-biting-zokolat-4.png",
     "xws": "bitingzokolat",
@@ -2249,14 +2257,6 @@
   },
   {
     "name": "etheric alkahest",
-    "points": 281,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-consumables/rv-etheric-alkahest-1.png",
-    "xws": "ethericalkahest",
-    "cardno": "i-258"
-  },
-  {
-    "name": "i-258",
     "points": 282,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-etheric-alkahest-1.png",
@@ -2264,8 +2264,16 @@
     "cardno": "i-258"
   },
   {
-    "name": "i-259",
+    "name": "i-258",
     "points": 283,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-consumables/rv-etheric-alkahest-1.png",
+    "xws": "ethericalkahest",
+    "cardno": "i-258"
+  },
+  {
+    "name": "i-259",
+    "points": 284,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-etheric-alkahest-2.png",
     "xws": "ethericalkahest",
@@ -2273,7 +2281,7 @@
   },
   {
     "name": "i-260",
-    "points": 284,
+    "points": 285,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-etheric-alkahest-3.png",
     "xws": "ethericalkahest",
@@ -2281,7 +2289,7 @@
   },
   {
     "name": "i-261",
-    "points": 285,
+    "points": 286,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-etheric-alkahest-4.png",
     "xws": "ethericalkahest",
@@ -2289,14 +2297,6 @@
   },
   {
     "name": "firegrit shrapnel",
-    "points": 286,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-consumables/rv-firegrit-shrapnel-1.png",
-    "xws": "firegritshrapnel",
-    "cardno": "i-250"
-  },
-  {
-    "name": "i-250",
     "points": 287,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-firegrit-shrapnel-1.png",
@@ -2304,8 +2304,16 @@
     "cardno": "i-250"
   },
   {
-    "name": "i-251",
+    "name": "i-250",
     "points": 288,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-consumables/rv-firegrit-shrapnel-1.png",
+    "xws": "firegritshrapnel",
+    "cardno": "i-250"
+  },
+  {
+    "name": "i-251",
+    "points": 289,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-firegrit-shrapnel-2.png",
     "xws": "firegritshrapnel",
@@ -2313,7 +2321,7 @@
   },
   {
     "name": "i-252",
-    "points": 289,
+    "points": 290,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-firegrit-shrapnel-3.png",
     "xws": "firegritshrapnel",
@@ -2321,7 +2329,7 @@
   },
   {
     "name": "i-253",
-    "points": 290,
+    "points": 291,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-firegrit-shrapnel-4.png",
     "xws": "firegritshrapnel",
@@ -2329,14 +2337,6 @@
   },
   {
     "name": "gemini stellate",
-    "points": 291,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-consumables/rv-gemini-stellate-1.png",
-    "xws": "geministellate",
-    "cardno": "i-254"
-  },
-  {
-    "name": "i-254",
     "points": 292,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-gemini-stellate-1.png",
@@ -2344,8 +2344,16 @@
     "cardno": "i-254"
   },
   {
-    "name": "i-255",
+    "name": "i-254",
     "points": 293,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-consumables/rv-gemini-stellate-1.png",
+    "xws": "geministellate",
+    "cardno": "i-254"
+  },
+  {
+    "name": "i-255",
+    "points": 294,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-gemini-stellate-2.png",
     "xws": "geministellate",
@@ -2353,7 +2361,7 @@
   },
   {
     "name": "i-256",
-    "points": 294,
+    "points": 295,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-gemini-stellate-3.png",
     "xws": "geministellate",
@@ -2361,7 +2369,7 @@
   },
   {
     "name": "i-257",
-    "points": 295,
+    "points": 296,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-gemini-stellate-4.png",
     "xws": "geministellate",
@@ -2369,7 +2377,7 @@
   },
   {
     "name": "merchant level 4 consumables back",
-    "points": 296,
+    "points": 297,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-merchant-level-4-consumables-back.png",
     "xws": "merchantlevel4consumablesback",
@@ -2377,14 +2385,6 @@
   },
   {
     "name": "soothing liniment",
-    "points": 297,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-consumables/rv-soothing-liniment-1.png",
-    "xws": "soothingliniment",
-    "cardno": "i-262"
-  },
-  {
-    "name": "i-262",
     "points": 298,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-soothing-liniment-1.png",
@@ -2392,8 +2392,16 @@
     "cardno": "i-262"
   },
   {
-    "name": "i-263",
+    "name": "i-262",
     "points": 299,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-consumables/rv-soothing-liniment-1.png",
+    "xws": "soothingliniment",
+    "cardno": "i-262"
+  },
+  {
+    "name": "i-263",
+    "points": 300,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-soothing-liniment-2.png",
     "xws": "soothingliniment",
@@ -2401,7 +2409,7 @@
   },
   {
     "name": "i-264",
-    "points": 300,
+    "points": 301,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-soothing-liniment-3.png",
     "xws": "soothingliniment",
@@ -2409,7 +2417,7 @@
   },
   {
     "name": "i-265",
-    "points": 301,
+    "points": 302,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-soothing-liniment-4.png",
     "xws": "soothingliniment",
@@ -2417,14 +2425,6 @@
   },
   {
     "name": "vigor spirit",
-    "points": 302,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-consumables/rv-vigor-spirit-1.png",
-    "xws": "vigorspirit",
-    "cardno": "i-246"
-  },
-  {
-    "name": "i-246",
     "points": 303,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-vigor-spirit-1.png",
@@ -2432,8 +2432,16 @@
     "cardno": "i-246"
   },
   {
-    "name": "i-247",
+    "name": "i-246",
     "points": 304,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-consumables/rv-vigor-spirit-1.png",
+    "xws": "vigorspirit",
+    "cardno": "i-246"
+  },
+  {
+    "name": "i-247",
+    "points": 305,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-vigor-spirit-2.png",
     "xws": "vigorspirit",
@@ -2441,7 +2449,7 @@
   },
   {
     "name": "i-248",
-    "points": 305,
+    "points": 306,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-vigor-spirit-3.png",
     "xws": "vigorspirit",
@@ -2449,7 +2457,7 @@
   },
   {
     "name": "i-249",
-    "points": 306,
+    "points": 307,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-consumables/rv-vigor-spirit-4.png",
     "xws": "vigorspirit",
@@ -2457,14 +2465,6 @@
   },
   {
     "name": "caucus thesis",
-    "points": 307,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-caucus-thesis-1.png",
-    "xws": "caucusthesis",
-    "cardno": "i-075"
-  },
-  {
-    "name": "i-075",
     "points": 308,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-caucus-thesis-1.png",
@@ -2472,8 +2472,16 @@
     "cardno": "i-075"
   },
   {
-    "name": "i-076",
+    "name": "i-075",
     "points": 309,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-caucus-thesis-1.png",
+    "xws": "caucusthesis",
+    "cardno": "i-075"
+  },
+  {
+    "name": "i-076",
+    "points": 310,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-caucus-thesis-2.png",
     "xws": "caucusthesis",
@@ -2481,14 +2489,6 @@
   },
   {
     "name": "composite clawbow",
-    "points": 310,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-composite-clawbow-1.png",
-    "xws": "compositeclawbow",
-    "cardno": "i-073"
-  },
-  {
-    "name": "i-073",
     "points": 311,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-composite-clawbow-1.png",
@@ -2496,8 +2496,16 @@
     "cardno": "i-073"
   },
   {
-    "name": "i-074",
+    "name": "i-073",
     "points": 312,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-composite-clawbow-1.png",
+    "xws": "compositeclawbow",
+    "cardno": "i-073"
+  },
+  {
+    "name": "i-074",
+    "points": 313,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-composite-clawbow-2.png",
     "xws": "compositeclawbow",
@@ -2505,14 +2513,6 @@
   },
   {
     "name": "conductor's rondo",
-    "points": 313,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-conductors-rondo-1.png",
-    "xws": "conductorsrondo",
-    "cardno": "i-067"
-  },
-  {
-    "name": "i-067",
     "points": 314,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-conductors-rondo-1.png",
@@ -2520,8 +2520,16 @@
     "cardno": "i-067"
   },
   {
-    "name": "i-068",
+    "name": "i-067",
     "points": 315,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-conductors-rondo-1.png",
+    "xws": "conductorsrondo",
+    "cardno": "i-067"
+  },
+  {
+    "name": "i-068",
+    "points": 316,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-conductors-rondo-2.png",
     "xws": "conductorsrondo",
@@ -2529,14 +2537,6 @@
   },
   {
     "name": "martial kembar",
-    "points": 316,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-martial-kembar-1.png",
-    "xws": "martialkembar",
-    "cardno": "i-071"
-  },
-  {
-    "name": "i-071",
     "points": 317,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-martial-kembar-1.png",
@@ -2544,8 +2544,16 @@
     "cardno": "i-071"
   },
   {
-    "name": "i-072",
+    "name": "i-071",
     "points": 318,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-martial-kembar-1.png",
+    "xws": "martialkembar",
+    "cardno": "i-071"
+  },
+  {
+    "name": "i-072",
+    "points": 319,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-martial-kembar-2.png",
     "xws": "martialkembar",
@@ -2553,7 +2561,7 @@
   },
   {
     "name": "merchant level 4 weapons back",
-    "points": 319,
+    "points": 320,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-merchant-level-4-weapons-back.png",
     "xws": "merchantlevel4weaponsback",
@@ -2561,14 +2569,6 @@
   },
   {
     "name": "realization",
-    "points": 320,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-realization-1.png",
-    "xws": "realization",
-    "cardno": "i-077"
-  },
-  {
-    "name": "i-077",
     "points": 321,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-realization-1.png",
@@ -2576,8 +2576,16 @@
     "cardno": "i-077"
   },
   {
-    "name": "i-078",
+    "name": "i-077",
     "points": 322,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-realization-1.png",
+    "xws": "realization",
+    "cardno": "i-077"
+  },
+  {
+    "name": "i-078",
+    "points": 323,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-realization-2.png",
     "xws": "realization",
@@ -2585,14 +2593,6 @@
   },
   {
     "name": "spieler's reach",
-    "points": 323,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-spielers-reach-1.png",
-    "xws": "spielersreach",
-    "cardno": "i-069"
-  },
-  {
-    "name": "i-069",
     "points": 324,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-spielers-reach-1.png",
@@ -2600,8 +2600,16 @@
     "cardno": "i-069"
   },
   {
-    "name": "i-070",
+    "name": "i-069",
     "points": 325,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-spielers-reach-1.png",
+    "xws": "spielersreach",
+    "cardno": "i-069"
+  },
+  {
+    "name": "i-070",
+    "points": 326,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-spielers-reach-2.png",
     "xws": "spielersreach",
@@ -2609,14 +2617,6 @@
   },
   {
     "name": "urn's sooth",
-    "points": 326,
-    "expansion": "core",
-    "image": "items/rove/core/merchant-level-4-weapons/rv-urns-sooth-1.png",
-    "xws": "urnssooth",
-    "cardno": "i-079"
-  },
-  {
-    "name": "i-079",
     "points": 327,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-urns-sooth-1.png",
@@ -2624,8 +2624,16 @@
     "cardno": "i-079"
   },
   {
-    "name": "i-080",
+    "name": "i-079",
     "points": 328,
+    "expansion": "core",
+    "image": "items/rove/core/merchant-level-4-weapons/rv-urns-sooth-1.png",
+    "xws": "urnssooth",
+    "cardno": "i-079"
+  },
+  {
+    "name": "i-080",
+    "points": 329,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-4-weapons/rv-urns-sooth-2.png",
     "xws": "urnssooth",
@@ -2633,14 +2641,6 @@
   },
   {
     "name": "ahma cowl",
-    "points": 329,
-    "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-ahma-cowl.png",
-    "xws": "ahmacowl",
-    "cardno": "i-133"
-  },
-  {
-    "name": "i-133",
     "points": 330,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-ahma-cowl.png",
@@ -2648,15 +2648,15 @@
     "cardno": "i-133"
   },
   {
-    "name": "coruscant amblers",
+    "name": "i-133",
     "points": 331,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-coruscant-amblers.png",
-    "xws": "coruscantamblers",
-    "cardno": "i-138"
+    "image": "items/rove/core/reward-armor/rv-ahma-cowl.png",
+    "xws": "ahmacowl",
+    "cardno": "i-133"
   },
   {
-    "name": "i-138",
+    "name": "coruscant amblers",
     "points": 332,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-coruscant-amblers.png",
@@ -2664,15 +2664,15 @@
     "cardno": "i-138"
   },
   {
-    "name": "ethereal aegis",
+    "name": "i-138",
     "points": 333,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-ethereal-aegis.png",
-    "xws": "etherealaegis",
-    "cardno": "i-144"
+    "image": "items/rove/core/reward-armor/rv-coruscant-amblers.png",
+    "xws": "coruscantamblers",
+    "cardno": "i-138"
   },
   {
-    "name": "i-144",
+    "name": "ethereal aegis",
     "points": 334,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-ethereal-aegis.png",
@@ -2680,15 +2680,15 @@
     "cardno": "i-144"
   },
   {
-    "name": "ethereal catena",
+    "name": "i-144",
     "points": 335,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-ethereal-catena.png",
-    "xws": "etherealcatena",
-    "cardno": "i-143"
+    "image": "items/rove/core/reward-armor/rv-ethereal-aegis.png",
+    "xws": "etherealaegis",
+    "cardno": "i-144"
   },
   {
-    "name": "i-143",
+    "name": "ethereal catena",
     "points": 336,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-ethereal-catena.png",
@@ -2696,15 +2696,15 @@
     "cardno": "i-143"
   },
   {
-    "name": "ezmenite plate",
+    "name": "i-143",
     "points": 337,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-ezmenite-plate.png",
-    "xws": "ezmeniteplate",
-    "cardno": "i-134"
+    "image": "items/rove/core/reward-armor/rv-ethereal-catena.png",
+    "xws": "etherealcatena",
+    "cardno": "i-143"
   },
   {
-    "name": "i-134",
+    "name": "ezmenite plate",
     "points": 338,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-ezmenite-plate.png",
@@ -2712,15 +2712,15 @@
     "cardno": "i-134"
   },
   {
-    "name": "gallant crown",
+    "name": "i-134",
     "points": 339,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-gallant-crown.png",
-    "xws": "gallantcrown",
-    "cardno": "i-137"
+    "image": "items/rove/core/reward-armor/rv-ezmenite-plate.png",
+    "xws": "ezmeniteplate",
+    "cardno": "i-134"
   },
   {
-    "name": "i-137",
+    "name": "gallant crown",
     "points": 340,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-gallant-crown.png",
@@ -2728,15 +2728,15 @@
     "cardno": "i-137"
   },
   {
-    "name": "gruv scale-mail",
+    "name": "i-137",
     "points": 341,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-gruv-scale-mail.png",
-    "xws": "gruvscalemail",
-    "cardno": "i-135"
+    "image": "items/rove/core/reward-armor/rv-gallant-crown.png",
+    "xws": "gallantcrown",
+    "cardno": "i-137"
   },
   {
-    "name": "i-135",
+    "name": "gruv scale-mail",
     "points": 342,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-gruv-scale-mail.png",
@@ -2744,15 +2744,15 @@
     "cardno": "i-135"
   },
   {
-    "name": "miasma cape",
+    "name": "i-135",
     "points": 343,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-miasma-cape.png",
-    "xws": "miasmacape",
-    "cardno": "i-136"
+    "image": "items/rove/core/reward-armor/rv-gruv-scale-mail.png",
+    "xws": "gruvscalemail",
+    "cardno": "i-135"
   },
   {
-    "name": "i-136",
+    "name": "miasma cape",
     "points": 344,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-miasma-cape.png",
@@ -2760,8 +2760,16 @@
     "cardno": "i-136"
   },
   {
-    "name": "reward armor back",
+    "name": "i-136",
     "points": 345,
+    "expansion": "core",
+    "image": "items/rove/core/reward-armor/rv-miasma-cape.png",
+    "xws": "miasmacape",
+    "cardno": "i-136"
+  },
+  {
+    "name": "reward armor back",
+    "points": 346,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-reward-armor-back.png",
     "xws": "rewardarmorback",
@@ -2769,14 +2777,6 @@
   },
   {
     "name": "thick briarshawl",
-    "points": 346,
-    "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-thick-briarshawl.png",
-    "xws": "thickbriarshawl",
-    "cardno": "i-141"
-  },
-  {
-    "name": "i-141",
     "points": 347,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-thick-briarshawl.png",
@@ -2784,15 +2784,15 @@
     "cardno": "i-141"
   },
   {
-    "name": "thundering hikers",
+    "name": "i-141",
     "points": 348,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-thundering-hikers.png",
-    "xws": "thunderinghikers",
-    "cardno": "i-140"
+    "image": "items/rove/core/reward-armor/rv-thick-briarshawl.png",
+    "xws": "thickbriarshawl",
+    "cardno": "i-141"
   },
   {
-    "name": "i-140",
+    "name": "thundering hikers",
     "points": 349,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-thundering-hikers.png",
@@ -2800,15 +2800,15 @@
     "cardno": "i-140"
   },
   {
-    "name": "twisted chargers",
+    "name": "i-140",
     "points": 350,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-twisted-chargers.png",
-    "xws": "twistedchargers",
-    "cardno": "i-139"
+    "image": "items/rove/core/reward-armor/rv-thundering-hikers.png",
+    "xws": "thunderinghikers",
+    "cardno": "i-140"
   },
   {
-    "name": "i-139",
+    "name": "twisted chargers",
     "points": 351,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-twisted-chargers.png",
@@ -2816,15 +2816,15 @@
     "cardno": "i-139"
   },
   {
-    "name": "zyderos cuirass",
+    "name": "i-139",
     "points": 352,
     "expansion": "core",
-    "image": "items/rove/core/reward-armor/rv-zyderos-cuirass.png",
-    "xws": "zyderoscuirass",
-    "cardno": "i-142"
+    "image": "items/rove/core/reward-armor/rv-twisted-chargers.png",
+    "xws": "twistedchargers",
+    "cardno": "i-139"
   },
   {
-    "name": "i-142",
+    "name": "zyderos cuirass",
     "points": 353,
     "expansion": "core",
     "image": "items/rove/core/reward-armor/rv-zyderos-cuirass.png",
@@ -2832,15 +2832,15 @@
     "cardno": "i-142"
   },
   {
-    "name": "cutting galewing",
+    "name": "i-142",
     "points": 354,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-cutting-galewing.png",
-    "xws": "cuttinggalewing",
-    "cardno": "i-081"
+    "image": "items/rove/core/reward-armor/rv-zyderos-cuirass.png",
+    "xws": "zyderoscuirass",
+    "cardno": "i-142"
   },
   {
-    "name": "i-081",
+    "name": "cutting galewing",
     "points": 355,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-cutting-galewing.png",
@@ -2848,15 +2848,15 @@
     "cardno": "i-081"
   },
   {
-    "name": "ezmenite guard",
+    "name": "i-081",
     "points": 356,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-ezmenite-guard.png",
-    "xws": "ezmeniteguard",
-    "cardno": "i-089"
+    "image": "items/rove/core/reward-weapons/rv-cutting-galewing.png",
+    "xws": "cuttinggalewing",
+    "cardno": "i-081"
   },
   {
-    "name": "i-089",
+    "name": "ezmenite guard",
     "points": 357,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-ezmenite-guard.png",
@@ -2864,15 +2864,15 @@
     "cardno": "i-089"
   },
   {
-    "name": "ezmenite lance",
+    "name": "i-089",
     "points": 358,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-ezmenite-lance.png",
-    "xws": "ezmenitelance",
-    "cardno": "i-083"
+    "image": "items/rove/core/reward-weapons/rv-ezmenite-guard.png",
+    "xws": "ezmeniteguard",
+    "cardno": "i-089"
   },
   {
-    "name": "i-083",
+    "name": "ezmenite lance",
     "points": 359,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-ezmenite-lance.png",
@@ -2880,15 +2880,15 @@
     "cardno": "i-083"
   },
   {
-    "name": "mercurial bough",
+    "name": "i-083",
     "points": 360,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-mercurial-bough.png",
-    "xws": "mercurialbough",
-    "cardno": "i-085"
+    "image": "items/rove/core/reward-weapons/rv-ezmenite-lance.png",
+    "xws": "ezmenitelance",
+    "cardno": "i-083"
   },
   {
-    "name": "i-085",
+    "name": "mercurial bough",
     "points": 361,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-mercurial-bough.png",
@@ -2896,15 +2896,15 @@
     "cardno": "i-085"
   },
   {
-    "name": "rakifa's garrote",
+    "name": "i-085",
     "points": 362,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-rakifas-garrote.png",
-    "xws": "rakifasgarrote",
-    "cardno": "i-086"
+    "image": "items/rove/core/reward-weapons/rv-mercurial-bough.png",
+    "xws": "mercurialbough",
+    "cardno": "i-085"
   },
   {
-    "name": "i-086",
+    "name": "rakifa's garrote",
     "points": 363,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-rakifas-garrote.png",
@@ -2912,8 +2912,16 @@
     "cardno": "i-086"
   },
   {
-    "name": "reward weapons back",
+    "name": "i-086",
     "points": 364,
+    "expansion": "core",
+    "image": "items/rove/core/reward-weapons/rv-rakifas-garrote.png",
+    "xws": "rakifasgarrote",
+    "cardno": "i-086"
+  },
+  {
+    "name": "reward weapons back",
+    "points": 365,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-reward-weapons-back.png",
     "xws": "rewardweaponsback",
@@ -2921,14 +2929,6 @@
   },
   {
     "name": "scour brand",
-    "points": 365,
-    "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-scour-brand.png",
-    "xws": "scourbrand",
-    "cardno": "i-084"
-  },
-  {
-    "name": "i-084",
     "points": 366,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-scour-brand.png",
@@ -2936,15 +2936,15 @@
     "cardno": "i-084"
   },
   {
-    "name": "tendervine ward",
+    "name": "i-084",
     "points": 367,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-tendervine-ward.png",
-    "xws": "tendervineward",
-    "cardno": "i-082"
+    "image": "items/rove/core/reward-weapons/rv-scour-brand.png",
+    "xws": "scourbrand",
+    "cardno": "i-084"
   },
   {
-    "name": "i-082",
+    "name": "tendervine ward",
     "points": 368,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-tendervine-ward.png",
@@ -2952,15 +2952,15 @@
     "cardno": "i-082"
   },
   {
-    "name": "uzem's judgement",
+    "name": "i-082",
     "points": 369,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-uzems-judgement.png",
-    "xws": "uzemsjudgement",
-    "cardno": "i-088"
+    "image": "items/rove/core/reward-weapons/rv-tendervine-ward.png",
+    "xws": "tendervineward",
+    "cardno": "i-082"
   },
   {
-    "name": "i-088",
+    "name": "uzem's judgement",
     "points": 370,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-uzems-judgement.png",
@@ -2968,15 +2968,15 @@
     "cardno": "i-088"
   },
   {
-    "name": "zaghan's limb",
+    "name": "i-088",
     "points": 371,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-zaghans-limb.png",
-    "xws": "zaghanslimb",
-    "cardno": "i-087"
+    "image": "items/rove/core/reward-weapons/rv-uzems-judgement.png",
+    "xws": "uzemsjudgement",
+    "cardno": "i-088"
   },
   {
-    "name": "i-087",
+    "name": "zaghan's limb",
     "points": 372,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-zaghans-limb.png",
@@ -2984,15 +2984,15 @@
     "cardno": "i-087"
   },
   {
-    "name": "zeepurah's piercer",
+    "name": "i-087",
     "points": 373,
     "expansion": "core",
-    "image": "items/rove/core/reward-weapons/rv-zeepurahs-piercer.png",
-    "xws": "zeepurahspiercer",
-    "cardno": "i-090"
+    "image": "items/rove/core/reward-weapons/rv-zaghans-limb.png",
+    "xws": "zaghanslimb",
+    "cardno": "i-087"
   },
   {
-    "name": "i-090",
+    "name": "zeepurah's piercer",
     "points": 374,
     "expansion": "core",
     "image": "items/rove/core/reward-weapons/rv-zeepurahs-piercer.png",
@@ -3000,15 +3000,15 @@
     "cardno": "i-090"
   },
   {
-    "name": "diduma leaders",
+    "name": "i-090",
     "points": 375,
     "expansion": "core",
-    "image": "items/rove/core/secret-stash/rv-diduma-leaders.png",
-    "xws": "didumaleaders",
-    "cardno": "i-095"
+    "image": "items/rove/core/reward-weapons/rv-zeepurahs-piercer.png",
+    "xws": "zeepurahspiercer",
+    "cardno": "i-090"
   },
   {
-    "name": "i-095",
+    "name": "diduma leaders",
     "points": 376,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-diduma-leaders.png",
@@ -3016,15 +3016,15 @@
     "cardno": "i-095"
   },
   {
-    "name": "frozen-lattice",
+    "name": "i-095",
     "points": 377,
     "expansion": "core",
-    "image": "items/rove/core/secret-stash/rv-frozen-lattice.png",
-    "xws": "frozenlattice",
-    "cardno": "i-091"
+    "image": "items/rove/core/secret-stash/rv-diduma-leaders.png",
+    "xws": "didumaleaders",
+    "cardno": "i-095"
   },
   {
-    "name": "i-091",
+    "name": "frozen-lattice",
     "points": 378,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-frozen-lattice.png",
@@ -3032,15 +3032,15 @@
     "cardno": "i-091"
   },
   {
-    "name": "radula launcher",
+    "name": "i-091",
     "points": 379,
     "expansion": "core",
-    "image": "items/rove/core/secret-stash/rv-radula-launcher.png",
-    "xws": "radulalauncher",
-    "cardno": "i-096"
+    "image": "items/rove/core/secret-stash/rv-frozen-lattice.png",
+    "xws": "frozenlattice",
+    "cardno": "i-091"
   },
   {
-    "name": "i-096",
+    "name": "radula launcher",
     "points": 380,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-radula-launcher.png",
@@ -3048,8 +3048,16 @@
     "cardno": "i-096"
   },
   {
-    "name": "secret stash back",
+    "name": "i-096",
     "points": 381,
+    "expansion": "core",
+    "image": "items/rove/core/secret-stash/rv-radula-launcher.png",
+    "xws": "radulalauncher",
+    "cardno": "i-096"
+  },
+  {
+    "name": "secret stash back",
+    "points": 382,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-secret-stash-back.png",
     "xws": "secretstashback",
@@ -3057,14 +3065,6 @@
   },
   {
     "name": "streaming levants",
-    "points": 382,
-    "expansion": "core",
-    "image": "items/rove/core/secret-stash/rv-streaming-levants.png",
-    "xws": "streaminglevants",
-    "cardno": "i-093"
-  },
-  {
-    "name": "i-093",
     "points": 383,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-streaming-levants.png",
@@ -3072,15 +3072,15 @@
     "cardno": "i-093"
   },
   {
-    "name": "tectonic lambast",
+    "name": "i-093",
     "points": 384,
     "expansion": "core",
-    "image": "items/rove/core/secret-stash/rv-tectonic-lambast.png",
-    "xws": "tectoniclambast",
-    "cardno": "i-094"
+    "image": "items/rove/core/secret-stash/rv-streaming-levants.png",
+    "xws": "streaminglevants",
+    "cardno": "i-093"
   },
   {
-    "name": "i-094",
+    "name": "tectonic lambast",
     "points": 385,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-tectonic-lambast.png",
@@ -3088,15 +3088,15 @@
     "cardno": "i-094"
   },
   {
-    "name": "vulcan lash",
+    "name": "i-094",
     "points": 386,
     "expansion": "core",
-    "image": "items/rove/core/secret-stash/rv-vulcan-lash.png",
-    "xws": "vulcanlash",
-    "cardno": "i-092"
+    "image": "items/rove/core/secret-stash/rv-tectonic-lambast.png",
+    "xws": "tectoniclambast",
+    "cardno": "i-094"
   },
   {
-    "name": "i-092",
+    "name": "vulcan lash",
     "points": 387,
     "expansion": "core",
     "image": "items/rove/core/secret-stash/rv-vulcan-lash.png",
@@ -3104,15 +3104,15 @@
     "cardno": "i-092"
   },
   {
-    "name": "powdered drakaen",
+    "name": "i-092",
     "points": 388,
     "expansion": "core",
-    "image": "items/rove/core/starting-consumables/rv-powdered-drakaen-1.png",
-    "xws": "powdereddrakaen",
-    "cardno": "i-145"
+    "image": "items/rove/core/secret-stash/rv-vulcan-lash.png",
+    "xws": "vulcanlash",
+    "cardno": "i-092"
   },
   {
-    "name": "i-145",
+    "name": "powdered drakaen",
     "points": 389,
     "expansion": "core",
     "image": "items/rove/core/starting-consumables/rv-powdered-drakaen-1.png",
@@ -3120,8 +3120,16 @@
     "cardno": "i-145"
   },
   {
-    "name": "i-146",
+    "name": "i-145",
     "points": 390,
+    "expansion": "core",
+    "image": "items/rove/core/starting-consumables/rv-powdered-drakaen-1.png",
+    "xws": "powdereddrakaen",
+    "cardno": "i-145"
+  },
+  {
+    "name": "i-146",
+    "points": 391,
     "expansion": "core",
     "image": "items/rove/core/starting-consumables/rv-powdered-drakaen-2.png",
     "xws": "powdereddrakaen",
@@ -3129,7 +3137,7 @@
   },
   {
     "name": "i-147",
-    "points": 391,
+    "points": 392,
     "expansion": "core",
     "image": "items/rove/core/starting-consumables/rv-powdered-drakaen-3.png",
     "xws": "powdereddrakaen",
@@ -3137,7 +3145,7 @@
   },
   {
     "name": "i-148",
-    "points": 392,
+    "points": 393,
     "expansion": "core",
     "image": "items/rove/core/starting-consumables/rv-powdered-drakaen-4.png",
     "xws": "powdereddrakaen",
@@ -3145,7 +3153,7 @@
   },
   {
     "name": "starting consumables back",
-    "points": 393,
+    "points": 394,
     "expansion": "core",
     "image": "items/rove/core/starting-consumables/rv-starting-consumables-back.png",
     "xws": "startingconsumablesback",
@@ -3153,7 +3161,7 @@
   },
   {
     "name": "starting weapons back",
-    "points": 394,
+    "points": 395,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-starting-weapons-back.png",
     "xws": "startingweaponsback",
@@ -3161,14 +3169,6 @@
   },
   {
     "name": "stripped axe",
-    "points": 395,
-    "expansion": "core",
-    "image": "items/rove/core/starting-weapons/rv-stripped-axe-1.png",
-    "xws": "strippedaxe",
-    "cardno": "i-005"
-  },
-  {
-    "name": "i-005",
     "points": 396,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-axe-1.png",
@@ -3176,8 +3176,16 @@
     "cardno": "i-005"
   },
   {
-    "name": "i-006",
+    "name": "i-005",
     "points": 397,
+    "expansion": "core",
+    "image": "items/rove/core/starting-weapons/rv-stripped-axe-1.png",
+    "xws": "strippedaxe",
+    "cardno": "i-005"
+  },
+  {
+    "name": "i-006",
+    "points": 398,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-axe-2.png",
     "xws": "strippedaxe",
@@ -3185,14 +3193,6 @@
   },
   {
     "name": "stripped blade",
-    "points": 398,
-    "expansion": "core",
-    "image": "items/rove/core/starting-weapons/rv-stripped-blade-1.png",
-    "xws": "strippedblade",
-    "cardno": "i-001"
-  },
-  {
-    "name": "i-001",
     "points": 399,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-blade-1.png",
@@ -3200,8 +3200,16 @@
     "cardno": "i-001"
   },
   {
-    "name": "i-002",
+    "name": "i-001",
     "points": 400,
+    "expansion": "core",
+    "image": "items/rove/core/starting-weapons/rv-stripped-blade-1.png",
+    "xws": "strippedblade",
+    "cardno": "i-001"
+  },
+  {
+    "name": "i-002",
+    "points": 401,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-blade-2.png",
     "xws": "strippedblade",
@@ -3209,14 +3217,6 @@
   },
   {
     "name": "stripped bow",
-    "points": 401,
-    "expansion": "core",
-    "image": "items/rove/core/starting-weapons/rv-stripped-bow-1.png",
-    "xws": "strippedbow",
-    "cardno": "i-007"
-  },
-  {
-    "name": "i-007",
     "points": 402,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-bow-1.png",
@@ -3224,8 +3224,16 @@
     "cardno": "i-007"
   },
   {
-    "name": "i-008",
+    "name": "i-007",
     "points": 403,
+    "expansion": "core",
+    "image": "items/rove/core/starting-weapons/rv-stripped-bow-1.png",
+    "xws": "strippedbow",
+    "cardno": "i-007"
+  },
+  {
+    "name": "i-008",
+    "points": 404,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-bow-2.png",
     "xws": "strippedbow",
@@ -3233,14 +3241,6 @@
   },
   {
     "name": "stripped spear",
-    "points": 404,
-    "expansion": "core",
-    "image": "items/rove/core/starting-weapons/rv-stripped-spear-1.png",
-    "xws": "strippedspear",
-    "cardno": "i-003"
-  },
-  {
-    "name": "i-003",
     "points": 405,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-spear-1.png",
@@ -3248,8 +3248,16 @@
     "cardno": "i-003"
   },
   {
-    "name": "i-004",
+    "name": "i-003",
     "points": 406,
+    "expansion": "core",
+    "image": "items/rove/core/starting-weapons/rv-stripped-spear-1.png",
+    "xws": "strippedspear",
+    "cardno": "i-003"
+  },
+  {
+    "name": "i-004",
+    "points": 407,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-spear-2.png",
     "xws": "strippedspear",
@@ -3257,14 +3265,6 @@
   },
   {
     "name": "stripped staff",
-    "points": 407,
-    "expansion": "core",
-    "image": "items/rove/core/starting-weapons/rv-stripped-staff-1.png",
-    "xws": "strippedstaff",
-    "cardno": "i-009"
-  },
-  {
-    "name": "i-009",
     "points": 408,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-staff-1.png",
@@ -3272,8 +3272,16 @@
     "cardno": "i-009"
   },
   {
-    "name": "i-010",
+    "name": "i-009",
     "points": 409,
+    "expansion": "core",
+    "image": "items/rove/core/starting-weapons/rv-stripped-staff-1.png",
+    "xws": "strippedstaff",
+    "cardno": "i-009"
+  },
+  {
+    "name": "i-010",
+    "points": 410,
     "expansion": "core",
     "image": "items/rove/core/starting-weapons/rv-stripped-staff-2.png",
     "xws": "strippedstaff",
@@ -3281,14 +3289,6 @@
   },
   {
     "name": "corded synapse",
-    "points": 410,
-    "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-armor/rv-corded-synapse.png",
-    "xws": "cordedsynapse",
-    "cardno": "i-275"
-  },
-  {
-    "name": "i-275",
     "points": 411,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-corded-synapse.png",
@@ -3296,15 +3296,15 @@
     "cardno": "i-275"
   },
   {
-    "name": "flagellator crest",
+    "name": "i-275",
     "points": 412,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-armor/rv-flagellator-crest.png",
-    "xws": "flagellatorcrest",
-    "cardno": "i-271"
+    "image": "items/rove/xulc/xulc-armor/rv-corded-synapse.png",
+    "xws": "cordedsynapse",
+    "cardno": "i-275"
   },
   {
-    "name": "i-271",
+    "name": "flagellator crest",
     "points": 413,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-flagellator-crest.png",
@@ -3312,15 +3312,15 @@
     "cardno": "i-271"
   },
   {
-    "name": "fortified exoskeleton",
+    "name": "i-271",
     "points": 414,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-armor/rv-fortified-exoskeleton.png",
-    "xws": "fortifiedexoskeleton",
-    "cardno": "i-273"
+    "image": "items/rove/xulc/xulc-armor/rv-flagellator-crest.png",
+    "xws": "flagellatorcrest",
+    "cardno": "i-271"
   },
   {
-    "name": "i-273",
+    "name": "fortified exoskeleton",
     "points": 415,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-fortified-exoskeleton.png",
@@ -3328,15 +3328,15 @@
     "cardno": "i-273"
   },
   {
-    "name": "gas bladder",
+    "name": "i-273",
     "points": 416,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-armor/rv-gas-bladder.png",
-    "xws": "gasbladder",
-    "cardno": "i-272"
+    "image": "items/rove/xulc/xulc-armor/rv-fortified-exoskeleton.png",
+    "xws": "fortifiedexoskeleton",
+    "cardno": "i-273"
   },
   {
-    "name": "i-272",
+    "name": "gas bladder",
     "points": 417,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-gas-bladder.png",
@@ -3344,15 +3344,15 @@
     "cardno": "i-272"
   },
   {
-    "name": "hydrofuge tentacles",
+    "name": "i-272",
     "points": 418,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-armor/rv-hydrofuge-tentacles.png",
-    "xws": "hydrofugetentacles",
-    "cardno": "i-274"
+    "image": "items/rove/xulc/xulc-armor/rv-gas-bladder.png",
+    "xws": "gasbladder",
+    "cardno": "i-272"
   },
   {
-    "name": "i-274",
+    "name": "hydrofuge tentacles",
     "points": 419,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-hydrofuge-tentacles.png",
@@ -3360,15 +3360,15 @@
     "cardno": "i-274"
   },
   {
-    "name": "neural mesh",
+    "name": "i-274",
     "points": 420,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-armor/rv-neural-mesh.png",
-    "xws": "neuralmesh",
-    "cardno": "i-270"
+    "image": "items/rove/xulc/xulc-armor/rv-hydrofuge-tentacles.png",
+    "xws": "hydrofugetentacles",
+    "cardno": "i-274"
   },
   {
-    "name": "i-270",
+    "name": "neural mesh",
     "points": 421,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-neural-mesh.png",
@@ -3376,8 +3376,16 @@
     "cardno": "i-270"
   },
   {
-    "name": "xulc armor back",
+    "name": "i-270",
     "points": 422,
+    "expansion": "xulc",
+    "image": "items/rove/xulc/xulc-armor/rv-neural-mesh.png",
+    "xws": "neuralmesh",
+    "cardno": "i-270"
+  },
+  {
+    "name": "xulc armor back",
+    "points": 423,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-armor/rv-xulc-armor-back.png",
     "xws": "xulcarmorback",
@@ -3385,14 +3393,6 @@
   },
   {
     "name": "dimming stone",
-    "points": 423,
-    "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-consumables/rv-dimming-stone-1.png",
-    "xws": "dimmingstone",
-    "cardno": "i-278"
-  },
-  {
-    "name": "i-278",
     "points": 424,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-dimming-stone-1.png",
@@ -3400,8 +3400,16 @@
     "cardno": "i-278"
   },
   {
-    "name": "i-279",
+    "name": "i-278",
     "points": 425,
+    "expansion": "xulc",
+    "image": "items/rove/xulc/xulc-consumables/rv-dimming-stone-1.png",
+    "xws": "dimmingstone",
+    "cardno": "i-278"
+  },
+  {
+    "name": "i-279",
+    "points": 426,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-dimming-stone-2.png",
     "xws": "dimmingstone",
@@ -3409,14 +3417,6 @@
   },
   {
     "name": "larva cultivar",
-    "points": 426,
-    "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-consumables/rv-larva-cultivar-1.png",
-    "xws": "larvacultivar",
-    "cardno": "i-282"
-  },
-  {
-    "name": "i-282",
     "points": 427,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-larva-cultivar-1.png",
@@ -3424,8 +3424,16 @@
     "cardno": "i-282"
   },
   {
-    "name": "i-283",
+    "name": "i-282",
     "points": 428,
+    "expansion": "xulc",
+    "image": "items/rove/xulc/xulc-consumables/rv-larva-cultivar-1.png",
+    "xws": "larvacultivar",
+    "cardno": "i-282"
+  },
+  {
+    "name": "i-283",
+    "points": 429,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-larva-cultivar-2.png",
     "xws": "larvacultivar",
@@ -3433,14 +3441,6 @@
   },
   {
     "name": "parasitic strand",
-    "points": 429,
-    "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-consumables/rv-parasitic-strand-1.png",
-    "xws": "parasiticstrand",
-    "cardno": "i-276"
-  },
-  {
-    "name": "i-276",
     "points": 430,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-parasitic-strand-1.png",
@@ -3448,8 +3448,16 @@
     "cardno": "i-276"
   },
   {
-    "name": "i-277",
+    "name": "i-276",
     "points": 431,
+    "expansion": "xulc",
+    "image": "items/rove/xulc/xulc-consumables/rv-parasitic-strand-1.png",
+    "xws": "parasiticstrand",
+    "cardno": "i-276"
+  },
+  {
+    "name": "i-277",
+    "points": 432,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-parasitic-strand-2.png",
     "xws": "parasiticstrand",
@@ -3457,14 +3465,6 @@
   },
   {
     "name": "stifling serum",
-    "points": 432,
-    "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-consumables/rv-stifling-serum-1.png",
-    "xws": "stiflingserum",
-    "cardno": "i-280"
-  },
-  {
-    "name": "i-280",
     "points": 433,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-stifling-serum-1.png",
@@ -3472,8 +3472,16 @@
     "cardno": "i-280"
   },
   {
-    "name": "i-281",
+    "name": "i-280",
     "points": 434,
+    "expansion": "xulc",
+    "image": "items/rove/xulc/xulc-consumables/rv-stifling-serum-1.png",
+    "xws": "stiflingserum",
+    "cardno": "i-280"
+  },
+  {
+    "name": "i-281",
+    "points": 435,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-stifling-serum-2.png",
     "xws": "stiflingserum",
@@ -3481,7 +3489,7 @@
   },
   {
     "name": "xulc consumables back",
-    "points": 435,
+    "points": 436,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-consumables/rv-xulc-consumables-back.png",
     "xws": "xulcconsumablesback",
@@ -3489,14 +3497,6 @@
   },
   {
     "name": "bone spike",
-    "points": 436,
-    "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-weapons/rv-bone-spike.png",
-    "xws": "bonespike",
-    "cardno": "i-285"
-  },
-  {
-    "name": "i-285",
     "points": 437,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-bone-spike.png",
@@ -3504,15 +3504,15 @@
     "cardno": "i-285"
   },
   {
-    "name": "cartilage reaver",
+    "name": "i-285",
     "points": 438,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-weapons/rv-cartilage-reaver.png",
-    "xws": "cartilagereaver",
-    "cardno": "i-284"
+    "image": "items/rove/xulc/xulc-weapons/rv-bone-spike.png",
+    "xws": "bonespike",
+    "cardno": "i-285"
   },
   {
-    "name": "i-284",
+    "name": "cartilage reaver",
     "points": 439,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-cartilage-reaver.png",
@@ -3520,15 +3520,15 @@
     "cardno": "i-284"
   },
   {
-    "name": "exoskeletal sheath",
+    "name": "i-284",
     "points": 440,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-weapons/rv-exoskeletal-sheath.png",
-    "xws": "exoskeletalsheath",
-    "cardno": "i-288"
+    "image": "items/rove/xulc/xulc-weapons/rv-cartilage-reaver.png",
+    "xws": "cartilagereaver",
+    "cardno": "i-284"
   },
   {
-    "name": "i-288",
+    "name": "exoskeletal sheath",
     "points": 441,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-exoskeletal-sheath.png",
@@ -3536,15 +3536,15 @@
     "cardno": "i-288"
   },
   {
-    "name": "expulsion gland",
+    "name": "i-288",
     "points": 442,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-weapons/rv-expulsion-gland.png",
-    "xws": "expulsiongland",
-    "cardno": "i-286"
+    "image": "items/rove/xulc/xulc-weapons/rv-exoskeletal-sheath.png",
+    "xws": "exoskeletalsheath",
+    "cardno": "i-288"
   },
   {
-    "name": "i-286",
+    "name": "expulsion gland",
     "points": 443,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-expulsion-gland.png",
@@ -3552,15 +3552,15 @@
     "cardno": "i-286"
   },
   {
-    "name": "gestalt snare",
+    "name": "i-286",
     "points": 444,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-weapons/rv-gestalt-snare.png",
-    "xws": "gestaltsnare",
-    "cardno": "i-289"
+    "image": "items/rove/xulc/xulc-weapons/rv-expulsion-gland.png",
+    "xws": "expulsiongland",
+    "cardno": "i-286"
   },
   {
-    "name": "i-289",
+    "name": "gestalt snare",
     "points": 445,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-gestalt-snare.png",
@@ -3568,15 +3568,15 @@
     "cardno": "i-289"
   },
   {
-    "name": "nervous membrane",
+    "name": "i-289",
     "points": 446,
     "expansion": "xulc",
-    "image": "items/rove/xulc/xulc-weapons/rv-nervous-membrane.png",
-    "xws": "nervousmembrane",
-    "cardno": "i-287"
+    "image": "items/rove/xulc/xulc-weapons/rv-gestalt-snare.png",
+    "xws": "gestaltsnare",
+    "cardno": "i-289"
   },
   {
-    "name": "i-287",
+    "name": "nervous membrane",
     "points": 447,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-nervous-membrane.png",
@@ -3584,8 +3584,16 @@
     "cardno": "i-287"
   },
   {
-    "name": "xulc weapons back",
+    "name": "i-287",
     "points": 448,
+    "expansion": "xulc",
+    "image": "items/rove/xulc/xulc-weapons/rv-nervous-membrane.png",
+    "xws": "nervousmembrane",
+    "cardno": "i-287"
+  },
+  {
+    "name": "xulc weapons back",
+    "points": 449,
     "expansion": "xulc",
     "image": "items/rove/xulc/xulc-weapons/rv-xulc-weapons-back.png",
     "xws": "xulcweaponsback",
