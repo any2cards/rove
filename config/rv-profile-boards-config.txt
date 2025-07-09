@@ -1,0 +1,51 @@
+# File Name                        Expansion   Class Type   Class Name   Card Name             Card #   Printflag
+rv-aster-front.png,                core,       apex,        xxxxx,       aster,                x-###,   2
+rv-aster-back.png,                 core,       apex,        xxxxx,       aster,                x-###,   2
+rv-canyon-temper-front.png,        core,       apex,        xxxxx,       canyon temper,        x-###,   2
+rv-canyon-temper-back.png,         core,       apex,        xxxxx,       canyon temper,        x-###,   2
+rv-conceptualist-front.png,        core,       prime,       xxxxx,       conceptualist,        x-###,   2
+rv-conceptualist-back.png,         core,       prime,       xxxxx,       conceptualist,        x-###,   2
+rv-dune-dancer-front.png,          core,       base,        xxxxx,       dune dancer,          x-###,   2
+rv-dune-dancer-back.png,           core,       base,        xxxxx,       dune dancer,          x-###,   2
+rv-flash-front.png,                core,       base,        xxxxx,       flash,                x-###,   2
+rv-flash-back.png,                 core,       base,        xxxxx,       flash,                x-###,   2
+rv-helion-front.png,               core,       prime,       xxxxx,       helion,               x-###,   2
+rv-helion-back.png,                core,       prime,       xxxxx,       helion,               x-###,   2
+rv-invisible-hand-front.png,       core,       apex,        xxxxx,       invisible hand,       x-###,   2
+rv-invisible-hand-back.png,        core,       apex,        xxxxx,       invisible hand,       x-###,   2
+rv-maximist-front.png,             core,       apex,        xxxxx,       maximist,             x-###,   2
+rv-maximist-back.png,              core,       apex,        xxxxx,       maximist,             x-###,   2
+rv-nocturne-hoarfrost-front.png,   core,       apex,        xxxxx,       nocturne hoarfrost,   x-###,   2
+rv-nocturne-hoarfrost-back.png,    core,       apex,        xxxxx,       nocturne hoarfrost,   x-###,   2
+rv-ridge-striker-front.png,        core,       prime,       xxxxx,       ridge striker,        x-###,   2
+rv-ridge-striker-back.png,         core,       prime,       xxxxx,       ridge striker,        x-###,   2
+rv-shadow-piercer-front.png,       core,       base,        xxxxx,       shadow piercer,       x-###,   2
+rv-shadow-piercer-back.png,        core,       base,        xxxxx,       shadow piercer,       x-###,   2
+rv-sophist-front.png,              core,       base,        xxxxx,       sophist,              x-###,   2
+rv-sophist-back.png,               core,       base,        xxxxx,       sophist,              x-###,   2
+rv-toll-bearer-front.png,          core,       prime,       xxxxx,       toll bearer,          x-###,   2
+rv-toll-bearer-back.png,           core,       prime,       xxxxx,       toll bearer,          x-###,   2
+rv-true-scale-front.png,           core,       base,        xxxxx,       true scale,           x-###,   2
+rv-true-scale-back.png,            core,       base,        xxxxx,       true scale,           x-###,   2
+rv-umbrul-howl-front.png,          core,       prime,       xxxxx,       umbral howl,          x-###,   2
+rv-umbrul-howl-back.png,           core,       prime,       xxxxx,       umbral howl,          x-###,   2
+rv-essentialist-front.png,         xulc,       prime,       xxxxx,       essentialist,         x-###,   2
+rv-essentialist-back.png,          xulc,       prime,       xxxxx,       essentialist,         x-###,   2
+rv-fierce-ransomer-front.png,      xulc,       prime,       xxxxx,       fierce ransomer,      x-###,   2
+rv-fierce-ransomer-back.png,       xulc,       prime,       xxxxx,       fierce ransomer,      x-###,   2
+rv-fountain-caller-front.png,      xulc,       prime,       xxxxx,       fountain caller,      x-###,   2
+rv-fountain-caller-back.png,       xulc,       prime,       xxxxx,       fountain caller,      x-###,   2
+rv-kataphatist-front.png,          xulc,       apex,        xxxxx,       kataphatist,          x-###,   2
+rv-kataphatist-back.png,           xulc,       apex,        xxxxx,       kataphatist,          x-###,   2
+rv-keening-bolt-front.png,         xulc,       prime,       xxxxx,       keening bolt,         x-###,   2
+rv-keening-bolt-back.png,          xulc,       prime,       xxxxx,       keening bolt,         x-###,   2
+rv-mistral-front.png,              xulc,       prime,       xxxxx,       mistral,              x-###,   2
+rv-mistral-back.png,               xulc,       prime,       xxxxx,       mistral,              x-###,   2
+rv-tempest-front.png,              xulc,       apex,        xxxxx,       tempest,              x-###,   2
+rv-tempest-back.png,               xulc,       apex,        xxxxx,       tempest,              x-###,   2
+rv-vesper-sharpshot-front.png,     xulc,       apex,        xxxxx,       vesper sharpshot,     x-###,   2
+rv-vesper-sharpshot-back.png,      xulc,       apex,        xxxxx,       vesper sharpshot,     x-###,   2
+rv-wellspring-ewer-front.png,      xulc,       apex,        xxxxx,       wellspring ewer,      x-###,   2
+rv-wellspring-ewer-back.png,       xulc,       apex,        xxxxx,       wellspring ewer,      x-###,   2
+rv-zero-sum-front.png,             xulc,       apex,        xxxxx,       zero sum,             x-###,   2
+rv-zero-sum-back.png,              xulc,       apex,        xxxxx,       zero sum,             x-###,   2
