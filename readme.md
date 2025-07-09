@@ -23,11 +23,7 @@ This repository contains data and images for the following games and components:
 - profile-boards
 - traits
 
-There are four top-level directories; 'config', `data` , `images` , and `xwc`.
-
-### config
-
-The `config` folder contains all configuration files used to generate the RAV data in JSON format.
+There are three top-level directories; `data` , `images` , and `xwc`.
 
 ### data
 
