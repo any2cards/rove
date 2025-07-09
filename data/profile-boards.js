@@ -256,7 +256,7 @@
     "cardno": "x-###"
   },
   {
-    "name": "fierce-ransomer",
+    "name": "fierce ransomer",
     "points": 32,
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-fierce-ransomer-front.png",
@@ -264,7 +264,7 @@
     "cardno": "x-###"
   },
   {
-    "name": "fierce-ransomer",
+    "name": "fierce ransomer",
     "points": 33,
     "expansion": "xulc",
     "image": "profile-boards/rove/xulc/prime/rv-fierce-ransomer-back.png",
