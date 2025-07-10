@@ -1088,7 +1088,7 @@
     "assetno": "c-###"
   },
   {
-    "name": "hungering cold",
+    "name": "hungering cold:",
     "points": 136,
     "expansion": "xulc",
     "image": "traits/rove/xulc/apex/vesper-sharpshot/rv-hungering-cold.png",
