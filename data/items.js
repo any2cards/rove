@@ -1260,7 +1260,7 @@
     "points": 157,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-front.png",
-    "xws": "glyphautonomos:vertex",
+    "xws": "glyphautonomosvertex",
     "assetno": "i-221"
   },
   {
@@ -1268,7 +1268,7 @@
     "points": 158,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-front.png",
-    "xws": "glyphautonomos:vertex",
+    "xws": "glyphautonomosvertex",
     "assetno": "i-221"
   },
   {
@@ -1276,7 +1276,7 @@
     "points": 159,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-back.png",
-    "xws": "glyphautonomos:vertex",
+    "xws": "glyphautonomosvertex",
     "assetno": "i-221"
   },
   {
@@ -1284,7 +1284,7 @@
     "points": 160,
     "expansion": "core",
     "image": "items/rove/core/merchant-level-2-consumables/rv-glyph-autonomos-vertex-back.png",
-    "xws": "glyphautonomos:vertex",
+    "xws": "glyphautonomosvertex",
     "assetno": "i-221"
   },
   {

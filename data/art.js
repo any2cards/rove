@@ -2752,11 +2752,11 @@
     "assetno": "x-###"
   },
   {
-    "name": "fountain caller resplend3nt ardorok standee",
+    "name": "fountain caller resplendent ardorok standee",
     "points": 344,
     "expansion": "xulc",
     "image": "art/rove/xulc/standees/summons/rv-fountain-caller-resplendent-ardorok-standee-front.png",
-    "xws": "fountaincallerresplend3ntardorokstandee",
+    "xws": "fountaincallerresplendentardorokstandee",
     "assetno": "x-###"
   },
   {
@@ -2764,7 +2764,7 @@
     "points": 345,
     "expansion": "xulc",
     "image": "art/rove/xulc/standees/summons/rv-fountain-caller-resplendent-ardorok-standee-front.png",
-    "xws": "fountaincallerresplend3ntardorokstandee",
+    "xws": "fountaincallerresplendentardorokstandee",
     "assetno": "x-###"
   },
   {
