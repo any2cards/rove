@@ -1,7 +1,8 @@
 var expansion_conversion = {
-	"co": "core",
-	"xu": "xulc",
-	"gm": "game",
+	"bs": "base",
+	"pr": "prime",
+	"ap": "apex",
+	"ot": "other",
 };
 
 const getExpFromInputId = (input_id) => {

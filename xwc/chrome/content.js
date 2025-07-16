@@ -9,9 +9,10 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"co": "core",
-	"xu": "xulc",
-	"gm": "game",
+	"bs": "base",
+	"pr": "prime",
+	"ap": "apex",
+	"ot": "other",
 };
 
 var expansion_card_type = {}
@@ -176,24 +177,31 @@ function loadFromStorage() {
 	var extdefault = {
 		"ag": true,
 		"rv": true,
-		"co": true,
-		"co-abilities": true,
-		"co-allies": true,
-		"co-art": true,
-		"co-classes": true,
-		"co-items": true,
-		"co-profile-boards": true,
-		"co-traits": true,
-		"xu": true,
-		"xu-abilities": true,
-		"xu-allies": true,
-		"xu-art": true,
-		"xu-classes": true,
-		"xu-items": true,
-		"xu-profile-boards": true,
-		"xu-traits": true,
-		"gm": true,
-		"gm-art": true
+		"bs": true,
+		"bs-abilities": true,
+		"bs-allies": true,
+		"bs-art": true,
+		"bs-classes": true,
+		"bs-items": true,
+		"bs-profile-boards": true,
+		"bs-traits": true,
+		"pr": true,
+		"pr-abilities": true,
+		"pr-art": true,
+		"pr-classes": true,
+		"pr-profile-boards": true,
+		"pr-traits": true,
+		"ap": true,
+		"ap-abilities": true,
+		"ap-art": true,
+		"ap-classes": true,
+		"ap-profile-boards": true,
+		"ap-traits": true,
+		"ot": true,
+		"ot-art": true,
+		"ot-classes": true,
+		"ot-items": true,
+		"ot-traits": true
 	}
 
 	chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {
