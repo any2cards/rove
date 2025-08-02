@@ -12,6 +12,8 @@
 	"content_scripts": [{
 		"matches": [
 			"*://localhost/*",
+			"*://*.addaxgames.com/*",
+			"*://*.roveassistant.com/*",
 			"*://*.boardgamegeek.com/*",
 			"*://any2cards.github.io/rove/*"
 		],
