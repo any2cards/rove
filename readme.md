@@ -2,6 +2,8 @@
 
 An easy-to-use collection of data and images from [Rove](http://www.addaxgames.com/rove) by [Addax Games](http://www.addaxgames.com/) - Developer: **Motti Eisenbach, Tyvan Grossi, et. al.**.
 
+If you have any questions, concerns, comments, etc., please feel free to reach out to [Addax Games] (customerservice@addaxgames.com)
+
 ## Asset LICENSE Terms
 
 I have entered into a personal license agreement with Addax Games, which has provided me access to the digital assets contained within this GitHub repository. These assets are used to power various asset viewer extensions for Chrome and Firefox, as well as to provide PBF functionality. No other individual, entity, or corporation is permitted to use and/or re-use the assets within this repository for any other purpose.
