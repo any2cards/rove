@@ -2,7 +2,7 @@
 
 An easy-to-use collection of data and images from [Rove](http://www.addaxgames.com/rove) by [Addax Games](http://www.addaxgames.com/) - Developer: **Motti Eisenbach, Tyvan Grossi, et. al.**.
 
-If you have any questions, concerns, comments, etc., please feel free to reach out to [Addax Games](customerservice@addaxgames.com)
+If you have any questions, concerns, comments, etc., please feel free to reach out to **Addax Games]** via E-mail: customerservice@addaxgames.com
 
 ## Asset LICENSE Terms
 
