@@ -57,7 +57,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [RAV](PLACE URL HERE) (Chrome Extension)
+- [RAV](https://chromewebstore.google.com/detail/rove-asset-viewer/beknkfencaiiihhhnopgdddkmbhpgmdd) (Chrome Extension)
 
 ## Versioning
 
