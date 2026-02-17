@@ -1448,8 +1448,16 @@
     "assetno": "x-###"
   },
   {
-    "name": "mobile dune dancer",
+    "name": "game the continent of lalos",
     "points": 181,
+    "expansion": "other",
+    "image": "art/rove/other/pictures/game/rv-game-the-continent-of-lalos.png",
+    "xws": "gamethecontinentoflalos",
+    "assetno": "x-###"
+  },
+  {
+    "name": "mobile dune dancer",
+    "points": 182,
     "expansion": "other",
     "image": "art/rove/other/pictures/mobile/rv-mobile-dune-dancer.png",
     "xws": "mobiledunedancer",
@@ -1457,7 +1465,7 @@
   },
   {
     "name": "mobile flash",
-    "points": 182,
+    "points": 183,
     "expansion": "other",
     "image": "art/rove/other/pictures/mobile/rv-mobile-flash.png",
     "xws": "mobileflash",
@@ -1465,7 +1473,7 @@
   },
   {
     "name": "mobile shadow piercer",
-    "points": 183,
+    "points": 184,
     "expansion": "other",
     "image": "art/rove/other/pictures/mobile/rv-mobile-shadow-piercer.png",
     "xws": "mobileshadowpiercer",
@@ -1473,7 +1481,7 @@
   },
   {
     "name": "mobile sophist",
-    "points": 184,
+    "points": 185,
     "expansion": "other",
     "image": "art/rove/other/pictures/mobile/rv-mobile-sophist.png",
     "xws": "mobilesophist",
@@ -1481,7 +1489,7 @@
   },
   {
     "name": "mobile true scale",
-    "points": 185,
+    "points": 186,
     "expansion": "other",
     "image": "art/rove/other/pictures/mobile/rv-mobile-true-scale.png",
     "xws": "mobiletruescale",
@@ -1489,7 +1497,7 @@
   },
   {
     "name": "poster dune dancer",
-    "points": 186,
+    "points": 187,
     "expansion": "other",
     "image": "art/rove/other/pictures/poster/rv-poster-dune-dancer.png",
     "xws": "posterdunedancer",
@@ -1497,7 +1505,7 @@
   },
   {
     "name": "poster flash",
-    "points": 187,
+    "points": 188,
     "expansion": "other",
     "image": "art/rove/other/pictures/poster/rv-poster-flash.png",
     "xws": "posterflash",
@@ -1505,7 +1513,7 @@
   },
   {
     "name": "poster shadow piercer",
-    "points": 188,
+    "points": 189,
     "expansion": "other",
     "image": "art/rove/other/pictures/poster/rv-poster-shadow-piercer.png",
     "xws": "postershadowpiercer",
@@ -1513,7 +1521,7 @@
   },
   {
     "name": "poster sophist",
-    "points": 189,
+    "points": 190,
     "expansion": "other",
     "image": "art/rove/other/pictures/poster/rv-poster-sophist.png",
     "xws": "postersophist",
@@ -1521,7 +1529,7 @@
   },
   {
     "name": "poster true scale",
-    "points": 190,
+    "points": 191,
     "expansion": "other",
     "image": "art/rove/other/pictures/poster/rv-poster-true-scale.png",
     "xws": "postertruescale",
@@ -1529,7 +1537,7 @@
   },
   {
     "name": "aura",
-    "points": 191,
+    "points": 192,
     "expansion": "other",
     "image": "art/rove/other/tokens/ether-tiles/rv-aura.png",
     "xws": "aura",
@@ -1537,7 +1545,7 @@
   },
   {
     "name": "everbloom",
-    "points": 192,
+    "points": 193,
     "expansion": "other",
     "image": "art/rove/other/tokens/ether-tiles/rv-everbloom.png",
     "xws": "everbloom",
@@ -1545,7 +1553,7 @@
   },
   {
     "name": "miasma",
-    "points": 193,
+    "points": 194,
     "expansion": "other",
     "image": "art/rove/other/tokens/ether-tiles/rv-miasma.png",
     "xws": "miasma",
@@ -1553,7 +1561,7 @@
   },
   {
     "name": "snapfrost",
-    "points": 194,
+    "points": 195,
     "expansion": "other",
     "image": "art/rove/other/tokens/ether-tiles/rv-snapfrost.png",
     "xws": "snapfrost",
@@ -1561,7 +1569,7 @@
   },
   {
     "name": "wildfire",
-    "points": 195,
+    "points": 196,
     "expansion": "other",
     "image": "art/rove/other/tokens/ether-tiles/rv-wildfire.png",
     "xws": "wildfire",
@@ -1569,7 +1577,7 @@
   },
   {
     "name": "windscreen",
-    "points": 196,
+    "points": 197,
     "expansion": "other",
     "image": "art/rove/other/tokens/ether-tiles/rv-windscreen.png",
     "xws": "windscreen",
@@ -1577,7 +1585,7 @@
   },
   {
     "name": "10 damage",
-    "points": 197,
+    "points": 198,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-10-damage.png",
     "xws": "10damage",
@@ -1585,7 +1593,7 @@
   },
   {
     "name": "1 damage",
-    "points": 198,
+    "points": 199,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-1-damage.png",
     "xws": "1damage",
@@ -1593,7 +1601,7 @@
   },
   {
     "name": "3 damage",
-    "points": 199,
+    "points": 200,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-3-damage.png",
     "xws": "3damage",
@@ -1601,7 +1609,7 @@
   },
   {
     "name": "5 damage",
-    "points": 200,
+    "points": 201,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-5-damage.png",
     "xws": "5damage",
@@ -1609,7 +1617,7 @@
   },
   {
     "name": "adversary ability",
-    "points": 201,
+    "points": 202,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-adversary-ability.png",
     "xws": "adversaryability",
@@ -1617,7 +1625,7 @@
   },
   {
     "name": "defense",
-    "points": 202,
+    "points": 203,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-defense.png",
     "xws": "defense",
@@ -1625,7 +1633,7 @@
   },
   {
     "name": "hoard",
-    "points": 203,
+    "points": 204,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-hoard.png",
     "xws": "hoard",
@@ -1633,7 +1641,7 @@
   },
   {
     "name": "large base adapter",
-    "points": 204,
+    "points": 205,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-large-base-adapter.png",
     "xws": "largebaseadapter",
@@ -1641,7 +1649,7 @@
   },
   {
     "name": "monstrous growth",
-    "points": 205,
+    "points": 206,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-monstrous-growth.png",
     "xws": "monstrousgrowth",
@@ -1649,7 +1657,7 @@
   },
   {
     "name": "nektari hive",
-    "points": 206,
+    "points": 207,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-nektari-hive.png",
     "xws": "nektarihive",
@@ -1657,7 +1665,7 @@
   },
   {
     "name": "reaction",
-    "points": 207,
+    "points": 208,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-reaction.png",
     "xws": "reaction",
@@ -1665,7 +1673,7 @@
   },
   {
     "name": "treasure chest",
-    "points": 208,
+    "points": 209,
     "expansion": "other",
     "image": "art/rove/other/tokens/other-tiles/rv-treasure-chest.png",
     "xws": "treasurechest",
@@ -1673,7 +1681,7 @@
   },
   {
     "name": "adversary",
-    "points": 209,
+    "points": 210,
     "expansion": "other",
     "image": "art/rove/other/tokens/trap-tiles/rv-adversary.png",
     "xws": "adversary",
@@ -1681,7 +1689,7 @@
   },
   {
     "name": "bursting bell",
-    "points": 210,
+    "points": 211,
     "expansion": "other",
     "image": "art/rove/other/tokens/trap-tiles/rv-bursting-bell.png",
     "xws": "burstingbell",
@@ -1689,7 +1697,7 @@
   },
   {
     "name": "crumbling column",
-    "points": 211,
+    "points": 212,
     "expansion": "other",
     "image": "art/rove/other/tokens/trap-tiles/rv-crumbling-column.png",
     "xws": "crumblingcolumn",
@@ -1697,7 +1705,7 @@
   },
   {
     "name": "hatchery",
-    "points": 212,
+    "points": 213,
     "expansion": "other",
     "image": "art/rove/other/tokens/trap-tiles/rv-hatchery.png",
     "xws": "hatchery",
@@ -1705,7 +1713,7 @@
   },
   {
     "name": "magic",
-    "points": 213,
+    "points": 214,
     "expansion": "other",
     "image": "art/rove/other/tokens/trap-tiles/rv-magic.png",
     "xws": "magic",
@@ -1713,7 +1721,7 @@
   },
   {
     "name": "armored xulc",
-    "points": 214,
+    "points": 215,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-armored-xulc-standee-front.png",
     "xws": "armoredxulc",
@@ -1721,7 +1729,7 @@
   },
   {
     "name": "cleaving xulc",
-    "points": 215,
+    "points": 216,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-cleaving-xulc-standee-front.png",
     "xws": "cleavingxulc",
@@ -1729,7 +1737,7 @@
   },
   {
     "name": "flying xulc",
-    "points": 216,
+    "points": 217,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-flying-xulc-standee-front.png",
     "xws": "flyingxulc",
@@ -1737,7 +1745,7 @@
   },
   {
     "name": "hastadilling",
-    "points": 217,
+    "points": 218,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-hastadilling-standee-front.png",
     "xws": "hastadilling",
@@ -1745,7 +1753,7 @@
   },
   {
     "name": "hastadilling core",
-    "points": 218,
+    "points": 219,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-hastadilling-standee-front.png",
     "xws": "hastadillingcore",
@@ -1753,7 +1761,7 @@
   },
   {
     "name": "hastadilling headless",
-    "points": 219,
+    "points": 220,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-hastadilling-standee-front.png",
     "xws": "hastadillingheadless",
@@ -1761,7 +1769,7 @@
   },
   {
     "name": "head",
-    "points": 220,
+    "points": 221,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-head-standee-front.png",
     "xws": "head",
@@ -1769,7 +1777,7 @@
   },
   {
     "name": "hunter",
-    "points": 221,
+    "points": 222,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-hunter-standee-front.png",
     "xws": "hunter",
@@ -1777,7 +1785,7 @@
   },
   {
     "name": "nidus",
-    "points": 222,
+    "points": 223,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-nidus-standee-front.png",
     "xws": "nidus",
@@ -1785,7 +1793,7 @@
   },
   {
     "name": "colony",
-    "points": 223,
+    "points": 224,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-nidus-standee-front.png",
     "xws": "colony",
@@ -1793,7 +1801,7 @@
   },
   {
     "name": "prime xulc",
-    "points": 224,
+    "points": 225,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-prime-xulc-standee-front.png",
     "xws": "primexulc",
@@ -1801,7 +1809,7 @@
   },
   {
     "name": "prime xulc brood matron",
-    "points": 225,
+    "points": 226,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-prime-xulc-standee-front.png",
     "xws": "primexulcbroodmatron",
@@ -1809,7 +1817,7 @@
   },
   {
     "name": "prime xulc deliverer",
-    "points": 226,
+    "points": 227,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-prime-xulc-standee-front.png",
     "xws": "primexulcdeliverer",
@@ -1817,7 +1825,7 @@
   },
   {
     "name": "prime xulc dominator",
-    "points": 227,
+    "points": 228,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-prime-xulc-standee-front.png",
     "xws": "primexulcdominator",
@@ -1825,7 +1833,7 @@
   },
   {
     "name": "regenerator",
-    "points": 228,
+    "points": 229,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-regenerator-standee-front.png",
     "xws": "regenerator",
@@ -1833,7 +1841,7 @@
   },
   {
     "name": "stolen urn",
-    "points": 229,
+    "points": 230,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-stolen-urn-standee-front.png",
     "xws": "stolenurn",
@@ -1841,7 +1849,7 @@
   },
   {
     "name": "undercarriage",
-    "points": 230,
+    "points": 231,
     "expansion": "other",
     "image": "art/rove/other/xulc/standees/adversaries/rv-undercarriage-standee-front.png",
     "xws": "undercarriage",
@@ -1849,7 +1857,7 @@
   },
   {
     "name": "conceptualist standee",
-    "points": 231,
+    "points": 232,
     "expansion": "prime",
     "image": "art/rove/prime/core/standees/classes/rv-conceptualist-standee-front.png",
     "xws": "conceptualiststandee",
@@ -1857,7 +1865,7 @@
   },
   {
     "name": "helion standee",
-    "points": 232,
+    "points": 233,
     "expansion": "prime",
     "image": "art/rove/prime/core/standees/classes/rv-helion-standee-front.png",
     "xws": "helionstandee",
@@ -1865,7 +1873,7 @@
   },
   {
     "name": "ridge striker standee",
-    "points": 233,
+    "points": 234,
     "expansion": "prime",
     "image": "art/rove/prime/core/standees/classes/rv-ridge-striker-standee-front.png",
     "xws": "ridgestrikerstandee",
@@ -1873,7 +1881,7 @@
   },
   {
     "name": "toll bearer standee",
-    "points": 234,
+    "points": 235,
     "expansion": "prime",
     "image": "art/rove/prime/core/standees/classes/rv-toll-bearer-standee-front.png",
     "xws": "tollbearerstandee",
@@ -1881,7 +1889,7 @@
   },
   {
     "name": "umbral howl standee",
-    "points": 235,
+    "points": 236,
     "expansion": "prime",
     "image": "art/rove/prime/core/standees/classes/rv-umbral-howl-standee-front.png",
     "xws": "umbralhowlstandee",
@@ -1889,7 +1897,7 @@
   },
   {
     "name": "ridge striker adamant ardorok standee",
-    "points": 236,
+    "points": 237,
     "expansion": "prime",
     "image": "art/rove/prime/core/standees/summons/rv-ridge-striker-adamant-ardorok-standee-front.png",
     "xws": "ridgestrikeradamantardorokstandee",
@@ -1897,7 +1905,7 @@
   },
   {
     "name": "conceptualist aura",
-    "points": 237,
+    "points": 238,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-conceptualist-aura.png",
     "xws": "conceptualistaura",
@@ -1905,7 +1913,7 @@
   },
   {
     "name": "conceptualist luminescent quartic",
-    "points": 238,
+    "points": 239,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-conceptualist-luminescent-quartic-front.png",
     "xws": "conceptualistluminescentquartic",
@@ -1913,7 +1921,7 @@
   },
   {
     "name": "conceptualist luminescent quartic",
-    "points": 239,
+    "points": 240,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-conceptualist-luminescent-quartic-back.png",
     "xws": "conceptualistluminescentquartic",
@@ -1921,7 +1929,7 @@
   },
   {
     "name": "conceptualist radiant spinaerios",
-    "points": 240,
+    "points": 241,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-conceptualist-radiant-spinaerios-front.png",
     "xws": "conceptualistradiantspinaerios",
@@ -1929,7 +1937,7 @@
   },
   {
     "name": "conceptualist radiant spinaerios",
-    "points": 241,
+    "points": 242,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-conceptualist-radiant-spinaerios-back.png",
     "xws": "conceptualistradiantspinaerios",
@@ -1937,7 +1945,7 @@
   },
   {
     "name": "helion aura",
-    "points": 242,
+    "points": 243,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-helion-aura.png",
     "xws": "helionaura",
@@ -1945,7 +1953,7 @@
   },
   {
     "name": "helion miasma",
-    "points": 243,
+    "points": 244,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-helion-miasma.png",
     "xws": "helionmiasma",
@@ -1953,7 +1961,7 @@
   },
   {
     "name": "helion raging inferno",
-    "points": 244,
+    "points": 245,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-helion-raging-inferno.png",
     "xws": "helionraginginferno",
@@ -1961,7 +1969,7 @@
   },
   {
     "name": "ridge striker aura",
-    "points": 245,
+    "points": 246,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-ridge-striker-aura.png",
     "xws": "ridgestrikeraura",
@@ -1969,7 +1977,7 @@
   },
   {
     "name": "ridge striker miasma",
-    "points": 246,
+    "points": 247,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-ridge-striker-miasma.png",
     "xws": "ridgestrikermiasma",
@@ -1977,7 +1985,7 @@
   },
   {
     "name": "toll bearer fortify",
-    "points": 247,
+    "points": 248,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-toll-bearer-fortify.png",
     "xws": "tollbearerfortify",
@@ -1985,7 +1993,7 @@
   },
   {
     "name": "toll bearer miasma",
-    "points": 248,
+    "points": 249,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-toll-bearer-miasma.png",
     "xws": "tollbearermiasma",
@@ -1993,7 +2001,7 @@
   },
   {
     "name": "umbral howl aura",
-    "points": 249,
+    "points": 250,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-umbral-howl-aura.png",
     "xws": "umbralhowlaura",
@@ -2001,7 +2009,7 @@
   },
   {
     "name": "umbral howl blood lust",
-    "points": 250,
+    "points": 251,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-umbral-howl-blood-lust-front.png",
     "xws": "umbralhowlbloodlust",
@@ -2009,7 +2017,7 @@
   },
   {
     "name": "umbral howl blood lust",
-    "points": 251,
+    "points": 252,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-umbral-howl-blood-lust-back.png",
     "xws": "umbralhowlbloodlust",
@@ -2017,7 +2025,7 @@
   },
   {
     "name": "umbral howl miasma",
-    "points": 252,
+    "points": 253,
     "expansion": "prime",
     "image": "art/rove/prime/core/tokens/classes/rv-umbral-howl-miasma.png",
     "xws": "umbralhowlmiasma",
@@ -2025,7 +2033,7 @@
   },
   {
     "name": "essentialist standee",
-    "points": 253,
+    "points": 254,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/classes/rv-essentialist-standee-front.png",
     "xws": "essentialiststandee",
@@ -2033,7 +2041,7 @@
   },
   {
     "name": "fierce ransomer standee",
-    "points": 254,
+    "points": 255,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/classes/rv-fierce-ransomer-standee-front.png",
     "xws": "fierceransomerstandee",
@@ -2041,7 +2049,7 @@
   },
   {
     "name": "fountain caller standee",
-    "points": 255,
+    "points": 256,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/classes/rv-fountain-caller-standee-front.png",
     "xws": "fountaincallerstandee",
@@ -2049,7 +2057,7 @@
   },
   {
     "name": "keening bolt standee",
-    "points": 256,
+    "points": 257,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/classes/rv-keening-bolt-standee-front.png",
     "xws": "keeningboltstandee",
@@ -2057,7 +2065,7 @@
   },
   {
     "name": "mistral standee",
-    "points": 257,
+    "points": 258,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/classes/rv-mistral-standee-front.png",
     "xws": "mistralstandee",
@@ -2065,7 +2073,7 @@
   },
   {
     "name": "fountain caller growing typhon standee",
-    "points": 258,
+    "points": 259,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/summons/rv-fountain-caller-growing-typhon-standee-front.png",
     "xws": "fountaincallergrowingtyphonstandee",
@@ -2073,7 +2081,7 @@
   },
   {
     "name": "fountain caller resplendent ardorok standee",
-    "points": 259,
+    "points": 260,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/standees/summons/rv-fountain-caller-resplendent-ardorok-standee-front.png",
     "xws": "fountaincallerresplendentardorokstandee",
@@ -2081,7 +2089,7 @@
   },
   {
     "name": "essentialist aura",
-    "points": 260,
+    "points": 261,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-aura.png",
     "xws": "essentialistaura",
@@ -2089,7 +2097,7 @@
   },
   {
     "name": "essentialist flip",
-    "points": 261,
+    "points": 262,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-flip-front.png",
     "xws": "essentialistflip",
@@ -2097,7 +2105,7 @@
   },
   {
     "name": "essentialist flip",
-    "points": 262,
+    "points": 263,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-flip-back.png",
     "xws": "essentialistflip",
@@ -2105,7 +2113,7 @@
   },
   {
     "name": "essentialist luminescent hyperbola",
-    "points": 263,
+    "points": 264,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-luminescent-hyperbola-front.png",
     "xws": "essentialistluminescenthyperbola",
@@ -2113,7 +2121,7 @@
   },
   {
     "name": "essentialist luminescent hyperbola",
-    "points": 264,
+    "points": 265,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-luminescent-hyperbola-back.png",
     "xws": "essentialistluminescenthyperbola",
@@ -2121,7 +2129,7 @@
   },
   {
     "name": "essentialist prestidigitation",
-    "points": 265,
+    "points": 266,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-prestidigitation-front.png",
     "xws": "essentialistprestidigitation",
@@ -2129,7 +2137,7 @@
   },
   {
     "name": "essentialist prestidigitation",
-    "points": 266,
+    "points": 267,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-essentialist-prestidigitation-back.png",
     "xws": "essentialistprestidigitation",
@@ -2137,7 +2145,7 @@
   },
   {
     "name": "fierce ransomer miasma",
-    "points": 267,
+    "points": 268,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-fierce-ransomer-miasma.png",
     "xws": "fierceransomermiasma",
@@ -2145,7 +2153,7 @@
   },
   {
     "name": "fountain caller aura",
-    "points": 268,
+    "points": 269,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-fountain-caller-aura.png",
     "xws": "fountaincalleraura",
@@ -2153,7 +2161,7 @@
   },
   {
     "name": "fountain caller miasma",
-    "points": 269,
+    "points": 270,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-fountain-caller-miasma.png",
     "xws": "fountaincallermiasma",
@@ -2161,7 +2169,7 @@
   },
   {
     "name": "keening bolt aura",
-    "points": 270,
+    "points": 271,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-keening-bolt-aura.png",
     "xws": "keeningboltaura",
@@ -2169,7 +2177,7 @@
   },
   {
     "name": "keening bolt frozen soul",
-    "points": 271,
+    "points": 272,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-keening-bolt-frozen-soul.png",
     "xws": "keeningboltfrozensoul",
@@ -2177,7 +2185,7 @@
   },
   {
     "name": "keening bolt miasma",
-    "points": 272,
+    "points": 273,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-keening-bolt-miasma.png",
     "xws": "keeningboltmiasma",
@@ -2185,7 +2193,7 @@
   },
   {
     "name": "mistral aura",
-    "points": 273,
+    "points": 274,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-mistral-aura.png",
     "xws": "mistralaura",
@@ -2193,7 +2201,7 @@
   },
   {
     "name": "mistral miasma",
-    "points": 274,
+    "points": 275,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-mistral-miasma.png",
     "xws": "mistralmiasma",
@@ -2201,7 +2209,7 @@
   },
   {
     "name": "mistral trap",
-    "points": 275,
+    "points": 276,
     "expansion": "prime",
     "image": "art/rove/prime/xulc/tokens/classes/rv-mistral-trap.png",
     "xws": "mistraltrap",
